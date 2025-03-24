@@ -10,10 +10,10 @@ Select it as the current screensaver, and in settings choose your personal flavo
 written by the genius Johann Wolfgang Goethe (original in German).
 
 Examples:  
-![screenshot1](document/image/ScrSav01.jpg)  
+![screenshot1](document/image/haScrSav01.jpg)  
 
-![screenshot1a](document/image/ScrSav02.jpg)  
+![screenshot1a](document/image/haScrSav02.jpg)  
 
-![screenshot2](document/image/ScrSav03.jpg)  
+![screenshot2](document/image/haScrSav03.jpg)  
 
-![screenshotsa](document/image/ScrSav04.jpg)  
+![screenshotsa](document/image/haScrSav04.jpg)  
