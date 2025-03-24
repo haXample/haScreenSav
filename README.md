@@ -5,8 +5,8 @@
 #### Screensaver - Johann Wolfgang Goethe: Faust I+II Breviary
 
 Customize your screen and copy `haScreenSav.SCR` into the `c:\windows\system32` folder.    
-Select it as the current screensaver, and in settings choose your personal flavour.    
-*haScreenSav* will randomly extract excerpts form the famous FAUST tragedy  
+Select it as the current screensaver, and, in settings choose your personal flavour.    
+*haScreenSav* will randomly extract excerpts from the famous FAUST tragedy,  
 written by the genius Johann Wolfgang Goethe (original in German).
 
 Examples:  
