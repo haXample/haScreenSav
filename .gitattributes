@@ -1,4 +1,5 @@
-*.cpp linguist-language=C++
-*.FRT linguist-language=C++
-*.SCR linguist-language=C++
-*.h linguist-language=C++
+source/*.cpp linguist-language=C++
+source/*.h linguist-language=C++
+source/*.SCR linguist-generated
+source/*.FRT linguist-documentation
+document/** linguist-documentation
