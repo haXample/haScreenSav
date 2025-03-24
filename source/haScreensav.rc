@@ -1,0 +1,68 @@
+// haScreensav - Screensaver for windows 10, 11, ...
+// haScreensav.rc - C++ Developer source file.
+// (c)2025 by helmut altmann
+
+// This program is free software; you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation; either version 2 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program; see the file COPYING.  If not, write to
+// the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+// Boston, MA 02111-1307, USA.
+
+// Supporting the configuration dialog box
+// Most screen savers provide a configuration dialog box to let the user specify customization data
+//  such as unique colors, drawing speeds, line thickness, fonts, and so on.
+//  To support the configuration dialog box, the application must provide a dialog box template
+//  and must also support the ScreenSaverConfigureDialog function.
+//  Following is the dialog box template for the sample application.
+//
+#include "windows.h"
+#include "hascreensav.h"
+
+ID_BE_SEEING_YOU BITMAP "haScrBeSeeingYou.bmp" // Image for haScreensav menu dialog
+
+// Provide the application name and the inifile name in the .rc file. 
+// So that these names can be retrieved by the LoadString(,IDS_..,) function.
+STRINGTABLE
+BEGIN
+  IDS_APPNAME, "haScrSav"       // Needed to init settings
+  IDS_INIFILE, "haScrSav.ini"   // Phantom ini-file (.SCR handles it obscurely)
+END
+
+//DLG_SCRNSAVECONFIGURE DIALOG 6, 18, 164+32+15, 61 // Window position & SIze on screen (X,Y,Wdth,Hght)
+DLG_SCRNSAVECONFIGURE DIALOG 200, 200, 164+32+20+10, 100 // Window position & SIze on screen (X,Y,Wdth,Hght)
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "  haScreenSaver Setup"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    // Show a BMP bitmap at left side within the dialog menu 
+    CONTROL         ID_BE_SEEING_YOU, ID_BE_SEEING_YOU, "Static",
+                    SS_BITMAP | SS_CENTERIMAGE | SS_REALSIZEIMAGE,
+                    7, 9, 38, 36
+    // Define the dialog menu     ID              X              Y   Wdth Hght
+    GROUPBOX      "Redraw Speed", ID_GRPBOX,       0+32+20+12,    6, 100, 40
+    SCROLLBAR                     ID_SPEED,        5+32+20+10,   31,  89, 10
+    LTEXT         "Fast",         ID_TXTFAST,      6+32+20+10,   21,  20,  8
+    LTEXT         "Slow",         ID_TXTSLOW,     78+32+20+12,   21,  20,  8
+    PUSHBUTTON    "OK",           ID_OK,         117+32+20+10,   54,  40, 14
+    PUSHBUTTON    "Cancel",       ID_CANCEL,     117+32+20+10,   76,  40, 14
+    PUSHBUTTON    "Font Color",   ID_FONTCOLOR,  117+32+20+10,   10,  40, 14
+    PUSHBUTTON    "Font Size",    ID_FONTSIZE,   117+32+20+10,   32,  40, 14
+    RADIOBUTTON   "Time display", ID_TIMEDISPLAY   7,            50,  52, 14
+END
+
+//------------------------------------------------------------------------------
+
+
+
+                                               
+                                               
