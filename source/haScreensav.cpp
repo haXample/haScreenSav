@@ -1,631 +1,631 @@
 // haScreensav - Screensaver for windows 10, 11, ...
-// haScreensav.cpp - C++ Developer source file.
-// (c)2025 by helmut altmann
+// haScreensav.cpp - C++ Developer source	file.
+// (c)2025 by	helmut altmann
 
-// This program is free software; you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation; either version 2 of the License, or
-// (at your option) any later version.
+// This	program	is free	software;	you	can	redistribute it	and/or modify
+// it	under	the	terms	of the GNU General Public	License	as published by
+// the Free	Software Foundation; either	version	2	of the License,	or
+// (at your	option)	any	later	version.
 //
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
+// This	program	is distributed in	the	hope that	it will	be useful,
+// but WITHOUT ANY WARRANTY; without even	the	implied	warranty of
+// MERCHANTABILITY or	FITNESS	FOR	A	PARTICULAR PURPOSE.	 See the
+// GNU General Public	License	for	more details.
 //
-// You should have received a copy of the GNU General Public License
-// along with this program; see the file COPYING.  If not, write to
-// the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
-// Boston, MA 02111-1307, USA.
+// You should	have received	a	copy of	the	GNU	General	Public License
+// along with	this program;	see	the	file COPYING.	 If	not, write to
+// the Free	Software Foundation, Inc., 59	Temple Place - Suite 330,
+// Boston, MA	02111-1307,	USA.
 
-#include <sys\types.h> // For _open( , , S_IWRITE) needed for VC 2010
-#include <sys\stat.h>  // For filesize
-#include <fcntl.h>     // Console
+#include <sys\types.h> //	For	_open( , , S_IWRITE) needed	for	VC 2010
+#include <sys\stat.h>	 //	For	filesize
+#include <fcntl.h>		 //	Console
 #include <stdlib.h>
-#include <stdio.h>                        
-#include <io.h>                                                        
+#include <stdio.h>												
+#include <io.h>																												 
 #include <iostream>
 #include <conio.h>
 
-#include <shlwapi.h>  // Library shlwapi.lib for PathFileExistsA
-#include <commctrl.h> // Library Comctl32.lib
+#include <shlwapi.h>	// Library shlwapi.lib for PathFileExistsA
+#include <commctrl.h>	// Library Comctl32.lib
 #include <commdlg.h>
 #include <winuser.h>
 #include <time.h>
 
-#include <string.h>                                                 
-#include <string>     // sprintf, etc.
-#include <tchar.h>     
-#include <strsafe.h>  // <strsafe.h> must be included after <tchar.h>
+#include <string.h>																									
+#include <string>			// sprintf,	etc.
+#include <tchar.h>		 
+#include <strsafe.h>	// <strsafe.h> must	be included	after	<tchar.h>
 
 #include <windows.h>
 #include <scrnsave.h>
 
-#include <shlobj.h>		 // For browsing directory info
-#include <unknwn.h>		 // For browsing directory info
+#include <shlobj.h>		 //	For	browsing directory info
+#include <unknwn.h>		 //	For	browsing directory info
 
 #include "hascreensav.h"
 
-using namespace std;
+using	namespace	std;
 
-// Global variables
-char DebugBuf[2*MAX_PATH+1];             // Temporary buffer for formatted text
-int DebugbufSize = sizeof(DebugBuf);
-char* psz_DebugBuf = DebugBuf;
-TCHAR _tDebugBuf[2*MAX_PATH+1];          // Temp buffer for formatted UNICODE text
-int _tDebugbufSize = sizeof(_tDebugBuf);
+// Global	variables
+char DebugBuf[2*MAX_PATH+1];						 //	Temporary	buffer for formatted text
+int	DebugbufSize = sizeof(DebugBuf);
+char*	psz_DebugBuf = DebugBuf;
+TCHAR	_tDebugBuf[2*MAX_PATH+1];					 //	Temp buffer	for	formatted	UNICODE	text
+int	_tDebugbufSize = sizeof(_tDebugBuf);
 TCHAR* psz_tDebugBuf = _tDebugBuf;
 
 // IMPORTANT NOTE:
-// char* szhaScrFilename = "haFaust.frt"; will NOT work!
-// All files accessed by screen savers must be located outside "C:\Windows\System32".
-// For security reasons *.SCR may not access any files in "C:\Windows\System32"..
-// Example: Some private location that would work:
+// char* szhaScrFilename = "haFaust.frt";	will NOT work!
+// All files accessed	by screen	savers must	be located outside "C:\Windows\System32".
+// For security	reasons	*.SCR	may	not	access any files in	"C:\Windows\System32"..
+// Example:	Some private location	that would work:
 char szhaScrFilename[MAX_PATH+1] = "C:\\@ArcDrv\\Windows\\System32\\haFaust.frt";
-char* pszhaScrFilename = szhaScrFilename;
-// To ease installation "hascreenSav.SCR" has the necessary file contents integrated.  
+char*	pszhaScrFilename = szhaScrFilename;
+// To	ease installation	"hascreenSav.SCR"	has	the	necessary	file contents	integrated.	 
 // ..see haFaust.cpp
 
-CHAR* pszIniFileKeySpeed = "REDRAWSPEED";    // .ini: Name of the key belonging to section             
-CHAR* pszIniFileKeyColor = "TEXTCOLOR";      // .ini: Name of the key belonging to section             
-CHAR* pszIniFileKeyFSize = "FONTSIZE";       // .ini: Name of the key belonging to section             
-CHAR* pszIniFileKeyTime  = "TIMEFLAG";       // .ini: Name of the key belonging to section             
-CHAR szTemp[20];                             // temporary array of characters  
+CHAR*	pszIniFileKeySpeed = "REDRAWSPEED";		 //	.ini:	Name of	the	key	belonging	to section						 
+CHAR*	pszIniFileKeyColor = "TEXTCOLOR";			 //	.ini:	Name of	the	key	belonging	to section						 
+CHAR*	pszIniFileKeyFSize = "FONTSIZE";			 //	.ini:	Name of	the	key	belonging	to section						 
+CHAR*	pszIniFileKeyTime	 = "TIMEFLAG";			 //	.ini:	Name of	the	key	belonging	to section						 
+CHAR szTemp[20];														 //	temporary	array	of characters	 
 
-CHAR* textSizeExample = "ABC abc 123\r\nöäü ,:' !?.";
+CHAR*	textSizeExample	=	"ABC abc 123\r\nöäü	,:'	!?.";
 
-int randomX, randomY; // Horizontal and Vertical position
-int _i, _j, _k;
-int timeFlag = FALSE;
+int	randomX, randomY;	// Horizontal	and	Vertical position
+int	_i,	_j,	_k;
+int	timeFlag = FALSE;
 
-LONG lSpeed = DEFVEL; //, bytesrd;
+LONG lSpeed	=	DEFVEL;	//,	bytesrd;
 
-HRESULT hr;
-HWND hwnd;            // owner window
-HBRUSH hbrush;        // brush handle
-HFONT hFont, hFontTmp;
+HRESULT	hr;
+HWND hwnd;						// owner window
+HBRUSH hbrush;				// brush handle
+HFONT	hFont, hFontTmp;
 
-static HWND hSpeed;   // handle to speed scroll bar 
-static HWND hOK;      // handle to OK push button  
-static HDC  hdc;      // device-context handle  
-static HDC  hdcStr;   // device-context handle String 
-static HDC  hdcFont;  // device-context handle Font 
+static HWND	hSpeed;		// handle	to speed scroll	bar	
+static HWND	hOK;			// handle	to OK	push button	 
+static HDC	hdc;			// device-context	handle	
+static HDC	hdcStr;		// device-context	handle String	
+static HDC	hdcFont;	// device-context	handle Font	
 
-// typedef struct tagRECT {
-//   LONG left;
-//   LONG top;
-//   LONG right;
-//   LONG bottom;
-// } RECT, *PRECT, *NPRECT, *LPRECT;
-static RECT rc;       // RECT structure  
-static RECT rcStr;    // RECT structure for string to be displayed (drawn)
+// typedef struct	tagRECT	{
+//	 LONG	left;
+//	 LONG	top;
+//	 LONG	right;
+//	 LONG	bottom;
+// } RECT, *PRECT, *NPRECT,	*LPRECT;
+static RECT	rc;				// RECT	structure	 
+static RECT	rcStr;		// RECT	structure	for	string to	be displayed (drawn)
 
-static UINT uTimer1, uTimer2;   // timer identifier  
+static UINT	uTimer1, uTimer2;		// timer identifier	 
  
-HMONITOR monitor;     // Monitor geometrics
-MONITORINFO info;
-int monitor_width; 
-int monitor_height;
-int textHeight=300;
-int textWidth =300;
-int _xLeft, _yTop, _xRight, _yBottom; 
+HMONITOR monitor;			// Monitor geometrics
+MONITORINFO	info;
+int	monitor_width; 
+int	monitor_height;
+int	textHeight=300;
+int	textWidth	=300;
+int	_xLeft,	_yTop, _xRight,	_yBottom;	
 
-CHOOSECOLOR cc;                       // color palette dialog box structure 
-  										
-static DWORD rgbColor = _CYAN;        // initial color selection
-static COLORREF acrCustClr[16];       // array of custom colors 
-static int fontSize = _FONTSIZE;
+CHOOSECOLOR	cc;												// color palette dialog	box	structure	
+											
+static DWORD rgbColor	=	_CYAN;				// initial color selection
+static COLORREF	acrCustClr[16];				// array of	custom colors	
+static int fontSize	=	_FONTSIZE;
 
-// Extern variables and functions
-//ha//extern SYSTEMTIME stLocal;
+// Extern	variables	and	functions
+//ha//extern SYSTEMTIME	stLocal;
 
 extern char* pszString;
 extern char* pszTxtFilebuf;
 extern char* pszTxtbuf;
 
-extern void OpenTxtBuf();
-extern void errchk(char*, int);
-extern void OpenTxtFile(char*);
-extern void GetText();
-extern void GetDate();
+extern void	OpenTxtBuf();
+extern void	errchk(char*,	int);
+extern void	OpenTxtFile(char*);
+extern void	GetText();
+extern void	GetDate();
 
-// The following globals are already defined in scrnsave.lib
-// extern HINSTANCE hMainInstance;              // screen saver instance handle
-// extern HWND   hMainWindow;
-// extern BOOL   fChildPreview;
-// extern TCHAR  szName[TITLEBARNAMELEN];
-// extern TCHAR  szAppName[APPNAMEBUFFERLEN];   // .ini file section string
-// extern TCHAR  szIniFile[MAXFILELEN];         // .ini file name
-// extern TCHAR  szScreenSaver[22];
-// extern TCHAR  szHelpFile[MAXFILELEN];
-// extern TCHAR  szNoHelpMemory[BUFFLEN];
-// extern UINT   MyHelpMessage;
+// The following globals are already defined in	scrnsave.lib
+// extern	HINSTANCE	hMainInstance;							// screen	saver	instance handle
+// extern	HWND	 hMainWindow;
+// extern	BOOL	 fChildPreview;
+// extern	TCHAR	 szName[TITLEBARNAMELEN];
+// extern	TCHAR	 szAppName[APPNAMEBUFFERLEN];		// .ini	file section string
+// extern	TCHAR	 szIniFile[MAXFILELEN];					// .ini	file name
+// extern	TCHAR	 szScreenSaver[22];
+// extern	TCHAR	 szHelpFile[MAXFILELEN];
+// extern	TCHAR	 szNoHelpMemory[BUFFLEN];
+// extern	UINT	 MyHelpMessage;
 
-// Forward declaration of functions included in this code module:
+// Forward declaration of	functions	included in	this code	module:
 
 
 //-----------------------------------------------------------------------------
 //
-//                        ScreenSaverProc
+//												ScreenSaverProc
 //
-// Handling Screen Savers
+// Handling	Screen Savers
 // 
-// LIBS= KERNEL32.LIB USER32.LIB SHELL32.LIB \
-//       GDI32.LIB COMCTL32.lib ADVAPI32.LIB scrnsave.lib
+// LIBS= KERNEL32.LIB	USER32.LIB SHELL32.LIB \
+//			 GDI32.LIB COMCTL32.lib	ADVAPI32.LIB scrnsave.lib
 // 
-// Following are some of the typical messages processed by "ScreenSaverProc".
-// Message        Meaning
-// WM_CREATE      Retrieve any initialization data from the Regedit.ini file.
-//                Set a timer for the screen saver window. 
-//                Perform any other required initialization.
-// WM_ERASEBKGND  Erase the screen saver window and prepare for subsequent drawing operations.
-// WM_TIMER       Perform drawing operations.
-// WM_DESTROY     Destroy the timers created when the application processed the WM_CREATE message.
-//                Perform any additional required cleanup.
+// Following are some	of the typical messages	processed	by "ScreenSaverProc".
+// Message				Meaning
+// WM_CREATE			Retrieve any initialization	data from	the	Regedit.ini	file.
+//								Set	a	timer	for	the	screen saver window. 
+//								Perform	any	other	required initialization.
+// WM_ERASEBKGND	Erase	the	screen saver window	and	prepare	for	subsequent drawing operations.
+// WM_TIMER				Perform	drawing	operations.
+// WM_DESTROY			Destroy	the	timers created when	the	application	processed	the	WM_CREATE	message.
+//								Perform	any	additional required	cleanup.
 // 
-// ScreenSaverProc passes unprocessed messages to the screen saver library
-//  by calling the DefScreenSaverProc function.
-//  The following table describes how this function processes various messages.
-// Message          Action
-// WM_SETCURSOR     Set the cursor to the null cursor, removing it from the screen.
-// WM_PAINT         Paint the screen background.
-// WM_LBUTTONDOWN   Terminate the screen saver.
-// WM_MBUTTONDOWN   Terminate the screen saver.
-// WM_RBUTTONDOWN   Terminate the screen saver.
-// WM_KEYDOWN       Terminate the screen saver.
-// WM_MOUSEMOVE     Terminate the screen saver.
-// WM_ACTIVATE      Terminate the screen saver if the wParam parameter is set to FALSE.
+// ScreenSaverProc passes	unprocessed	messages to	the	screen saver library
+//	by calling the DefScreenSaverProc	function.
+//	The	following	table	describes	how	this function	processes	various	messages.
+// Message					Action
+// WM_SETCURSOR			Set	the	cursor to	the	null cursor, removing	it from	the	screen.
+// WM_PAINT					Paint	the	screen background.
+// WM_LBUTTONDOWN		Terminate	the	screen saver.
+// WM_MBUTTONDOWN		Terminate	the	screen saver.
+// WM_RBUTTONDOWN		Terminate	the	screen saver.
+// WM_KEYDOWN				Terminate	the	screen saver.
+// WM_MOUSEMOVE			Terminate	the	screen saver.
+// WM_ACTIVATE			Terminate	the	screen saver if	the	wParam parameter is	set	to FALSE.
 // 
 // int LoadStringA(
-//   [in, optional] HINSTANCE hInstance,
-//   [in]           UINT      uID,          The identifier of the string to be loaded.
-//   [out]          LPSTR     lpBuffer,     The buffer to receive the string.
-//   [in]           int       cchBufferMax  The size of the buffer, in characters.
+//	 [in,	optional]	HINSTANCE	hInstance,
+//	 [in]						UINT			uID,					The	identifier of	the	string to	be loaded.
+//	 [out]					LPSTR			lpBuffer,			The	buffer to	receive	the	string.
+//	 [in]						int				cchBufferMax	The	size of	the	buffer,	in characters.
 // );
 //
-// UINT GetPrivateProfileInt(
-//   [in] LPCTSTR lpAppName,   The name of the section in the initialization file.
-//   [in] LPCTSTR lpKeyName,   The name of the key whose value is to be retrieved.
-//   [in] INT     nDefault,    The default value to return if key name cannot be found
-//   [in] LPCTSTR lpFileName   The name of the initialization file.
+// UINT	GetPrivateProfileInt(
+//	 [in]	LPCTSTR	lpAppName,	 The name	of the section in	the	initialization file.
+//	 [in]	LPCTSTR	lpKeyName,	 The name	of the key whose value is	to be	retrieved.
+//	 [in]	INT			nDefault,		 The default value to	return if	key	name cannot	be found
+//	 [in]	LPCTSTR	lpFileName	 The name	of the initialization	file.
 // )
 //
-LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
-                               WPARAM wParam, LPARAM lParam)
-  {
-  hdc = GetDC(hWnd);
-   
-  switch(message)
-    {
-    case WM_CREATE:
-      // Get monitor geometrics
-      monitor = MonitorFromWindow(hWnd, MONITOR_DEFAULTTONEAREST);
-      info.cbSize = sizeof(MONITORINFO);
-      GetMonitorInfo(monitor, &info);
-      monitor_width  = info.rcMonitor.right  - info.rcMonitor.left;
-      monitor_height = info.rcMonitor.bottom - info.rcMonitor.top;
+LRESULT	WINAPI ScreenSaverProc(HWND	hWnd,	UINT message,
+															 WPARAM	wParam,	LPARAM lParam)
+	{
+	hdc	=	GetDC(hWnd);
+	 
+	switch(message)
+		{
+		case WM_CREATE:
+			// Get monitor geometrics
+			monitor	=	MonitorFromWindow(hWnd,	MONITOR_DEFAULTTONEAREST);
+			info.cbSize	=	sizeof(MONITORINFO);
+			GetMonitorInfo(monitor,	&info);
+			monitor_width	 = info.rcMonitor.right	 - info.rcMonitor.left;
+			monitor_height = info.rcMonitor.bottom - info.rcMonitor.top;
 
-      // Retrieve the application name (=section) from the .rc file. 
-      // Adding error checking to verify LoadString success for both calls.
-      if (LoadString(hMainInstance, IDS_APPNAME, szAppName, 80 * sizeof(TCHAR)) == 0)
-        errchk("szAppName", ERROR_INVALID_PARAMETER);     
+			// Retrieve	the	application	name (=section)	from the .rc file. 
+			// Adding	error	checking to	verify LoadString	success	for	both calls.
+			if (LoadString(hMainInstance,	IDS_APPNAME, szAppName,	80 * sizeof(TCHAR))	== 0)
+				errchk("szAppName",	ERROR_INVALID_PARAMETER);			
  
-      // Retrieve the .ini (or registry) file name. 
-      if (LoadString(hMainInstance, IDS_INIFILE, szIniFile, MAXFILELEN * sizeof(TCHAR)) == 0)
-        errchk("szIniFile", ERROR_INVALID_PARAMETER);     
-      
-      // Retrieve any redraw speed data from the registry.  
-      lSpeed   = GetPrivateProfileInt(szAppName, pszIniFileKeySpeed, DEFVEL, szIniFile); 
-      rgbColor = GetPrivateProfileInt(szAppName, pszIniFileKeyColor, _CYAN, szIniFile); 
-      fontSize = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize, _FONTSIZE, szIniFile); 
-      timeFlag = GetPrivateProfileInt(szAppName, pszIniFileKeyTime,  FALSE, szIniFile); 
+			// Retrieve	the	.ini (or registry) file	name.	
+			if (LoadString(hMainInstance,	IDS_INIFILE, szIniFile,	MAXFILELEN * sizeof(TCHAR))	== 0)
+				errchk("szIniFile",	ERROR_INVALID_PARAMETER);			
+			
+			// Retrieve	any	redraw speed data	from the registry.	
+			lSpeed	 = GetPrivateProfileInt(szAppName, pszIniFileKeySpeed, DEFVEL, szIniFile); 
+			rgbColor = GetPrivateProfileInt(szAppName, pszIniFileKeyColor, _CYAN,	szIniFile);	
+			fontSize = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize, _FONTSIZE,	szIniFile);	
+			timeFlag = GetPrivateProfileInt(szAppName, pszIniFileKeyTime,	 FALSE,	szIniFile);	
 
-      // The timer interval is 1ms.
-      // Set a timer for the screen saver window using the 
-      // redraw rate (*1000ms = *1s) stored in Regedit.ini. 
-      uTimer1 = SetTimer(hWnd, IDT_TIMER1, lSpeed*1000, NULL); 
-      // Set a 30 seconds multi purpose timer  
-      uTimer2 = SetTimer(hWnd, IDT_TIMER2, 30*1000, NULL); 
-      GetDate();
-      OpenTxtBuf();
-//ha//      OpenTxtFile(pszhaScrFilename);
-      break;
+			// The timer interval	is 1ms.
+			// Set a timer for the screen	saver	window using the 
+			// redraw	rate (*1000ms	=	*1s) stored	in Regedit.ini.	
+			uTimer1	=	SetTimer(hWnd, IDT_TIMER1, lSpeed*1000,	NULL); 
+			// Set a 30	seconds	multi	purpose	timer	 
+			uTimer2	=	SetTimer(hWnd, IDT_TIMER2, 30*1000,	NULL); 
+			GetDate();
+			OpenTxtBuf();
+//ha//			OpenTxtFile(pszhaScrFilename);
+			break;
 
-    case WM_ERASEBKGND: 
-      // The WM_ERASEBKGND message is issued (only once) 
-      // before the WM_TIMER message, allowing the screen saver 
-      // to paint the background as appropriate. 
-      GetClientRect(hWnd, &rc); 
-      FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
-      ReleaseDC(hWnd, hdc); 
-      break;
-         
-    case WM_TIMER:
-		  switch(wParam)
-			  {
+		case WM_ERASEBKGND:	
+			// The WM_ERASEBKGND message is	issued (only once) 
+			// before	the	WM_TIMER message,	allowing the screen	saver	
+			// to	paint	the	background as	appropriate. 
+			GetClientRect(hWnd,	&rc);	
+			FillRect(hdc,	&rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+			ReleaseDC(hWnd,	hdc);	
+			break;
+				 
+		case WM_TIMER:
+			switch(wParam)
+				{
 				case IDT_TIMER1:
-		      // The WM_TIMER message is issued at (lSpeed * 1000) 
-		      // intervals, where lSpeed == .001 seconds (=1ms). 
-		       
-		      // Clear the previous text and paint screen background as appropriate. 
-		      GetClientRect(hWnd, &rc); 
-		      FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+					// The WM_TIMER	message	is issued	at (lSpeed * 1000) 
+					// intervals,	where	lSpeed ==	.001 seconds (=1ms). 
+					 
+					// Clear the previous	text and paint screen	background as	appropriate. 
+					GetClientRect(hWnd,	&rc);	
+					FillRect(hdc,	&rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
 
-		      // Format the text and paint screen background as appropriate. 
-		      SetBkColor(hdc, RGB(0,0,0));
-		      SetTextColor(hdc, rgbColor);
-//ha//          SetBkMode(hdc, TRANSPARENT);
+					// Format	the	text and paint screen	background as	appropriate. 
+					SetBkColor(hdc,	RGB(0,0,0));
+					SetTextColor(hdc,	rgbColor);
+//ha//					SetBkMode(hdc, TRANSPARENT);
 
-		      // HFONT hFont = CreateFont(
-		      //  int     cHeight,         // 20  22 ..
-		      //  int     cWidth,          // 0
-		      //  int     cEscapement,     // 0
-		      //  int     cOrientation,    // 0
-		      //  int     cWeight,         // FW_NORMAL  FW_MEDIUM  FW_SEMIBOLD  FW_LIGHT  FW_BOLD
-		      //  DWORD   bItalic,         // 0
-		      //  DWORD   bUnderline,      // 0
-		      //  DWORD   bStrikeOut,      // 0
-		      //  DWORD   iCharSet,        // 0
-		      //  DWORD   iOutPrecision,   // 0
-		      //  DWORD   iClipPrecision,  // 0
-		      //  DWORD   iQuality,        // 2 DEFAULT_QUALITY
-		      //  DWORD   iPitchAndFamily, // 0
-		      //  LPCWSTR pszFaceName = _T("Courier New");  // "DEFAULT_GUI_FONT"
-		      //
-		      // HFONT hFont = CreateFont(
-		      //   cHght, cWdth,
-		      //   0,
-		      //   0,
-		      //   500,
-		      //   FALSE,
-		      //   FALSE,
-		      //   FALSE,
-		      //   DEFAULT_CHARSET,
-		      //   OUT_DEFAULT_PRECIS,
-		      //   CLIP_DEFAULT_PRECIS,
-		      //   DEFAULT_QUALITY,                // 2  PROOF_QUALITY
-		      //   DEFAULT_PITCH | FF_DONTCARE,
-		      //   pszFaceName);
-		      // 
-		      hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "DEFAULT_GUI_FONT");
-		      hFontTmp = (HFONT)SelectObject(hdc, hFont);
+					// HFONT hFont = CreateFont(
+					//	int			cHeight,				 //	20	22 ..
+					//	int			cWidth,					 //	0
+					//	int			cEscapement,		 //	0
+					//	int			cOrientation,		 //	0
+					//	int			cWeight,				 //	FW_NORMAL	 FW_MEDIUM	FW_SEMIBOLD	 FW_LIGHT	 FW_BOLD
+					//	DWORD		bItalic,				 //	0
+					//	DWORD		bUnderline,			 //	0
+					//	DWORD		bStrikeOut,			 //	0
+					//	DWORD		iCharSet,				 //	0
+					//	DWORD		iOutPrecision,	 //	0
+					//	DWORD		iClipPrecision,	 //	0
+					//	DWORD		iQuality,				 //	2	DEFAULT_QUALITY
+					//	DWORD		iPitchAndFamily, //	0
+					//	LPCWSTR	pszFaceName	=	_T("Courier	New");	// "DEFAULT_GUI_FONT"
+					//
+					// HFONT hFont = CreateFont(
+					//	 cHght,	cWdth,
+					//	 0,
+					//	 0,
+					//	 500,
+					//	 FALSE,
+					//	 FALSE,
+					//	 FALSE,
+					//	 DEFAULT_CHARSET,
+					//	 OUT_DEFAULT_PRECIS,
+					//	 CLIP_DEFAULT_PRECIS,
+					//	 DEFAULT_QUALITY,								 //	2	 PROOF_QUALITY
+					//	 DEFAULT_PITCH | FF_DONTCARE,
+					//	 pszFaceName);
+					// 
+					hFont	=	CreateFont(fontSize, 0,0,0,	FW_NORMAL, 0,0,0,0,0,0,	PROOF_QUALITY, 0,	"DEFAULT_GUI_FONT");
+					hFontTmp = (HFONT)SelectObject(hdc,	hFont);
 
-		      randomX = rand();
-		      randomY = rand();
+					randomX	=	rand();
+					randomY	=	rand();
 		 
-		      GetText();
-		      textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
-				  if (timeFlag)	textHeight +=30;	       // Adjust height for time display
-		      if (fontSize <= 22) textWidth  = 500;  // Estimated width of longest text string that can occur
-					else textWidth  = 600;
+					GetText();
+					textHeight = DrawText(hdc, pszString,	strlen(pszString), &rcStr, DT_CALCRECT);
+					if (timeFlag)	textHeight +=30;				 //	Adjust height	for	time display
+					if (fontSize <=	22)	textWidth	 = 500;	 //	Estimated	width	of longest text	string that	can	occur
+					else textWidth	=	600;
 
-		      _xLeft   = randomX % monitor_width;
-		      _yTop    = randomY % monitor_height;
-		      _xRight  = randomX % monitor_width +textWidth;
-		      _yBottom = randomY % monitor_height+textHeight;
+					_xLeft	 = randomX % monitor_width;
+					_yTop		 = randomY % monitor_height;
+					_xRight	 = randomX % monitor_width +textWidth;
+					_yBottom = randomY % monitor_height+textHeight;
 
-		      if (_xLeft > monitor_width)  _xLeft = 100;
-		      if (_yTop  > monitor_height) _yTop  = 100;
-		      if (_xRight  > monitor_width)  {_xRight  -= textWidth;  _xLeft -= textWidth;}
-		      if (_yBottom > monitor_height) {_yBottom -= textHeight; _yTop -= textHeight;}
+					if (_xLeft > monitor_width)	 _xLeft	=	100;
+					if (_yTop	 > monitor_height) _yTop	=	100;
+					if (_xRight	 > monitor_width)	 {_xRight	 -=	textWidth;	_xLeft -=	textWidth;}
+					if (_yBottom > monitor_height) {_yBottom -=	textHeight;	_yTop	-= textHeight;}
 
-		      SetRect(&rcStr, _xLeft, _yTop, _xRight, _yBottom);
-		      DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
-//ha//          DeleteObject(SelectObject(hdc, hFontTmp));
-		      ReleaseDC(hWnd, hdc);
+					SetRect(&rcStr,	_xLeft,	_yTop, _xRight,	_yBottom);
+					DrawText(hdc,	pszString, strlen(pszString),	&rcStr,	DT_LEFT	|	DT_EXTERNALLEADING | DT_WORDBREAK);
+//ha//					DeleteObject(SelectObject(hdc, hFontTmp));
+					ReleaseDC(hWnd,	hdc);
 
-		      // Provide enough time to read the text	(sleep tic = 1ms
-		      Sleep(strlen(pszString) * MAXVEL * lSpeed);
-		 	    return 0;
-		      break;
+					// Provide enough	time to	read the text	(sleep tic = 1ms
+					Sleep(strlen(pszString)	*	MAXVEL * lSpeed);
+					return 0;
+					break;
 
 				case IDT_TIMER2:
-          GetDate();
- 	        return 0;
-          break;
-				} // end switch
+					GetDate();
+					return 0;
+					break;
+				}	// end switch
 
 
-    case WM_DESTROY:
-      // When the WM_DESTROY message is issued, the screen saver 
-      // must destroy any of the timers that were set at WM_CREATE time. 
-      if (uTimer1) KillTimer(hWnd, uTimer1);
-      GlobalFree(pszTxtFilebuf);
-      GlobalFree(pszTxtbuf);
-      GlobalFree(pszString);
-      break;
-    }
+		case WM_DESTROY:
+			// When	the	WM_DESTROY message is	issued,	the	screen saver 
+			// must	destroy	any	of the timers	that were	set	at WM_CREATE time. 
+			if (uTimer1) KillTimer(hWnd, uTimer1);
+			GlobalFree(pszTxtFilebuf);
+			GlobalFree(pszTxtbuf);
+			GlobalFree(pszString);
+			break;
+		}
 
-  // DefScreenSaverProc processes any messages ignored by ScreenSaverProc. 
-  return DefScreenSaverProc(hWnd, message, wParam, lParam);
-  } // ScreenSaverProc
+	// DefScreenSaverProc	processes	any	messages ignored by	ScreenSaverProc. 
+	return DefScreenSaverProc(hWnd,	message, wParam, lParam);
+	}	// ScreenSaverProc
 
 
 //-----------------------------------------------------------------------------
 //
-//                        ScreenSaverConfigureDialog
+//												ScreenSaverConfigureDialog
 //
-//  The second required function in a screen saver module
-//  displays a dialog box that enables the user to configure the screen saver
-//  (an application must provide a corresponding dialog box template).
-//  The system displays the configuration dialog box when the user selects
-//  the Setup button in the Control Panel's Screen Saver dialog box.
+//	The	second required	function in	a	screen saver module
+//	displays a dialog	box	that enables the user	to configure the screen	saver
+//	(an	application	must provide a corresponding dialog	box	template).
+//	The	system displays	the	configuration	dialog box when	the	user selects
+//	the	Setup	button in	the	Control	Panel's	Screen Saver dialog	box.
 // 
 // int LoadStringA(
-//   [in, optional] HINSTANCE hInstance,
-//   [in]           UINT      uID,          The identifier of the string to be loaded.
-//   [out]          LPSTR     lpBuffer,     The buffer to receive the string.
-//   [in]           int       cchBufferMax  The size of the buffer, in characters.
+//	 [in,	optional]	HINSTANCE	hInstance,
+//	 [in]						UINT			uID,					The	identifier of	the	string to	be loaded.
+//	 [out]					LPSTR			lpBuffer,			The	buffer to	receive	the	string.
+//	 [in]						int				cchBufferMax	The	size of	the	buffer,	in characters.
 // );
 //
-// UINT GetPrivateProfileInt(
-//   [in] LPCTSTR lpAppName,   The name of the section in the initialization file.
-//   [in] LPCTSTR lpKeyName,   The name of the key whose value is to be retrieved.
-//   [in] INT     nDefault,    The default value to return if key name cannot be found
-//   [in] LPCTSTR lpFileName   The name of the initialization file.
+// UINT	GetPrivateProfileInt(
+//	 [in]	LPCTSTR	lpAppName,	 The name	of the section in	the	initialization file.
+//	 [in]	LPCTSTR	lpKeyName,	 The name	of the key whose value is	to be	retrieved.
+//	 [in]	INT			nDefault,		 The default value to	return if	key	name cannot	be found
+//	 [in]	LPCTSTR	lpFileName	 The name	of the initialization	file.
 // )
 //
-// Copies a string into the specified section of an initialization file.
-// BOOL WritePrivateProfileStringA(
-//   [in] LPCSTR lpAppName,  The name of the section to which the string will be copied.
-//   [in] LPCSTR lpKeyName,  The name of the key to be associated with a string.
-//   [in] LPCSTR lpString,   A null-terminated string to be written to the file.
-//   [in] LPCSTR lpFileName  The name of the initialization file.
+// Copies	a	string into	the	specified	section	of an	initialization file.
+// BOOL	WritePrivateProfileStringA(
+//	 [in]	LPCSTR lpAppName,	 The name	of the section to	which	the	string will	be copied.
+//	 [in]	LPCSTR lpKeyName,	 The name	of the key to	be associated	with a string.
+//	 [in]	LPCSTR lpString,	 A null-terminated string	to be	written	to the file.
+//	 [in]	LPCSTR lpFileName	 The name	of the initialization	file.
 // );
-//      
-BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
-                                       WPARAM wParam, LPARAM lParam)
-  {
-  switch(message)
-    {
-    case WM_INITDIALOG:
-      // Retrieve the application name (=section) from the .rc file. 
-      // Adding error checking to verify LoadString success for both calls.
-      if (LoadString(hMainInstance, IDS_APPNAME, szAppName, 80 * sizeof(TCHAR)) == 0)
-        errchk("  IDS_APPNAME, szAppName", ERROR_INVALID_PARAMETER);     
+//			
+BOOL WINAPI	ScreenSaverConfigureDialog(HWND	hDlg,	UINT message,
+																			 WPARAM	wParam,	LPARAM lParam)
+	{
+	switch(message)
+		{
+		case WM_INITDIALOG:
+			// Retrieve	the	application	name (=section)	from the .rc file. 
+			// Adding	error	checking to	verify LoadString	success	for	both calls.
+			if (LoadString(hMainInstance,	IDS_APPNAME, szAppName,	80 * sizeof(TCHAR))	== 0)
+				errchk("	IDS_APPNAME, szAppName", ERROR_INVALID_PARAMETER);		 
  
-      // Retrieve the .ini (or registry) font size. 
-      if (LoadString(hMainInstance, IDS_INIFILE, szIniFile, MAXFILELEN * sizeof(TCHAR)) == 0)
-        errchk("  IDS_INIFILE, szIniFile", ERROR_INVALID_PARAMETER);     
-      
-      // Retrieve any redraw speed data.
-      // Retrieve an integer associated with a key
-      // in the specified section of an initialization file. 
-      lSpeed =   GetPrivateProfileInt(szAppName, pszIniFileKeySpeed, DEFVEL, szIniFile); 
-      rgbColor = GetPrivateProfileInt(szAppName, pszIniFileKeyColor, _CYAN, szIniFile); 
-      fontSize = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize, 22, szIniFile); 
-			timeFlag = GetPrivateProfileInt(szAppName, pszIniFileKeyTime, FALSE, szIniFile);
+			// Retrieve	the	.ini (or registry) font	size.	
+			if (LoadString(hMainInstance,	IDS_INIFILE, szIniFile,	MAXFILELEN * sizeof(TCHAR))	== 0)
+				errchk("	IDS_INIFILE, szIniFile", ERROR_INVALID_PARAMETER);		 
+			
+			// Retrieve	any	redraw speed data.
+			// Retrieve	an integer associated	with a key
+			// in	the	specified	section	of an	initialization file. 
+			lSpeed =	 GetPrivateProfileInt(szAppName, pszIniFileKeySpeed, DEFVEL, szIniFile); 
+			rgbColor = GetPrivateProfileInt(szAppName, pszIniFileKeyColor, _CYAN,	szIniFile);	
+			fontSize = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize, 22, szIniFile); 
+			timeFlag = GetPrivateProfileInt(szAppName, pszIniFileKeyTime,	FALSE, szIniFile);
 
-      // If the initialization file does not contain an entry 
-      // for this screen saver, use the default value. 
-      if (lSpeed > MAXVEL || lSpeed < MINVEL) lSpeed = DEFVEL; 
+			// If	the	initialization file	does not contain an	entry	
+			// for this	screen saver,	use	the	default	value. 
+			if (lSpeed > MAXVEL	|| lSpeed	<	MINVEL)	lSpeed = DEFVEL; 
  
-      // Initialize the redraw speed scroll bar control.
-      hSpeed = GetDlgItem(hDlg, ID_SPEED); 
-      SetScrollRange(hSpeed, SB_CTL, MINVEL, MAXVEL, FALSE); 
-      SetScrollPos(hSpeed, SB_CTL, lSpeed, TRUE); 
+			// Initialize	the	redraw speed scroll	bar	control.
+			hSpeed = GetDlgItem(hDlg,	ID_SPEED); 
+			SetScrollRange(hSpeed, SB_CTL, MINVEL, MAXVEL, FALSE); 
+			SetScrollPos(hSpeed, SB_CTL, lSpeed, TRUE);	
  
-      // Initialize the radio button time display control.
-      SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK, timeFlag, 0);
+			// Initialize	the	radio	button time	display	control.
+			SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK,	timeFlag,	0);
 
-      // Retrieve a handle to the OK push button control.  
-      hOK = GetDlgItem(hDlg, ID_OK); 
-      return TRUE;
+			// Retrieve	a	handle to	the	OK push	button control.	 
+			hOK	=	GetDlgItem(hDlg, ID_OK); 
+			return TRUE;
 
-    case WM_HSCROLL: 
-      // Process scroll bar input, adjusting the lSpeed 
-      // value as appropriate. 
-      switch (LOWORD(wParam)) 
-        { 
-        case SB_PAGEUP: 
-          --lSpeed; 
-          break; 
+		case WM_HSCROLL: 
+			// Process scroll	bar	input, adjusting the lSpeed	
+			// value as	appropriate. 
+			switch (LOWORD(wParam))	
+				{	
+				case SB_PAGEUP:	
+					--lSpeed;	
+					break; 
 
-        case SB_LINEUP: 
-          --lSpeed; 
-          break; 
+				case SB_LINEUP:	
+					--lSpeed;	
+					break; 
 
-        case SB_PAGEDOWN: 
-          ++lSpeed; 
-          break; 
+				case SB_PAGEDOWN:	
+					++lSpeed;	
+					break; 
 
-        case SB_LINEDOWN: 
-          ++lSpeed; 
-          break; 
+				case SB_LINEDOWN:	
+					++lSpeed;	
+					break; 
 
-        case SB_THUMBPOSITION: 
-          lSpeed = HIWORD(wParam); 
-          break; 
+				case SB_THUMBPOSITION: 
+					lSpeed = HIWORD(wParam); 
+					break; 
 
-        case SB_BOTTOM: 
-          lSpeed = MINVEL; 
-          break; 
+				case SB_BOTTOM:	
+					lSpeed = MINVEL; 
+					break; 
 
-        case SB_TOP: 
-          lSpeed = MAXVEL; 
-          break; 
+				case SB_TOP: 
+					lSpeed = MAXVEL; 
+					break; 
 
-        case SB_THUMBTRACK: 
-        case SB_ENDSCROLL: 
-          return TRUE; 
-          break;
-        } // end switch
+				case SB_THUMBTRACK:	
+				case SB_ENDSCROLL: 
+					return TRUE; 
+					break;
+				}	// end switch
 
-      if ((int)lSpeed <= MINVEL) lSpeed = MINVEL; 
-      if ((int)lSpeed >= MAXVEL) lSpeed = MAXVEL;
-      SetScrollPos((HWND)lParam, SB_CTL, lSpeed, TRUE); 
-      break; 
-                 
-    case WM_COMMAND:
-      switch(LOWORD(wParam))
-        {
-        case ID_FONTCOLOR:
+			if ((int)lSpeed	<= MINVEL) lSpeed	=	MINVEL;	
+			if ((int)lSpeed	>= MAXVEL) lSpeed	=	MAXVEL;
+			SetScrollPos((HWND)lParam, SB_CTL, lSpeed, TRUE);	
+			break; 
+								 
+		case WM_COMMAND:
+			switch(LOWORD(wParam))
+				{
+				case ID_FONTCOLOR:
 					//-----------------------------------------------------------------------------
 					// 
 					//										 ChooseColor
 					//
-					//  Choosing color via winsows Color Palette (select File menu  -> New)  
+					//	Choosing color via winsows Color Palette (select File	menu	-> New)	 
 					//
-					// Global vars
+					// Global	vars
 					// -----------
-					// CHOOSECOLOR cc;                 // common dialog box structure 
-					// HWND hwnd;                      // owner window
-					// HBRUSH hbrush;                  // brush handle
-					// static COLORREF acrCustClr[16]; // array of custom colors 
-					// static DWORD rgbCurrent;        // initial color selection
+					// CHOOSECOLOR cc;								 //	common dialog	box	structure	
+					// HWND	hwnd;											 //	owner	window
+					// HBRUSH	hbrush;									 //	brush	handle
+					// static	COLORREF acrCustClr[16]; //	array	of custom	colors 
+					// static	DWORD	rgbCurrent;				 //	initial	color	selection
 					//
-					// Initialize CHOOSECOLOR structure
-					ZeroMemory(&cc, sizeof(cc));
+					// Initialize	CHOOSECOLOR	structure
+					ZeroMemory(&cc,	sizeof(cc));
 					cc.lStructSize = sizeof(cc);
 					cc.hwndOwner = hwnd;
-					cc.lpCustColors = (LPDWORD) acrCustClr;
+					cc.lpCustColors	=	(LPDWORD)	acrCustClr;
 					cc.rgbResult = rgbColor;
 					cc.Flags = CC_FULLOPEN | CC_RGBINIT;
 					 
-					if (ChooseColor(&cc) == TRUE) 
+					if (ChooseColor(&cc) ==	TRUE)	
 						{
-						// COLORREF cc.rgbResult: value has the following hexadecimal form:
-						// UINT 0x00bbggrr
+						// COLORREF	cc.rgbResult:	value	has	the	following	hexadecimal	form:
+						// UINT	0x00bbggrr
 						//
-						// Color constant (Example):
-						// const COLORREF rgbRed   =  0x000000FF;
+						// Color constant	(Example):
+						// const COLORREF	rgbRed	 =	0x000000FF;
 
 						hbrush = CreateSolidBrush(cc.rgbResult);
 						rgbColor = cc.rgbResult;
 						}	// ChooseColor
 
-		      hdc = GetDC(hDlg);
-          // Format the text and paint screen background as defined. 
-          hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "Consolas");
-          hFontTmp = (HFONT)SelectObject(hdc, hFont);
-          SetBkColor(hdc, RGB(0,0,0));
-          SetTextColor(hdc, rgbColor);
+					hdc	=	GetDC(hDlg);
+					// Format	the	text and paint screen	background as	defined. 
+					hFont	=	CreateFont(fontSize, 0,0,0,	FW_NORMAL, 0,0,0,0,0,0,	PROOF_QUALITY, 0,	"Consolas");
+					hFontTmp = (HFONT)SelectObject(hdc,	hFont);
+					SetBkColor(hdc,	RGB(0,0,0));
+					SetTextColor(hdc,	rgbColor);
 
-		      GetClientRect(hDlg, &rc);
-		      // create a black box 
-		      SetRect(&rc, rc.left+78+20, rc.top+85, rc.right-97, rc.bottom-20);
-		      FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+					GetClientRect(hDlg,	&rc);
+					// create	a	black	box	
+					SetRect(&rc, rc.left+78+20,	rc.top+85, rc.right-97,	rc.bottom-20);
+					FillRect(hdc,	&rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
 					// place text	in black box
-		      SetRect(&rc, rc.left, rc.top+5, rc.right, rc.bottom);
-          DrawText(hdc, textSizeExample, strlen(textSizeExample), &rc, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
-          DeleteObject(SelectObject(hdc, hFontTmp));
-          ReleaseDC(hDlg, hdc);
-	        break;
+					SetRect(&rc, rc.left,	rc.top+5,	rc.right,	rc.bottom);
+					DrawText(hdc,	textSizeExample, strlen(textSizeExample),	&rc, DT_LEFT | DT_EXTERNALLEADING	|	DT_WORDBREAK);
+					DeleteObject(SelectObject(hdc, hFontTmp));
+					ReleaseDC(hDlg,	hdc);
+					break;
 
-        case ID_FONTSIZE:
-					fontSize ^= 0x09;																			// simply toggle the size
-					if (fontSize < _FONTSIZE)	  fontSize = _FONTSIZE;			// =22
+				case ID_FONTSIZE:
+					fontSize ^=	0x09;																			// simply	toggle the size
+					if (fontSize < _FONTSIZE)		fontSize = _FONTSIZE;			// =22
 					if (fontSize > _FONTSIZE+5)	fontSize = _FONTSIZE+5;		// =26
 
-		      hdc = GetDC(hDlg);
-          // Format the text and paint screen background as defined. 
-          hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "Consolas");
-          hFontTmp = (HFONT)SelectObject(hdc, hFont);
+					hdc	=	GetDC(hDlg);
+					// Format	the	text and paint screen	background as	defined. 
+					hFont	=	CreateFont(fontSize, 0,0,0,	FW_NORMAL, 0,0,0,0,0,0,	PROOF_QUALITY, 0,	"Consolas");
+					hFontTmp = (HFONT)SelectObject(hdc,	hFont);
 
-          SetBkColor(hdc, RGB(0,0,0));
-          SetTextColor(hdc, rgbColor);
+					SetBkColor(hdc,	RGB(0,0,0));
+					SetTextColor(hdc,	rgbColor);
 
-		      GetClientRect(hDlg, &rc);
-		      // create a black box 
-		      SetRect(&rc, rc.left+78+20, rc.top+85, rc.right-97, rc.bottom-20);
-		      FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+					GetClientRect(hDlg,	&rc);
+					// create	a	black	box	
+					SetRect(&rc, rc.left+78+20,	rc.top+85, rc.right-97,	rc.bottom-20);
+					FillRect(hdc,	&rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
 					// place text	in black box
-		      SetRect(&rc, rc.left, rc.top+5, rc.right, rc.bottom);
-          DrawText(hdc, textSizeExample, strlen(textSizeExample), &rc, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
-          DeleteObject(SelectObject(hdc, hFontTmp));
-          ReleaseDC(hDlg, hdc);
-	        break;
+					SetRect(&rc, rc.left,	rc.top+5,	rc.right,	rc.bottom);
+					DrawText(hdc,	textSizeExample, strlen(textSizeExample),	&rc, DT_LEFT | DT_EXTERNALLEADING	|	DT_WORDBREAK);
+					DeleteObject(SelectObject(hdc, hFontTmp));
+					ReleaseDC(hDlg,	hdc);
+					break;
 
-//ha//        case ID_TEXTFILE:
-//ha//          OpenBrowserDialog();
-//ha//          break;
+//ha//				case ID_TEXTFILE:
+//ha//					OpenBrowserDialog();
+//ha//					break;
 
 				case ID_TIMEDISPLAY:
-				  timeFlag ^= TRUE;
-          SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK, timeFlag, 0);		//hDlg = (HWND)lParam
-				  break;
+					timeFlag ^=	TRUE;
+					SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK,	timeFlag,	0);		//hDlg = (HWND)lParam
+					break;
 
-        case ID_OK:
-          // Write the current redraw speed variable to the .ini file. 
-          hr = StringCchPrintf(szTemp, 20, "%ld", lSpeed);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeySpeed, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
-          hr = StringCchPrintf(szTemp, 20, "%ld", rgbColor);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyColor, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
-          hr = StringCchPrintf(szTemp, 20, "%ld", fontSize);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyFSize, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
-          hr = StringCchPrintf(szTemp, 20, "%ld", timeFlag);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyTime, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
-          // No break - Fall thru into case ID_CANCEL ..
-         
-        case ID_CANCEL:
-          EndDialog(hDlg, LOWORD(wParam) == ID_OK); 
-          return TRUE;
-          break;
+				case ID_OK:
+					// Write the current redraw	speed	variable to	the	.ini file. 
+					hr = StringCchPrintf(szTemp, 20, "%ld",	lSpeed);
+					if (WritePrivateProfileString(szAppName, pszIniFileKeySpeed, szTemp, szIniFile)	== 0)
+						errchk("	szIniFile",	GetLastError());		 
+					hr = StringCchPrintf(szTemp, 20, "%ld",	rgbColor);
+					if (WritePrivateProfileString(szAppName, pszIniFileKeyColor, szTemp, szIniFile)	== 0)
+						errchk("	szIniFile",	GetLastError());		 
+					hr = StringCchPrintf(szTemp, 20, "%ld",	fontSize);
+					if (WritePrivateProfileString(szAppName, pszIniFileKeyFSize, szTemp, szIniFile)	== 0)
+						errchk("	szIniFile",	GetLastError());		 
+					hr = StringCchPrintf(szTemp, 20, "%ld",	timeFlag);
+					if (WritePrivateProfileString(szAppName, pszIniFileKeyTime,	szTemp,	szIniFile) ==	0)
+						errchk("	szIniFile",	GetLastError());		 
+					// No	break	-	Fall thru	into case	ID_CANCEL	..
+				 
+				case ID_CANCEL:
+					EndDialog(hDlg,	LOWORD(wParam) ==	ID_OK);	
+					return TRUE;
+					break;
 
-        case WM_CLOSE:
-          EndDialog(hDlg, 0);
-          GlobalFree(pszTxtFilebuf);
-          GlobalFree(pszTxtbuf);
-          GlobalFree(pszString);
-          return TRUE;
-          break;
-        } // end switch
+				case WM_CLOSE:
+					EndDialog(hDlg,	0);
+					GlobalFree(pszTxtFilebuf);
+					GlobalFree(pszTxtbuf);
+					GlobalFree(pszString);
+					return TRUE;
+					break;
+				}	// end switch
 
-    } // end switch
+		}	// end switch
 
-  return FALSE;
-  } // ScreenSaverConfigureDialog
+	return FALSE;
+	}	// ScreenSaverConfigureDialog
 
 //-----------------------------------------------------------------------------
 //
-//                       RegisterDialogClasses
+//											 RegisterDialogClasses
 //
-//  The third required function in a screen saver module:
-//  In addition to the dialog box template and the ScreenSaverConfigureDialog,
-//  an application must also support the RegisterDialogClasses function.
-//  This function registers any nonstandard window classes required by the screen saver,
-//  and must be called by ALL screen saver applications.
+//	The	third	required function	in a screen	saver	module:
+//	In addition	to the dialog	box	template and the ScreenSaverConfigureDialog,
+//	an application must	also support the RegisterDialogClasses function.
+//	This function	registers	any	nonstandard	window classes required	by the screen	saver,
+//	and	must be	called by	ALL	screen saver applications.
 //
-//  However, applications that do not require special windows or custom controls
-//  in the configuration dialog box can simply return TRUE.
-//  Applications requiring special windows or custom controlsn
-//  should use this function to register the corresponding window classes.
+//	However, applications	that do	not	require	special	windows	or custom	controls
+//	in the configuration dialog	box	can	simply return	TRUE.
+//	Applications requiring special windows or	custom controlsn
+//	should use this	function to	register the corresponding window	classes.
 // 
-BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
-  {
-  return TRUE;
-  } // RegisterDialogClasses
+BOOL WINAPI	RegisterDialogClasses(HANDLE hInst)
+	{
+	return TRUE;
+	}	// RegisterDialogClasses
 
 // https://learn.microsoft.com/en-us/windows/win32/lwef/screen-saver-library
-// Handling Screen Savers
-// In addition to creating a module that supports the three functions just described,
-//  a screen saver should supply an icon. This icon is visible only when the screen saver
-//  is run as a standalone application.
-//  (To be run by the Control Panel, a screen saver must have the .scr file name extension;
-//  to be run as a standalone application, it must have the .exe file name extension.)
-//  The icon must be identified in the screen saver's resource file by the constant ID_APP,
-//  which is defined in the Scrnsave.h header file.
+// Handling	Screen Savers
+// In	addition to	creating a module	that supports	the	three	functions	just described,
+//	a	screen saver should	supply an	icon.	This icon	is visible only	when the screen	saver
+//	is run as	a	standalone application.
+//	(To	be run by	the	Control	Panel, a screen	saver	must have	the	.scr file	name extension;
+//	to be	run	as a standalone	application, it	must have	the	.exe file	name extension.)
+//	The	icon must	be identified	in the screen	saver's	resource file	by the constant	ID_APP,
+//	which	is defined in	the	Scrnsave.h header	file.
 // 
-// One final requirement is a screen saver description string.
-//  The resource file for a screen saver must contain a string that the Control Panel displays
-//  as the screen saver name. The description string must be the first string
-//  in the resource file's string table (identified with the ordinal value 1).
-//  However, the description string is ignored by the Control Panel
-//  if the screen saver has a long filename. In such case,
-//  the filename will be used as the description string.
+// One final requirement is	a	screen saver description string.
+//	The	resource file	for	a	screen saver must	contain	a	string that	the	Control	Panel	displays
+//	as the screen	saver	name.	The	description	string must	be the first string
+//	in the resource	file's string	table	(identified	with the ordinal value 1).
+//	However, the description string	is ignored by	the	Control	Panel
+//	if the screen	saver	has	a	long filename. In	such case,
+//	the	filename will	be used	as the description string.
 // 
-// Screen saver library
-// The static screen saver functions are contained in the screen saver library.
-//  There are two versions of the library available, Scrnsave.lib and Scrnsavw.lib.
-//  You must link your project with one of these.
-//  Scrnsave.lib is used for screen savers that use ANSI characters,
-//  and Scrnsavw.lib is used for screen savers that use Unicode characters.
-//  A screen saver that is linked with Scrnsavw.lib will only run on Windows
-//  platforms that support Unicode,
-//  while a screen saver linked with Scrnsave.lib will run on any Windows platform.
+// Screen	saver	library
+// The static	screen saver functions are contained in	the	screen saver library.
+//	There	are	two	versions of	the	library	available, Scrnsave.lib	and	Scrnsavw.lib.
+//	You	must link	your project with	one	of these.
+//	Scrnsave.lib is	used for screen	savers that	use	ANSI characters,
+//	and	Scrnsavw.lib is	used for screen	savers that	use	Unicode	characters.
+//	A	screen saver that	is linked	with Scrnsavw.lib	will only	run	on Windows
+//	platforms	that support Unicode,
+//	while	a	screen saver linked	with Scrnsave.lib	will run on	any	Windows	platform.
 // 
 //-----------------------------------------------------------------------------
 
@@ -634,50 +634,50 @@ BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
 //ha//OpenTxtBuf();
 
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "txtIndex=%X  pszTxtFilebuf=\n%s", txtIndex, pszTxtFilebuf);
-//ha//MessageBoxA(NULL, DebugBuf, "-->ScreenSaverConfigureDialog_0<--", MB_ICONINFORMATION | MB_OK);
+//ha//sprintf(DebugBuf,	"txtIndex=%X	pszTxtFilebuf=\n%s", txtIndex, pszTxtFilebuf);
+//ha//MessageBoxA(NULL,	DebugBuf,	"-->ScreenSaverConfigureDialog_0<--",	MB_ICONINFORMATION | MB_OK);
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//GetText();
-//ha//sprintf(DebugBuf, "txtIndex=%d  pszString=\n%s", txtIndex, pszString);
-//ha//MessageBoxA(NULL, DebugBuf, "ScreenSaverConfigureDialog", MB_ICONINFORMATION | MB_OK);
+//ha//sprintf(DebugBuf,	"txtIndex=%d	pszString=\n%s", txtIndex, pszString);
+//ha//MessageBoxA(NULL,	DebugBuf,	"ScreenSaverConfigureDialog",	MB_ICONINFORMATION | MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "lSpeed=%d", lSpeed);
-//ha//MessageBoxA(NULL, DebugBuf, "case WM_HSCROLL", MB_ICONINFORMATION | MB_OK);
+//ha//sprintf(DebugBuf,	"lSpeed=%d", lSpeed);
+//ha//MessageBoxA(NULL,	DebugBuf,	"case	WM_HSCROLL", MB_ICONINFORMATION	|	MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "h=%d", textHeight);
-//ha//MessageBoxA(NULL, DebugBuf, "WM_TIMER", MB_OK);
+//ha//sprintf(DebugBuf,	"h=%d",	textHeight);
+//ha//MessageBoxA(NULL,	DebugBuf,	"WM_TIMER",	MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "w=%d\nh=%d", monitor_width, monitor_height);
-//ha//MessageBoxA(NULL, DebugBuf, "WM_ERASEBKGND", MB_OK);
+//ha//sprintf(DebugBuf,	"w=%d\nh=%d",	monitor_width, monitor_height);
+//ha//MessageBoxA(NULL,	DebugBuf,	"WM_ERASEBKGND", MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "xR=%04d, yB=%04d, xl=%d, yT=%d\nmW=%d, mH=%d", _xRight, _yBottom, _xLeft, _yTop, monitor_width, monitor_height);  
-//ha//DrawText(hdc, DebugBuf, strlen(DebugBuf), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
+//ha//sprintf(DebugBuf,	"xR=%04d,	yB=%04d, xl=%d,	yT=%d\nmW=%d,	mH=%d",	_xRight, _yBottom, _xLeft, _yTop,	monitor_width, monitor_height);	 
+//ha//DrawText(hdc,	DebugBuf,	strlen(DebugBuf),	&rcStr,	DT_LEFT	|	DT_EXTERNALLEADING | DT_WORDBREAK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "_binHexNr=%X\n_cnt=%d\n_ascDecNr=%s", _binHexNr, _cnt, _ascDecNr);
-//ha//MessageBoxA(NULL, DebugBuf, "BinHex2AscDec", MB_ICONINFORMATION | MB_OK);
+//ha//sprintf(DebugBuf,	"_binHexNr=%X\n_cnt=%d\n_ascDecNr=%s", _binHexNr,	_cnt,	_ascDecNr);
+//ha//MessageBoxA(NULL,	DebugBuf,	"BinHex2AscDec", MB_ICONINFORMATION	|	MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "ascDecNrStr=%s\npszTxtFilebuf=%s",ascDecNrStr, pszTxtFilebuf);
-//ha//MessageBoxA(NULL, DebugBuf, "GetText", MB_ICONINFORMATION | MB_OK);
+//ha//sprintf(DebugBuf,	"ascDecNrStr=%s\npszTxtFilebuf=%s",ascDecNrStr,	pszTxtFilebuf);
+//ha//MessageBoxA(NULL,	DebugBuf,	"GetText", MB_ICONINFORMATION	|	MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //OpenTxtFile(pszhaScrFilename);
 //OpenTxtBuf();
-//ha//sprintf(DebugBuf, "pszTxtFilebuf=%s ", pszTxtFilebuf);
-//MessageBoxA(NULL, DebugBuf, "case WM_INITDIALOG", MB_ICONWARNING | MB_OK);
+//ha//sprintf(DebugBuf,	"pszTxtFilebuf=%s	", pszTxtFilebuf);
+//MessageBoxA(NULL,	DebugBuf,	"case	WM_INITDIALOG",	MB_ICONWARNING | MB_OK);
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 

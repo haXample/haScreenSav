@@ -31,14 +31,14 @@
 #define ID_TXTSLOW       104
 #define ID_OK            105
 #define ID_CANCEL        106
-#define ID_FONTCOLOR		 107
-#define ID_FONTSIZE			 108
-#define ID_FONTBOLD			 109
-#define ID_FONTITALIC		 110
-#define ID_FONTNAME			 111
-#define ID_TEXTFILE		   112 
+#define ID_FONTCOLOR     107
+#define ID_FONTSIZE      108
+#define ID_FONTBOLD      109
+#define ID_FONTITALIC    110
+#define ID_FONTNAME      111
+#define ID_TEXTFILE      112 
 #define ID_TIMEDISPLAY   113 
-#define ID_TEXTFIELD	   114 
+#define ID_TEXTFIELD     114 
 
 #define ID_BE_SEEING_YOU 120  // BMP image instead of ICON
 
@@ -54,7 +54,7 @@
 #define MAXVEL  10       // maximum redraw speed value    
 #define DEFVEL   5       // default redraw speed value    
 
-#define _CYAN      0x00FFFF00	 // Default text color; B=FF G=FF R=00
-#define _FONTSIZE	 22					 // Default font size
+#define _CYAN      0x00FFFF00  // Default text color; B=FF G=FF R=00
+#define _FONTSIZE  22          // Default font size
 
 //-----------------------------------------------------------------------------

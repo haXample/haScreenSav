@@ -40,8 +40,8 @@
 #include <windows.h>
 #include <scrnsave.h>
 
-#include <shlobj.h>		 // For browsing directory info
-#include <unknwn.h>		 // For browsing directory info
+#include <shlobj.h>    // For browsing directory info
+#include <unknwn.h>    // For browsing directory info
 
 #include "hascreensav.h"
 
@@ -166,7 +166,7 @@ void errchk(char* _filename, int _lastErr)
 //
 // Open as binary filehandle
 //  struct _stat Stat;
-//  _stat(TxtFileSize, &Stat);   	 // Get File info structure
+//  _stat(TxtFileSize, &Stat);     // Get File info structure
 //  TxtFileSize = Stat.st_size     // file size (malloc)
 //
 //  if ((fhTxt = open(_filename, O_RDONLY|O_BINARY)) == ERR)
@@ -208,27 +208,27 @@ void OpenTxtFile(char* _filename)
 //
 //                      OpenTxtBuf
 //
-// Fill input text file buffer from *.FRT as CRLF-terminated text	array
+// Fill input text file buffer from *.FRT as CRLF-terminated text array
 //
 void OpenTxtBuf()
   {
-	long _i, _j;
+  long _i, _j;
 
   // Allocate Buffers
   pszTxtbuf     = (char *)GlobalAlloc(GPTR, haFaust_frtsize+4);
   pszTxtFilebuf = (char *)GlobalAlloc(GPTR, haFaust_frtsize+4);
 
-	_j=0;
-	for (_i=0; _i<(haFaust_frt01size-1); _i++)	// copy without 0-terminator
-	  pszTxtFilebuf[_i]    =  haFaust_frt01[_i];
+  _j=0;
+  for (_i=0; _i<(haFaust_frt01size-1); _i++)  // copy without 0-terminator
+    pszTxtFilebuf[_i]    =  haFaust_frt01[_i];
 
-	_j+=_i;
-	for (_i=0; _i<(haFaust_frt02size-1); _i++)	// copy without 0-terminator
-	  pszTxtFilebuf[_j+_i] = haFaust_frt02[_i];
+  _j+=_i;
+  for (_i=0; _i<(haFaust_frt02size-1); _i++)  // copy without 0-terminator
+    pszTxtFilebuf[_j+_i] = haFaust_frt02[_i];
 
-	_j+=_i;
-	for (_i=0; _i<haFaust_frt03size; _i++) 			// copy with 0-terminator
-	  pszTxtFilebuf[_j+_i] = haFaust_frt03[_i];
+  _j+=_i;
+  for (_i=0; _i<haFaust_frt03size; _i++)      // copy with 0-terminator
+    pszTxtFilebuf[_j+_i] = haFaust_frt03[_i];
 
   } // OpenTxtBuf
 
@@ -275,17 +275,17 @@ void GetText()
       {
       tmpPtr=strstr(tmpPtr, ". ");
       tmpPtr += 2;
-      StrCpy(pszTxtbuf, tmpPtr); 							 // Copy all the rest
+      StrCpy(pszTxtbuf, tmpPtr);               // Copy all the rest
 
-			// Search for next text iten until the very end
+      // Search for next text iten until the very end
       _j=0; 
-      while (pszTxtbuf[_j] != 0)							 
+      while (pszTxtbuf[_j] != 0)               
         {
         if (pszTxtbuf[_j] == '\x0A' &&
             (tmpPtrNext=strstr(&pszTxtbuf[_j], ascDecNrStrNext)) != NULL)
           {
           tmpPtrNext[-2] = 0;                 // discard CRLF and 0-terminate text 
-					_k=TRUE;
+          _k=TRUE;
           break;
           }
         _j++;
@@ -296,7 +296,7 @@ void GetText()
 
       if (_k == TRUE)
         {
-        if (timeFlag) StrCat(pszTxtbuf, lh_time);	 // append current time info
+        if (timeFlag) StrCat(pszTxtbuf, lh_time);  // append current time info
         StrCpy(pszString, pszTxtbuf); 
         break;
         } // end while  (pszTxtFilebuf)
@@ -331,8 +331,8 @@ void GetDate()
 
   // Build a string (lh_time) representing the time: Hour:Minute.
   sprintf(lh_time, "[%02d:%02d]", stLocal.wHour, stLocal.wMinute);
-	lh_time[sizeof(lh_time)] = 0;	 // 0-terminate	string
-//	timeFlag = TRUE;							 // indicate that time info should be displayed
+  lh_time[sizeof(lh_time)] = 0;  // 0-terminate string
+//  timeFlag = TRUE;               // indicate that time info should be displayed
   } // Getdate
 
 //-----------------------------------------------------------------------------
@@ -344,13 +344,13 @@ void GetDate()
 
 //ha////ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha////ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//	for (_k=0; _k<bytesrd; _k++)
-//ha//	  {
-//ha//		if (__pszTxtFilebuf[_k]	!= pszTxtFilebuf[_k])
-//ha//		  {
+//ha//  for (_k=0; _k<bytesrd; _k++)
+//ha//    {
+//ha//    if (__pszTxtFilebuf[_k] != pszTxtFilebuf[_k])
+//ha//      {
 //ha//char temp1, temp2;
-//ha//{ temp1 =   pszTxtFilebuf[_k+100];   pszTxtFilebuf[_k+100]	=	0;}
-//ha//{ temp2 = __pszTxtFilebuf[_k+100]; __pszTxtFilebuf[_k+100]	=	0;}
+//ha//{ temp1 =   pszTxtFilebuf[_k+100];   pszTxtFilebuf[_k+100]  = 0;}
+//ha//{ temp2 = __pszTxtFilebuf[_k+100]; __pszTxtFilebuf[_k+100]  = 0;}
 //ha//
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//sprintf(DebugBuf, "_i=%d  _j=%d  _k=%d\n01size=%d - 02size=%d - 03size=%d\n\n"
@@ -363,8 +363,8 @@ void GetDate()
 //ha//
 //ha//{   pszTxtFilebuf[_i+100] = temp1;}
 //ha//{ __pszTxtFilebuf[_i+100] = temp2;}
-//ha//      }	// end if
-//ha//		if (__pszTxtFilebuf[_k] == 0) break;
-//ha//		}	 // end for
+//ha//      } // end if
+//ha//    if (__pszTxtFilebuf[_k] == 0) break;
+//ha//    }  // end for
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---

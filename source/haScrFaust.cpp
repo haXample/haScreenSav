@@ -21,10 +21,10 @@
 
 // Global variables
 // NOTE: Due to the limit of MS C++ Compiler, 
-//       the text	below is splitted in chunks <32K.
+//       the text below is splitted in chunks <32K.
 //
 //  --------------------------------------------------
-// | A FAUST I+II Breviary, by Johann Wolfgang Goethe	|
+// | A FAUST I+II Breviary, by Johann Wolfgang Goethe |
 //  --------------------------------------------------
 //
 char haFaust_frt01[] = 
@@ -1910,7 +1910,7 @@ char haFaust_frt01[] =
 "316. Goethe, Faust I. 2050-2\r\n"
 "FAUST.\r\n"
 "  Wohin soll es nun gehn?\r\n"
-"MEPHISTOPHELES.		\r\n"
+"MEPHISTOPHELES.    \r\n"
 "  Wohin es dir gefällt.\r\n"
 "  Wir sehn die kleine, dann die große Welt.\r\n"
 "  Mit welcher Freude, welchem Nutzen\r\n"
