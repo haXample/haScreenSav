@@ -1,2 +1,4 @@
 *.cpp linguist-language=C++
 *.FRT linguist-language=C++
+*.SCR linguist-language=C++
+*.h linguist-language=C++
