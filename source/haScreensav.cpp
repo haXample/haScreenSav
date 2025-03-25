@@ -84,6 +84,8 @@ HWND hwnd;            // owner window
 HBRUSH hbrush;        // brush handle
 HFONT hFont, hFontTmp;
 
+POINT cact, csav;     // Mouse
+
 static HWND hSpeed;   // handle to speed scroll bar 
 static HWND hOK;      // handle to OK push button  
 static HDC  hdc;      // device-context handle  
@@ -101,7 +103,7 @@ static RECT rcStr;    // RECT structure for string to be displayed (drawn)
 
 static UINT uTimer1, uTimer2;   // timer identifier  
  
-HMONITOR monitor;     // Monitor geometrics
+HMONITOR monitor;               // Monitor geometrics
 MONITORINFO info;
 int monitor_width; 
 int monitor_height;
@@ -116,8 +118,6 @@ static COLORREF acrCustClr[16];       // array of custom colors
 static int fontSize = _FONTSIZE;
 
 // Extern variables and functions
-//ha//extern SYSTEMTIME stLocal;
-
 extern char* pszString;
 extern char* pszTxtFilebuf;
 extern char* pszTxtbuf;
@@ -228,6 +228,7 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       GetDate();
       OpenTxtBuf();
 //ha//      OpenTxtFile(pszhaScrFilename);
+      GetCursorPos(&csav);                           // Save current mouse position
       break;
 
     case WM_ERASEBKGND: 
@@ -296,7 +297,7 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
           if (timeFlag) textHeight +=30;         // Adjust height for time display
           if (fontSize <= 22) textWidth  = 500;  // Estimated width of longest text string that can occur
-          else textWidth  = 600;
+          else textWidth  = 650;
 
           _xLeft   = randomX % monitor_width;
           _yTop    = randomY % monitor_height;
@@ -313,8 +314,18 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
 //ha//          DeleteObject(SelectObject(hdc, hFontTmp));
           ReleaseDC(hWnd, hdc);
 
-          // Provide enough time to read the text (sleep tic = 1ms
-          Sleep(strlen(pszString) * MAXVEL * lSpeed);
+          // Provide enough time to read the text
+          for (_i=0; _i < (strlen(pszString) * lSpeed); _i++)
+            {
+            // Delay 10ms  (=10 sleep tics of 1ms)
+            Sleep(10);
+            // Abort if SPACE or ESC-key has been pressed. 
+            if (GetAsyncKeyState(VK_ESCAPE) != 0) break;
+            if (GetAsyncKeyState(VK_SPACE) != 0) break;
+            // Abort if Mouse has been moved. 
+            GetCursorPos(&cact);
+            if (cact.x != csav.x || cact.y != csav.y) break;
+            }
           return 0;
           break;
 

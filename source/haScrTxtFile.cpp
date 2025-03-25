@@ -238,6 +238,8 @@ void OpenTxtBuf()
 //
 // Get random text from selected formatted *.FRT text  
 //
+int _srandFlag = FALSE;     // Inject the random seed only once
+                            // (otherwise itdependents too m uch on time stamps)
 void GetText()
   {
   char ascDecNrStr[11];
@@ -246,7 +248,7 @@ void GetText()
   char* tmpPtr = NULL;
   char* tmpPtrNext = NULL;
 
-  ULONG _i, _j, _k;               // _i must be local here
+  ULONG _i, _j, _k;         // must be local here
 
   pszString = (char *)GlobalAlloc(GPTR, 8000);
 
@@ -259,8 +261,8 @@ void GetText()
   for (_i=0; _i<bytesrd; _i++) pszTxtbuf[_i] = 0;
   for (_i=0; _i<sizeof(pszString); _i++) pszString[_i] = 0;
 
-  // srand() seeds the random-number generator with the current time  
-  srand((unsigned)time(NULL));
+  // srand() initially seeds the random-number generator with the current time  
+  if (_srandFlag == FALSE) { srand((unsigned)time(NULL)); _srandFlag = TRUE; }
   txtIndex = rand() % (FAUST_MAXINDEX+1);
   if (txtIndex == 0) txtIndex++;               // Texts start with "1. "
 
