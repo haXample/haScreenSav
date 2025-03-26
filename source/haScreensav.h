@@ -49,6 +49,7 @@
 
 #define IDT_TIMER1       300
 #define IDT_TIMER2       301
+#define IDT_TIMER3       302
 
 #define MINVEL   1       // minimum redraw velocity (speed)     
 #define MAXVEL  10       // maximum redraw speed value    

@@ -101,9 +101,9 @@ static HDC  hdcFont;  // device-context handle Font
 static RECT rc;       // RECT structure  
 static RECT rcStr;    // RECT structure for string to be displayed (drawn)
 
-static UINT uTimer1, uTimer2;   // timer identifier  
+static UINT uTimer1, uTimer2, uTimer3; // timer identifiers  
  
-HMONITOR monitor;               // Monitor geometrics
+HMONITOR monitor;                      // Monitor geometrics
 MONITORINFO info;
 int monitor_width; 
 int monitor_height;
@@ -227,8 +227,8 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       uTimer2 = SetTimer(hWnd, IDT_TIMER2, 30*1000, NULL); 
       GetDate();
       OpenTxtBuf();
-//ha//      OpenTxtFile(pszhaScrFilename);
       GetCursorPos(&csav);                           // Save current mouse position
+      uTimer3 = SetTimer(hWnd, IDT_TIMER3, 300, NULL); 
       break;
 
     case WM_ERASEBKGND: 
@@ -243,7 +243,11 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
     case WM_TIMER:
       switch(wParam)
         {
-        case IDT_TIMER1:
+        case IDT_TIMER1:                         // Normal screen
+        case IDT_TIMER3:
+          if (uTimer3) KillTimer(hWnd, uTimer3); // 1st screen directly after start
+          uTimer3 = FALSE;                       // diplayed only once
+
           // The WM_TIMER message is issued at (lSpeed * 1000) 
           // intervals, where lSpeed == .001 seconds (=1ms). 
            
@@ -254,39 +258,23 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           // Format the text and paint screen background as appropriate. 
           SetBkColor(hdc, RGB(0,0,0));
           SetTextColor(hdc, rgbColor);
-//ha//          SetBkMode(hdc, TRANSPARENT);
 
           // HFONT hFont = CreateFont(
-          //  int     cHeight,         // 20  22 ..
-          //  int     cWidth,          // 0
-          //  int     cEscapement,     // 0
-          //  int     cOrientation,    // 0
-          //  int     cWeight,         // FW_NORMAL  FW_MEDIUM  FW_SEMIBOLD  FW_LIGHT  FW_BOLD
-          //  DWORD   bItalic,         // 0
-          //  DWORD   bUnderline,      // 0
-          //  DWORD   bStrikeOut,      // 0
-          //  DWORD   iCharSet,        // 0
-          //  DWORD   iOutPrecision,   // 0
-          //  DWORD   iClipPrecision,  // 0
-          //  DWORD   iQuality,        // 2 DEFAULT_QUALITY
-          //  DWORD   iPitchAndFamily, // 0
-          //  LPCWSTR pszFaceName = _T("Courier New");  // "DEFAULT_GUI_FONT"
+          //  int     cHeight,         // fontSize,   =22 27
+          //  int     cWidth,          // 0,
+          //  int     cEscapement,     // 0,
+          //  int     cOrientation,    // 0,
+          //  int     cWeight,         // FW_NORMAL,  =500  FW_MEDIUM FW_SEMIBOLD FW_LIGHT FW_BOLD
+          //  DWORD   bItalic,         // FALSE,
+          //  DWORD   bUnderline,      // FALSE,
+          //  DWORD   bStrikeOut,      // FALSE,
+          //  DWORD   iCharSet,        // DEFAULT_CHARSET,
+          //  DWORD   iOutPrecision,   // OUT_DEFAULT_PRECIS,
+          //  DWORD   iClipPrecision,  // CLIP_DEFAULT_PRECIS,
+          //  DWORD   iQuality,        // PROOF_QUALITY
+          //  DWORD   iPitchAndFamily, // DEFAULT_PITCH | FF_DONTCARE,
+          //  LPCWSTR pszFaceName);    // "DEFAULT_GUI_FONT"
           //
-          // HFONT hFont = CreateFont(
-          //   cHght, cWdth,
-          //   0,
-          //   0,
-          //   500,
-          //   FALSE,
-          //   FALSE,
-          //   FALSE,
-          //   DEFAULT_CHARSET,
-          //   OUT_DEFAULT_PRECIS,
-          //   CLIP_DEFAULT_PRECIS,
-          //   DEFAULT_QUALITY,                // 2  PROOF_QUALITY
-          //   DEFAULT_PITCH | FF_DONTCARE,
-          //   pszFaceName);
-          // 
           hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "DEFAULT_GUI_FONT");
           hFontTmp = (HFONT)SelectObject(hdc, hFont);
 
@@ -335,11 +323,11 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           break;
         } // end switch
 
-
     case WM_DESTROY:
       // When the WM_DESTROY message is issued, the screen saver 
       // must destroy any of the timers that were set at WM_CREATE time. 
       if (uTimer1) KillTimer(hWnd, uTimer1);
+      if (uTimer2) KillTimer(hWnd, uTimer2);
       GlobalFree(pszTxtFilebuf);
       GlobalFree(pszTxtbuf);
       GlobalFree(pszString);
@@ -525,7 +513,7 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
         case ID_FONTSIZE:
           fontSize ^= 0x09;                                     // simply toggle the size
           if (fontSize < _FONTSIZE)   fontSize = _FONTSIZE;     // =22
-          if (fontSize > _FONTSIZE+5) fontSize = _FONTSIZE+5;   // =26
+          if (fontSize > _FONTSIZE+5) fontSize = _FONTSIZE+5;   // =27
 
           hdc = GetDC(hDlg);
           // Format the text and paint screen background as defined. 
