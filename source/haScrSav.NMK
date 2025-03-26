@@ -33,40 +33,26 @@ AFLAGS=/nologo /c /Sn /Sg /Sp84 /Fl
 
 CFLAGS=/c /nologo /Od /EHsc
 
-# Tell Microsoft's linker which entry point to use,
-# namely "LFLAGS=/entry:mainCRTStartup", which calls standard main.
+## To tell Microsoft's linker which entry point to use,
+## namely "LFLAGS=/ENTRY:mainCRTStartup", which calls standard main.
 
-##LFLAGS=/nologo /INCREMENTAL /MANIFEST \
-##       /SUBSYSTEM:windows,5.0 /ENTRY:mainCRTStartup
 LFLAGS=/nologo /INCREMENTAL /SUBSYSTEM:windows
-
-##LIBS= KERNEL32.LIB USER32.LIB GDI32.LIB WINSPOOL.LIB COMDLG32.LIB ADVAPI32.LIB \
-##      SHELL32.LIB OLE32.LIB OLEAUT32.LIB UUID.LIB ODBC32.LIB ODBCCP32.LIB \
-##      Comctl32.lib shlwapi.lib uxtheme.lib Propsys.lib scrnsave.lib
 
 LIBS= KERNEL32.LIB USER32.LIB GDI32.LIB WINSPOOL.LIB COMDLG32.LIB ADVAPI32.LIB \
       SHELL32.LIB OLE32.LIB OLEAUT32.LIB UUID.LIB ODBC32.LIB ODBCCP32.LIB \
       Comctl32.lib shlwapi.lib uxtheme.lib Propsys.lib scrnsave.lib
 
-##LIBS= KERNEL32.LIB USER32.LIB SHELL32.LIB \
-##      COMDLG32.LIB \
-##      GDI32.LIB COMCTL32.lib ADVAPI32.LIB scrnsave.lib
-
 # -----------------------------------------------------------------------------
 #       MACRO DEFINITIONS OF THE PROJEC OBJECT MODULE DEPEDENCIES
 #
 OBJECTS = $(FOLDER)$(PROJ).obj $(FOLDER)haScrFaust.obj $(FOLDER)haScrTxTFile.obj \
-          $(FOLDER)$(PROJ).res
+          $(FOLDER)haScrDraw.obj $(FOLDER)$(PROJ).res
 
 CLEAN =  $(FOLDER)*.ilk
 
 #------------------------------------------------------------------------------
 #                           INFERENCE RULE
 #
-#cl /c /nologo /Gs /Od /MT c:\temp600\__\des.cpp /Foc:\temp600\__\des.obj /Fac:\temp600\__\des.as
-#ml /c /nologo /Sn /Sg /Sp84 /Flc:\temp600\__\des_od.lst /Foc:\temp600\__\des_od.obj c:\temp600\__\des_od.as
-#nmake /N /D c:\temp600\__\hacrypt.nmk >C:\temp600\__\_nmk.txt
-
 .rc.res:
         @RC $(RFLAGS) $(FOLDER)$(@B).rc
 
@@ -95,6 +81,8 @@ $(FOLDER)$(PROJ).obj:   $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).r
 $(FOLDER)$(PROJ).obj:   $(FOLDER)haScrFaust.cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
 $(FOLDER)$(PROJ).obj:   $(FOLDER)haScrTxtFile.cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+
+$(FOLDER)$(PROJ).obj:   $(FOLDER)haScrDraw.cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
 #------------------------------------------------------------------------------
 #       $(PROJ).EXE TARGET BUILD

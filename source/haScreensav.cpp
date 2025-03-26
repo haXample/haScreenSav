@@ -65,58 +65,51 @@ char* pszhaScrFilename = szhaScrFilename;
 // To ease installation "hascreenSav.SCR" has the necessary file contents integrated.  
 // ..see haFaust.cpp
 
+CHAR szTemp[20];                             // temporary array of characters  
+
 CHAR* pszIniFileKeySpeed = "REDRAWSPEED";    // .ini: Name of the key belonging to section             
 CHAR* pszIniFileKeyColor = "TEXTCOLOR";      // .ini: Name of the key belonging to section             
 CHAR* pszIniFileKeyFSize = "FONTSIZE";       // .ini: Name of the key belonging to section             
 CHAR* pszIniFileKeyTime  = "TIMEFLAG";       // .ini: Name of the key belonging to section             
-CHAR szTemp[20];                             // temporary array of characters  
 
-CHAR* textSizeExample = "ABC abc 123\r\nöäü ,:' !?.";
+LONG  lSpeed   = DEFVEL;  
+int   fontSize = _FONTSIZE;
+DWORD rgbColor = _CYAN;        // initial color selection
+int   timeFlag = FALSE;
+                      
+COLORREF acrCustClr[16];       // array of custom colors 
+CHOOSECOLOR cc;                // color palette dialog box structure 
 
-int randomX, randomY; // Horizontal and Vertical position
 int _i, _j, _k;
-int timeFlag = FALSE;
-
-LONG lSpeed = DEFVEL; //, bytesrd;
+//ha//long  bytesrd;   // Textfile number of byte read
 
 HRESULT hr;
-HWND hwnd;            // owner window
-HBRUSH hbrush;        // brush handle
+HWND hwnd;             // owner window
+HBRUSH hbrush;         // brush handle
 HFONT hFont, hFontTmp;
 
-POINT cact, csav;     // Mouse
+POINT cact, csav;      // Mouse
 
-static HWND hSpeed;   // handle to speed scroll bar 
-static HWND hOK;      // handle to OK push button  
-static HDC  hdc;      // device-context handle  
-static HDC  hdcStr;   // device-context handle String 
-static HDC  hdcFont;  // device-context handle Font 
+HWND hSpeed;           // handle to speed scroll bar 
+HWND hOK;              // handle to OK push button  
+HDC  hdc;              // device-context handle  
 
+// RECTANGLE structure
 // typedef struct tagRECT {
 //   LONG left;
 //   LONG top;
 //   LONG right;
 //   LONG bottom;
 // } RECT, *PRECT, *NPRECT, *LPRECT;
-static RECT rc;       // RECT structure  
-static RECT rcStr;    // RECT structure for string to be displayed (drawn)
+RECT rc;         
 
-static UINT uTimer1, uTimer2, uTimer3; // timer identifiers  
- 
 HMONITOR monitor;                      // Monitor geometrics
 MONITORINFO info;
 int monitor_width; 
 int monitor_height;
-int textHeight=300;
-int textWidth =300;
-int _xLeft, _yTop, _xRight, _yBottom; 
 
-CHOOSECOLOR cc;                       // color palette dialog box structure 
-                      
-static DWORD rgbColor = _CYAN;        // initial color selection
-static COLORREF acrCustClr[16];       // array of custom colors 
-static int fontSize = _FONTSIZE;
-
+static UINT uTimer1, uTimer2, uTimer3; // timer identifiers  
+ 
 // Extern variables and functions
 extern char* pszString;
 extern char* pszTxtFilebuf;
@@ -127,6 +120,9 @@ extern void errchk(char*, int);
 extern void OpenTxtFile(char*);
 extern void GetText();
 extern void GetDate();
+
+extern void ScrSavDrawText(HWND);
+extern void ScrSavSetupDrawFont(HWND);
 
 // The following globals are already defined in scrnsave.lib
 // extern HINSTANCE hMainInstance;              // screen saver instance handle
@@ -226,7 +222,7 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       // Set a 30 seconds multi purpose timer  
       uTimer2 = SetTimer(hWnd, IDT_TIMER2, 30*1000, NULL); 
       GetDate();
-      OpenTxtBuf();
+      OpenTxtBuf();                                  // Provide the text resource
       GetCursorPos(&csav);                           // Save current mouse position
       uTimer3 = SetTimer(hWnd, IDT_TIMER3, 300, NULL); 
       break;
@@ -241,67 +237,22 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       break;
          
     case WM_TIMER:
+      // The WM_TIMER message is issued at (lSpeed * 1000) 
+      // intervals, where lSpeed == .001 seconds (=1ms). 
       switch(wParam)
         {
-        case IDT_TIMER1:                         // Normal screen
-        case IDT_TIMER3:
-          if (uTimer3) KillTimer(hWnd, uTimer3); // 1st screen directly after start
-          uTimer3 = FALSE;                       // diplayed only once
+        case IDT_TIMER1:                         // IDT_TIMER1: Normal screen
+        case IDT_TIMER3:                         // IDT_TIMER3: 1st screen directly after start
+          if (uTimer3) KillTimer(hWnd, uTimer3); // Kill timer3 -
+          uTimer3 = FALSE;                       //  1st screen is displayed only once.
 
-          // The WM_TIMER message is issued at (lSpeed * 1000) 
-          // intervals, where lSpeed == .001 seconds (=1ms). 
-           
           // Clear the previous text and paint screen background as appropriate. 
           GetClientRect(hWnd, &rc); 
           FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
 
-          // Format the text and paint screen background as appropriate. 
-          SetBkColor(hdc, RGB(0,0,0));
-          SetTextColor(hdc, rgbColor);
-
-          // HFONT hFont = CreateFont(
-          //  int     cHeight,         // fontSize,   =22 27
-          //  int     cWidth,          // 0,
-          //  int     cEscapement,     // 0,
-          //  int     cOrientation,    // 0,
-          //  int     cWeight,         // FW_NORMAL,  =500  FW_MEDIUM FW_SEMIBOLD FW_LIGHT FW_BOLD
-          //  DWORD   bItalic,         // FALSE,
-          //  DWORD   bUnderline,      // FALSE,
-          //  DWORD   bStrikeOut,      // FALSE,
-          //  DWORD   iCharSet,        // DEFAULT_CHARSET,
-          //  DWORD   iOutPrecision,   // OUT_DEFAULT_PRECIS,
-          //  DWORD   iClipPrecision,  // CLIP_DEFAULT_PRECIS,
-          //  DWORD   iQuality,        // PROOF_QUALITY
-          //  DWORD   iPitchAndFamily, // DEFAULT_PITCH | FF_DONTCARE,
-          //  LPCWSTR pszFaceName);    // "DEFAULT_GUI_FONT"
-          //
-          hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "DEFAULT_GUI_FONT");
-          hFontTmp = (HFONT)SelectObject(hdc, hFont);
-
-          randomX = rand();
-          randomY = rand();
-     
-          GetText();
-          textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
-          if (timeFlag) textHeight +=30;         // Adjust height for time display
-          if (fontSize <= 22) textWidth  = 500;  // Estimated width of longest text string that can occur
-          else textWidth  = 650;
-
-          _xLeft   = randomX % monitor_width;
-          _yTop    = randomY % monitor_height;
-          _xRight  = randomX % monitor_width +textWidth;
-          _yBottom = randomY % monitor_height+textHeight;
-
-          if (_xLeft > monitor_width)  _xLeft = 100;
-          if (_yTop  > monitor_height) _yTop  = 100;
-          if (_xRight  > monitor_width)  {_xRight  -= textWidth;  _xLeft -= textWidth;}
-          if (_yBottom > monitor_height) {_yBottom -= textHeight; _yTop -= textHeight;}
-
-          SetRect(&rcStr, _xLeft, _yTop, _xRight, _yBottom);
-          DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
-//ha//          DeleteObject(SelectObject(hdc, hFontTmp));
-          ReleaseDC(hWnd, hdc);
-
+          // Display a random text part of the formatted text resource
+          ScrSavDrawText(hWnd);  
+ 
           // Provide enough time to read the text
           for (_i=0; _i < (strlen(pszString) * lSpeed); _i++)
             {
@@ -317,7 +268,7 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           return 0;
           break;
 
-        case IDT_TIMER2:
+        case IDT_TIMER2:  // Time display
           GetDate();
           return 0;
           break;
@@ -484,30 +435,14 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
             {
             // COLORREF cc.rgbResult: value has the following hexadecimal form:
             // UINT 0x00bbggrr
-            //
             // Color constant (Example):
-            // const COLORREF rgbRed   =  0x000000FF;
-
+            // const COLORREF rgb:  Red = 0x000000FF;
             hbrush = CreateSolidBrush(cc.rgbResult);
             rgbColor = cc.rgbResult;
             } // ChooseColor
 
-          hdc = GetDC(hDlg);
-          // Format the text and paint screen background as defined. 
-          hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "Consolas");
-          hFontTmp = (HFONT)SelectObject(hdc, hFont);
-          SetBkColor(hdc, RGB(0,0,0));
-          SetTextColor(hdc, rgbColor);
-
-          GetClientRect(hDlg, &rc);
-          // create a black box 
-          SetRect(&rc, rc.left+78+20, rc.top+85, rc.right-97, rc.bottom-20);
-          FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
-          // place text in black box
-          SetRect(&rc, rc.left, rc.top+5, rc.right, rc.bottom);
-          DrawText(hdc, textSizeExample, strlen(textSizeExample), &rc, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
-          DeleteObject(SelectObject(hdc, hFontTmp));
-          ReleaseDC(hDlg, hdc);
+          // Display example text box in setup dialog
+          ScrSavSetupDrawFont(hDlg);  
           break;
 
         case ID_FONTSIZE:
@@ -515,27 +450,12 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           if (fontSize < _FONTSIZE)   fontSize = _FONTSIZE;     // =22
           if (fontSize > _FONTSIZE+5) fontSize = _FONTSIZE+5;   // =27
 
-          hdc = GetDC(hDlg);
-          // Format the text and paint screen background as defined. 
-          hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "Consolas");
-          hFontTmp = (HFONT)SelectObject(hdc, hFont);
-
-          SetBkColor(hdc, RGB(0,0,0));
-          SetTextColor(hdc, rgbColor);
-
-          GetClientRect(hDlg, &rc);
-          // create a black box 
-          SetRect(&rc, rc.left+78+20, rc.top+85, rc.right-97, rc.bottom-20);
-          FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
-          // place text in black box
-          SetRect(&rc, rc.left, rc.top+5, rc.right, rc.bottom);
-          DrawText(hdc, textSizeExample, strlen(textSizeExample), &rc, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
-          DeleteObject(SelectObject(hdc, hFontTmp));
-          ReleaseDC(hDlg, hdc);
+          // Display example text box in setup dialog
+          ScrSavSetupDrawFont(hDlg);
           break;
 
 //ha//        case ID_TEXTFILE:
-//ha//          OpenBrowserDialog();
+//ha//          OpenBrowserDialog();  // Browse for a suitable text file
 //ha//          break;
 
         case ID_TIMEDISPLAY:
