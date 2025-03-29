@@ -19,6 +19,36 @@
 // the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
 // Boston, MA 02111-1307, USA.
 
+#include <sys\types.h> // For _open( , , S_IWRITE) needed for VC 2010
+#include <sys\stat.h>  // For filesize
+#include <fcntl.h>     // Console
+#include <stdlib.h>
+#include <stdio.h>                        
+#include <io.h>                                                        
+#include <iostream>
+#include <conio.h>
+
+#include <shlwapi.h>  // Library shlwapi.lib for PathFileExistsA
+#include <commctrl.h> // Library Comctl32.lib
+#include <commdlg.h>
+#include <winuser.h>
+#include <time.h>
+
+#include <string.h>                                                 
+#include <string>     // sprintf, etc.
+#include <tchar.h>     
+#include <strsafe.h>  // <strsafe.h> must be included after <tchar.h>
+
+#include <windows.h>
+#include <scrnsave.h>
+
+#include <shlobj.h>    // For browsing directory info
+#include <unknwn.h>    // For browsing directory info
+
+#include "hascreensav.h"
+
+using namespace std;
+
 int _cbtFolderFlag = FALSE; // CBT Hook title/button string control
 
 TCHAR pathDisplay[MAX_PATH+1] = _T("");
@@ -43,12 +73,18 @@ char szExtensionSave[20];
 char oldFileExtension[20];
 char szPathSave[MAX_PATH+1];
 
+// Extern variables and functions
+extern char szhaScrFilename[];
+extern char* pszhaScrDfltFilename;
+extern char* pszhaScrFilename;
+extern void errchk(char*, int);
+extern HWND hwnd;
+
 // Forward declaration of functions included in this code module:
 void CenterInsideParent(HWND, char*);
 
 int CBTMessageBox(HWND, LPCTSTR, LPCTSTR, UINT);
 LRESULT CALLBACK CBTProc(INT, WPARAM, LPARAM);
-
 
 //////////////////////////////////////////////////////////////////////////////////
 //-----------------------------------------------------------------------------
@@ -162,24 +198,11 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
       SetDlgItemText(hChildWnd, IDNEWFOLDER, _T("Make new folder")); // Always English text
 
 //ha//if (GetDlgItem(hChildWnd, IDOK) != NULL)           // IDOK = System defined
-//ha//  UINT result = SetDlgItemText(hChildWnd, IDOK, _T("+ha+")); // Test
+//ha//  UINT result = SetDlgItemText(hChildWnd, IDOK, _T("+ha+")); // Test only
 
-//ha//    // Check if GetCurrentThreadId() is SHBrowseForFolder()
-//ha//    if (_cbtFolderFlag == (MULTIFILE_BROWSER_CRYPTO | MULTIFILE_BROWSER_RENAME)) // Browser Results Filter 
-//ha//      {
-//ha//      SetDlgItemText(hChildWnd, IDCANCEL, _T("Close"));  // Multifile Reslults Filter 'Rename' or 'Crypto'
-//ha//      SetWindowText(hChildWnd, _T("File(s) processed")); // Browser's title field
-//ha//
-//ha//      // Set focus on [Close] button (..default action if VK_RETURN key is pressed)
-//ha//      SendMessage(hChildWnd, WM_NEXTDLGCTL, (WPARAM)GetDlgItem(hChildWnd, IDCANCEL), TRUE); // = [Close] button
-//ha//      SendMessage(hChildWnd, BFFM_ENABLEOK, TRUE, 0);                                       // Grayed OK Button 
-//ha//      }
-//ha//    else if (_cbtFolderFlag == MULTIFILE_BROWSER_RENAME || // Browser selection
-//ha//             _cbtFolderFlag == MULTIFILE_BROWSER_CRYPTO)
-//ha//      {
-//ha//      SetDlgItemText(hChildWnd, IDCANCEL, _T("Cancel")); // Multifile Selection 'Rename' or 'Crypto'
-//ha//      SetWindowText(hChildWnd, _T("Select a folder"));   // Browser's title field
-//ha//      }
+    // Check if GetCurrentThreadId() is SHBrowseForFolder()
+    SetDlgItemText(hChildWnd, IDCANCEL, _T("Cancel")); // Multifile Selection 'Rename' or 'Crypto'
+    SetWindowText(hChildWnd, _T("Select a folder"));   // Browser's title field
 
     // Center the client message box within the parent window
     if ((hParentWnd != 0) && (hChildWnd != 0) &&
@@ -201,8 +224,7 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
 
       // Adjust if message box is off desktop
       // Note:
-      //  Multifile Selection 'Rename' and 'Crypto' is done in (haBrowse.cpp).
-      //  Multifile Results Filter positioning must be done in (haCryptWRL.cpp) 
+      //  Positioning must be done in DLG_SCRNSAVECONFIGURE (haSreensav.rc) 
       if (_cbtFolderFlag == FALSE)  // Default = (Custom)MessageBox(..) 
         {
         if (rDesktop.bottom < rParent.bottom) cStart.y = rParent.top-cHeight/2;
@@ -259,9 +281,8 @@ BOOL OpenBrowserDialog()
   bi.hwndOwner      = hwnd;
   bi.pidlRoot       = pidlPathSave; // NULL;       
   bi.pszDisplayName = pathDisplay;
-  bi.lpszTitle      = _T("Choose a folder, and select anyone of the files\n")
-                      _T("with an extension that should be renamed on\n")
-                      _T("all files of that type in the chosen folder.");
+  bi.lpszTitle      = _T("Choose a folder, and select a file\n")
+                      _T("of type filename.FRT\n");
   bi.ulFlags        = BIF_NEWDIALOGSTYLE | BIF_NONEWFOLDERBUTTON | BIF_BROWSEINCLUDEFILES;// | BIF_NOTRANSLATETARGETS; // | BIF_UAHINT;
   //bi.lpfn           = BrowseCallbackProc;
   bi.lParam         = (LPARAM)szPathSave;
@@ -286,22 +307,27 @@ BOOL OpenBrowserDialog()
 
       else                              // It's path + filename
         {
-///////////// Screen saver stuff ///////////////////
-        StrCpy(szhaScrFilename, szPathSave);
-        for (i=lstrlen(szPathSave); i>0; i--)  // Search start-of-filename
-          {                                    //  (which is end-of-path)
-          if (szPathSave[i] == (WCHAR)'.') break;
-          }
-        if (StrCmpI(&szPathSave[i], ".frt") != 0)
-          errchk(pszhaScrFilename, ERROR_OPEN_FAILED);     
-        } // end else
-///////////// Screen saver stuff ///////////////////
+/////////////////// Screen saver stuff /////////////////////////////////////////
+        for (i=lstrlen(szPathSave); i>0; i--)  // Search start-of-filename    //
+          {                                    //  (which is end-of-path)     //
+          if (szPathSave[i] == (WCHAR)'.') break;                             //
+          }                                                                   //
+        if (StrCmpI(&szPathSave[i], ".frt") != 0)                             //
+          errchk(pszhaScrFilename, ERROR_BAD_FORMAT);                         //
+        else bSuccess = TRUE;                                                 //
+        } // end else                                                         //
+////////////////////////////////////////////////////////////////////////////////
+      } // end if (SHGetPathFromIDList)
 
-      } // end if
-
-    bSuccess = TRUE;
+//ha//    bSuccess = TRUE;
     } // end if (pidl)
+
+  // Update the buffer with the currently valid filepath
+  // or set the default to the internal .\haFaust.FRT
+  if (!bSuccess) StrCpy(szhaScrFilename, pszhaScrDfltFilename);
+  else StrCpy(szhaScrFilename, szPathSave);
 
   return(bSuccess);
   } // OpenBrowserDialog
-//////////////////////////////////////////////////////////////////////////////////
+
+//------------------------------------------------------------------------------

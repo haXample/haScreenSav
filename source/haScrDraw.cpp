@@ -57,6 +57,8 @@ HDC  hdcFont;                // device-context handle Font
 RECT rcStr;    
 
 // Extern variables and functions
+extern CHAR* pszhaScrFontType;
+
 extern CHAR* pszString;
 
 extern HDC  hdc;             // device-context handle  
@@ -76,7 +78,10 @@ extern RECT rc;
 
 extern DWORD rgbColor;        // initial color selection
 extern COLORREF acrCustClr[]; // array of custom colors 
+extern int fontWeight;
 extern int fontSize;
+extern int fontStyle;
+extern DWORD fontItalic;
 
 extern int monitor_width; 
 extern int monitor_height;
@@ -112,13 +117,40 @@ void ScrSavDrawText(HWND _hwnd)
   //  DWORD   iPitchAndFamily, // DEFAULT_PITCH | FF_DONTCARE,
   //  LPCWSTR pszFaceName);    // "DEFAULT_GUI_FONT"
   //
-  hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "DEFAULT_GUI_FONT");
+  hFont = CreateFont(fontSize, 0,0,0, fontWeight, fontItalic,0,0,0,0,0, PROOF_QUALITY, 0, pszhaScrFontType);
   hFontTmp = (HFONT)SelectObject(hdc, hFont);
 
   randomX = rand();
   randomY = rand();
   
-  GetText();                             // Return text part in global pszString
+  GetText();
+  
+  // Display a random text part of the formatted text resource
+  // fontStyle:
+  // 0x00 = Standard
+  // 0x01 = Standard + Italic
+  // 0x02 = Standard + Bold
+  // 0x03 = Bold + Italic
+  switch(fontStyle)
+    {
+    case 0:
+      break;
+      fontWeight = FW_NORMAL;
+      fontItalic = FALSE;
+    case 1:
+      fontWeight = FW_NORMAL;
+      fontItalic = TRUE;
+      break;
+    case 2:
+      fontWeight = FW_BOLD;
+      fontItalic = FALSE;
+      break;
+    case 3:
+      fontWeight = FW_BOLD;
+      fontItalic = TRUE;
+      break;
+    } // end switch
+                               // Return text part in global pszString
   textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
   if (timeFlag) textHeight +=30;         // Adjust height for time display
   if (fontSize <= 22) textWidth  = 500;  // Estimated width of longest text string that can occur
@@ -147,16 +179,42 @@ void ScrSavDrawText(HWND _hwnd)
 //
 void ScrSavSetupDrawFont(HWND _hDlg)
   {
+  // Display a random text part of the formatted text resource
+  // fontStyle:
+  // 0x00 = Standard
+  // 0x01 = Standard + Italic
+  // 0x02 = Standard + Bold
+  // 0x03 = Bold + Italic
+  switch(fontStyle)
+    {
+    case 0:
+      break;
+      fontWeight = FW_NORMAL;
+      fontItalic = FALSE;
+    case 1:
+      fontWeight = FW_NORMAL;
+      fontItalic = TRUE;
+      break;
+    case 2:
+      fontWeight = FW_BOLD;
+      fontItalic = FALSE;
+      break;
+    case 3:
+      fontWeight = FW_BOLD;
+      fontItalic = TRUE;
+      break;
+    } // end switch
+
   hdc = GetDC(_hDlg);
   // Format the text and paint screen background as defined. 
-  hFont = CreateFont(fontSize, 0,0,0, FW_NORMAL, 0,0,0,0,0,0, PROOF_QUALITY, 0, "Consolas");
+  hFont = CreateFont(fontSize, 0,0,0, fontWeight, fontItalic,0,0,0,0,0, PROOF_QUALITY, 0, pszhaScrFontType);
   hFontTmp = (HFONT)SelectObject(hdc, hFont);
   SetBkColor(hdc, RGB(0,0,0));
   SetTextColor(hdc, rgbColor);
 
   GetClientRect(_hDlg, &rc);
   // create a black box 
-  SetRect(&rc, rc.left+78+20, rc.top+85, rc.right-97, rc.bottom-20);
+  SetRect(&rc, rc.left+78+19, rc.top+85, rc.right-85, rc.bottom-16);
   FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
   // place text in black box
   SetRect(&rc, rc.left, rc.top+5, rc.right, rc.bottom);

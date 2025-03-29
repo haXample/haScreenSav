@@ -49,18 +49,53 @@ BEGIN
                     SS_BITMAP | SS_CENTERIMAGE | SS_REALSIZEIMAGE,
                     7, 9, 38, 36
     // Define the dialog menu     ID              X              Y   Wdth Hght
-    GROUPBOX      "Redraw Speed", ID_GRPBOX,       0+32+20+12,    6, 100, 40
-    SCROLLBAR                     ID_SPEED,        5+32+20+10,   31,  89, 10
+    GROUPBOX      "Redraw Speed", ID_GRPBOX,       0+32+20+10,    6, 106, 40
+    SCROLLBAR                     ID_SPEED,        5+32+20+10+1, 31,  96, 10
     LTEXT         "Fast",         ID_TXTFAST,      6+32+20+10,   21,  20,  8
-    LTEXT         "Slow",         ID_TXTSLOW,     78+32+20+12,   21,  20,  8
+    LTEXT         "Slow",         ID_TXTSLOW,     78+32+20+12+6, 21,  20,  8
     PUSHBUTTON    "OK",           ID_OK,         117+32+20+10,   54,  40, 14
     PUSHBUTTON    "Cancel",       ID_CANCEL,     117+32+20+10,   76,  40, 14
     PUSHBUTTON    "Font Color",   ID_FONTCOLOR,  117+32+20+10,   10,  40, 14
-    PUSHBUTTON    "Font Size",    ID_FONTSIZE,   117+32+20+10,   32,  40, 14
+    PUSHBUTTON    "Font Type",    ID_FONTSIZE,   117+32+20+10,   32,  40, 14
     RADIOBUTTON   "Time display", ID_TIMEDISPLAY   7,            50,  52, 14
+    PUSHBUTTON    "Text File",    ID_TEXTFILE,     7,            76,  40, 14
+END
+
+////////////////////////////////////////////////////////////////////////////////
+//
+//                   Character Font Dropdown Menu
+//
+PopupMenu MENU 
+BEGIN 
+  POPUP "Dummy Popup" 
+    BEGIN 
+      POPUP "Font" 
+        BEGIN 
+          MENUITEM "Default GUI",     IDM_FONT_DFLT
+          MENUITEM "Times New Roman", IDM_FONT_TIMESROMAN 
+          MENUITEM "Courier New",     IDM_FONT_COURIER 
+        END 
+      POPUP "Size" 
+        BEGIN 
+          MENUITEM "10",  IDM_FONTSIZE_10 
+          MENUITEM "12",  IDM_FONTSIZE_12 
+          MENUITEM "14",  IDM_FONTSIZE_14 
+          MENUITEM "16",  IDM_FONTSIZE_16 
+          MENUITEM "18",  IDM_FONTSIZE_18 
+        END 
+      POPUP "Style" 
+        BEGIN 
+          MENUITEM "Standard",    IDM_FONTSTYLE_STANDARD 
+          MENUITEM "Italic",      IDM_FONTSTYLE_ITALIC 
+          MENUITEM "Bold",        IDM_FONTSTYLE_BOLD 
+        END 
+    END 
 END
 
 //------------------------------------------------------------------------------
+
+
+
 
 
 

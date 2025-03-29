@@ -55,11 +55,11 @@ char* pszTxtbuf      = NULL;
 char* pszString      = NULL;
 
 char lh_date[10+1];      // = "dd/mm/yyyy"   
-char lh_time[7+2+1];       // = "hh:mm"   
+char lh_time[8+1];       // = "hh:mm.ss"   
 
 int txtIndex=0;
-int fhTxt=0;          // Filehandle read (*.TXT)
-long bytesrd;
+int fhTxt=0;             // Filehandle read (*.TXT)
+long  bytesrd;           // Textfile number of byte read
 
 // Extern variables and functions
 extern char DebugBuf[];             // Temporary buffer for formatted text
@@ -106,6 +106,7 @@ void errchk(char* _filename, int _lastErr)
   char szErrorFileRead[]     = "File read failed.";
   char szErrorFileExists[]   = "File exists.";
   char szErrorInvalidParam[] = "Invalid Parameter";
+  char szErrorBadFormat[]    = "Bad Format";
 
   if (_lastErr != 0)
     {
@@ -120,6 +121,9 @@ void errchk(char* _filename, int _lastErr)
         break;                                                                                                 
       case ERROR_ACCESS_DENIED:     // 0x05
         MessageBoxA(NULL, szErrorAccessDenied, _filename, MB_ICONERROR | MB_OK);
+        break;
+      case ERROR_BAD_FORMAT:
+        MessageBoxA(NULL, szErrorBadFormat, _filename, MB_ICONERROR | MB_OK);
         break;
       case ERROR_WRITE_PROTECT:     // 0x13
       case ERROR_WRITE_FAULT:       // 0x1D
@@ -150,7 +154,8 @@ void errchk(char* _filename, int _lastErr)
         break;
       } // end switch
 
-    if (_lastErr != ERROR_INVALID_PARAMETER) // Allow debugging if parameter problem
+    // Allow debugging if parameter problem
+    if (_lastErr != ERROR_INVALID_PARAMETER && _lastErr != ERROR_BAD_FORMAT) 
       {
       MessageBoxA(NULL, "Abort", "  haScreensav.scr", MB_ICONWARNING | MB_OK);
       exit(SYSERR_ABORT);
@@ -244,6 +249,7 @@ void GetText()
   {
   char ascDecNrStr[11];
   char ascDecNrStrNext[11];
+  char* crlfStr = "\r\n";
 
   char* tmpPtr = NULL;
   char* tmpPtrNext = NULL;
@@ -286,8 +292,9 @@ void GetText()
         if (pszTxtbuf[_j] == '\x0A' &&
             (tmpPtrNext=strstr(&pszTxtbuf[_j], ascDecNrStrNext)) != NULL)
           {
-          tmpPtrNext[-2] = 0;                 // discard CRLF and 0-terminate text 
-          _k=TRUE;
+          _k=TRUE; *tmpPtrNext=0;
+          // Discard any double CRLF and 0-terminate text
+          if (tmpPtrNext[-1] == '\x0A' && tmpPtrNext[-3] == '\x0A') tmpPtrNext[-2] = 0;                 
           break;
           }
         _j++;
