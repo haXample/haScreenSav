@@ -57,6 +57,7 @@ char* pszString      = NULL;
 char lh_date[10+1];      // = "dd/mm/yyyy"   
 char lh_time[8+1];       // = "hh:mm.ss"   
 
+int textMaxIndex = FAUST_MAXINDEX;
 int txtIndex=0;
 int fhTxt=0;             // Filehandle read (*.TXT)
 long  bytesrd;           // Textfile number of byte read
@@ -80,8 +81,12 @@ extern int haFaust_frt03size;
 extern int haFaust_frtsize;
 extern int timeFlag;
 
+// Centered Messagebox within parent window
+extern int CBTMessageBox(HWND, char*, char*, UINT); 
+
 // Forward declaration of functions included in this code module:
 void GetDate();
+int GetLastindex();
 
 //-----------------------------------------------------------------------------
 //
@@ -122,8 +127,9 @@ void errchk(char* _filename, int _lastErr)
       case ERROR_ACCESS_DENIED:     // 0x05
         MessageBoxA(NULL, szErrorAccessDenied, _filename, MB_ICONERROR | MB_OK);
         break;
-      case ERROR_BAD_FORMAT:
-        MessageBoxA(NULL, szErrorBadFormat, _filename, MB_ICONERROR | MB_OK);
+      case ERROR_BAD_FORMAT:        // Centered MessageBox box
+        sprintf(DebugBuf, "%s\n%s", szErrorBadFormat, _filename);
+        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK);
         break;
       case ERROR_WRITE_PROTECT:     // 0x13
       case ERROR_WRITE_FAULT:       // 0x1D
@@ -145,8 +151,9 @@ void errchk(char* _filename, int _lastErr)
       case ERROR_OPEN_FAILED:       // 0x6E
         MessageBoxA(NULL, szErrorOpenFailed, _filename, MB_ICONERROR | MB_OK);
         break;
-      case ERROR_INVALID_PARAMETER:
-        MessageBoxA(NULL, szErrorInvalidParam, _filename, MB_ICONERROR | MB_OK);
+      case ERROR_INVALID_PARAMETER: // Centered MessageBox box
+        sprintf(DebugBuf, "%s\n%s", szErrorInvalidParam, _filename);
+        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK); 
         break;
       default:                      // any other system error number
         sprintf(DebugBuf, "LastErrorCode = 0x%08X [%d]", _lastErr, _lastErr);
@@ -154,7 +161,7 @@ void errchk(char* _filename, int _lastErr)
         break;
       } // end switch
 
-    // Allow debugging if parameter problem
+    // Allow debugging if parameter problem or bad file format
     if (_lastErr != ERROR_INVALID_PARAMETER && _lastErr != ERROR_BAD_FORMAT) 
       {
       MessageBoxA(NULL, "Abort", "  haScreensav.scr", MB_ICONWARNING | MB_OK);
@@ -207,7 +214,84 @@ void OpenTxtFile(char* _filename)
   pszTxtFilebuf[bytesrd] = 0;
 
   close(fhTxt);
+ 
+  // Final format check of file contents (file.FRT) at runtime
+  if (StrCmpN(pszTxtFilebuf, "1. ", 3) != 0) 
+    errchk(_filename, ERROR_BAD_FORMAT);
+
+  GetLastindex();
   } // OpenTxtFile
+
+//-----------------------------------------------------------------------------
+//
+//                        GetLastindex
+//
+int GetLastindex()
+  {
+  long _i;
+
+  for (_i=bytesrd; _i>0; _i--)
+    {
+    if (pszTxtFilebuf[_i] == '\x0A')
+      {       
+      if (pszTxtFilebuf[_i+1] >= '0'  &&        //1-9
+          pszTxtFilebuf[_i+1] <= '9'  &&
+          pszTxtFilebuf[_i+2] == '.'  && 
+          pszTxtFilebuf[_i+3] == ' ')
+        {
+        pszTxtFilebuf[_i+2] =0; 
+        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
+        pszTxtFilebuf[_i+2] ='.'; 
+        break;
+        }
+      else  if (pszTxtFilebuf[_i+1] >= '0'  &&  //10-99
+                pszTxtFilebuf[_i+1] <= '9'  &&
+                pszTxtFilebuf[_i+2] >= '0'  &&  
+                pszTxtFilebuf[_i+2] <= '9'  &&
+                pszTxtFilebuf[_i+3] == '.'  && 
+                pszTxtFilebuf[_i+4] == ' ')
+        {
+        pszTxtFilebuf[_i+3] =0; 
+        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
+        pszTxtFilebuf[_i+3] ='.'; 
+        break;
+        } 
+      else if (pszTxtFilebuf[_i+1] >= '0'  &&   // 100-999
+               pszTxtFilebuf[_i+1] <= '9'  &&
+               pszTxtFilebuf[_i+2] >= '0'  &&
+               pszTxtFilebuf[_i+2] <= '9'  &&
+               pszTxtFilebuf[_i+3] >= '0'  &&     
+               pszTxtFilebuf[_i+3] <= '9'  &&
+               pszTxtFilebuf[_i+4] == '.'  &&
+               pszTxtFilebuf[_i+5] == ' ')
+           
+        {
+        pszTxtFilebuf[_i+4] =0; 
+        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
+        pszTxtFilebuf[_i+4] ='.'; 
+        break;
+        }                                     
+      else if (pszTxtFilebuf[_i+1] >= '0'  &&   //1000-9999
+               pszTxtFilebuf[_i+1] <= '9'  &&
+               pszTxtFilebuf[_i+2] >= '0'  &&
+               pszTxtFilebuf[_i+2] <= '9'  &&
+               pszTxtFilebuf[_i+3] >= '0'  &&
+               pszTxtFilebuf[_i+3] <= '9'  &&
+               pszTxtFilebuf[_i+4] >= '0'  &&     
+               pszTxtFilebuf[_i+4] <= '9'  &&
+               pszTxtFilebuf[_i+5] == '.'  &&
+               pszTxtFilebuf[_i+6] == ' ')
+        {
+        pszTxtFilebuf[_i+5] =0; 
+        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
+        pszTxtFilebuf[_i+5] ='.'; 
+        break;
+        }
+      } // end if ('\x0A')
+
+    } // end for
+  return(textMaxIndex);
+  } // GetLastindex
 
 //-----------------------------------------------------------------------------
 //
@@ -235,6 +319,7 @@ void OpenTxtBuf()
   for (_i=0; _i<haFaust_frt03size; _i++)      // copy with 0-terminator
     pszTxtFilebuf[_j+_i] = haFaust_frt03[_i];
 
+  textMaxIndex = FAUST_MAXINDEX;  // fix maximum index for internal FAUST
   } // OpenTxtBuf
 
 //-----------------------------------------------------------------------------
@@ -256,7 +341,7 @@ void GetText()
 
   ULONG _i, _j, _k;         // must be local here
 
-  pszString = (char *)GlobalAlloc(GPTR, 8000);
+  pszString = (char *)GlobalAlloc(GPTR, 16000);
 
   for (_i=0; _i<sizeof(ascDecNrStr); _i++)
     {
@@ -269,8 +354,11 @@ void GetText()
 
   // srand() initially seeds the random-number generator with the current time  
   if (_srandFlag == FALSE) { srand((unsigned)time(NULL)); _srandFlag = TRUE; }
-  txtIndex = rand() % (FAUST_MAXINDEX+1);
+  txtIndex = rand() % (textMaxIndex+1);
   if (txtIndex == 0) txtIndex++;               // Texts start with "1. "
+
+//ha//txtIndex=459; // see misc.frt  "459. Bricklayer's accident report"   DEBUG TEST ONLY
+//ha//txtIndex=358; // see misc1.frt "369. Bricklayer's accident report"   DEBUG TEST ONLY
 
   // BinHex2AscDec
   sprintf(ascDecNrStr, "%d.", txtIndex);       // Start of text
@@ -334,17 +422,18 @@ void GetText()
 void GetDate()
   {
   SYSTEMTIME stLocal;
-  int _i;
-
-  GetLocalTime(&stLocal);
 
   // Build a string (lh_time) representing the time: Hour:Minute.
+  GetLocalTime(&stLocal);
   sprintf(lh_time, "[%02d:%02d]", stLocal.wHour, stLocal.wMinute);
-  lh_time[sizeof(lh_time)] = 0;  // 0-terminate string
-//  timeFlag = TRUE;               // indicate that time info should be displayed
   } // Getdate
 
 //-----------------------------------------------------------------------------
+
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//sprintf(DebugBuf, "%d", textMaxIndex);
+//ha//MessageBoxA(NULL, DebugBuf, "GetLastindex55", MB_ICONINFORMATION | MB_OK);
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//sprintf(DebugBuf, "%s", pszString);

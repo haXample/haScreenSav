@@ -47,16 +47,21 @@ int randomX, randomY;
 HDC  hdcStr;                 // device-context handle String 
 HDC  hdcFont;                // device-context handle Font 
 
-// RECT structure for string to be displayed (drawn)
+// RECT structure for the text Box drawn as the screensaver
 // typedef struct tagRECT {
 //   LONG left;
 //   LONG top;
 //   LONG right;
 //   LONG bottom;
 // } RECT, *PRECT, *NPRECT, *LPRECT;
-RECT rcStr;    
+RECT rcStr, rcDebug;    
+int rcStrX, rcStrY; // The place where the text box actually pops up
 
 // Extern variables and functions
+extern char DebugBuf[];             // Temporary buffer for formatted text
+extern int DebugbufSize;
+extern char* psz_DebugBuf;
+
 extern CHAR* pszhaScrFontType;
 
 extern CHAR* pszString;
@@ -67,7 +72,7 @@ extern HWND hWnd;            // owner window
 extern HBRUSH hbrush;        // brush handle
 extern HFONT hFont, hFontTmp;
 
-// RECT structure for string to be displayed (drawn)
+// RECT structure for text box drawn in the setuo dialog
 // typedef struct tagRECT {
 //   LONG left;
 //   LONG top;
@@ -83,8 +88,8 @@ extern int fontSize;
 extern int fontStyle;
 extern DWORD fontItalic;
 
-extern int monitor_width; 
-extern int monitor_height;
+extern int monitor_width;     // 1680
+extern int monitor_height;    // 1050
 
 extern int timeFlag;
 
@@ -93,6 +98,28 @@ extern void GetText();
 //-----------------------------------------------------------------------------
 //
 //                        ScrSavDrawText
+//
+// BOOL SetRect(
+//   [out] LPRECT lprc,     // Pointer RECT structure containing the rectangle to be set.
+//   [in]  int    xLeft,    // x-coordinate of the rectangle's upper-left corner.
+//   [in]  int    yTop,     // y-coordinate of the rectangle's upper-left corner.
+//   [in]  int    xRight,   // x-coordinate of the rectangle's lower-right corner.
+//   [in]  int    yBottom   // y-coordinate of the rectangle's lower-right corner.
+// );
+//
+// RECT structure for string to be displayed (drawn)
+// typedef struct tagRECT {
+//   LONG left;             // x-coordinate of the rectangle's upper-left corner.
+//   LONG top;              // y-coordinate of the rectangle's upper-left corner.
+//   LONG right;            // x-coordinate of the rectangle's lower-right corner.
+//   LONG bottom;           // y-coordinate of the rectangle's lower-right corner.
+// } RECT, *PRECT, *NPRECT, *LPRECT;
+//
+// BOOL OffsetRect(         // OffsetRect moves the rectangle by the specified offsets.
+//   [in, out] LPRECT lprc, // Pointer RECT structure containing the rectangle to be moved.
+//   [in]      int    dx,   // Amount to move the rectangle left or right. Negative value moves to the left.
+//   [in]      int    dy    // Amount to move the rectangle up or down. Negative value moves up.
+// );
 //
 void ScrSavDrawText(HWND _hwnd)
   {
@@ -123,7 +150,7 @@ void ScrSavDrawText(HWND _hwnd)
   randomX = rand();
   randomY = rand();
   
-  GetText();
+  GetText();   // Return text part in global pszString
   
   // Display a random text part of the formatted text resource
   // fontStyle:
@@ -150,23 +177,28 @@ void ScrSavDrawText(HWND _hwnd)
       fontItalic = TRUE;
       break;
     } // end switch
-                               // Return text part in global pszString
+  
   textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
-  if (timeFlag) textHeight +=30;         // Adjust height for time display
-  if (fontSize <= 22) textWidth  = 500;  // Estimated width of longest text string that can occur
-  else textWidth  = 650;
+  if (timeFlag) textHeight +=100;              // Adjust height for time display
+
+  if (fontSize < _FONTSIZE16) textWidth = 650; // Estimated width of longest text string that can occur
+  else textWidth = 750;
 
   _xLeft   = randomX % monitor_width;
   _yTop    = randomY % monitor_height;
-  _xRight  = randomX % monitor_width +textWidth;
-  _yBottom = randomY % monitor_height+textHeight;
+  _xRight  = (randomX % monitor_width)  + textWidth;
+  _yBottom = (randomY % monitor_height) + textHeight;
 
-  if (_xLeft > monitor_width)  _xLeft = 100;
-  if (_yTop  > monitor_height) _yTop  = 100;
-  if (_xRight  > monitor_width)  {_xRight  -= textWidth;  _xLeft -= textWidth;}
-  if (_yBottom > monitor_height) {_yBottom -= textHeight; _yTop -= textHeight;}
+  rcStrX=0; rcStrY=0;  // initially text box is not moved 
+
+  if (_xLeft == 0) _xLeft = 100;
+  if (_yTop  == 0) _yTop  = 100;
+  if (_xRight  >= monitor_width)  rcStrX = -textWidth;
+  if (_yBottom >= monitor_height) _yTop = 100;
 
   SetRect(&rcStr, _xLeft, _yTop, _xRight, _yBottom);
+  OffsetRect(&rcStr, rcStrX, rcStrY);
+   
   DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
   //DeleteObject(SelectObject(hdc, hFontTmp));
   ReleaseDC(_hwnd, hdc);
@@ -224,3 +256,23 @@ void ScrSavSetupDrawFont(HWND _hDlg)
   } // ScrSavSetupDrawFont
 
 //-----------------------------------------------------------------------------
+
+//ha/////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//textHeight +=100;
+//ha//sprintf(DebugBuf, "\n_xLeft= %d  _yTop=   %d\n_xRight=%d  _yBottom=%d", 
+//ha//                     _xLeft,     _yTop,       _xRight,    _yBottom);
+//ha//StrCat(pszString, DebugBuf);  // append current time info
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//sprintf(DebugBuf, "_xLeft=%d  _yTop=%d _xRight=%d  _yBottom=%d", 
+//ha//                   _xLeft,    _yTop,   _xRight,     _yBottom);
+//ha//
+//ha//SetRect(&rcDebug, 50, 50, 600, 600);
+//ha//DrawText(hdc, DebugBuf, strlen(DebugBuf), &rcDebug, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
+//ha//
+//ha////StrCat(pszString, DebugBuf);  // append current time info
+//ha////ha//while ((GetAsyncKeyState(VK_ESCAPE) & 0x8000) == 0) ; //break;
+//ha////ha//while ((GetAsyncKeyState(VK_ESCAPE) & 0x8000) != 0) ; //break;
+//ha////Sleep(1000);
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
