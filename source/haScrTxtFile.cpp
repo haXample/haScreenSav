@@ -357,8 +357,7 @@ void GetText()
   txtIndex = rand() % (textMaxIndex+1);
   if (txtIndex == 0) txtIndex++;               // Texts start with "1. "
 
-//ha//txtIndex=459; // see misc.frt  "459. Bricklayer's accident report"   DEBUG TEST ONLY
-//ha//txtIndex=358; // see misc1.frt "369. Bricklayer's accident report"   DEBUG TEST ONLY
+//ha//txtIndex=369; // see misc1.frt "369. Bricklayer's accident report"   DEBUG TEST ONLY
 
   // BinHex2AscDec
   sprintf(ascDecNrStr, "%d.", txtIndex);       // Start of text
@@ -466,3 +465,4 @@ void GetDate()
 //ha//    }  // end for
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+                                                                                            

@@ -179,26 +179,21 @@ void ScrSavDrawText(HWND _hwnd)
     } // end switch
   
   textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
-  if (timeFlag) textHeight +=100;              // Adjust height for time display
+  if (timeFlag) textHeight +=100;               // Adjust height for time display
 
-  if (fontSize < _FONTSIZE16) textWidth = 650; // Estimated width of longest text string that can occur
-  else textWidth = 750;
+  if (fontSize < _FONTSIZE16) textWidth = 680;  // Estimated width of longest text string that can occur
+  else textWidth = 800;
+  SetRect(&rcStr, 0, 0, textWidth, textHeight); // Init textbox at upper left corner
+ 
+  rcStrX = (randomX % monitor_width);           // Get random position {X,Y}
+  rcStrY = (randomY % monitor_height);
 
-  _xLeft   = randomX % monitor_width;
-  _yTop    = randomY % monitor_height;
-  _xRight  = (randomX % monitor_width)  + textWidth;
-  _yBottom = (randomY % monitor_height) + textHeight;
-
-  rcStrX=0; rcStrY=0;  // initially text box is not moved 
-
-  if (_xLeft == 0) _xLeft = 100;
-  if (_yTop  == 0) _yTop  = 100;
-  if (_xRight  >= monitor_width)  rcStrX = -textWidth;
-  if (_yBottom >= monitor_height) _yTop = 100;
-
-  SetRect(&rcStr, _xLeft, _yTop, _xRight, _yBottom);
-  OffsetRect(&rcStr, rcStrX, rcStrY);
-   
+  if (rcStrX == 0) rcStrX = 100;                // Upper left {100,100}
+  if (rcStrY == 0) rcStrY = 100;
+  if (rcStrX > (monitor_width -textWidth))  rcStrX -= (monitor_width-textWidth-100);
+  if (rcStrY > (monitor_height-textHeight)) rcStrY  = 100; // Reset to top
+  
+  OffsetRect(&rcStr, rcStrX, rcStrY);           // Move textbox randomly 
   DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
   //DeleteObject(SelectObject(hdc, hFontTmp));
   ReleaseDC(_hwnd, hdc);
@@ -275,4 +270,4 @@ void ScrSavSetupDrawFont(HWND _hDlg)
 //ha////ha//while ((GetAsyncKeyState(VK_ESCAPE) & 0x8000) == 0) ; //break;
 //ha////ha//while ((GetAsyncKeyState(VK_ESCAPE) & 0x8000) != 0) ; //break;
 //ha////Sleep(1000);
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG-----
