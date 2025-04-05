@@ -270,4 +270,4 @@ void ScrSavSetupDrawFont(HWND _hDlg)
 //ha////ha//while ((GetAsyncKeyState(VK_ESCAPE) & 0x8000) == 0) ; //break;
 //ha////ha//while ((GetAsyncKeyState(VK_ESCAPE) & 0x8000) != 0) ; //break;
 //ha////Sleep(1000);
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG-----
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
