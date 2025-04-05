@@ -65,6 +65,9 @@ TCHAR* psz_tDebugBuf = _tDebugBuf;
 // To ease installation "hascreenSav.SCR" has the necessary file contents integrated.  
 // ..see haFaust.cpp
 //
+//TCHAR _testStr[] = L"C:\\TEMP600";  ////////////////
+char _testStr[] = "C:\\@ArcDrv\\windows\\system32\\_Faust.frt";     /////////////////
+
 char* pszhaScrDfltFilename =        ".\\haFaust.frt";   // Dummy only
 char  szhaScrFilename[MAX_PATH+1] = "";
 
@@ -101,12 +104,12 @@ int _i, _j, _k;
 UINT bufsizeF, bufsizeT;
 
 HRESULT hr;
-HWND hwnd;             // owner window
 HBRUSH hbrush;         // brush handle
 HFONT hFont, hFontTmp;
 
 POINT cact, csav, pt;  // Mouse
 
+HWND hwnd;             // owner window
 HWND hSpeed;           // handle to speed scroll bar 
 HWND hOK;              // handle to OK push button  
 HDC  hdc;              // device-context handle  
@@ -141,6 +144,7 @@ extern void errchk(char*, int);
 extern void ScrSavDrawText(HWND);
 extern void ScrSavSetupDrawFont(HWND);
 extern BOOL OpenBrowserDialog();
+extern BOOL DoRootFolder(WCHAR*);
 
 // The following globals are already defined in scrnsave.lib
 // extern HINSTANCE hMainInstance;              // screen saver instance handle
@@ -545,6 +549,16 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
       // Initialize the radio button time display control.
       SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK, timeFlag, 0);
 
+      // Get monitor geometrics and display info in setup dialog
+      monitor = MonitorFromWindow(hDlg, MONITOR_DEFAULTTONEAREST);
+      info.cbSize = sizeof(MONITORINFO);
+      GetMonitorInfo(monitor, &info);
+      //sprintf(DebugBuf, "Resolution: %d x %d", info.rcMonitor.right, info.rcMonitor.bottom);
+      monitor_width  = info.rcMonitor.right  - info.rcMonitor.left;
+      monitor_height = info.rcMonitor.bottom - info.rcMonitor.top;
+      sprintf(DebugBuf, "Resolution: %d x %d", monitor_width, monitor_height);
+      SetDlgItemText(hDlg, ID_RESOLUTION, DebugBuf);   // Set monitor resolution
+
       // Retrieve a handle to the OK push button control.  
       hOK = GetDlgItem(hDlg, ID_OK); 
       return TRUE;
@@ -699,16 +713,18 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           break;
 
         case ID_TEXTFILE:
-          OpenBrowserDialog();        // Get filename.FRT
+          if (OpenBrowserDialog() == FALSE)
+            DoRootFolder(NULL);       // Reset to the system root folder
+
           // Destroy the pending previous tooltip and update the Quick-Info 
           // with the currently valid filepath in use
           DestroyWindow(hwndTT);      
-          CreateToolTip(hButtonTextFile,  pszhaScrFilename,  NULL);    //, TTS_BALLOON (ugly)
+          CreateToolTip(hButtonTextFile, pszhaScrFilename, NULL);  //, TTS_BALLOON); (ugly)
           break;
  
         case ID_TIMEDISPLAY:
-          timeFlag ^= TRUE;
-          SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK, timeFlag, 0);   //hDlg = (HWND)lParam
+          timeFlag ^= TRUE;                                                    // Toggle time display
+          SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK, timeFlag, 0);  // hDlg = (HWND)lParam
           break;
 
         case ID_OK:

@@ -83,6 +83,7 @@ extern int timeFlag;
 
 // Centered Messagebox within parent window
 extern int CBTMessageBox(HWND, char*, char*, UINT); 
+extern int CBTCustomMessageBox(HWND, char*, char*, UINT, UINT);
 
 // Forward declaration of functions included in this code module:
 void GetDate();
@@ -129,7 +130,8 @@ void errchk(char* _filename, int _lastErr)
         break;
       case ERROR_BAD_FORMAT:        // Centered MessageBox box
         sprintf(DebugBuf, "%s\n%s", szErrorBadFormat, _filename);
-        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK);
+//ha//        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK);
+          CBTCustomMessageBox(NULL,  DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
         break;
       case ERROR_WRITE_PROTECT:     // 0x13
       case ERROR_WRITE_FAULT:       // 0x1D
@@ -153,7 +155,8 @@ void errchk(char* _filename, int _lastErr)
         break;
       case ERROR_INVALID_PARAMETER: // Centered MessageBox box
         sprintf(DebugBuf, "%s\n%s", szErrorInvalidParam, _filename);
-        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK); 
+//ha//        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK); 
+          CBTCustomMessageBox(NULL, DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
         break;
       default:                      // any other system error number
         sprintf(DebugBuf, "LastErrorCode = 0x%08X [%d]", _lastErr, _lastErr);
@@ -465,4 +468,3 @@ void GetDate()
 //ha//    }  // end for
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-                                                                                            

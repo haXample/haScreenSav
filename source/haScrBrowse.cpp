@@ -52,41 +52,76 @@ using namespace std;
 int _cbtFolderFlag = FALSE; // CBT Hook title/button string control
 
 TCHAR pathDisplay[MAX_PATH+1] = _T("");
-TCHAR MfpathDisplay[MAX_PATH+1] = _T("");
-
-TCHAR szPathSaveCpy[MAX_PATH+1];
-TCHAR szMfPathSaveCpy[MAX_PATH+1];
 
 BROWSEINFO bi = {0};                  // Global
 LPITEMIDLIST pidl = NULL;             // Global
 LPITEMIDLIST pidlPathSave = NULL;     // Global
 PCUIDLIST_ABSOLUTE pidlSave = NULL;   // Global
 
-BROWSEINFO Mfbi = {0};                // Global
-LPITEMIDLIST Mfpidl = NULL;           // Global
-PCUIDLIST_ABSOLUTE MfpidlSave = NULL; // Global
-
-TCHAR _mdfpath[1];   // Multifile destination path
-TCHAR mdPathSave[];  // Multifile destination path save
-
-char szExtensionSave[20];
-char oldFileExtension[20];
 char szPathSave[MAX_PATH+1];
 
 // Extern variables and functions
-extern char szhaScrFilename[];
-extern char* pszhaScrDfltFilename;
-extern char* pszhaScrFilename;
-extern void errchk(char*, int);
+extern TCHAR szhaScrFilename[];
+extern TCHAR* pszhaScrDfltFilename;
+extern TCHAR* pszhaScrFilename;
+
 extern HWND hwnd;
 
-// Forward declaration of functions included in this code module:
-void CenterInsideParent(HWND, char*);
+extern void errchk(char*, int);
 
+// Forward declaration of functions included in this code module:
 int CBTMessageBox(HWND, LPCTSTR, LPCTSTR, UINT);
 LRESULT CALLBACK CBTProc(INT, WPARAM, LPARAM);
 
-//////////////////////////////////////////////////////////////////////////////////
+//-----------------------------------------------------------------------------
+//
+//                           DoRootFolder
+//
+BOOL DoRootFolder(WCHAR *rootFolder)
+  {
+  ULONG         chEaten;  
+  ULONG         dwAttributes;  
+  IShellFolder* pDesktopFolder;
+    
+  if (SUCCEEDED(SHGetDesktopFolder(&pDesktopFolder)))  
+    {  
+    // Get PIDL for root folder  
+    pDesktopFolder->ParseDisplayName(NULL, NULL, rootFolder, &chEaten, &pidlPathSave, &dwAttributes);  
+    pDesktopFolder->Release();  
+    }  
+
+  // Store PIDL for root folder in BROWSEINFO  
+  bi.pidlRoot = pidlPathSave;  
+  //bi.lParam = NULL;  
+  return TRUE;  
+  } // DoRootFolder  
+ 
+//-----------------------------------------------------------------------------
+//
+//                       CustomMessageBox
+//
+// ... usage example 
+// int msgID = CustomMessageBox(m_hWnd, _T("TEXT"), _T("Caption"), MB_OKCANCEL, IDI_ICON1);
+//
+int CustomMessageBox(HWND _hwnd, char* lpText,  char* lpCaption,
+                                 UINT uType, UINT uIconResID)
+   {
+   MSGBOXPARAMS mbp;
+
+   mbp.cbSize             = sizeof(MSGBOXPARAMS);
+   mbp.hwndOwner          = _hwnd;                       // hMain
+   mbp.hInstance          = GetModuleHandle(NULL);
+   mbp.lpszText           = lpText;                      // Text within window
+   mbp.lpszCaption        = lpCaption;                   // Text in window header
+   mbp.dwStyle            = uType | MB_USERICON;         // Set Butoons and custom icon style
+   mbp.dwLanguageId       = MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT);
+   mbp.lpfnMsgBoxCallback = NULL;
+   mbp.dwContextHelpId    = 0;
+   mbp.lpszIcon           = MAKEINTRESOURCE(uIconResID); // Custom icon ID (haCrypt.rc)
+   
+   return MessageBoxIndirect(&mbp); // Returns button choice (e.g. msgID = IDYES, IDNO)
+   } // CustomMessageBox
+
 //-----------------------------------------------------------------------------
 //
 //                      - Centered Message Boxes -
@@ -146,14 +181,14 @@ PIDLIST_ABSOLUTE CBTSHBrowseForFolder(BROWSEINFO bi)
   return SHBrowseForFolder(&bi);
   }
 
-//ha//int CBTCustomMessageBox(HWND _hwnd, LPCTSTR lpText, LPCTSTR lpCaption,
-//ha//                        UINT uType, UINT uIconResID)
-//ha//  {
-//ha//  _hHook = SetWindowsHookEx(WH_CBT, &CBTProc, 0, GetCurrentThreadId());
-//ha//  return CustomMessageBox(_hwnd, lpText, lpCaption, uType, uIconResID);
-//ha//  }
+int CBTCustomMessageBox(HWND _hwnd, char* lpText, char* lpCaption,
+                        UINT uType, UINT uIconResID)
+  {
+  _hHook = SetWindowsHookEx(WH_CBT, &CBTProc, 0, GetCurrentThreadId());
+  return CustomMessageBox(_hwnd, lpText, lpCaption, uType, uIconResID);
+  }
 
-int CBTMessageBox(HWND _hwnd, LPCTSTR lpText, LPCTSTR lpCaption, UINT uType)
+int CBTMessageBox(HWND _hwnd, char* lpText, char* lpCaption, UINT uType)
   {
   _hHook = SetWindowsHookEx(WH_CBT, &CBTProc, 0, GetCurrentThreadId());
   return MessageBox(_hwnd, lpText, lpCaption, uType);
@@ -187,27 +222,28 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
     hParentWnd = GetForegroundWindow();
     hChildWnd  = (HWND)wParam;
 
-    // Change the text of the buttons: YES, NO, CANCEL, Make new folder, ...
-    if (GetDlgItem(hChildWnd, IDYES) != NULL)            // IDYES = System defined
-      SetDlgItemText(hChildWnd, IDYES, _T("Yes"));       // Always English text 'Yes'
-
-    if (GetDlgItem(hChildWnd, IDNO) != NULL)             // IDNO = System defined
-      SetDlgItemText(hChildWnd, IDNO, _T("No"));         // Always English text 'No'
-
-    if (GetDlgItem(hChildWnd, IDNEWFOLDER) != NULL)      // 0x3746 = System specific
-      SetDlgItemText(hChildWnd, IDNEWFOLDER, _T("Make new folder")); // Always English text
-
-//ha//if (GetDlgItem(hChildWnd, IDOK) != NULL)           // IDOK = System defined
-//ha//  UINT result = SetDlgItemText(hChildWnd, IDOK, _T("+ha+")); // Test only
-
     // Check if GetCurrentThreadId() is SHBrowseForFolder()
-    SetDlgItemText(hChildWnd, IDCANCEL, _T("Cancel")); // Multifile Selection 'Rename' or 'Crypto'
-    SetWindowText(hChildWnd, _T("Select a folder"));   // Browser's title field
+    // Change the text of the buttons: [YES], [NO], [CANCEL], [Make new folder], ...
+    // Buttons' text should be always in English.
+    SetDlgItemText(hChildWnd, IDCANCEL, _T("Faust I+II"));  // IDCANCEL = Faust.FRT Selection
+    SetWindowText(hChildWnd, _T("Browse for files *.FRT")); // Browser and CBTMessageBox title field
+
+//ha//    if (GetDlgItem(hChildWnd, IDYES) != NULL)            // IDYES = System defined
+//ha//      SetDlgItemText(hChildWnd, IDYES, _T("Yes"));
+//ha//
+//ha//    if (GetDlgItem(hChildWnd, IDNO) != NULL)             // IDNO = System defined
+//ha//      SetDlgItemText(hChildWnd, IDNO, _T("No"));
+//ha//
+//ha//    if (GetDlgItem(hChildWnd, IDNEWFOLDER) != NULL)      // 0x3746 = System specific
+//ha//      SetDlgItemText(hChildWnd, IDNEWFOLDER, _T("Make new folder"));
+//ha//
+//ha//    if (GetDlgItem(hChildWnd, IDOK) != NULL)             // IDOK = System defined
+//ha//      SetDlgItemText(hChildWnd, IDOK, _T("+ha+"));       // Test only (OK stays as is)
 
     // Center the client message box within the parent window
-    if ((hParentWnd != 0) && (hChildWnd != 0) &&
+    if ((hParentWnd != 0) && (hChildWnd != 0)               &&
         (GetWindowRect(GetDesktopWindow(), &rDesktop) != 0) &&
-        (GetWindowRect(hParentWnd, &rParent) != 0) &&
+        (GetWindowRect(hParentWnd, &rParent) != 0)          &&
         (GetWindowRect(hChildWnd, &rChild) != 0))
       {
       // Calculate client message box dimensions
@@ -222,7 +258,7 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
       cStart.x = (pCenter.x - (cWidth/2));
       cStart.y = (pCenter.y - (cHeight/2));
 
-      // Adjust if message box is off desktop
+      // Adjust if client box is off desktop
       // Note:
       //  Positioning must be done in DLG_SCRNSAVECONFIGURE (haSreensav.rc) 
       if (_cbtFolderFlag == FALSE)  // Default = (Custom)MessageBox(..) 
@@ -244,12 +280,100 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
   return 0;
   } // CBTProc
 
+//-----------------------------------------------------------------------------
+//
+//                  RepositionBrowseWindow
+//
+// !! Note: 'SetWindowPos(..)' doesn't work properly with SHBrowseForFolder() !!
+//
+void RepositionBrowseWindow(HWND _hwnd)
+      {
+      RECT BrowserRect;                       // Always the same values ??!!
+
+      ::GetWindowRect(_hwnd, &BrowserRect);   // The browser window
+
+      // Re-position the Browser window at UPPER left of Dialog-field
+      // 0,0 - Resizing doesn't work with SHBrowseForFolder()                                   
+      ::SetWindowPos(_hwnd, NULL,         
+                     BrowserRect.left, BrowserRect.top, 0, 0, 
+                     SWP_NOZORDER | SWP_NOSIZE); // | SWP_SHOWWINDOW | SWP_NOACTIVATE);
+
+      UpdateWindow(_hwnd);
+      } // RepositionBrowseWindow
+
+//-----------------------------------------------------------------------------
+//
+//                           BrowseCallbackProc
+//
+// https://learn.microsoft.com/en-us/windows/win32/api/shlobj_core/nc-shlobj_core-bffcallback
+// Set default path SHBrowseForFolder() to folder paths by BFFM_SETSELECTION message
+// 
+// The BFFCallBack function is an application-defined callback function
+// that receives event notifications from the 
+// Active Directory Domain Services container browser dialog box.
+// A pointer to this function is supplied to the container browser dialog box
+// in the pfnCallback member of the DSBROWSEINFO structure when the
+// DsBrowseForContainer function is called.
+//  BFFCallBack is a placeholder for the application-defined function name.
+// 
+// BFFCALLBACK Bffcallback;  // = BrowseCallbackProc below
+// 
+// int Bffcallback(
+//   [in] HWND hwnd,
+//   [in] UINT uMsg,
+//   [in] LPARAM lParam,
+//   [in] LPARAM lpData
+// )
+// {...}
+// 
+// BFFM_SETSELECTION
+// This message selects an item in the dialog box.
+// The lParam of this message is a pointer to a TCHAR string
+// that contains the ADsPath of the item to be selected.
+// Even though there are ANSI and Unicode versions of this message,
+// both versions take a pointer to a Unicode string.
+//
+// BFFM_SELCHANGED
+// This notification is sent after the selection in the dialog box is changed.
+//
+// lParam is a pointer to a Unicode string that contains the ADsPath of the newly selected item.
+//
+// bi.lParam = LPARAM lpData 
+//
+int CALLBACK BrowseCallbackProc(HWND _hwnd, UINT uMsg, LPARAM lParam, LPARAM lpData)
+  {
+  switch (uMsg)
+    {
+    case BFFM_INITIALIZED:
+      RepositionBrowseWindow(_hwnd);
+      SendMessage(_hwnd, BFFM_SETEXPANDED,         // Select path and show files
+                        TRUE, 
+                        lpData);
+                         
+      SendMessage(_hwnd, BFFM_SETSELECTION,        // works, szhaScrFilename
+                  TRUE,
+                  (LPARAM)szhaScrFilename); 
+      break;
+
+    case BFFM_SELCHANGED:
+//ha//      SendMessage(_hwnd, BFFM_SETSELECTION,  // works, but makes no sense
+//ha//                  TRUE,
+//ha//                  (LPARAM)szhaScrFilename); 
+      break;
+    } // end switch
+
+  return 0;
+  } // BrowseCallbackProc
+
 //------------------------------------------------------------------------------
 //
 //                      OpenBrowserDialog - Rename
 //
 // Unfortunately, 'ShBrowseForFolder()' does not allow you to specify 
-//  different text for the window title.
+//  different text for the window title itself. 
+// A sophisticated HOOK is required to accomplish this. See above:
+//  1) PIDLIST_ABSOLUTE CBTSHBrowseForFolder(BROWSEINFO bi)
+//  2) LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
 //
 // typedef struct _browseinfoW {
 //   HWND              hwndOwner;
@@ -268,10 +392,6 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
 //
 BOOL OpenBrowserDialog()
   {
-  //-----------------------------------------------------------------------
-  // If multiple files are selected
-  //  open a dialog box to choose a folder where to save the selected files
-  //
   int i;
   BOOL bSuccess = FALSE;
   IMalloc* imalloc = 0;
@@ -281,17 +401,17 @@ BOOL OpenBrowserDialog()
   bi.hwndOwner      = hwnd;
   bi.pidlRoot       = pidlPathSave; // NULL;       
   bi.pszDisplayName = pathDisplay;
-  bi.lpszTitle      = _T("Choose a folder, and select a file\n")
+  bi.lpszTitle      = _T("Choose a folder, and select a file\n") // Comment-field text
                       _T("of type filename.FRT\n");
-  bi.ulFlags        = BIF_NEWDIALOGSTYLE | BIF_NONEWFOLDERBUTTON | BIF_BROWSEINCLUDEFILES;// | BIF_NOTRANSLATETARGETS; // | BIF_UAHINT;
-  //bi.lpfn           = BrowseCallbackProc;
+  bi.ulFlags        = BIF_NEWDIALOGSTYLE | BIF_NONEWFOLDERBUTTON | BIF_BROWSEINCLUDEFILES;
+  bi.lpfn           = BrowseCallbackProc;
   bi.lParam         = (LPARAM)szPathSave;
   bi.iImage         = 0;
 
-  pidl = CBTSHBrowseForFolder(bi);           // Get current LPITEMIDLIST
-  _cbtFolderFlag = FALSE;                    // CBT Hook default 
+  pidl = CBTSHBrowseForFolder(bi);  // Get current LPITEMIDLIST
+  _cbtFolderFlag = FALSE;           // CBT Hook default 
 
-  pidlSave = ILCloneFull(pidl);   // Clone the LPITEMIDLIST for convenient usage
+  pidlSave = ILCloneFull(pidl);     // Clone the LPITEMIDLIST for convenient usage
 
   if (pidl != NULL)
     {
@@ -299,28 +419,17 @@ BOOL OpenBrowserDialog()
     //  and concatenate a backslash
     if (SHGetPathFromIDList(pidl, szPathSave))
       {
-      if (GetFileAttributes(szPathSave) & FILE_ATTRIBUTE_DIRECTORY)
-        {
-        lstrcat(szPathSave, _T("\\"));  // It's a folder, so append it with '\'
-        oldFileExtension[0] = 0;        // Clear file extension pattern
-        } 
-
-      else                              // It's path + filename
-        {
-/////////////////// Screen saver stuff /////////////////////////////////////////
-        for (i=lstrlen(szPathSave); i>0; i--)  // Search start-of-filename    //
-          {                                    //  (which is end-of-path)     //
-          if (szPathSave[i] == (WCHAR)'.') break;                             //
-          }                                                                   //
-        if (StrCmpI(&szPathSave[i], ".frt") != 0)                             //
-          errchk(pszhaScrFilename, ERROR_BAD_FORMAT);                         //
-        else bSuccess = TRUE;                                                 //
-        } // end else                                                         //
-////////////////////////////////////////////////////////////////////////////////
+      /////////// Screen saver stuff /////////////////////////////////////////
+      for (i=lstrlen(szPathSave); i>0; i--)     // Search start-of-filename //
+        {                                       //  (which is end-of-path)  //
+        if (szPathSave[i] == (WCHAR)'.') break;                             //
+        }                                                                   //
+      if (StrCmpI(&szPathSave[i], ".frt") != 0)                             //
+        errchk(szPathSave, ERROR_BAD_FORMAT);                               //
+      else bSuccess = TRUE;                                                 //
+      ////////////////////////////////////////////////////////////////////////
       } // end if (SHGetPathFromIDList)
-
-//ha//    bSuccess = TRUE;
-    } // end if (pidl)
+     } // end if (pidl)
 
   // Update the buffer with the currently valid filepath
   // or set the default to the internal .\haFaust.FRT

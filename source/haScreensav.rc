@@ -27,7 +27,8 @@
 #include "windows.h"
 #include "hascreensav.h"
 
-ID_BE_SEEING_YOU BITMAP "haScrBeSeeingYou.bmp" // Image for haScreensav menu dialog
+ID_BE_SEEING_YOU  BITMAP "haScrBeSeeingYou.bmp" // Image for haScreensav menu dialog
+IDI_BE_SEEING_YOU ICON   "beSeeingYou32x32.ico" // Program Symbol Icon
 
 // Provide the application name and the inifile name in the .rc file. 
 // So that these names can be retrieved by the LoadString(,IDS_..,) function.
@@ -59,6 +60,7 @@ BEGIN
     PUSHBUTTON    "Font Type",    ID_FONTSIZE,   117+32+20+10,   32,  40, 14
     RADIOBUTTON   "Time display", ID_TIMEDISPLAY   7,            50,  52, 14
     PUSHBUTTON    "Text File",    ID_TEXTFILE,     7,            76,  40, 14
+    LTEXT         "",             ID_RESOLUTION ,  6+32+20+10,   53, 106, 14  // optional
 END
 
 ////////////////////////////////////////////////////////////////////////////////
