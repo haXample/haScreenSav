@@ -28,7 +28,8 @@
 #include "hascreensav.h"
 
 ID_BE_SEEING_YOU  BITMAP "haScrBeSeeingYou.bmp" // Image for haScreensav menu dialog
-IDI_BE_SEEING_YOU ICON   "beSeeingYou32x32.ico" // Program Symbol Icon
+IDI_BE_SEEING_YOU ICON   "beSeeingYou32x32.ico" // Program Symbol Icon (dialog boxes)
+IDI_HASCRABOUT    ICON   "beSeeingYou16x16.ico" // Program Symbol Icon (Title icon)
 
 // Provide the application name and the inifile name in the .rc file. 
 // So that these names can be retrieved by the LoadString(,IDS_..,) function.

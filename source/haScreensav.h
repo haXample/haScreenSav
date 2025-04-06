@@ -39,11 +39,11 @@
 #define ID_TEXTFILE      112 
 #define ID_TIMEDISPLAY   113 
 #define ID_FILENAME      114 
-#define ID_RESOLUTION		 115
+#define ID_RESOLUTION    115
 
 #define ID_BE_SEEING_YOU  120  // BMP image instead of ICON
-#define IDI_BE_SEEING_YOU 121  // ICON image
-
+#define IDI_BE_SEEING_YOU 121  // ICON image 32x32
+#define IDI_HASCRABOUT    122  // ICON image 16x16
 
 #define IDS_INIFILE      200
 #define IDS_APPNAME      201
@@ -85,10 +85,10 @@
 #define _FONTSTYLEBOLD    0x02 
 
 // Workaround to prevent fail of 'SendMessage TTM_ADDTOOL'.
-#if _WIN32_WINNT > 0x0500														     // Current Version Windows 10 = 1537
-  #define SIZE_TOOLINFO sizeof(TOOLINFO) - sizeof(void*) // 44 bytes (TTTOOLINFOW_V2_SIZE)	
-#else																								
-  #define SIZE_TOOLINFO sizeof(TOOLINFO)								 // 48 bytes (sizeof(TOOLINFO))
-#endif																								
+#if _WIN32_WINNT > 0x0500                                // Current Version Windows 10 = 1537
+  #define SIZE_TOOLINFO sizeof(TOOLINFO) - sizeof(void*) // 44 bytes (TTTOOLINFOW_V2_SIZE)  
+#else                                               
+  #define SIZE_TOOLINFO sizeof(TOOLINFO)                 // 48 bytes (sizeof(TOOLINFO))
+#endif                                                
 
 //-----------------------------------------------------------------------------
