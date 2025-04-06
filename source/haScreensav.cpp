@@ -498,9 +498,14 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
 BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
                                        WPARAM wParam, LPARAM lParam)
   {
+  // Get handle to the icon IDI_HASCRABOUT for the upper left corner of the title bar
+  HICON hIcon16x16 = (HICON)LoadIcon(hMainInstance, MAKEINTRESOURCE(IDI_HASCRABOUT));
+
   switch(message)
     {
     case WM_INITDIALOG:
+     // Set the icon IDI_HASCRABOUT at the upper left corner of the title bar
+      SendMessage(hDlg, WM_SETICON, ICON_SMALL, (LPARAM)(hIcon16x16));
       // Retrieve the application name (=section) from the .rc file. 
       // Adding error checking to verify LoadString success for both calls.
       if (LoadString(hMainInstance, IDS_APPNAME, szAppName, 80 * sizeof(TCHAR)) == 0)
