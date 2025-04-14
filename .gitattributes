@@ -1,9 +1,9 @@
 source/*.cpp linguist-language=C++
 source/*.h linguist-language=C++
-source/*.SCR linguist-generated
-source/*.ico binary
-soucre/*.bmp binary
 source/*.rc linguist-language=C++
 Source/*.NMK linguist-language=C++
+source/*.SCR linguist-generated
+source/*.ico linguist-generated
+soucre/*.bmp linguist-generated
 source/*.FRT linguist-documentation
 document/** linguist-documentation
