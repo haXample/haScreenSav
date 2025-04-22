@@ -109,6 +109,7 @@ HFONT hFont, hFontTmp;
 
 POINT cact, csav, pt;  // Mouse
 
+HWND hChooseColor;
 HWND hwnd;             // owner window
 HWND hSpeed;           // handle to speed scroll bar 
 HWND hOK;              // handle to OK push button  
@@ -504,7 +505,7 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
   switch(message)
     {
     case WM_INITDIALOG:
-     // Set the icon IDI_HASCRABOUT at the upper left corner of the title bar
+      // Set the icon IDI_HASCRABOUT at the upper left corner of the title bar
       SendMessage(hDlg, WM_SETICON, ICON_SMALL, (LPARAM)(hIcon16x16));
       // Retrieve the application name (=section) from the .rc file. 
       // Adding error checking to verify LoadString success for both calls.
@@ -630,14 +631,30 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           // static COLORREF acrCustClr[16]; // array of custom colors 
           // static DWORD rgbCurrent;        // initial color selection
           //
+          // typedef struct tagCHOOSECOLORA {
+          //   DWORD        lStructSize;
+          //   HWND         hwndOwner;
+          //   HWND         hInstance;
+          //   COLORREF     rgbResult;
+          //   COLORREF     *lpCustColors;
+          //   DWORD        Flags;           //  CC_ENABLETEMPLATE | CC_FULLOPEN | CC_RGBINIT
+          //   LPARAM       lCustData;
+          //   LPCCHOOKPROC lpfnHook;
+          //   LPCSTR       lpTemplateName;
+          //   LPEDITMENU   lpEditInfo;
+          // } CHOOSECOLORA,*LPCHOOSECOLORA;
+          // 
           // Initialize CHOOSECOLOR structure
           ZeroMemory(&cc, sizeof(cc));
           cc.lStructSize = sizeof(cc);
           cc.hwndOwner = hwnd;
-          cc.lpCustColors = (LPDWORD) acrCustClr;
+          cc.lpCustColors = (LPDWORD)acrCustClr;
           cc.rgbResult = rgbColor;
           cc.Flags = CC_FULLOPEN | CC_RGBINIT;
            
+          // Display example text box in setup dialog with current color
+          ScrSavSetupDrawFont(hDlg);  
+          EnableWindow(GetDlgItem(hDlg, ID_OK), FALSE);  // Disable (=Gray) OK Button
           if (ChooseColor(&cc) == TRUE) 
             {
             // COLORREF cc.rgbResult: value has the following hexadecimal form:
@@ -648,8 +665,9 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
             rgbColor = cc.rgbResult;
             } // ChooseColor
 
-          // Display example text box in setup dialog
+          // Display example text box in setup dialog with updated color
           ScrSavSetupDrawFont(hDlg);  
+          EnableWindow(GetDlgItem(hDlg, ID_OK), TRUE);   // Enable OK Button
           break;
 
         case IDM_FONT_DFLT:
@@ -757,7 +775,12 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           // No break - Fall thru into case ID_CANCEL ..
          
         case ID_CANCEL:
-          EndDialog(hDlg, LOWORD(wParam) == ID_OK); 
+          EndDialog(hDlg, LOWORD(wParam) == ID_OK);
+          // Close any possibly open ChooseColor Dialog
+          hChooseColor = FindWindowA(NULL, "Farbe");    // Language=German
+          DestroyWindow(hChooseColor); 
+          hChooseColor = FindWindowA(NULL, "Color");    // Language=US
+          DestroyWindow(hChooseColor); 
           return TRUE;
           break;
 
