@@ -58,16 +58,15 @@ RECT rcStr, rcDebug;
 int rcStrX, rcStrY; // The place where the text box actually pops up
 
 // Extern variables and functions
+extern LONG timeTxtHeight;
 extern char DebugBuf[];             // Temporary buffer for formatted text
 extern int DebugbufSize;
 extern char* psz_DebugBuf;
 
 extern CHAR* pszhaScrFontType;
-
 extern CHAR* pszString;
 
 extern HDC  hdc;             // device-context handle  
-
 extern HWND hWnd;            // owner window
 extern HBRUSH hbrush;        // brush handle
 extern HFONT hFont, hFontTmp;
@@ -80,6 +79,7 @@ extern HFONT hFont, hFontTmp;
 //   LONG bottom;
 // } RECT, *PRECT, *NPRECT, *LPRECT;
 extern RECT rc;
+extern SIZE rcSize;           // size of time string
 
 extern DWORD rgbColor;        // initial color selection
 extern COLORREF acrCustClr[]; // array of custom colors 
@@ -121,6 +121,18 @@ extern void GetText();
 //   [in]      int    dy    // Amount to move the rectangle up or down. Negative value moves up.
 // );
 //
+// The DrawText function draws formatted text in the specified rectangle.
+//  It formats the text according to the specified method
+//  (expanding tabs, justifying characters, breaking lines, and so forth).
+// 
+// int DrawText(
+//   [in]      HDC     hdc,
+//   [in, out] LPCTSTR lpchText,
+//   [in]      int     cchText,
+//   [in, out] LPRECT  lprc,
+//   [in]      UINT    format
+// );
+// 
 void ScrSavDrawText(HWND _hwnd)
   {
   hdc = GetDC(_hwnd);
@@ -178,20 +190,33 @@ void ScrSavDrawText(HWND _hwnd)
       break;
     } // end switch
   
-  textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
-  if (timeFlag) textHeight +=100;               // Adjust height for time display
+  // Init textbox at upper left corner (rcStr.right: see DT_CALCRECT)
+  SetRect(&rcStr, 0, 0, 0, textHeight); 
 
-  if (fontSize < _FONTSIZE16) textWidth = 680;  // Estimated width of longest text string that can occur
-  else textWidth = 800;
-  SetRect(&rcStr, 0, 0, textWidth, textHeight); // Init textbox at upper left corner
+  // DT_CALCRECT Determines the width and height of the rectangle.
+  //             If there are multiple lines of text, 
+  //             DrawText uses the width of the rectangle pointed to by the lpRect parameter
+  //             and extends the base of the rectangle to bound the last line of text.
+  //             If the largest word is wider than the rectangle, the width is expanded.
+  //             If the text is less than the width of the rectangle,
+  //             the width is reduced. If there is only one line of text,
+  //             DrawText modifies the right side of the rectangle so that it bounds
+  //             the last character in the line.
+  //             In either case, DrawText returns the height of the formatted text
+  //             but does not draw the text. 
+  // 
+  textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
+  if (timeFlag) textHeight += (2 * rcSize.cy);        // Adjust height for time display
+
+  SetRect(&rcStr, 0, 0, rcStr.right, textHeight);     // Update textbox height
  
   rcStrX = (randomX % monitor_width);           // Get random position {X,Y}
   rcStrY = (randomY % monitor_height);
 
-  if (rcStrX == 0) rcStrX = 100;                // Upper left {100,100}
-  if (rcStrY == 0) rcStrY = 100;
-  if (rcStrX > (monitor_width -textWidth))  rcStrX -= (monitor_width-textWidth-100);
-  if (rcStrY > (monitor_height-textHeight)) rcStrY  = 100; // Reset to top
+  if (rcStrX < 100) rcStrX = 100;                // Upper left {100,100}
+  if (rcStrY < 100) rcStrY = 100;
+  if (rcStrX > (monitor_width -rcStr.right))  rcStrX  = (monitor_width-rcStr.right-100);
+  if (rcStrY > (monitor_height-textHeight))   rcStrY  = 100; // Reset to top
   
   OffsetRect(&rcStr, rcStrX, rcStrY);           // Move textbox randomly 
   DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);

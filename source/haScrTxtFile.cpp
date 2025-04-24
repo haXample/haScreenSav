@@ -60,8 +60,16 @@ char lh_time[8+1];       // = "hh:mm.ss"
 int textMaxIndex = FAUST_MAXINDEX;
 int txtIndex=0;
 int fhTxt=0;             // Filehandle read (*.TXT)
-long  bytesrd;           // Textfile number of byte read
 
+long bytesrd;            // Textfile number of byte read
+
+// // SIZE structure
+// typedef struct tagSIZE {
+//   LONG cx;               // Specifies the rectangle's width.
+//   LONG cy;               // Specifies the rectangle's height.
+// } SIZE, *PSIZE, *LPSIZE;
+SIZE rcSize;
+  
 // Extern variables and functions
 extern char DebugBuf[];             // Temporary buffer for formatted text
 extern int DebugbufSize;
@@ -81,8 +89,10 @@ extern int haFaust_frt03size;
 extern int haFaust_frtsize;
 extern int timeFlag;
 
+extern HDC  hdc;                   // device-context handle  
+
 // Centered Messagebox within parent window
-extern int CBTMessageBox(HWND, char*, char*, UINT); 
+extern int CBTMessageBox(HWND, char*, char*, UINT);  
 extern int CBTCustomMessageBox(HWND, char*, char*, UINT, UINT);
 
 // Forward declaration of functions included in this code module:
@@ -130,8 +140,7 @@ void errchk(char* _filename, int _lastErr)
         break;
       case ERROR_BAD_FORMAT:        // Centered MessageBox box
         sprintf(DebugBuf, "%s\n%s", szErrorBadFormat, _filename);
-//ha//        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK);
-          CBTCustomMessageBox(NULL,  DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
+        CBTCustomMessageBox(NULL,  DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
         break;
       case ERROR_WRITE_PROTECT:     // 0x13
       case ERROR_WRITE_FAULT:       // 0x1D
@@ -155,8 +164,7 @@ void errchk(char* _filename, int _lastErr)
         break;
       case ERROR_INVALID_PARAMETER: // Centered MessageBox box
         sprintf(DebugBuf, "%s\n%s", szErrorInvalidParam, _filename);
-//ha//        CBTMessageBox(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK); 
-          CBTCustomMessageBox(NULL, DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
+        CBTCustomMessageBox(NULL, DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
         break;
       default:                      // any other system error number
         sprintf(DebugBuf, "LastErrorCode = 0x%08X [%d]", _lastErr, _lastErr);
@@ -410,6 +418,25 @@ void GetText()
 //
 // Retrieves the system's local date/time and emits date and time as strings.
 //
+// The GetTextExtentPoint32 function computes the width and height
+//  of the specified string of text.
+// 
+// BOOL GetTextExtentPoint32A(
+//   [in]  HDC    hdc,      // A handle to the device context.
+//   [in]  LPCSTR lpString, // A pointer to a buffer that specifies the text string.
+//                          //  The string does not need to be null-terminated,
+//                          //  because the c parameter specifies the str length.
+//   [in]  int    c,        // The length of the string pointed to by lpString.
+//   [out] LPSIZE psizl     // A pointer to a SIZE structure that receives
+// );                       // the dimensions of the string, in logical units.
+// 
+// // SIZE structure
+// typedef struct tagSIZE {
+//   LONG cx;               // Specifies the rectangle's width.
+//   LONG cy;               // Specifies the rectangle's height.
+// } SIZE, *PSIZE, *LPSIZE;
+// SIZE rcXY;
+//  
 // typedef struct _SYSTEMTIME {
 //   WORD wYear;
 //   WORD wMonth;
@@ -428,6 +455,7 @@ void GetDate()
   // Build a string (lh_time) representing the time: Hour:Minute.
   GetLocalTime(&stLocal);
   sprintf(lh_time, "[%02d:%02d]", stLocal.wHour, stLocal.wMinute);
+  GetTextExtentPoint32A(hdc, lh_time, strlen(lh_time), &rcSize);
   } // Getdate
 
 //-----------------------------------------------------------------------------
