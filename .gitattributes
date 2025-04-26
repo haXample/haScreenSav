@@ -5,5 +5,7 @@ Source/*.NMK linguist-language=C++
 source/*.SCR linguist-generated
 source/*.ico linguist-generated
 soucre/*.bmp linguist-generated
+soucre/*.scr linguist-generated
+soucre/*.ini linguist-generated
 source/*.FRT linguist-documentation
 document/** linguist-documentation
