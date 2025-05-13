@@ -430,15 +430,14 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           // Provide enough time to read the text
           for (_i=0; _i < (strlen(pszString) * lSpeed); _i++)
             {
-            // Delay 10ms  (=10 sleep tics of 1ms)
+            // Additional delay of 10ms/per text-character (sleep tics = 1ms)
             Sleep(10);
-            // Abort if SPACE or ESC-key has been pressed. 
+            // Abort if immediately if ESC-key has been pressed. 
             if (GetAsyncKeyState(VK_ESCAPE) != 0) break;
-            if (GetAsyncKeyState(VK_SPACE) != 0) break;
             // Abort if Mouse has been moved. 
             GetCursorPos(&cact);
             if (cact.x != csav.x || cact.y != csav.y) break;
-            }
+            } // end for
           return 0;
           break;
 
@@ -447,6 +446,25 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           return 0;
           break;
         } // end switch
+
+    // Allow an extra time of 30s to read if SPACE-key has been pressed. 
+    // WM_KEYDOWN - Normally terminates the screen saver
+    // If SPACE-key had been pressed, simulating a return from WM_TIMER,
+    // will not terminate but continue the screen saver.
+    case WM_KEYDOWN:
+      if (GetAsyncKeyState(VK_SPACE) != 0)
+        {
+        Sleep(30000);
+        // Discard pending SPACE-key (flush key buffer)
+        while (GetAsyncKeyState(VK_SPACE) != 0) ;
+        return DefScreenSaverProc(hWnd, WM_TIMER, wParam, lParam);
+        } // if (VK_SPACE)
+      else
+       {
+       // Always ignore SPACE-key (do not exit screen saver on SPACE-key)
+       while (GetAsyncKeyState(VK_SPACE) != 0) ;
+       break;
+       }
 
     case WM_DESTROY:
       // When the WM_DESTROY message is issued, the screen saver 

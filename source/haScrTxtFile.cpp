@@ -117,67 +117,64 @@ void errchk(char* _filename, int _lastErr)
   char szErrorPathNotFound[] = "Path not found";
   char szErrorFileIsUsed[]   = "File is being used by another process.";
   char szErrorAccessDenied[] = "Access denied";         
-  char szErrorDiskFull[]     = "Disk full.";
   char szErrorFileWrite[]    = "File write failed.";
   char szErrorFileRead[]     = "File read failed.";
-  char szErrorFileExists[]   = "File exists.";
   char szErrorInvalidParam[] = "Invalid Parameter";
   char szErrorBadFormat[]    = "Bad Format";
+  char szAbort[]             = "-- ABORT --";
+
+  int exitCode = 0;                 // Initially allow retry
 
   if (_lastErr != 0)
     {
     switch(_lastErr)
       {
       case ERROR_FILE_NOT_FOUND:    // 0x02
-        MessageBoxA(NULL, szErrorFileNotFound, _filename, MB_ICONERROR | MB_OK);
+        sprintf(DebugBuf, "%s\n%s", szErrorFileNotFound, _filename);
         break;
       case ERROR_PATH_NOT_FOUND:    // 0x03
       case ERROR_BAD_NETPATH:       // 0x35
-        MessageBoxA(NULL, szErrorPathNotFound, _filename, MB_ICONERROR | MB_OK);
-        break;                                                                                                 
-      case ERROR_ACCESS_DENIED:     // 0x05
-        MessageBoxA(NULL, szErrorAccessDenied, _filename, MB_ICONERROR | MB_OK);
+        sprintf(DebugBuf, "%s\n%s", szErrorPathNotFound, _filename);
         break;
-      case ERROR_BAD_FORMAT:        // Centered MessageBox box
+      case ERROR_ACCESS_DENIED:     // 0x05
+        sprintf(DebugBuf, "%s\n%s", szErrorAccessDenied, _filename);
+        break;
+      case ERROR_BAD_FORMAT:        
         sprintf(DebugBuf, "%s\n%s", szErrorBadFormat, _filename);
-        CBTCustomMessageBox(NULL,  DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
+        break;
+      case ERROR_SHARING_VIOLATION: // 0x20
+        sprintf(DebugBuf, "%s\n%s", szErrorFileIsUsed, _filename);
+        break;
+      case ERROR_OPEN_FAILED:       // 0x6E
+        sprintf(DebugBuf, "%s\n%s", szErrorOpenFailed, _filename);
+        break;
+      case ERROR_INVALID_PARAMETER: 
+        sprintf(DebugBuf, "%s\n%s", szErrorInvalidParam, _filename);
         break;
       case ERROR_WRITE_PROTECT:     // 0x13
       case ERROR_WRITE_FAULT:       // 0x1D
       case ERROR_NET_WRITE_FAULT:   // 0x58
-        MessageBoxA(NULL, szErrorFileWrite, _filename, MB_ICONERROR | MB_OK);
+        sprintf(DebugBuf, "%s\n%s\n\n%s", szErrorFileWrite, _filename, szAbort);
+        exitCode = SYSERR_ABORT;
         break;
       case ERROR_NOT_READY:         // 0x15
-        MessageBoxA(NULL, szErrorNotReady, _filename, MB_ICONERROR | MB_OK);
+        sprintf(DebugBuf, "%s\n%s\n\n%s", szErrorNotReady, _filename, szAbort);
+        exitCode = SYSERR_ABORT;
         break;                                                                                                 
       case ERROR_READ_FAULT:        // 0x1E
-        MessageBoxA(NULL, szErrorFileRead, _filename, MB_ICONERROR | MB_OK);
-        break;
-      case ERROR_SHARING_VIOLATION: // 0x20
-        MessageBoxA(NULL, szErrorFileIsUsed, _filename, MB_ICONERROR | MB_OK);
-        break; 
-      case ERROR_FILE_EXISTS:       // 0x50
-        MessageBoxA(NULL, szErrorFileExists, _filename, MB_ICONERROR | MB_OK);
-        break;
-      case ERROR_OPEN_FAILED:       // 0x6E
-        MessageBoxA(NULL, szErrorOpenFailed, _filename, MB_ICONERROR | MB_OK);
-        break;
-      case ERROR_INVALID_PARAMETER: // Centered MessageBox box
-        sprintf(DebugBuf, "%s\n%s", szErrorInvalidParam, _filename);
-        CBTCustomMessageBox(NULL, DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
+        sprintf(DebugBuf, "%s\n%s\n\n%s", szErrorFileRead, _filename, szAbort);
+        exitCode = SYSERR_ABORT;
         break;
       default:                      // any other system error number
-        sprintf(DebugBuf, "LastErrorCode = 0x%08X [%d]", _lastErr, _lastErr);
-        MessageBoxA(NULL, DebugBuf, _filename, MB_ICONERROR | MB_OK);
+        sprintf(DebugBuf, "LastErrorCode = 0x%08X [%d]\n\n%s", _lastErr, _lastErr, szAbort);
+        exitCode = SYSERR_ABORT;
         break;
       } // end switch
 
-    // Allow debugging if parameter problem or bad file format
-    if (_lastErr != ERROR_INVALID_PARAMETER && _lastErr != ERROR_BAD_FORMAT) 
-      {
-      MessageBoxA(NULL, "Abort", "  haScreensav.scr", MB_ICONWARNING | MB_OK);
-      exit(SYSERR_ABORT);
-      }
+    // Display centered MessageBox
+    CBTCustomMessageBox(NULL,  DebugBuf, _filename, MB_OK, IDI_BE_SEEING_YOU);
+    // Exit-Abort to system 
+    if (exitCode == SYSERR_ABORT) exit(SYSERR_ABORT);
     } // end if
   } // errchk
 
@@ -368,7 +365,8 @@ void GetText()
   txtIndex = rand() % (textMaxIndex+1);
   if (txtIndex == 0) txtIndex++;               // Texts start with "1. "
 
-//ha//txtIndex=369; // see misc1.frt "369. Bricklayer's accident report"   DEBUG TEST ONLY
+//ha//txtIndex++;   // DEBUG TEST ONLY
+//ha//txtIndex=369; // DEBUG TEST ONLY see misc1.frt "369. Bricklayer's accident report"   
 
   // BinHex2AscDec
   sprintf(ascDecNrStr, "%d.", txtIndex);       // Start of text
