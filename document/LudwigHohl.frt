@@ -39,7 +39,7 @@ VOM ERREICHBAREN UND VOM UNERREICHBAREN
   Denn darin sind wir einig, dass die hohen Dinge erhalten,
   die niedrigen ausgerottet (bekämpft) werden sollen.
   Der Irrtum besteht darin, dass man die Formen für die Dinge
-  selber nimmt und folglich eine Form, in welcher das Hohe 
+  selber nimmt und folglich eine Form, in welcher das Hohe
   (das Gute, das Richtige) einmal GEWESEN ist, zu erhalten sucht.
 
 
@@ -68,7 +68,7 @@ IM GEBIRGE
   Nie zu vergessen in welchem Maße Worte kostbare Dinge sind,
   die einmal aufgehen wie Samen, die, behalten
   - man kann sie doch wie materiell behalten im Gedächtnis -
-  ihre Zeit abwarten zu größter Aktion, 
+  ihre Zeit abwarten zu größter Aktion,
   strahlend erwachend in Kraft, nach Jahren.
 
 
@@ -94,7 +94,7 @@ IM GEBIRGE
 14. Ludwig Hohl, Die Notizen II.52
   Es gibt nur ein Unglück: Dass einer nichts zu tun hat
   oder gezwungen wird, etwas Falsches zu tun.
-  Falsch ist jede Tätigkeit, 
+  Falsch ist jede Tätigkeit,
   die die Fähigkeiten des Ausübenden nicht steigert.
 
 
@@ -118,7 +118,7 @@ IM GEBIRGE
 
 
 19. Ludwig Hohl, Die Notizen II.72
-  Bei Hamsun findet sich der schöne Satz, 
+  Bei Hamsun findet sich der schöne Satz,
   dass es nicht eine Ursache gibt, sondern Ursachenreihen.
 
 
@@ -170,8 +170,8 @@ IM GEBIRGE
 
 
 28. Ludwig Hohl, Die Notizen II.145
-  Vollkommener Sozialismus und Geist 
-  sind einer nur das Surrogat des andern; 
+  Vollkommener Sozialismus und Geist
+  sind einer nur das Surrogat des andern;
   das heißt, vollkommener Sozialismus ersetzt den Geist
   und wirklicher Geist den Sozialismus.
 
@@ -193,17 +193,17 @@ IM GEBIRGE
 31. Ludwig Hohl, Die Notizen II.154
 VERHÄLTNIS DES GEISTIGEN ARBEITERS ZUM VOLK
   Es handelt sich für ihn nicht darum, sich hinabzuheben,
-  sondern, es zu sich emporzuheben. 
-  Das möchten denn freilich jene nicht zugeben, 
+  sondern, es zu sich emporzuheben.
+  Das möchten denn freilich jene nicht zugeben,
   die vor allem die Dialekte fördern wollen.
-  (sondern man sollte Kindern eine Sprache geben, 
+  (sondern man sollte Kindern eine Sprache geben,
    die sie weiterführt;
-   die mehr Menschen sprechen; 
+   die mehr Menschen sprechen;
    die mehr und Genaueres zu sagen erlaubt).
 
 
 32. Ludwig Hohl, Die Notizen II.160
-  Und dies ist die Frage: 
+  Und dies ist die Frage:
   Warum die größten Lehrer der Menschheit immer stellenlos sind.
 
 
@@ -212,22 +212,22 @@ VERHÄLTNIS DES GEISTIGEN ARBEITERS ZUM VOLK
 
 
 34. Ludwig Hohl, Die Notizen II.170
-  Aber bis der Mensch erkennen kann, 
-  dass man sich nicht durch Bewahren bewahrt, 
+  Aber bis der Mensch erkennen kann,
+  dass man sich nicht durch Bewahren bewahrt,
   sondern durch sich Hinwenden (Ausgeben) -!
-  Durch Hineinbegeben in immer neuen Stoff wird man ewig, 
+  Durch Hineinbegeben in immer neuen Stoff wird man ewig,
   durch sich halten Wollen in dem einen erlöscht man.
 
 
 35. Ludwig Hohl, Die Notizen II.179
 ÜBER DAS BEWEISEN
-  Alles Beweisen ist relativ. Beweisen heißt nur, 
+  Alles Beweisen ist relativ. Beweisen heißt nur,
   ein Ding mit mehr Dingen in (richtige!) Verbindung bringen.
   Es gibt kein anderes Beweisen als Zusammenhänge aufzeigen.
   Die Absolutheit erstreckt sich eben so weit,
   dass mit dem nächsten Glied der Zusammenhang voll aufgezeigt wird.
   Im Leben ist dasselbe nicht möglich,
-  weil jedes Ding RINGSUM an Dinge grenzt 
+  weil jedes Ding RINGSUM an Dinge grenzt
   und alle diese Dinge sich untereinander verschieben.
 
 
@@ -246,7 +246,7 @@ VERHÄLTNIS DES GEISTIGEN ARBEITERS ZUM VOLK
 38. Ludwig Hohl, Die Notizen II.188
   Der Geistige (oder der Produktive, was dasselbe ist)
   kann wohl nur ein Ding hassen: Die Dummheit
-  (oder die Faulheit, was dasselbe ist). 
+  (oder die Faulheit, was dasselbe ist).
 
 
 39. Ludwig Hohl, Die Notizen II.191
@@ -259,7 +259,7 @@ VERHÄLTNIS DES GEISTIGEN ARBEITERS ZUM VOLK
 40. Ludwig Hohl, Die Notizen II.192
 IM FORTSCHREITEN
   Wer sich an denen hinter (unter) ihm misst, ist verloren.
-  (Was hindert ihn, wenn er zurückgeglitten ist, 
+  (Was hindert ihn, wenn er zurückgeglitten ist,
    sich wieder mit denen hinter ihm zu vergleichen,
    und so fort bis zum Nullpunkt?
    So wird es vielmehr notwendigerweise geschehen.)
@@ -267,7 +267,7 @@ IM FORTSCHREITEN
 
 41. Ludwig Hohl, Die Notizen II.197
   Die eine verbringen ihre Zeit in lauter Vorbereitungen,
-  die andern wieder überhasten sich, 
+  die andern wieder überhasten sich,
   indem sie Arbeitsstufen überspringen wollen.
 
 
@@ -295,7 +295,7 @@ DIE ERBSCHAFT
   - Er ist nur dadurch möglich, dass man ähnlich erlebt,
   das unaussprechliche in den Sätzen jenes Mannes WIEDERfindet;
   - dass man vom Gesamten aus jene Sätze wieder bilden kann
-  und somit, mit gleicher Mühe, entsprechend neue. 
+  und somit, mit gleicher Mühe, entsprechend neue.
 
 
 45. Ludwig Hohl, Die Notizen II.208
@@ -317,8 +317,8 @@ UNTERRICHT
 
 47. Ludwig Hohl, Die Notizen II.211
 ÜBER SPRACHUNTERRICHT
-  Das Erste, was unsere Lehrer tun, 
-  wenn sie beginnen fremde Sprachen zu lehren, 
+  Das Erste, was unsere Lehrer tun,
+  wenn sie beginnen fremde Sprachen zu lehren,
   ist, das Vertrauen zerstören.
   Aber eine fremde Sprache (summarisch) lernen ist nicht Sache des Wissens,
   wie die verpfuschenden sogenannten Lehrkräfte meinen,
@@ -344,7 +344,7 @@ UNTERRICHT
 50. Ludwig Hohl, Die Notizen II.217
 DIE GEFÄHRLICHEN INTERVALLE
   Fast bei allen Beschäftigungen ist wichtig,
-  dass man KEINEN ANLAUF nehme. 
+  dass man KEINEN ANLAUF nehme.
   Dem Anlauf fallen so viele Arbeitsresultate zum Opfer!
 
 
@@ -360,7 +360,7 @@ DIE GEFÄHRLICHEN INTERVALLE
 
 
 53. Ludwig Hohl, Die Notizen II.244
-  Der Mensch schaut dem Verschwundenen nach 
+  Der Mensch schaut dem Verschwundenen nach
   und vergisst leicht was er noch hat.
 
 
@@ -381,7 +381,7 @@ DIE GEFÄHRLICHEN INTERVALLE
 
 57. Ludwig Hohl, Die Notizen II.264
 FRAGMENTE UND VARIANTEN ZUM ZENTRALEN
-  Eben weil Handeln nicht das Höchste, 
+  Eben weil Handeln nicht das Höchste,
   sondern das Erkennen das Höchste ist, ist Handeln das Richtige;
   denn nur es liefert ununterbrochenes Erkennen.
   Das Erkennen tötet sich, wenn es allein bleibt;
@@ -442,7 +442,7 @@ FRAGMENTE UND VARIANTEN ZUM ZENTRALEN
   Die Stellung zum andern, gipfelnd in der Einstellung zum andern,
   WENN DIESER IM LEID IST.
   Das Kind empfindet diesem gegenüber entweder (fast immer) Schadenfreude
-  oder dann primitive Güte, die ja angenehm, 
+  oder dann primitive Güte, die ja angenehm,
   aber keineswegs von wirklichem Wert ist.
 
 
@@ -456,20 +456,20 @@ DISKRETION UND UNWAHRHAFTIGKEIT
 69. Ludwig Hohl, Die Notizen II.330
   Immer sinnend, dass des Menschen Wesen nicht ist,
   sich gegen Elefanten zu stemmen;
-  Sich an Körperkraft zu messen 
+  Sich an Körperkraft zu messen
   mit Strömen, welche das Bild der Welt sind;
   - sondern zu lenken.
 
 
 70. Ludwig Hohl, Die Notizen III.2
 REDEN, SCHWATZEN, SCHWEIGEN
-  Eine von den großen Unglücksfällen ist, 
+  Eine von den großen Unglücksfällen ist,
   dass die Menschen nicht reden wollen.
   - nur schwatzen oder schweigen.
 
 
 71. Ludwig Hohl, Die Notizen III.4
-  Dass man so oft von schlechter Lage, 
+  Dass man so oft von schlechter Lage,
   so selten aber von guter Lage reden hört:
   Die schlechte Lage hat es nötig, verändert zu werden,
   die gute Lage will und soll dauern. REDEN VERÄNDERT.
@@ -480,7 +480,7 @@ REDEN, SCHWATZEN, SCHWEIGEN
 
 72. Ludwig Hohl, Die Notizen III.8
   ... Und Schweigen, sagen sie, sei Gold.
-  Wie gewaltig muss das Minus ihres Redens sein, 
+  Wie gewaltig muss das Minus ihres Redens sein,
   dass ihm gegenüber schon das Nichts gleich Gold zu setzen ist.
 
 
@@ -497,9 +497,9 @@ REDEN, SCHWATZEN, SCHWEIGEN
 
 75. Ludwig Hohl, Die Notizen III.16
   Es gibt zwei Arten von Geschwätzigkeit
-  Die erste: um eine Sache, die Bedeutung hat, 
+  Die erste: um eine Sache, die Bedeutung hat,
              viele bedeutungslose Worte machen.
-  Die zweite: viele Sachen zwar nur kurz aufzählen, 
+  Die zweite: viele Sachen zwar nur kurz aufzählen,
               Sachen aber, die ganz bedeutungslos sind.
 
 
@@ -511,12 +511,12 @@ REDEN, SCHWATZEN, SCHWEIGEN
 77. Ludwig Hohl, Die Notizen III.27
 VON EINEM WETTKAMPF
   Du hast im Montparnasse unaufhörlich geredet,
-  du warst in dauernder Übung und hast über alle andern, die da waren, 
-  in der Rede den Sieg davongetragen. 
+  du warst in dauernder Übung und hast über alle andern, die da waren,
+  in der Rede den Sieg davongetragen.
   Er aber hat in der Einsamkeit nie mit sichtbaren Menschen geredet,
-  nur mit den Größten der Vergangenheit, 
+  nur mit den Größten der Vergangenheit,
   mit Montaigne und Spinoza und Goethe
-  - mit den Bäumen und Vögeln und andern absoluten Dingen -, 
+  - mit den Bäumen und Vögeln und andern absoluten Dingen -,
   und hat verloren:
   Folglich ... würde er dich besiegen.
 
@@ -525,14 +525,14 @@ VON EINEM WETTKAMPF
 DER LESER
   Mit Leuten, die das Lesen als passiven Vorgang bezeichnen,
   dürfte nicht zu reden ratsam sein.
-  Wer weiß, vielleicht werden sie das Hören 
+  Wer weiß, vielleicht werden sie das Hören
   auch als passiven Vorgang betrachten
   und unter eurer Rede einschlafen oder sterben.
 
 
 79. Ludwig Hohl, Die Notizen IV.3
 STOFF, GEHALT, FORM
-  Das folgende Wort Goethes, dieses fundamentale Wort, dem zu wünschen wäre, 
+  Das folgende Wort Goethes, dieses fundamentale Wort, dem zu wünschen wäre,
   dass es zum Ausgangspunkt jeder Kunstlehre gemacht werden könnte:
 
   "Den Stoff sieht jedermann vor sich;
@@ -540,25 +540,25 @@ STOFF, GEHALT, FORM
    und die Form ist ein Geheimnis den meisten"
 
   ist selber ein Geheimnis den meisten.
- 
+
 
 80. Ludwig Hohl, Die Notizen IV.5
   Diejenigen, die Lesen und Schreiben als Gegensatz sehn
   - während doch das eine nur die Intensivierung dessen ist,
     was auch dem andern allein das Leben gibt -,
-  haben vom Lesen nichts begriffen, nie gelesen, 
+  haben vom Lesen nichts begriffen, nie gelesen,
   ja, nie geahnt, was Lesen ist.
 
 
 81. Ludwig Hohl, Die Notizen IV.6
-  Faust hat er gelesen. Spinoza hat er gelesen. 
+  Faust hat er gelesen. Spinoza hat er gelesen.
   Auch Wallace hat er gelesen, und den hat er auch verstanden.
 
 
 82. Ludwig Hohl, Die Notizen IV.7
 MENSCHENWÜRDE UND BÜCHERWÜRDE
-  Jemand hatte den zweiten Teil des Faust 
-  in irgendeiner billigen Ausgabe zerteilt, 
+  Jemand hatte den zweiten Teil des Faust
+  in irgendeiner billigen Ausgabe zerteilt,
   um immer ein Stück bei sich haben zu können.
   Ein anderer schrie darüber; es sei schade um das Buch!
   Besser dass die Bücher schön bleiben, als dass man liest.
@@ -585,7 +585,7 @@ MENSCHENWÜRDE UND BÜCHERWÜRDE
 KUNST UND LEBEN
   Auf immer andern Wegen zeigt sich:
   Kunst ist dasjenige, bei dem man sich nicht kümmern darf,
-  ob das Entstehende alt oder neu sei, sondern allein, ob richtig. 
+  ob das Entstehende alt oder neu sei, sondern allein, ob richtig.
   Es ist immer neu - und alt.
   Aber gilt denn für das Leben etwas anderes?
 
@@ -607,7 +607,7 @@ KUNST UND LEBEN
 
 88. Ludwig Hohl, Die Notizen V.34
   Alle (wertvolle) literarische Kritik ist nicht eine Anweisung,
-  wie man's besser machen sollte, 
+  wie man's besser machen sollte,
   sondern eine eigene schöpferische Tätigkeit.
 
 
@@ -616,21 +616,21 @@ DAS RÄTSEL DES SCHÖNEN
   Das Schöne? ... Hier werden die Wege dunkel.
   Wo jemals ein Mensch ein Bild in die Welt stellt, das ihm entspricht,
   das ihm vollkommen dient, - und wer immer dieser Mensch sei,
-  möge er ein Übeltäter oder ein Dummkopf, 
+  möge er ein Übeltäter oder ein Dummkopf,
   ein Herrscher oder ein Mathematiker sein -,
   da wurde mit diesem Bild die Schönheit erreicht.
 
 
 90. Ludwig Hohl, Die Notizen V.37
   Die Lebendigsten haben keine Wirkungszonen. Darum ist die Kunst erfunden.
- 
+
 
 91. Ludwig Hohl, Die Notizen VI.2
 VOM SCHREIBEN
   Die neue Kunstform wird nie und nimmer von der Masse geschaffen
-  - ebensowenig wie die wissenschaftlichen Eindrücke 
+  - ebensowenig wie die wissenschaftlichen Eindrücke
     von der Masse geschaffen werden -,
-    sondern von Gide, Proust, Karl Kraus, 
+    sondern von Gide, Proust, Karl Kraus,
     jedem wirklich Experimentierenden, Substanz Tragenden (was dasselbe ist).
 
 
@@ -647,7 +647,7 @@ VOM SCHREIBEN
 93. Ludwig Hohl, Die Notizen VI.8
   Ein Mann schrieb einen Roman.
   Ein anderer schrieb eine Kritik dieses Romans, so lang wie der Roman.
-  Aber ein dritter schrieb eine Kritik dieser Kritik, 
+  Aber ein dritter schrieb eine Kritik dieser Kritik,
   welche wieder so lang war.
 
 
@@ -658,12 +658,12 @@ VOM SCHREIBEN
 
 95. Ludwig Hohl, Die Notizen VI.11
   Die Form des Romans bietet noch einen weiteren Vorteil:
-  Die Romane sind treffliche Hilfsmittel, 
+  Die Romane sind treffliche Hilfsmittel,
   fremde Sprachen (summarisch) zu lernen.
 
 
 96. Ludwig Hohl, Die Notizen VI.15
-  Was ist schriftstellerisch Dichtheit? 
+  Was ist schriftstellerisch Dichtheit?
   Wo nimmt man die vielen Stoffmassen her
   - dass auf jeder Seite viele Tatsachen gehäuft, gedrängt sind,
   statt Einleitungen und Drumherumreden?
@@ -679,12 +679,12 @@ VOM PLAGIAT
   Und es gibt da nichts, das weder Eigenes noch Gestohlenes ist.
   ALLES, WAS NICHT EIGENES IST, IST GESTOHLEN.
   Was ist Eigenes? Das voll, das in jedem Teil Verantwortete.
-  Denn die Worte, und sogar die Wörter, 
+  Denn die Worte, und sogar die Wörter,
   sind eben keineswegs jedermanns Sache wie die Luft;
   sie sind von jemand geschaffen worden und dem gehören sie,
   gehören sie allein, so lange bis ein anderer sie erkauft.
   Das Lösegeld ist volle Notwendigkeit.
-  Wenn du, ohne diesen Preis gezahlt zu haben, Worte gebrauchst, 
+  Wenn du, ohne diesen Preis gezahlt zu haben, Worte gebrauchst,
   hast du sie gestohlen.
 
 
@@ -702,7 +702,7 @@ VOM ZITIEREN
 
 101. Ludwig Hohl, Die Notizen VI.42
 DIE WITZE
-  Es kommt sogar auch hie und da unter den sogenannten Witzen vor, 
+  Es kommt sogar auch hie und da unter den sogenannten Witzen vor,
   dass etwas witzig ist.
   Lieber lese ich einen Witz von Lichtenberg zum zwanzigsten Mal
   als zweihundert Witze aus Zofingen;
@@ -711,13 +711,13 @@ DIE WITZE
 
 
 102. Ludwig Hohl, Die Notizen VI.49
-  Und das Glücklichste ist, wenn man, 
+  Und das Glücklichste ist, wenn man,
   wie bei Pascal die Pensées, ohne ein Ende schreibt.
 
 
 103. Ludwig Hohl, Die Notizen VII.6
 VARIA
-  Er brauchte sehr lange, um ins Wasser zu gehen, aber kaum drin, 
+  Er brauchte sehr lange, um ins Wasser zu gehen, aber kaum drin,
   wurde er saugrob gegen diejenigen, noch nicht drin waren.
 
 
@@ -739,7 +739,7 @@ BEOBACHTUNGEN
 
 
 106. Ludwig Hohl, Die Notizen VII.37
-  Die Menschen mit hervorragender praktischer Veranlagung 
+  Die Menschen mit hervorragender praktischer Veranlagung
   sind meistens diejenigen, die den Ruf haben, sehr unpraktisch zu sein.
   (Sie können eben mit den andern nicht zusammenarbeiten.)
 
@@ -763,8 +763,8 @@ BEOBACHTUNGEN
 110. Ludwig Hohl, Die Notizen VII.59
 VON HAUSTIEREN
   Das göttliche unter den Haustieren ist die Katze.
-  Die Ziege ist ein sehr gutes, angenehmes Tier, 
-  manchmal fast schon wunderbar und von ferne an die Katze erinnernd. 
+  Die Ziege ist ein sehr gutes, angenehmes Tier,
+  manchmal fast schon wunderbar und von ferne an die Katze erinnernd.
 
 
 111. Ludwig Hohl, Die Notizen VII.63
@@ -778,7 +778,7 @@ VON HAUSTIEREN
 
 
 113. Ludwig Hohl, Die Notizen VII.100
-  Wie sollten denn die Ärzte 
+  Wie sollten denn die Ärzte
   mehr Verfügungsrecht über deinen Körper haben als du?
 
 
@@ -787,7 +787,7 @@ PRÜFUNG DER INTELLIGENZ
   Woran man die Stärke der Intelligenz messen kann,
   oder was wenigstens der beste Maßstab ist:
   Wenn der Mensch in eine extreme (unmittelbar bedrohende) Notlage versetzt ist
-  in welchem Maße er JETZT auf den Verstand sich verlässt, 
+  in welchem Maße er JETZT auf den Verstand sich verlässt,
   statt nach andern Auswegen zu drängen (instinktiv, nach Hilfe schreiend, etc.)
 
 
@@ -831,7 +831,7 @@ APOTHEKER
   Die "wohlmeinenden" Bürger schreiben mir
   Ich solle mich anpassen; "wir ändern ja die Welt doch nicht;"
   "wohl aber können wir ihr bis zu einem gewissen Grade das zu fressen geben,"
-  "was sie verlangt" (wörtlich aus einem Brief kopiert.) 
+  "was sie verlangt" (wörtlich aus einem Brief kopiert.)
   Aber dennoch meine ich, nein, bin ich überzeugt,
   dass jeder gerade nur dadurch lebt, wie er die Welt doch verändert,
   und sollte diese durch ihn geschehene Veränderung noch so gering sein.
@@ -878,7 +878,7 @@ SONN- UND FEIERTAGE
 
 
 129. Ludwig Hohl, Die Notizen VIII.33
-  Wie bin ich Goethe dankbar für das "leider" 
+  Wie bin ich Goethe dankbar für das "leider"
   in der dritten Zeile der ersten Szene des ersten Teiles von Faust.
 
 
@@ -887,7 +887,7 @@ SONN- UND FEIERTAGE
   Seine dauernde Beschäftigung:
   Entweder Bedürfnisse verrichten, nach Uringeruch jagen oder kläffen.
   Sie behaupten, dass sie Hunde brauchen, um das Haus zu bewachen.
-  - Warum nicht Bären, Schlangen, Tiger! 
+  - Warum nicht Bären, Schlangen, Tiger!
   Diese töten nur den Körper, Hunde den Geist.
 
 
@@ -958,7 +958,7 @@ DIE DUMMHEIT
 140. Ludwig Hohl, Die Notizen VIII.121
   Ich glaube, dass die entsetzliche Sitte des Geschenkemachens
   aus der Urzeit stammt, da die Menschen weder Wort noch Geld hatten.
-  So konnten sie einander verständlich machen, 
+  So konnten sie einander verständlich machen,
   dass sie nicht feindlich gesinnt waren.
 
 
@@ -966,7 +966,7 @@ DIE DUMMHEIT
   Ein wunderbares Wort von Goethe in einem Schaufenster einer Buchhandlung:
   "Die Menschen sollte keiner belachen, als einer der sie wirklich liebt."
   DASS ist es, was ich damals an einem Sonntag auf der Straße
-  - die Menschen betrachtend - 
+  - die Menschen betrachtend -
   über die Menschen, über den Hass, über die Liebe schrieb.
 
 
@@ -992,7 +992,7 @@ DIALEKT
   aber - eine falsche Bildlichkeit.
   Man kann nicht Deutsch lernen
   - man müsste denn weiß Gott was für eine übermäßige Begabung sein -
-  in ein paar Stunden pro Woche, 
+  in ein paar Stunden pro Woche,
   während man die ganze übrige Zeit Dialekt spricht.
 
 
@@ -1040,7 +1040,7 @@ SCHWEIZERISCHE LITERATUR-ZUSTÄNDE
 151. Ludwig Hohl, Die Notizen IX.39
 GOTTFRIED KELLER
   "Trinkt, o Augen, was die Wimper hält ..."
-  Hat nun Gottfried Keller wohl das grausige Bild, 
+  Hat nun Gottfried Keller wohl das grausige Bild,
   das der genannte Vers im Leser wachruft
   - in jedem der wirklich lesen kann, wachrufen muss -
   beabsichtigt oder überhaupt sich darüber nur Rechenschaft gegeben?
@@ -1059,7 +1059,7 @@ GOTTFRIED KELLER
 
 
 153. Ludwig Hohl, Die Notizen IX.46
-  Deutsch lernen kann man nur in Frankreich und, besser noch, 
+  Deutsch lernen kann man nur in Frankreich und, besser noch,
   durch das Lateinische.
 
 
@@ -1087,13 +1087,13 @@ GOTTFRIED KELLER
   Das Melodische in der Sprache und die Sprechweise der Deklamatoren:
   Eines der besten Gedichte Rilkes, "Ausgesetzt auf den Bergen des Herzens",
   ist in hohem Maße atonal.
-  Die Vokale sind Veräußerlichungen, 
+  Die Vokale sind Veräußerlichungen,
   sie schneiden dem wahren Lebendigen den Weg ab.
   Die Konsonanten sind Wände, sie ermöglichen den Innenraum.
 
 
 159. Ludwig Hohl, Die Notizen IX.102
-  Dass Proust eine bestimmte Gesellschaft, 
+  Dass Proust eine bestimmte Gesellschaft,
   die vor dem letzten Krieg in Frankreich existierende, dargestellt hat,
   ist entweder ein Unsinn oder eine Banalität,
   je nach dem wie das Wort gemeint ist.
@@ -1101,7 +1101,7 @@ GOTTFRIED KELLER
 
 160. Ludwig Hohl, Die Notizen IX.104
 VERSUCH ÜBER DIE LEHRE VON MARX
-  Das System stellt indessen großartig eine Wahrheit dar 
+  Das System stellt indessen großartig eine Wahrheit dar
   (was sein Weiterleben außer Frage stellt).
   Was fehlt, ist die Kenntnis dieses Satzes:
   "Der Mensch ist ein manisches Wesen."
@@ -1110,7 +1110,7 @@ VERSUCH ÜBER DIE LEHRE VON MARX
 
 
 161. Ludwig Hohl, Die Notizen IX.112
-  Die Frage der Wortgenauigkeit unterbricht das Schreiben, 
+  Die Frage der Wortgenauigkeit unterbricht das Schreiben,
   verlangsamt nicht nur,
   sondern macht eine ganz weit sich hinziehende Arbeit äußerlich stillstehen,
   und für lange,
@@ -1137,7 +1137,7 @@ TRAUM UND TRÄUME
 EIN TRAUM
   Einen Gang, den ersten, durch die Stadt
   (gegen das 13. Arrondissement hin und um 24 Uhr)
-  und ich schimpfte erst über etwas heftig, 
+  und ich schimpfte erst über etwas heftig,
   beruhigte mich, als kein Einwand erhoben wurde.
   Straße braun-dunkel, großartig: Paris.
 
@@ -1148,19 +1148,19 @@ EIN TRAUM
 
 
 167. Ludwig Hohl, Die Notizen X.16
-  Ein Polizist antwortete einem der verdächtigten Männer, 
+  Ein Polizist antwortete einem der verdächtigten Männer,
   (die der Polizei kleine Dienste leisteten),
-  der ängstlich das Gesuch vorbrachte, 
+  der ängstlich das Gesuch vorbrachte,
   ob er nicht die REGULÄRE Polizeikarriere einschlagen könnte:
-  "Das geht leider nicht. Denn unsere Bestimmungen setzen voraus, 
+  "Das geht leider nicht. Denn unsere Bestimmungen setzen voraus,
   dass einer den DREIFACHEN GEIST sich ausgewiesen habe.
   1. Geist im gewöhnlichen Schulsinne (Literatur, Philosophie usw.);
   2. Geist im Alltag, in Politik, Weltlauf;
-  3. Das Schwerste! Geist in jeder besonderen Lage, 
+  3. Das Schwerste! Geist in jeder besonderen Lage,
      auch wenn man sie nicht eine Minute voraussehen konnte."
 
 
- 168. Ludwig Hohl, Die Notizen X.19
+168. Ludwig Hohl, Die Notizen X.19
   Dass das Schönste nur Träume sind, weiß ich wohl;
   es handelt sich aber um die Wege, zu diesen Träumen zu gelangen ...
 
@@ -1194,17 +1194,17 @@ DAS HÖCHSTE
 
 
 174. Ludwig Hohl, Die Notizen XI.10
-  Gut kann man nicht aus dem Leben heraus, - aber 
-  warum einer Philosophie anhangen, 
+  Gut kann man nicht aus dem Leben heraus, - aber
+  warum einer Philosophie anhangen,
   die wider alles ist, was doch besteht (die wider sich selber ist),
   warum das Leben VERMINDERN?
 
 
 175. Ludwig Hohl, Die Notizen XI.11
-  Wenn man das Einzelne 
-  nur immer als Vorstufe des Kommenden betrachtet, des "Gesamten", 
+  Wenn man das Einzelne
+  nur immer als Vorstufe des Kommenden betrachtet, des "Gesamten",
   ist man verloren.
-  Man muss dem Einzelnen sich GANZ zuwenden und, sobald es vorüber ist, 
+  Man muss dem Einzelnen sich GANZ zuwenden und, sobald es vorüber ist,
   es ganz lassen: dann schaut man in die Ewigkeit.
 
 
@@ -1227,16 +1227,16 @@ DE ARTE VIVENDI
 
 179. Ludwig Hohl, Die Notizen XI.21
 TRAURIGES
-  Nicht immer kommt der Tod in einem Mal; 
+  Nicht immer kommt der Tod in einem Mal;
   es kann auch sein, dass einer sehen und sagen muss:
   Ich habe mir das Lebensende, seit langem, immer großartig vorgestellt,
   den Tod in seiner Erhabenheit; Stille in der Welt, Zuhörende
   - die ein Schrecknis erwarten und das Unbeugsame des Geistes sehen ...
-  nun muss ich lernen, dass es auch damit nichts ist; 
-  muss das LANGSAME Sterben lernen, 
+  nun muss ich lernen, dass es auch damit nichts ist;
+  muss das LANGSAME Sterben lernen,
   die allmähliche Verminderung aller Mittel,
-  das vorausgenommene halbe, dann dreiviertels Sterben, 
-  das Reduziertwerden aller Möglichkeiten, auch der inneren, 
+  das vorausgenommene halbe, dann dreiviertels Sterben,
+  das Reduziertwerden aller Möglichkeiten, auch der inneren,
   auch der des Glanzes, der des Siegens.
 
 
@@ -1251,7 +1251,7 @@ TRAURIGES
 
 182. Ludwig Hohl, Die Notizen XI.32
   Nur in dem Willen zur Verwandlung ist das Leben.
-  Das Leben will Verwandlung 
+  Das Leben will Verwandlung
   und wird das Beharren der wichtigsten Dinge erreichen.
   Der Tod will die Beharrung
   und wird die Verwesung erreichen.
@@ -1268,10 +1268,10 @@ BILD
 
 
 185. Ludwig Hohl, Die Notizen XII.3
-  Sie sagen "die Monotonie". 
+  Sie sagen "die Monotonie".
   Aber es ist nicht die Monotonie, sondern die Leere.
-  ... es ist nicht die Monotonie, 
-  das heißt die Wiederholung derselben Realität, 
+  ... es ist nicht die Monotonie,
+  das heißt die Wiederholung derselben Realität,
   Ernährung mit derselben Speise, sondern die Leere,
   das heißt das Fehlen der Realität, die Nichternährung.
 
@@ -1280,13 +1280,13 @@ BILD
 DAS ALTER
   Wer immer in seine eigene zeitliche Jugend zurückblickt, ist immer alt.
   Wer immer in sein kommendes zeitliches Alter hinaufblickt
-  als nach dem Träger (der Ermöglichung) einer höheren Vollendung, 
+  als nach dem Träger (der Ermöglichung) einer höheren Vollendung,
   ist immer jung, mit 20, mit 40, mit 80 Jahren.
 
 
 187. Ludwig Hohl, Die Notizen XII.13
   Das Glück ist nicht da, wo man es gewöhnlicherweise vermutet:
-  Zu sehen, wie, in allen Verhältnissen, 
+  Zu sehen, wie, in allen Verhältnissen,
   der Geist von den Dingen sich scheidet, das ist Glück.
 
 
@@ -1303,7 +1303,7 @@ DAS ALTER
 
 
 190. Ludwig Hohl, Die Notizen XII.48
-  Die Idioten sagen: Es gibt keine Wahrheit! 
+  Die Idioten sagen: Es gibt keine Wahrheit!
   weil sie zu faul sind, sie zu erkämpfen.
 
 
@@ -1312,9 +1312,9 @@ DAS ALTER
 
 
 192. Ludwig Hohl, Die Notizen XII.51
-  Dass das Blut bindet ist eine Wahnidee. 
+  Dass das Blut bindet ist eine Wahnidee.
   Es ist nicht das Blut, das bindet, sondern der Geist.
-  Freilich mag durch ähnliche Erfahrungen 
+  Freilich mag durch ähnliche Erfahrungen
   teilweise ein ähnlicher Geist erzeugt werden.
 
 
@@ -1323,13 +1323,13 @@ DAS ALTER
   kann man den Unterschied der starken und der schwachen Geister sehen.
   Die schwachen Geister werden umso mehr meinen, in kurzem am Ende zu sein
   (also: alles zu erkennen).
-  Den starken Geistern geht immer mehr der Blick auf 
+  Den starken Geistern geht immer mehr der Blick auf
   für die Unendlichkeit der Welt.
 
 
 194. Ludwig Hohl, Die Notizen XII.65
 GNADE
-  Dieses allein ist mir ein wahres Bild der Gnade: Die Kinder. 
+  Dieses allein ist mir ein wahres Bild der Gnade: Die Kinder.
   Das heißt, dass es immer wieder Kinder gibt; immer wieder unverdorbene.
   - In ihnen wird die höhere Möglichkeit, die der Menschheit gegeben ist,
   immer neu.
@@ -1337,14 +1337,14 @@ GNADE
 
 195. Ludwig Hohl, Die Notizen XII.66
   Die Welt ist noch jung. Solange die Kinder noch immer Kinder sind,
-  bleibt die Welt jung. Wehe nur der Zeit, 
+  bleibt die Welt jung. Wehe nur der Zeit,
   da die Kinder wie die Erwachsenen sein werden!
   (wie die jetzigen Erwachsenen,
    diese dürren, die nicht mehr zu Verändernden, an denen der Geist stirbt.)
 
 
 196. Ludwig Hohl, Die Notizen XII.71
-  Man muss reisen und wenn es auch nur zu dem Zwecke wäre, 
+  Man muss reisen und wenn es auch nur zu dem Zwecke wäre,
   sich zu überzeugen, dass anderswo auch so wenig ist.
 
 
@@ -1355,213 +1355,213 @@ VOM SEHEN
   Das Auge könnte sie sehen - wenn es von seinem Diktator, dem Gehirn,
   nicht abkommandiert wäre (oder ankommandiert) zum Nichtsehen.
 
- 
+
 198. Ludwig Hohl, Die Notizen XII.102
   Man hat oft von denen gehört, die sich im Schmerz isolieren;
   aber sich isolieren können in der Freude, ist das gar nichts?
 
 
-200. Ludwig Hohl, Die Notizen XII.108
-  Er will sich das Los erleichtern und lässt etwas fallen 
+199. Ludwig Hohl, Die Notizen XII.108
+  Er will sich das Los erleichtern und lässt etwas fallen
   und alles wird immer schwerer.
 
 
-201. Ludwig Hohl, Die Notizen XII.120
+200. Ludwig Hohl, Die Notizen XII.120
   Aller Übel Abgrund ist das fehlende Erkennen der Übel.
 
 
-202. Ludwig Hohl, Die Notizen XII.121
+201. Ludwig Hohl, Die Notizen XII.121
 ÜBER DAS TRAGISCHE
   Aber wir sind sterblich. Und es soll nicht anders sein.
 
- 
-203. Ludwig Hohl, Die Notizen XII.125
+
+202. Ludwig Hohl, Die Notizen XII.125
 VOM JENSEITS
   Unsere Sinneswahrnehmungen reichen nicht über unsere subjektive Welt hinaus.
   Was das objektive ist muss ich denken.
-  Zukünftiges Leben sagen sie. 
-  Man soll doch besser jenseitiges Leben sagen; 
+  Zukünftiges Leben sagen sie.
+  Man soll doch besser jenseitiges Leben sagen;
   das ist schon ein großer Fortschritt.
 
 
-204. Ludwig Hohl, Die Notizen XII.128
+203. Ludwig Hohl, Die Notizen XII.128
   Jeder große Geist ist immer eine Synthese; aber er weiß es nicht,
   er betont das Analytische.
-  Denn er führt hinüber, ist also notwendigerweise synthetisch, 
+  Denn er führt hinüber, ist also notwendigerweise synthetisch,
   wie eine Brücke.
 
 
-205. Ludwig Hohl, Die Notizen XII.136
+204. Ludwig Hohl, Die Notizen XII.136
   Der Geistige kann kein Wesen beleidigen. Denn der Geistige,
   das ist ein in großem oder vollem Maße von Leben Erfüllter;
   das Leben hat Achtung vor dem Leben.
 
 
-206. Ludwig Hohl, Die Notizen XII.144
-  So war der Moment, als ich aus der Einsamkeit in die Uneinsamkeit 
+205. Ludwig Hohl, Die Notizen XII.144
+  So war der Moment, als ich aus der Einsamkeit in die Uneinsamkeit
   einen der größten Schritte tat:
-  - als ich nämlich, in meinem dreißigsten Jahr, in dem Zimmer, 
-  an das ich mich immer erinnern werde, Goethes "Maximen und Reflexionen" 
-  zum erstenmal in die Hände bekam; 
+  - als ich nämlich, in meinem dreißigsten Jahr, in dem Zimmer,
+  an das ich mich immer erinnern werde, Goethes "Maximen und Reflexionen"
+  zum erstenmal in die Hände bekam;
   nach der langen Dunkelheit;
-  nach dem ununterbrochenen Arbeiten im Dunkeln, 
+  nach dem ununterbrochenen Arbeiten im Dunkeln,
   von nichts unterstützt;
-  von keinem Licht beleuchtet; 
+  von keinem Licht beleuchtet;
   von keiner Erscheinung wenigstens der geistigen Außenwelt bejaht.
 
 
-207. Ludwig Hohl, Die Notizen XII.152
+206. Ludwig Hohl, Die Notizen XII.152
   Alles, was du bist wirst du einst sein.
 
 
-208. Ludwig Hohl, Die Notizen XII.153
+207. Ludwig Hohl, Die Notizen XII.153
   Das Leben ist lang, es beginnt uns lang vorzukommen ...
   Öfters schon haben wir beobachten können,
   wie die Ankündigungen von Propheten wohl stimmen
   - nur die Angaben der Zeit stimmen nicht.
 
 
-209. Ludwig Hohl, Nuancen und Details I. 1
+208. Ludwig Hohl, Nuancen und Details I.1
   Soll einer, der selber nicht sprechen kann
   (unter keinen Umständen-), zuhören können?
 
 
-210. Ludwig Hohl, Nuancen und Details I. 3
+209. Ludwig Hohl, Nuancen und Details I.3
 ARBEIT
   Arbeit: nicht ein Gespenst, wie jene meinen, die nicht arbeiten.
   Sondern ein Freund, ein Tröster, mit hartem Äußeren, das abschreckt.
 
 
-211. Ludwig Hohl, Nuancen und Details I.5
+210. Ludwig Hohl, Nuancen und Details I.5
   Wie viele Male schon - und, wie mir scheint, auf wie viel verschiedenen Wegen
-  auch - habe ich wiederfinden müssen, dass jeder etwas leisten muss 
-  durchaus NICHT NUR aus sozialen Gründen, 
+  auch - habe ich wiederfinden müssen, dass jeder etwas leisten muss
+  durchaus NICHT NUR aus sozialen Gründen,
   sondern vor allem auch seiner selbst wegen.
 
 
-212. Ludwig Hohl, Nuancen und Details I.6
+211. Ludwig Hohl, Nuancen und Details I.6
   "Aller Anfang ist schwer." ... und das Ende ist schwerer.
 
 
-213. Ludwig Hohl, Nuancen und Details I.12
+212. Ludwig Hohl, Nuancen und Details I.12
 DER SCHWIERIGE WEG
   Überall Gefahren und haardünn ist der Ort, wo es gelingt,
   etwas wirklich zu ergreifen; und ringsherum, um ihn alles sind Wege.
 
-214. Ludwig Hohl, Nuancen und Details I.17
+213. Ludwig Hohl, Nuancen und Details I.17
 VERWUNDERLICHES
   Die Feuerwehrleute trugen Büschel auf den Helmen - wozu?
-  "Vielleicht", fragte ein begabtes Kind, das nachgedacht hatte, 
+  "Vielleicht", fragte ein begabtes Kind, das nachgedacht hatte,
   "als Zunder, um die Funken abzufangen?"
 
- 
- 215. Ludwig Hohl, Nuancen und Details I.21
-  Man sagte mir, die gefährlichste Zeit für die Lungenkranken 
+
+214. Ludwig Hohl, Nuancen und Details I.21
+  Man sagte mir, die gefährlichste Zeit für die Lungenkranken
   sei der Frühling; was ich sicher weiß, dass sich dann, wenn es wärmer wird,
   am meisten Leute erkälten.
 
 
-216. Ludwig Hohl, Nuancen und Details I.23
-  Denn die Allgemeinheit liebt nicht die Beobachtung, 
+215. Ludwig Hohl, Nuancen und Details I.23
+  Denn die Allgemeinheit liebt nicht die Beobachtung,
   geht an Erscheinungen meistens stumpfen Sinnes vorüber;
-  sondern sie hängt an einem SCHEMA, 
+  sondern sie hängt an einem SCHEMA,
   das nach einer längst vorhandenen Theorie festgelegt worden ist;
   nach diesem Schema bildet sie ihre Kenntnisse
   und nennt sie Kenntnisse der Wirklichkeit!
 
 
-217. Ludwig Hohl, Nuancen und Details I.25
+216. Ludwig Hohl, Nuancen und Details I.25
   Genies wurden geisteskrank während ihr schwacher Körper gesund blieb.
   Athleten zerfielen körperlich, während ihr schwacher Geist gesund blieb.
 
 
-218. Ludwig Hohl, Nuancen und Details I.26
+217. Ludwig Hohl, Nuancen und Details I.26
   Das Schwerste: Auf seinen Lorbeeren AUSRUHEN können.
 
 
-219. Ludwig Hohl, Nuancen und Details I.31
+218. Ludwig Hohl, Nuancen und Details I.31
 UNTERSCHIED
   Ein Nichtsäufer ist fünf Minuten besoffen und einige Tage krank.
   Ein Säufer ist fünf Minuten krank und einige Tage besoffen.
-  Ein Prosaschriftsteller kann nicht saufen, 
+  Ein Prosaschriftsteller kann nicht saufen,
   weil Zeit erforderlich ist für Prosa.
   Saufen schließt das zur äußeren Arbeit Erforderliche: Laune, Konzentration,
   nicht aus - minutenlang. Das genügt unter Umständen für Lyrik.
 
 
-220. Ludwig Hohl, Nuancen und Details I.37
+219. Ludwig Hohl, Nuancen und Details I.37
   Man braucht sich selber keineswegs später darüber klarzusein,
   welch tiefe Vernunft man besessen hat in einer vergangenen Lage.
   Eigene vergangene Epochen, sind meistens, sobald sie ganz beendet sind,
   in keiner Weise mehr in die Gegenwart hineinreichen,
-  uns so fremd wie die Zustände ANDERER, 
+  uns so fremd wie die Zustände ANDERER,
   wir sind nicht gerechter ihnen gegenüber.
 
 
-221. Ludwig Hohl, Nuancen und Details I.42
+220. Ludwig Hohl, Nuancen und Details I.42
   Eines ist doch wahr: man kommt im Nebel langsamer vorwärts.
 
 
-222. Ludwig Hohl, Nuancen und Details II.1
+221. Ludwig Hohl, Nuancen und Details II.1
   Ob der Wille, zu retten, so groß sei, dass er genügt,
   das ist die Frage.
 
 
-223. Ludwig Hohl, Nuancen und Details II.2
+222. Ludwig Hohl, Nuancen und Details II.2
   Faulheit wird meistens als eine kleine Sache betrachtet,
   als ein Übel, aber als ungefährlich, das geringste unter den Lastern.
   Sie ist das schrecklichste. Ein verheerendes Übel. Das verheerenste.
 
 
-224. Ludwig Hohl, Nuancen und Details II.3
+223. Ludwig Hohl, Nuancen und Details II.3
 EIN GUTES TUN
-  Das, was man selber nicht braucht, was aber ein anderer, 
+  Das, was man selber nicht braucht, was aber ein anderer,
   der anders ist, braucht, als notwendig erkennen können.
 
 
-225. Ludwig Hohl, Nuancen und Details II.4
+224. Ludwig Hohl, Nuancen und Details II.4
 EIN ÜBLES TUN
   Einem aus seiner Vergangenheit eine Schleppe machen,
   alle Steine hineinlegen, die man finden kann, dann zubinden -:
   und beweisen, wohin dieser nicht gehen kann.
 
 
-226. Ludwig Hohl, Nuancen und Details II.5
+225. Ludwig Hohl, Nuancen und Details II.5
 GEFAHR
   Furchtsam achtzugeben gilt es auf die erweichende, tröstende,
   einschläfernde Wirkung des Vordergrundes.
 
 
-227. Ludwig Hohl, Nuancen und Details II.15
+226. Ludwig Hohl, Nuancen und Details II.15
 DIE DEPRESSIONEN
   Die Depression - ewige Begleiterin der Entstehung eines jeden Kunstwerks.
-  (Und Kunstwerk ist ein umfassender Begriff! 
+  (Und Kunstwerk ist ein umfassender Begriff!
    Und Künstler ist eine umfassende Formel menschlichen Daseins.)
 
 
-228. Ludwig Hohl, Nuancen und Details II.20
+227. Ludwig Hohl, Nuancen und Details II.20
 ÜBER PROPHEZEIUNGEN
   Ich habe Beobachtungen anstellend an Prophezeiungen verschiedener Art,
   großen und kleinen, viele Male dasselbe festgestellt:
-  Die Aussagen erwiesen sich als richtig, was das Geschehen betraf, 
+  Die Aussagen erwiesen sich als richtig, was das Geschehen betraf,
   dagegen die Zeitangabe stimmte nicht.
-  Alle Bilder (die mit Ernst komponierten) sind wahr; 
+  Alle Bilder (die mit Ernst komponierten) sind wahr;
   aber die Geschichte ist länger.
-  "Vom Wahrsagen lässt sich wohl leben in der Welt, 
+  "Vom Wahrsagen lässt sich wohl leben in der Welt,
    aber nicht vom Wahrheitsagen." (Lichtenberg)
 
 
-229. Ludwig Hohl, Nuancen und Details II.22
+228. Ludwig Hohl, Nuancen und Details II.22
 DAS VERHÄLTNIS ZU DEN ANDERN
-  Sich nach andern richten: ja; 
+  Sich nach andern richten: ja;
   zugleich aber nicht über seine Natur handeln; das ist alles.
   Der Mensch tritt, über seine Natur handelnd,
   in eine seltsame LEERE ein, wo seine Handlungen aufhören zu wirken.
 
 
-230. Ludwig Hohl, Nuancen und Details II.23
+229. Ludwig Hohl, Nuancen und Details II.23
 NEUTRALITÄT ODER VON DEN UNWICHTIGEN BRIEFEN
-  Jene, die meinen, dass die Beziehung zu einem Freund, 
+  Jene, die meinen, dass die Beziehung zu einem Freund,
   den man jahrelang nicht sieht und dem man jahrelang nicht schreibt,
   unverändert fortbestehe, sich selber unverändert erhalte wie ein Stein,
   so dass man sie fordernden Momentes
@@ -1570,12 +1570,12 @@ NEUTRALITÄT ODER VON DEN UNWICHTIGEN BRIEFEN
    Neigung, ja sogar Liebe, hilft alles nichts zur Freundschaft." (Goethe)
 
 
-231. Ludwig Hohl, Nuancen und Details II.28
+230. Ludwig Hohl, Nuancen und Details II.28
   Mysterium der Arbeit: alles nach und nach zu erreichen,
   was gar nicht berechenbar war.
 
 
-232. Ludwig Hohl, Nuancen und Details II.30
+231. Ludwig Hohl, Nuancen und Details II.30
 VON KONSERVEN
   Sehr viele Dinge in der universalen Apotheke kannst du auf Vorrat anschaffen:
   Übung im Gebrauch verschiedener Alphabete,
@@ -1583,30 +1583,30 @@ VON KONSERVEN
   Übung im Singen, Lallen und Moralisieren,
   Handwerke aller Art und Bücher voll Weisheit,
   sehr vielerlei Dinge, du türmst sie zu Haufen
-  (sie bleiben frisch in den schmutzigen Büchsen 
+  (sie bleiben frisch in den schmutzigen Büchsen
    wie die Weisheit in den verstaubten Büchern)
   und hast genug bis an den Rand deines Lebens.
   Nicht aber die Rettung; dieser Artikel bleibt nicht frisch.
 
- 
-233. Ludwig Hohl, Nuancen und Details II.32
+
+232. Ludwig Hohl, Nuancen und Details II.32
   Dämmernder Blick in die Herrlichkeit einer vollbeschäftigten Welt.
 
 
-234. Ludwig Hohl, Nuancen und Details II.42
+233. Ludwig Hohl, Nuancen und Details II.42
   Mit Widerstreben soll nichts getan werden.
   Aber es gibt auch noch den Hunger, der die Dinge heiligt;
   so dass eine Handlung, die vorher verboten war, über Nacht legitim wird.
   - Ein Beispiel nur der großen verändernden Möglichkeiten.
 
 
-235. Ludwig Hohl, Nuancen und Details II.43
+234. Ludwig Hohl, Nuancen und Details II.43
 AM WEG ZU DEN ANDERN
   Wann wirst du beginnen, die andern verstehen zu lernen,
   indem du dich selber studierst, o Mensch?
 
 
-236. Ludwig Hohl, Nuancen und Details II.47
+235. Ludwig Hohl, Nuancen und Details II.47
 VOM ERREICHBAREN UND UNERREICHBAREN
   Wir besitzen nie das Vollkommene;
   wir berühren es nur in mathematischen Punkten.
@@ -1616,14 +1616,14 @@ VOM ERREICHBAREN UND UNERREICHBAREN
   Die beste VERWENDUNG der menschlichen Kenntnisse.
 
 
-237. Ludwig Hohl, Nuancen und Details II.53
+236. Ludwig Hohl, Nuancen und Details II.53
 DE AMORE
-  Es gibt viele unklare Dinge, 
+  Es gibt viele unklare Dinge,
   aber unter allen klaren ist die Liebe eines der klarsten.
   Sie kann alles, nur nicht nichts.
 
 
-238. Ludwig Hohl, Nuancen und Details III.3
+237. Ludwig Hohl, Nuancen und Details III.3
 ÜBER DAS REVOLUTIONÄRE
   Sohn sein und sehen, dass man mehr ist als der Vater,
   ist leicht.
@@ -1632,88 +1632,93 @@ DE AMORE
   das ist Weisheit und ist Johann Sebastian Bach.
 
 
-239. Ludwig Hohl, Nuancen und Details III.7
+238. Ludwig Hohl, Nuancen und Details III.7
 MAGIEN
   Alles ist nur aus guten und schlechten Magien zusammengesetzt:
-  jeder Gegenstand übt eine gute oder schlechte, 
+  jeder Gegenstand übt eine gute oder schlechte,
   bisweilen aus beiden gemischte Magie aus.
 
 
-240. Ludwig Hohl, Nuancen und Details III.10
+239. Ludwig Hohl, Nuancen und Details III.10
 KINDERERZIEHUNG
   Um Kinder zu erziehen - wird mir deutlicher als je -,
   muss man erst selber etwas sein.
   Wenn man den zum Erziehen Unfähigen die Kinder wegnähme,
-  würde auch der Missbrauch aufhören, 
+  würde auch der Missbrauch aufhören,
   der besonders bei Frauen wohlhabender Stände häufig ist,
   sich Kinder aus Langeweile zu halten
   (auf schöne Art nennen sie das "die Sehnsucht nach den Kinde".)
 
 
-241. Ludwig Hohl, Nuancen und Details III.11
+240. Ludwig Hohl, Nuancen und Details III.11
 VERHÄLTNIS ZU DEN ANDERN
   Erst war mein Verhältnis zu den andern immer so, dass ich sie dominierte
   (oder, was hier auf dasselbe hinausläuft, zu dominieren suchte).
-  Durch verschiedene Dinge von innen und von außen 
-  wurde ich bei einer Zeitwende darauf aufmerksam gemacht, 
+  Durch verschiedene Dinge von innen und von außen
+  wurde ich bei einer Zeitwende darauf aufmerksam gemacht,
   dass dieses Dominierenwollen ein Irrtum sei.
   Ich ließ es, aber nur um in einen noch größeren Irrtum zu fallen:
   Ich wollte geliebt werden; ich erwartete also, völlig passiv, mich hütend,
   in irgendeine Richtung zu wirken, die Zuneigung der andern.
 
 
-242. Ludwig Hohl, Nuancen und Details III.14
+241. Ludwig Hohl, Nuancen und Details III.14
 ARBEITSFRAGE
-  Was ist Arbeit? - 
+  Was ist Arbeit? -
   Was Überwindung kostet, wie die Patent-Moralisten sagen?
   Was Ertrag bringt, wie die Diebe und die Finanzleute behaupten?
   Was irgendwie, gleichviel ob es schwer- oder leichtfalle,
-  andern zugute kommt? - 
+  andern zugute kommt? -
   Was ist Arbeit?
   Wenn alle Wege schlecht sind, ist der am wenigsten schlechte der Ausweg.
   Diesen Ausweg einschlagen, das ist Arbeit.
 
 
-243. Ludwig Hohl, Nuancen und Details III.15
+242. Ludwig Hohl, Nuancen und Details III.15
   Das Brennenste:
   "Geistige Ergebnisse": Nicht Resultate, sondern Weg!
-  Wer würde es der Jugend sagen können, 
+  Wer würde es der Jugend sagen können,
   dass das Lernen - und das Lernen lernen! - alles ist, - nicht das Gelernte?
 
 
-244. Ludwig Hohl, Alles ist Werk
+243. Ludwig Hohl, Alles ist Werk
   "Hohl ist ein Denker,
    wir anderen, fassen wir das Denken genau, sind es nicht,
    wir weichen dem genauen Denken ins Gleichnis aus.
    Hohl ist notwendig. Wir sind zufällig.
    Wir dokumentieren das Menschliche. Hohl legt es fest.
-   Es fällt schwer ihn auszuhalten. 
+   Es fällt schwer ihn auszuhalten.
    Wir müssen ihn akzeptieren, um ihn zu verstehen.
    Wer sich die Wahrheit abfordert, fordert sie den anderen ab.
    Indem wir ihm aus dem Wege gehen, gehen wir uns aus dem Wege.
-   Ich kenne viele Schriftsteller. 
-   Ludwig Hohl ist der einzige, dem gegenüber ich ein schlechtes Gewissen habe. 
+   Ich kenne viele Schriftsteller.
+   Ludwig Hohl ist der einzige, dem gegenüber ich ein schlechtes Gewissen habe.
    Ich bin ihm nicht gewachsen.
    Darum schreibe ich keine Sätze, darum schreibe ich Theaterstücke."
   (Zitat: Friedrich Dürrenmatt, © Diogenes Verlag AG, Zürich)
 
 
-245. Ludwig Hohl, Von den hereinbrechenden Rändern 141
+244. Ludwig Hohl, Von den hereinbrechenden Rändern, Anmerkungen 141
 VON DEN HEREINBRECHENDEN RÄNDERN
-  Das großartigste aller Beispiele, im heutigen Augenblick, 
+  Das großartigste aller Beispiele, im heutigen Augenblick,
   scheint mir die Elektrizität.
   Denn gab es, vor wenigen Zeiten noch, etwas Abseitsliegenderes,
   Ungreifbareres, Nuancenhafteres als die Elektrizität,
   etwas "Unpraktischeres" als die Beschäftigung mit dieser dünnen seltsamen
   und seltenen Erscheinung - gegenüber dem "gesunden Alltag",
   der Beschäftigung mit dem Pflug und dem Brot?
-  Dann wurden nach und nach die weltbeherrschenden Apparate konstruiert, 
+  Dann wurden nach und nach die weltbeherrschenden Apparate konstruiert,
   wie Telefon; im Lichte, das man mit dem Phänomen erzeugte,
   sitzen heute alle Leute, alle Städte.
   Aber nicht genug!
   Die heutige Wissenschaft eröffnet uns noch ganz andere Aussichten.
   Das erstmals dünnste, angreifbarste und träumerischste, randmäßigste Phänomen
   wird das Allgemeinste.
+
+
+245. Ludwig Hohl, Von den hereinbrechenden Rändern, Anmerkungen 18
+  Um nicht Erfolg zu haben, 
+  muss man entweder sehr gut oder sehr schlecht schreiben.
 
 
 246. ZITIERTE TEXTE UND TEXTNACHWEISE
@@ -1756,7 +1761,6 @@ VON DEN HEREINBRECHENDEN RÄNDERN
   Suhrkamp Taschenbuch 1000 erste Auflage 1984
   © Suhrkamp Verlag Frankfurt am Main 1981
   ----------------------------------------
-
 
 
 
