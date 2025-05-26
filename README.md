@@ -11,7 +11,7 @@ written by the genius Johann Wolfgang Goethe (original in German).
 
 Note: 
 The Faust Breviary is the intrinsic default (no additional file required).  
-All files `*.frt` must be located *outside* the `c:\windows\system32` folder.  
+All files `*.frt` must reside *outside* the `c:\windows\system32` folder.  
 (As an Example of the *FRT-File Format*, the file `document/haFaust.frt` is provided.)  
 
 Last Update May 2025: *haScreensav.scr*   
