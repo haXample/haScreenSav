@@ -84,6 +84,14 @@
 #define _FONTSTYLEITALIC  0x01 
 #define _FONTSTYLEBOLD    0x02 
 
+#define MAX_TEXTSIZE   16000
+                                                   
+#define MAX_TEXTBLOCKS 10000    // Maximum number of text-blocks
+typedef struct tagTEXTPR {      // TEXTPR structure for text-blocks
+  int txtNr;                    // The number of the Text block.
+  char* txtPtr;                 // The pointer to the text block.
+} TEXTPR, *PTEXTPR, *LPTEXTPR;
+
 // Workaround to prevent fail of 'SendMessage TTM_ADDTOOL'.
 #if _WIN32_WINNT > 0x0500                                // Current Version Windows 10 = 1537
   #define SIZE_TOOLINFO sizeof(TOOLINFO) - sizeof(void*) // 44 bytes (TTTOOLINFOW_V2_SIZE)  

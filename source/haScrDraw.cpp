@@ -206,7 +206,7 @@ void ScrSavDrawText(HWND _hwnd)
   //             but does not draw the text. 
   // 
   textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
-  if (timeFlag) textHeight += (2 * rcSize.cy);        // Adjust height for time display
+  if (timeFlag) textHeight += (3 * rcSize.cy);        // Adjust height for time display
 
   SetRect(&rcStr, 0, 0, rcStr.right, textHeight);     // Update textbox height
  

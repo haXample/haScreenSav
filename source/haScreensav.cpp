@@ -48,27 +48,23 @@
 using namespace std;
 
 // Global variables
-char DebugBuf[2*MAX_PATH+1];             // Temporary buffer for formatted text
-int DebugbufSize = sizeof(DebugBuf);
+char DebugBuf[2*MAX_PATH+1];               // Temporary buffer for formatted text
+int DebugbufSize   = sizeof(DebugBuf);
 char* psz_DebugBuf = DebugBuf;
-TCHAR _tDebugBuf[2*MAX_PATH+1];          // Temp buffer for formatted UNICODE text
-int _tDebugbufSize = sizeof(_tDebugBuf);
+TCHAR _tDebugBuf[2*MAX_PATH+1];            // Temp buffer for formatted UNICODE text
+int _tDebugbufSize   = sizeof(_tDebugBuf);
 TCHAR* psz_tDebugBuf = _tDebugBuf;
 
 // IMPORTANT NOTE:
-// char* szhaScrFilename = ".\haFaust.frt"; will NOT work!
 // All files accessed by screen savers must be located outside "C:\Windows\System32".
-// For security reasons *.SCR may not access any files in "C:\Windows\System32"..
+// For security reasons *.SCR may not access any files residing in "C:\Windows\System32".
 // Example: Some private location that would work:
-//          char* pszhaScrDfltFilename = "C:\\@ArcDrv\\Windows\\System32\\haFaust.frt";
+//          char* pszhaScrDfltFilename = "C:\\@ArcDrv\\Windows\\System32\\anyFile.frt";
 //
 // To ease installation "hascreenSav.SCR" has the necessary file contents integrated.  
 // ..see haFaust.cpp
 //
-//TCHAR _testStr[] = L"C:\\TEMP600";  ////////////////
-char _testStr[] = "C:\\@ArcDrv\\windows\\system32\\_Faust.frt";     /////////////////
-
-char* pszhaScrDfltFilename =        ".\\haFaust.frt";   // Dummy only
+char* pszhaScrDfltFilename =        ".\\haFaust.frt";
 char  szhaScrFilename[MAX_PATH+1] = "";
 
 HWND hButtonTextFile;
@@ -90,12 +86,12 @@ CHAR* pszIniFileKeyName    = "TEXTFILE";       // .ini: Name of the key belongin
 LONG  lSpeed           = _DEFVEL;  
 int   fontSize         = _FONTSIZE16;
 int   fontStyle        = _FONTSTYLESTD;
-DWORD rgbColor         = _CYAN;              // initial color selection
+DWORD rgbColor         = _CYAN;                // initial color selection
 int   timeFlag         = FALSE;              
 int   fontWeight       = FW_NORMAL;
 DWORD fontItalic       = FALSE;
-char* pszhaScrFilename = szhaScrFilename;    // .FRT file location
-char* pszhaScrFontType = szhaScrFontType;    // selected character font
+char* pszhaScrFilename = szhaScrFilename;      // .FRT file location
+char* pszhaScrFontType = szhaScrFontType;      // selected character font
 
 COLORREF acrCustClr[16];       // array of custom colors 
 CHOOSECOLOR cc;                // color palette dialog box structure 
@@ -134,7 +130,6 @@ static UINT uTimer1, uTimer2, uTimer3; // timer identifiers
 // Extern variables and functions
 extern char* pszString;
 extern char* pszTxtFilebuf;
-extern char* pszTxtbuf;
 
 extern void OpenTxtBuf();
 extern void OpenTxtFile(char*);
@@ -447,7 +442,7 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           break;
         } // end switch
 
-    // Allow an extra time of 30s to read if SPACE-key has been pressed. 
+    // Allow an extra time of 30s to read, if SPACE-key has been pressed. 
     // WM_KEYDOWN - Normally terminates the screen saver
     // If SPACE-key had been pressed, simulating a return from WM_TIMER,
     // will not terminate but continue the screen saver.
@@ -458,7 +453,7 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
         // Discard pending SPACE-key (flush key buffer)
         while (GetAsyncKeyState(VK_SPACE) != 0) ;
         return DefScreenSaverProc(hWnd, WM_TIMER, wParam, lParam);
-        } // if (VK_SPACE)
+        } // end if (VK_SPACE)
       else
        {
        // Always ignore SPACE-key (do not exit screen saver on SPACE-key)
@@ -472,7 +467,6 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       if (uTimer1) KillTimer(hWnd, uTimer1);
       if (uTimer2) KillTimer(hWnd, uTimer2);
       GlobalFree(pszTxtFilebuf);
-      GlobalFree(pszTxtbuf);
       GlobalFree(pszString);
       break;
     }
@@ -664,11 +658,11 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           // 
           // Initialize CHOOSECOLOR structure
           ZeroMemory(&cc, sizeof(cc));
-          cc.lStructSize = sizeof(cc);
-          cc.hwndOwner = hwnd;
+          cc.lStructSize  = sizeof(cc);
+          cc.hwndOwner    = hwnd;
           cc.lpCustColors = (LPDWORD)acrCustClr;
-          cc.rgbResult = rgbColor;
-          cc.Flags = CC_FULLOPEN | CC_RGBINIT;
+          cc.rgbResult    = rgbColor;
+          cc.Flags        = CC_FULLOPEN | CC_RGBINIT;
            
           // Display example text box in setup dialog with current color
           ScrSavSetupDrawFont(hDlg);  
@@ -805,7 +799,6 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
         case WM_CLOSE:
           EndDialog(hDlg, 0);
           GlobalFree(pszTxtFilebuf);
-          GlobalFree(pszTxtbuf);
           GlobalFree(pszString);
           return TRUE;
           break;
@@ -865,6 +858,16 @@ BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
 //  while a screen saver linked with Scrnsave.lib will run on any Windows platform.
 // 
 //-----------------------------------------------------------------------------
+
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//MessageBoxA(NULL, "OpenTxtFile", "ScreenSaverConfigureDialog", MB_ICONINFORMATION | MB_OK);
+//ha//OpenTxtFile(pszhaScrFilename); // DEBUG
+//ha//MessageBoxA(NULL, "OpenTxtBuf", "ScreenSaverConfigureDialog", MB_ICONINFORMATION | MB_OK);
+//ha//OpenTxtBuf(); // DEBUG
+//ha////GetText();
+//ha////sprintf(DebugBuf, "pszString=\n%s", pszString);
+//ha////MessageBoxA(NULL, DebugBuf, "ScreenSaverConfigureDialog2", MB_ICONINFORMATION | MB_OK);
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha////ha//pszhaScrFilename = "haFaust.frt"; //TEST

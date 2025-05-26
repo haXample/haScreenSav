@@ -50,31 +50,37 @@ using namespace std;
 // Global variables
 //ha//char* pszStringTest = "422. I. 3037\r\n  Sancta Simplicitas! darum ist's nicht zu tun.\n";
 
-char* pszTxtFilebuf  = NULL;
-char* pszTxtbuf      = NULL;
-char* pszString      = NULL;
+char* pszTxtFilebuf  = NULL;       // Total text size
+char* pszString      = NULL;       // Text-block  to be displayed
 
-char lh_date[10+1];      // = "dd/mm/yyyy"   
-char lh_time[8+1];       // = "hh:mm.ss"   
+char lh_date[10+1];                // = "dd/mm/yyyy"   
+char lh_time[8+1];                 // = "hh:mm.ss"   
+
+// TEXTPR structure
+// typedef struct tagTEXTPR {      // Maximum number of text-blocks
+//    int txtNr;                   // TEXTPR structure for text-blocks
+//    char* txtPtr;                // The number of the Text block.
+// } TEXTPR, *PTEXTPR, *LPTEXTPR;  // The pointer to the text block.
+TEXTPR txtPtrArray[MAX_TEXTBLOCKS];
 
 int textMaxIndex = FAUST_MAXINDEX;
 int txtIndex=0;
-int fhTxt=0;             // Filehandle read (*.TXT)
+int fhTxt=0;                       // Filehandle read (*.TXT)
 
-long bytesrd;            // Textfile number of byte read
+ULONG bytesrd;                     // Textfile number of byte read
 
-// // SIZE structure
+// SIZE structure
 // typedef struct tagSIZE {
-//   LONG cx;               // Specifies the rectangle's width.
-//   LONG cy;               // Specifies the rectangle's height.
+//   LONG cx;                      // Specifies the rectangle's width.
+//   LONG cy;                      // Specifies the rectangle's height.
 // } SIZE, *PSIZE, *LPSIZE;
 SIZE rcSize;
   
 // Extern variables and functions
-extern char DebugBuf[];             // Temporary buffer for formatted text
+extern char DebugBuf[];            // Temporary buffer for formatted text
 extern int DebugbufSize;
 extern char* psz_DebugBuf;
-extern TCHAR _tDebugBuf[];          // Temp buffer for formatted UNICODE text
+extern TCHAR _tDebugBuf[];         // Temp buffer for formatted UNICODE text
 extern int _tDebugbufSize;
 extern TCHAR* psz_tDebugBuf;
 
@@ -89,7 +95,7 @@ extern int haFaust_frt03size;
 extern int haFaust_frtsize;
 extern int timeFlag;
 
-extern HDC  hdc;                   // device-context handle  
+extern HDC  hdc;                 // device-context handle  
 
 // Centered Messagebox within parent window
 extern int CBTMessageBox(HWND, char*, char*, UINT);  
@@ -98,6 +104,7 @@ extern int CBTCustomMessageBox(HWND, char*, char*, UINT, UINT);
 // Forward declaration of functions included in this code module:
 void GetDate();
 int GetLastindex();
+void BuildTxtPtrArray();
 
 //-----------------------------------------------------------------------------
 //
@@ -180,58 +187,6 @@ void errchk(char* _filename, int _lastErr)
 
 //-----------------------------------------------------------------------------
 //
-//                      OpenTxtFile
-//
-// Open input text file: *.FRT as CRLF-terminated text
-//
-// Open as binary filehandle
-//  struct _stat Stat;
-//  _stat(TxtFileSize, &Stat);     // Get File info structure
-//  TxtFileSize = Stat.st_size     // file size (malloc)
-//
-//  if ((fhTxt = open(_filename, O_RDONLY|O_BINARY)) == ERR)
-//    {
-//    printf(szErrorOpenFailed, _filename);
-//    exit(SYSERR_FROPN);
-//    }
-// System errors cause a program abort
-//
-void OpenTxtFile(char* _filename)
-  {
-  // ------------------
-  // File handle method
-  // ------------------
-  struct _stat Stat;
-  ULONG TxtFileSize;
-
-  // Open as binary filehandle
-  fhTxt = open(_filename, O_RDONLY|O_BINARY);
-  errchk(_filename, GetLastError());     
- 
-  _stat(_filename, &Stat);     // Get File info structure
-  TxtFileSize = Stat.st_size;  // file size (for malloc)
-
-  pszTxtbuf = (char *)GlobalAlloc(GPTR, TxtFileSize+4);
-  errchk(_filename, GetLastError());     
-
-  pszTxtFilebuf = (char *)GlobalAlloc(GPTR, TxtFileSize+4);
-  errchk(_filename, GetLastError());     
-
-  bytesrd = read(fhTxt, pszTxtFilebuf, TxtFileSize);
-  errchk(_filename, GetLastError());     
-  pszTxtFilebuf[bytesrd] = 0;
-
-  close(fhTxt);
- 
-  // Final format check of file contents (file.FRT) at runtime
-  if (StrCmpN(pszTxtFilebuf, "1. ", 3) != 0) 
-    errchk(_filename, ERROR_BAD_FORMAT);
-
-  GetLastindex();
-  } // OpenTxtFile
-
-//-----------------------------------------------------------------------------
-//
 //                        GetLastindex
 //
 int GetLastindex()
@@ -303,16 +258,64 @@ int GetLastindex()
 
 //-----------------------------------------------------------------------------
 //
+//                      OpenTxtFile
+//
+// Open input text file: *.FRT as CRLF-terminated text
+//
+// Open as binary filehandle
+//  struct _stat Stat;
+//  _stat(TxtFileSize, &Stat);     // Get File info structure
+//  TxtFileSize = Stat.st_size     // file size (for malloc)
+//
+//  if ((fhTxt = open(_filename, O_RDONLY|O_BINARY)) == ERR)
+//    {
+//    printf(szErrorOpenFailed, _filename);
+//    exit(SYSERR_FROPN);
+//    }
+// System errors cause a program abort
+//
+void OpenTxtFile(char* _filename)
+  {
+  // ------------------
+  // File handle method
+  // ------------------
+  struct _stat Stat;
+  ULONG TxtFileSize;
+
+  // Open as binary filehandle
+  fhTxt = open(_filename, O_RDONLY|O_BINARY);
+  errchk(_filename, GetLastError());     
+ 
+  _stat(_filename, &Stat);     // Get File info structure
+  TxtFileSize = Stat.st_size;  // file size (for malloc)
+
+  pszTxtFilebuf = (char *)GlobalAlloc(GPTR, TxtFileSize+4);
+  errchk(_filename, GetLastError());     
+
+  bytesrd = read(fhTxt, pszTxtFilebuf, TxtFileSize);
+  errchk(_filename, GetLastError());     
+  pszTxtFilebuf[bytesrd] = 0;
+
+  close(fhTxt);
+ 
+  // Final format check of file contents (file.FRT) at runtime
+  if (StrCmpN(pszTxtFilebuf, "1. ", 3) != 0) 
+    errchk(_filename, ERROR_BAD_FORMAT);
+
+  BuildTxtPtrArray();
+  } // OpenTxtFile
+
+//-----------------------------------------------------------------------------
+//
 //                      OpenTxtBuf
 //
-// Fill input text file buffer from *.FRT as CRLF-terminated text array
+// Fill input text file buffer from FAUST.FRT as CRLF-terminated text array
 //
 void OpenTxtBuf()
   {
   long _i, _j;
 
-  // Allocate Buffers
-  pszTxtbuf     = (char *)GlobalAlloc(GPTR, haFaust_frtsize+4);
+  // Allocate Buffer
   pszTxtFilebuf = (char *)GlobalAlloc(GPTR, haFaust_frtsize+4);
 
   _j=0;
@@ -327,8 +330,46 @@ void OpenTxtBuf()
   for (_i=0; _i<haFaust_frt03size; _i++)      // copy with 0-terminator
     pszTxtFilebuf[_j+_i] = haFaust_frt03[_i];
 
-  textMaxIndex = FAUST_MAXINDEX;  // fix maximum index for internal FAUST
+  bytesrd = haFaust_frtsize;                  // reflect intrinsic FAUST textsize
+  BuildTxtPtrArray();
   } // OpenTxtBuf
+
+//-----------------------------------------------------------------------------
+//
+//                      BuildTxtPtrArray
+//
+// Build an array containing pointers to the coresponding text numbers
+// to allow fast random access to text blocks. 
+//
+void BuildTxtPtrArray()
+  {
+  int _i, _j;
+  char ascDecNrStr[11];
+  char* tmpPtr = NULL;
+  
+  GetLastindex();
+                                  
+  _i=0; txtIndex = 1;                        // Text numbers start with 1
+  while (&pszTxtFilebuf[_i] != 0)
+    {
+    sprintf(ascDecNrStr, "%d. ", txtIndex);       
+    if ((tmpPtr=strstr(&pszTxtFilebuf[_i], ascDecNrStr)) != NULL)
+      {
+      if (txtIndex > 1) *(tmpPtr-1) = 0;     // 0-terminate previous text block
+
+      // Find start of current text (skip txtIndex)
+      tmpPtr = strstr(tmpPtr, ". ");
+      tmpPtr += 2;
+
+      txtPtrArray[txtIndex].txtNr  = txtIndex; // Text number
+      txtPtrArray[txtIndex].txtPtr = tmpPtr;   // Start of current text
+
+      txtIndex++;                              // advance to next text block
+      if (txtIndex > textMaxIndex) break;      // stop if no more text
+      }
+    _i++;                                      // advance buffer index
+    } // end while
+  } // BuildTxtPtrArray
 
 //-----------------------------------------------------------------------------
 //
@@ -336,78 +377,33 @@ void OpenTxtBuf()
 //
 // Get random text from selected formatted *.FRT text  
 //
-int _srandFlag = FALSE;     // Inject the random seed only once
-                            // (otherwise itdependents too m uch on time stamps)
+int _srandFlag = FALSE;     // Global: Inject the random seed only once
+                            // (otherwise it dependents too much on time stamps)
 void GetText()
   {
   char ascDecNrStr[11];
-  char ascDecNrStrNext[11];
-  char* crlfStr = "\r\n";
-
   char* tmpPtr = NULL;
-  char* tmpPtrNext = NULL;
+  ULONG _i;                 // must be local here
 
-  ULONG _i, _j, _k;         // must be local here
-
-  pszString = (char *)GlobalAlloc(GPTR, 16000);
-
-  for (_i=0; _i<sizeof(ascDecNrStr); _i++)
-    {
-    ascDecNrStr[_i] = 0;
-    ascDecNrStrNext[_i] = 0;
-    }
-
-  for (_i=0; _i<bytesrd; _i++) pszTxtbuf[_i] = 0;
-  for (_i=0; _i<sizeof(pszString); _i++) pszString[_i] = 0;
+  pszString = (char *)GlobalAlloc(GPTR, MAX_TEXTSIZE);  // Max size of a Textblock
 
   // srand() initially seeds the random-number generator with the current time  
   if (_srandFlag == FALSE) { srand((unsigned)time(NULL)); _srandFlag = TRUE; }
   txtIndex = rand() % (textMaxIndex+1);
-  if (txtIndex == 0) txtIndex++;               // Texts start with "1. "
+//ha//txtIndex++;                                  // DEBUG TEST 
+//ha//txtIndex=(textMaxIndex) % (textMaxIndex+1);  // DEBUG TEST 
+//ha//txtIndex=369;                                // DEBUG TEST see misc1.frt "369. "
 
-//ha//txtIndex++;   // DEBUG TEST ONLY
-//ha//txtIndex=369; // DEBUG TEST ONLY see misc1.frt "369. Bricklayer's accident report"   
+  if (txtIndex == 0) txtIndex++;             // Texts start with "1. "
 
-  // BinHex2AscDec
-  sprintf(ascDecNrStr, "%d.", txtIndex);       // Start of text
-  sprintf(ascDecNrStrNext, "%d.", txtIndex+1); // End of text (!may be end-of-file!)
+  tmpPtr = txtPtrArray[txtIndex].txtPtr;
 
-  _i=0; _k=FALSE;
-  while (pszTxtFilebuf[_i] != 0)
-    {
-    if ((tmpPtr=strstr(&pszTxtFilebuf[_i], ascDecNrStr)) != NULL)
-      {
-      tmpPtr=strstr(tmpPtr, ". ");
-      tmpPtr += 2;
-      StrCpy(pszTxtbuf, tmpPtr);               // Copy all the rest
+  // Discard any double CRLF and 0-terminate text
+  if (tmpPtr[strlen(tmpPtr)-2] == '\x0A' &&
+      tmpPtr[strlen(tmpPtr)-4] == '\x0A') tmpPtr[strlen(tmpPtr)-4] = 0;                 
 
-      // Search for next text iten until the very end
-      _j=0; 
-      while (pszTxtbuf[_j] != 0)               
-        {
-        if (pszTxtbuf[_j] == '\x0A' &&
-            (tmpPtrNext=strstr(&pszTxtbuf[_j], ascDecNrStrNext)) != NULL)
-          {
-          _k=TRUE; *tmpPtrNext=0;
-          // Discard any double CRLF and 0-terminate text
-          if (tmpPtrNext[-1] == '\x0A' && tmpPtrNext[-3] == '\x0A') tmpPtrNext[-2] = 0;                 
-          break;
-          }
-        _j++;
-        } // end while (pszTxtbuf)
-
-      // 'tmpPtrNext' must be set to end-of-text, when reached end-of-file
-      if (pszTxtbuf[_j] == 0) tmpPtrNext = &pszTxtbuf[_j]; _k=TRUE;
-
-      if (_k == TRUE)
-        {
-        if (timeFlag) StrCat(pszTxtbuf, lh_time);  // append current time info
-        StrCpy(pszString, pszTxtbuf); 
-        break;
-        } // end while  (pszTxtFilebuf)
-      } // end if (tmpPtr)
-    _i++;
-    } // end while
+  if (timeFlag) StrCat(tmpPtr, lh_time);     // append current time info
+  StrCpy(pszString, tmpPtr); 
   } // GetText
 
 //-----------------------------------------------------------------------------
@@ -452,11 +448,17 @@ void GetDate()
 
   // Build a string (lh_time) representing the time: Hour:Minute.
   GetLocalTime(&stLocal);
-  sprintf(lh_time, "[%02d:%02d]", stLocal.wHour, stLocal.wMinute);
+  sprintf(lh_time, "\n\n[%02d:%02d]", stLocal.wHour, stLocal.wMinute);
   GetTextExtentPoint32A(hdc, lh_time, strlen(lh_time), &rcSize);
   } // Getdate
 
 //-----------------------------------------------------------------------------
+
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//sprintf(DebugBuf, "txtPtrArray.txtNr=%d\ntxtPtrArray.txtPtr=%08X\n\n%s", 
+//ha//                   txtPtrArray[txtIndex].txtNr,    txtPtrArray[txtIndex].txtPtr,txtPtrArray[txtIndex-1].txtPtr);
+//ha//MessageBoxA(NULL, DebugBuf, "BuildTxtPtrArray", MB_ICONINFORMATION | MB_OK);
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//sprintf(DebugBuf, "%d", textMaxIndex);
@@ -467,30 +469,3 @@ void GetDate()
 //ha//sprintf(DebugBuf, "%s", pszString);
 //ha//MessageBoxA(NULL, DebugBuf, "GetText_3", MB_ICONINFORMATION | MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-
-//ha////ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha////ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//  for (_k=0; _k<bytesrd; _k++)
-//ha//    {
-//ha//    if (__pszTxtFilebuf[_k] != pszTxtFilebuf[_k])
-//ha//      {
-//ha//char temp1, temp2;
-//ha//{ temp1 =   pszTxtFilebuf[_k+100];   pszTxtFilebuf[_k+100]  = 0;}
-//ha//{ temp2 = __pszTxtFilebuf[_k+100]; __pszTxtFilebuf[_k+100]  = 0;}
-//ha//
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "_i=%d  _j=%d  _k=%d\n01size=%d - 02size=%d - 03size=%d\n\n"
-//ha//                  "&pszTxtFilebuf[%d]=\n%s\n-- [%02X]--\n\n&__pszTxtFilebuf[%d]=\n%s\n-- [%02X]--",
-//ha//                  _i, _j, _k,  haFaust_frt01size, haFaust_frt02size, haFaust_frt03size,
-//ha//                  _k-20,   &pszTxtFilebuf[_k-20],   pszTxtFilebuf[_k], 
-//ha//                  _k-20, &__pszTxtFilebuf[_k-20], __pszTxtFilebuf[_k]);
-//ha//MessageBoxA(NULL, DebugBuf, "OpenTxtBuf03 Filebuf != Txtbuf", MB_ICONWARNING | MB_OK);
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//
-//ha//{   pszTxtFilebuf[_i+100] = temp1;}
-//ha//{ __pszTxtFilebuf[_i+100] = temp2;}
-//ha//      } // end if
-//ha//    if (__pszTxtFilebuf[_k] == 0) break;
-//ha//    }  // end for
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
