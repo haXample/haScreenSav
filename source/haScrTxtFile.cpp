@@ -390,6 +390,7 @@ void GetText()
   // srand() initially seeds the random-number generator with the current time  
   if (_srandFlag == FALSE) { srand((unsigned)time(NULL)); _srandFlag = TRUE; }
   txtIndex = rand() % (textMaxIndex+1);
+//ha//txtIndex = rand() % 9;
 //ha//txtIndex++;                                  // DEBUG TEST 
 //ha//txtIndex=(textMaxIndex) % (textMaxIndex+1);  // DEBUG TEST 
 //ha//txtIndex=369;                                // DEBUG TEST see misc1.frt "369. "
@@ -402,8 +403,8 @@ void GetText()
   if (tmpPtr[strlen(tmpPtr)-2] == '\x0A' &&
       tmpPtr[strlen(tmpPtr)-4] == '\x0A') tmpPtr[strlen(tmpPtr)-4] = 0;                 
 
-  if (timeFlag) StrCat(tmpPtr, lh_time);     // append current time info
   StrCpy(pszString, tmpPtr); 
+  if (timeFlag) StrCat(pszString, lh_time);     // append current time info
   } // GetText
 
 //-----------------------------------------------------------------------------
