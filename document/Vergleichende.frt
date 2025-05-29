@@ -1863,7 +1863,7 @@ DIE MÄNNIN DER NARRUNG
   dem Rücken (der) Narren.
 
 
-210. Vergleichende, VG26.4-6
+220. Vergleichende, VG26.4-6
   Nich(t) antworte (dem) Narren
   gemäß seiner Torheit,
   dass du nicht ihm gleichwertig wirst,
@@ -1880,33 +1880,33 @@ DIE MÄNNIN DER NARRUNG
   in (der) Hand(schaft) (eines) Narren.
 
 
-211. Vergleichende, VG26.9
+221. Vergleichende, VG26.9
   (Eine) Distel, (die) auf(steig)t*         [*e: vmtl. zum Schlag erhoben wird]
   in (der) Hand (eines) Berauschten,
   so (ein) Vergleichendes im Mund (der) Narren.
 
 
-212. Vergleichende, VG26.11
+222. Vergleichende, VG26.11
   Wie (ein) Hund
   auf sein Gespienes zurückkehrt,
   (so) (ein) Narr,
   (der) in seiner Torheit wiederholt.
 
 
-213. Vergleichende, VG26.12
+223. Vergleichende, VG26.12
   Siehst du (einen) Mann,
   (der) in seinen Augen weise (ist),
   Erharrtes (ist) dem Narren,
   mehr als ihm.
 
 
-214. Vergleichende, VG26.14
+224. Vergleichende, VG26.14
   Die Tür ist kreisen(d)
   auf ihrem Türzapfen,
   so (der) Träge auf seiner Streckstatt.
 
 
-215. Vergleichende, VG26.15,16
+225. Vergleichende, VG26.15,16
   Vergräbt (der) Träge
   seine Hand in (der) Schüssel,
   ist er erschöpft,
@@ -1919,14 +1919,14 @@ DIE MÄNNIN DER NARRUNG
                                               Wiederherstellende]
 
 
-216. Vergleichende, VG26.17
+226. Vergleichende, VG26.17
   (Ein) Haltender (die) Ohren (eines) Hundes,
   (so) (ein) (Vor)übergehender,
   (der) überwallt auf(grund) (von) Hader,
   (der) nicht sein.
 
 
-217. Vergleichende, VG26.18,19
+227. Vergleichende, VG26.18,19
   Wie (ein) (geistig) Entkräfteter,
   der Ziel(hab)ende (mit) Handschellen*,                    [*e: um zu fesseln]
   Pfeilen und Tod,
@@ -1937,7 +1937,7 @@ DIE MÄNNIN DER NARRUNG
   Erheitere ich mich nicht (nur)?
 
 
-218. Vergleichende, VG26.24,25
+228. Vergleichende, VG26.24,25
   In* seiner Lippe                                          [*a: In(folge) von]
   wird (der) Hassende (er)kannt,
   und in seinem Innern setzt er Trug.
@@ -1948,40 +1948,40 @@ DIE MÄNNIN DER NARRUNG
   (sind) in seinem Herzen.
 
 
-219. Vergleichende, VG26.27
+229. Vergleichende, VG26.27
   (Der) (eine) Verderben(sgrube) Grabende,
   er fällt (selber) darein,
   und (der) Wälzer (eines) Steins,
   zu ihm kehrt er zurück.
 
 
-220. Vergleichende, VG27.1
+230. Vergleichende, VG27.1
   Nich(t) prahle,
   (was)* im Tag  nach(tags),                                [*e: was sein wird]
   denn nicht erkennst du,
   was (ein) Tag gebiert.
 
 
-221. Vergleichende, VG27.2
+231. Vergleichende, VG27.2
   (Es) lobe dich (ein) Fremder
   und nicht dein Mund,
   (ein) Auswärtiger
   und nich(t) deine Lippen.
 
 
-222. Vergleichende, VG27.5
+232. Vergleichende, VG27.5
   Gut (ist) enthüllter Rechterweis,
   mehr als verborgene Liebe.
 
 
-223. Vergleichende, VG27.7
+233. Vergleichende, VG27.7
   (Eine) satte Seele
   zertrampelt herausgeschwenkten (Honigseim),
   aber (einer) hungrigen Seele
   (ist) alles Bittere süß.
 
 
-224. Vergleichende, VG27.10
+234. Vergleichende, VG27.10
   Deinen Beigesellten
   und (den) Gefährten deines Vaters
   verlasse nich(t),
@@ -1991,82 +1991,82 @@ DIE MÄNNIN DER NARRUNG
   mehr als (ein) ferner Bruder.
 
 
-225. Vergleichende, VG27.11
+235. Vergleichende, VG27.11
   Sei weise, mein Sohn,
   und erfreue mein Herz,
   so will ich (ein) Wort zurückbringen
   (dem) mich Schmähenden.
 
 
-226. Vergleichende, VG27.12
+236. Vergleichende, VG27.12
   (Der) Listige sieht (das) Böse
   (und) verbirgt sich,
   (die) Zugänglichen gehen (dar)über hin
   (und) werden gestraft.
 
 
-227. Vergleichende, VG27.13
+237. Vergleichende, VG27.13
   Nimm sein Gewand,
   denn er (hat) (für) (einen) Fremden gebürgt,
   und zugunsten (einer) Auswärtigen
   pfände ihn.
 
 
-228. Vergleichende, VG27.14
+238. Vergleichende, VG27.14
   (Der) seinen Beigesellten Segnende
   mit großer Stimme
   im Morgen (zur) (Zeit) (des) Früh(aufsteh)ens,
   (als) Fluch wird('s) ihm gerechnet.
 
 
-229. Vergleichende, VG27.15
+239. Vergleichende, VG27.15
   Aufdringliches Gesicker
   im Tag (des) Unwetters
   und (eine) Männin (der) Rechtsstreite
   sind gleichwertig;
 
 
-230. Vergleichende, VG27.17
+240. Vergleichende, VG27.17
   Eisen wird scharf mittels Eisen,
   und (ein) Mann
   schärft (das) Angesicht seines Beigesellten.
 
 
-231. Vergleichende, VG27.19
+241. Vergleichende, VG27.19
   Wie Wasser
   das Angesicht dem Angesicht (spiegelt),
   also (das) Herz des Menschen dem Menschen.
 
 
-232. Vergleichende, VG27.20
+242. Vergleichende, VG27.20
   Schö°O´L und Verlus*             [*e: Ort des Verlustes und der Verlorenheit]
   ersatten nicht,
   und (die) Augen des Menschen
   ersatten nicht.
 
 
-233. Vergleichende, VG27.23
+243. Vergleichende, VG27.24
   (Zu) erkennen erkennst du
   (das) Angesicht deines Kleinviehs,
   setze dein Herz
   zu (den) Herden,
 
 
-234. Vergleichende, VG27.27
+244. Vergleichende, VG27.27
   und Genüge (der) Milch (der) Ziegen
   (ist) (da) als dein Brot*,                           [*e: die nötige Nahrung]
   als (das) Brot deines Hauses,
   und Lebende* (sind) für deine Maiden.   [*e: Lebenerhaltende, Lebenfördernde]
 
 
-235. Vergleichende, VG28.1
+245. Vergleichende, VG28.1
   (Es) flieht (die) Frevler(schaft),
   und kein Verfolgender (ist) (da),
   aber (die) Gerechten (sind) wie (ein) Jungleu,
   (der) sich sichert.
 
 
-236. Vergleichende, VG28.2
+246. Vergleichende, VG28.2
   In(folge) (der) Ausschreitung (eines) Erdlands
   (sind) seiner Fürsten viele,
   aber in(folge) (eines) verstehenden Menschen,
@@ -2074,76 +2074,76 @@ DIE MÄNNIN DER NARRUNG
   längert (sich) (das) Standbereitete*.       [*e: Basis für eine Regentschaft]
 
 
-237. Vergleichende, VG28.4
+247. Vergleichende, VG28.4
   (Die) (die) Zielgebung Verlassenden
   loben (den) Frevler,
   aber (die) Hüter (der) Zielgebung
   befehden sie.
 
 
-238. Vergleichende, VG28.5
+248. Vergleichende, VG28.5
   (Die) Mannhaften (des) Bösen
   verstehen (die) Richtigung nicht,
   aber (die) JHWH Suchenden
   verstehen alles.
 
 
-239. Vergleichende, VG28.6
+249. Vergleichende, VG28.6
   Besser (ist) (ein) Rechtloser,
   wandelnd in seiner Vollendung,
   als (ein) Verkehrter (des) Doppelweges,
   der (ein) Reicher (ist).
 
 
-240. Vergleichende, VG28.7
+250. Vergleichende, VG28.7
   (Der) Umfelser (der) Zielgebung
   (ist) (ein) verstehender Sohn,
   aber (der) (sich) (mit) Getriebenen Hirt(gesell)ende
   beschändet seinen Vater.
 
 
-241. Vergleichende, VG28.8
+251. Vergleichende, VG28.8
   (Der) sein Vermögen Mehrende
   mit Wucher und mit Zins,
   für (den) Gnadenden (der) Armen
   schart* er es.                                        [*e: iSv zusammenhäuft]
 
 
-242. Vergleichende, VG28.9
+252. Vergleichende, VG28.9
   (Der) sein Ohr Abkehr(en)machende
   vom Hören (der) Zielgebung,
   auch noch sein Gebet (ist) (ein) Gräuel.
 
 
-243. Vergleichende, VG28.11
+253. Vergleichende, VG28.11
   Weise in seinen Augen
   (ist) (ein) reicher Mann,
   aber (ein) verstehender Armer
   untersucht ihn.
 
 
-244. Vergleichende, VG28.13
+254. Vergleichende, VG28.13
   (Der) Bedecker seiner Ausschreitungen
   (ha)t nicht Gelingen,
   aber (der) Bekennende und Lassende
   wird bebarmt.
 
 
-245. Vergleichende, VG28.14
+255. Vergleichende, VG28.14
   Glückselig (der) Mensch,
   (der) sich stets ängstende;
   aber (der) sein Herz Verhärtende
   fällt in(folge) (des) Bösen.
 
 
-246. Vergleichende, VG28.15
+256. Vergleichende, VG28.15
   (Ein) fauchender Löwe
   und (ein) umherstreichender Bär,
   (so) (ein) frevler(ischer) Herrscher
   über (ein) armes Volk.
 
 
-247. Vergleichende, VG28.16
+257. Vergleichende, VG28.16
   (Ist) (ein) Herzog
   ermangelnd (der) Verständnisse,
   so (sind) viel (der) Erpressereien,
@@ -2151,14 +2151,14 @@ DIE MÄNNIN DER NARRUNG
   längert (seine) Tage.
 
 
-248. Vergleichende, VG28.19
+258. Vergleichende, VG28.19
   (Der) seine ADaMa´H Bedienende
   ersattet (des) Brotes,
   aber (der) Verfolger (der) Leer(seiend)en
   ersattet (der) Mittellosigkeit.
 
 
-249. Vergleichende, VG28.20
+259. Vergleichende, VG28.20
   (Einem) Mann (des) Treuns
   (sind) viel (der) Segnungen,
   aber (der) Schleunige,
@@ -2166,20 +2166,20 @@ DIE MÄNNIN DER NARRUNG
   wird nicht entschuldet.
 
 
-250. Vergleichende, VG28.21
+260. Vergleichende, VG28.21
   (Das) Angesicht (zu) kennen*  [*e: aufgrund des Kennens ungerecht bevorzugen]
   (ist) nicht gut,
   so (kann) auf(grund) (eines) Bissens Brot
   (ein) Ermächtigter ausschreiten.
 
 
-251. Vergleichende, VG28.23
+261. Vergleichende, VG28.23
   (Der) (einem) Menschen Rechterweisende
   findet danach Gnade,
   mehr als (der) (die) Zunge Glättende.
 
 
-252. Vergleichende, VG28.24
+262. Vergleichende, VG28.24
   (Der) seinen Vater
   oder seine Mutter Beraubende
   und Sprechende:
@@ -2188,68 +2188,68 @@ DIE MÄNNIN DER NARRUNG
   dem verderbenmachenden Mann.
 
 
-253. Vergleichende, VG28.26
+263. Vergleichende, VG28.26
   (Der) sich Sichernde in seinem Herzen,
   er (ist) (ein) Narr,
   aber (der) Wandelnde in Weisheit,
   er, er entkommt.
 
 
-254. Vergleichende, VG28.28
+264. Vergleichende, VG28.28
   Im Erstehen (der) Frevler
   verbirgt sich (der) Mensch,
   aber in ihrem Verloren(geh)en
   mehren sich (die) Gerechten.
 
 
-255. Vergleichende, VG29.1
+265. Vergleichende, VG29.1
   (Ein) Mann, (der), Rechterweise (erhaltend),
   (das) Genick verhärtet,
   wird plötzlich zerbrochen
   und (ist) keine Heilung.
 
 
-256. Vergleichende, VG29.2
+266. Vergleichende, VG29.2
   Im Sich-Mehren (der) Gerechten
   freut sich das Volk,
   aber im Herrschen (des) Frevlers
   seufzt (ein) Volk.
 
 
-257. Vergleichende, VG29.3
+267. Vergleichende, VG29.3
   (Ein) Weisheit liebender Mann
   erfreut seinen Vater,
   aber (der) (sich) (mit) Huren Hirt(gesell)ende
   (gib)t Vermögen verloren.
 
 
-258. Vergleichende, VG29.4
+268. Vergleichende, VG29.4
   (Ein) Regent macht mittels Richtigung
   (das) Erdland stehen,
   aber (ein) Mann (der) Höhungen* [*e: hier vmtl. ständige steuerliche Abgaben]
   zerstört es.
 
 
-259. Vergleichende, VG29.7
+269. Vergleichende, VG29.7
   (Der) Gerechte erkennt
   (das) Rechtswalten (für) (die) Armen;
   (der) Frevler versteht Erkenntnis nicht.
 
 
-260. Vergleichende, VG29.10
+270. Vergleichende, VG29.10
   Mannhafte (der) Blut(schuld)en
   hassen (den) Vollendeten,
   aber (die) Geraden
   suchen seine Seele.
 
 
-261. Vergleichende, VG29.12
+271. Vergleichende, VG29.12
   (Ein) Herrscher,
   aufmerkend auf (das) Wort (der) Falschheit (zu):
   all seine Amtenden (sind) Frevler.
 
 
-262. Vergleichende, VG29.13
+272. Vergleichende, VG29.13
   (Der) Rechtlose
   und (der) Mann (der) Zusammenbrüche
   treffen sich,
@@ -2257,82 +2257,82 @@ DIE MÄNNIN DER NARRUNG
   (ist) JHWH.
 
 
-263. Vergleichende, VG29.14
+273. Vergleichende, VG29.14
   (Ein) Regent,
   (der) in Wahrheit (die) Armen richtet,
   sein Thron wird bereitet
   für Zeugens(zeit).
 
 
-264. Vergleichende, VG29.15
+274. Vergleichende, VG29.15
   Stecken und Rechterweis
   geben Weisheit,
   aber (ein) entsandter* Jüngling            [*e: iSv sich selbst überlassener]
   beschämt seine Mutter.
 
 
-265. Vergleichende, VG29.16
+275. Vergleichende, VG29.16
   Im Sich-Mehren (der) Frevler
   mehrt sich (die) Ausschreitung,
   aber (die) Gerechten
   sehen ihr Gefälltsein.
 
 
-266. Vergleichende, VG29.18
+276. Vergleichende, VG29.18
   Wo keine Gesichtung*,                                   [*e: iSv Voraussicht]
   wird (ein) Volk ungebändigt,
   aber (der) Hüter (der) Zielgebung,
   er (ist) glückselig.
 
 
-267. Vergleichende, VG29.19
+277. Vergleichende, VG29.19
   Mit Worten
   wird (ein) Diener nicht erzüchtigt,
   denn versteht er,
   so (ist) (doch) keine Antwort.
 
 
-268. Vergleichende, VG29.20
+278. Vergleichende, VG29.20
   Gesichtest du (einen) Mann,
   schleunig in seinen Worten,
   Erharrtes (ist) dem Narren, mehr als ihm.
 
 
-269. Vergleichende, VG29.21
+279. Vergleichende, VG29.21
   Verhätschelt (einer)
   von Jugend (an)  seinen Diener,
   so wird diesem (als) Späteres
   Stammhalterschaft*.  [*e: vmtl. der Besitz mit Erbrecht für seine Nachkommen]
 
 
-270. Vergleichende, VG29.23
+280. Vergleichende, VG29.23
   (Der) Stolz (eines) Menschen erniedrigt ihn,
   aber (den) Niedrigen (des) Geistwinds
   umfängt Herrlichkeit.
 
 
-271. Vergleichende, VG29.24
+281. Vergleichende, VG29.24
   (Der) mit (dem) Stehler Teilende
   (ist) (ein) seine Seele Hassender,
   (den) Eidfluch hört er,
   aber nicht berichtet er('s).
 
 
-272. Vergleichende, VG29.25
+282. Vergleichende, VG29.25
   (Das) Zittern (des) Menschen
   gibt* (eine) Schlinge,                                  [*e: bringt mit sich]
   aber (der) sich Sichernde in JHWH
   wird überragen ge(mach)t.
 
 
-273. Vergleichende, VG29.27
+283. Vergleichende, VG29.28
   (Ein) Gräuel (den) Gerechten
   (ist) (der) Mann (des) Args,
   aber (ein) Gräuel (dem) Frevler
   (ist) (der) Gerade (des) Weges.
 
 
-274. Vergleichende, VG30.1-4
+284. Vergleichende, VG30.1-4
   Worte AGU´Rs, (des) Sohnes JaQä´Hs.
   Die Traglast.
   Treuewort des Ermächtigten zu °ITIE´L,
@@ -2359,7 +2359,7 @@ DIE MÄNNIN DER NARRUNG
   (so) denn du (es) erkennst?
 
 
-275. Vergleichende, VG30.5,6
+285. Vergleichende, VG30.5,6
   Alles Sprechende (des) ÄLO´aH
   (ist) Ausgeschmolzenes.
   Umschützer (ist) er
@@ -2370,7 +2370,7 @@ DIE MÄNNIN DER NARRUNG
   und du (als) Lügner (erfund)en wirst.
 
 
-276. Vergleichende, VG30.7-9
+286. Vergleichende, VG30.7-9
   Zweie erfrage ich von dir;
   nich(t) vorenthalte (sie) mir,
   noch ehe ich sterbe:
@@ -2389,7 +2389,7 @@ DIE MÄNNIN DER NARRUNG
   und ergreife* (den) Namen meines ÄLoHI´M.     [*e: iSv vergreife mich an dem]
 
 
-277. Vergleichende, VG30.10
+287. Vergleichende, VG30.10
 WARNUNGEN
   Nich(t) verleumde (einen) Diener
   bei seinem Herrn,
@@ -2397,7 +2397,7 @@ WARNUNGEN
   und du schuldig wirst.
 
 
-278. Vergleichende, VG30.11-14
+288. Vergleichende, VG30.11-14
 WARNUNGEN
   (Da) (ist) (eine) Generation,
   (die) ihren Vater verflucht
@@ -2420,7 +2420,7 @@ WARNUNGEN
   und (die) Dürftigen aus (den) Menschen.
 
 
-279. Vergleichende, VG30.15
+289. Vergleichende, VG30.15
   Dem Blutegel (sind) zwei Töchter:
   Gewähre, gewähre!
   Ihrer drei werden nicht satt,
@@ -2428,7 +2428,7 @@ WARNUNGEN
   (Genug) (des)* Vermögens*!                            [*e: des Vereinnahmten]
 
 
-280. Vergleichende, VG30.17
+290. Vergleichende, VG30.17
 WARNUNGEN
   (Ein) Auge, (das) dem Vater hohnlacht
   und die Erharrung* (der) Mutter missachtet:            [*e: was sie erwartet]
@@ -2438,7 +2438,7 @@ WARNUNGEN
   (fr)essen es.
 
 
-281. Vergleichende, VG30.18-20
+291. Vergleichende, VG30.18-20
 UNBEKANNTE WEGE UND OFFENKUNDIGER WEG
   Drei (sind) es,
   (die) mir zu wunderbar sind,
@@ -2459,7 +2459,7 @@ UNBEKANNTE WEGE UND OFFENKUNDIGER WEG
   Nicht (habe) ich Ichhaftes gewirkt.
 
 
-282. Vergleichende, VG30.21-23
+292. Vergleichende, VG30.21-23
 UNERTRÄGLICHES
   Unter dreien erbebt (das) Erdland,
   und unter vieren kann es nicht tragen:
@@ -2476,7 +2476,7 @@ UNERTRÄGLICHES
   (den) (Platz) ihrer Ermächtigten errechtet.
 
 
-283. Vergleichende, VG30.24-28
+293. Vergleichende, VG30.24-29
 KLEINE UND WEISE
   Vier (sind) es,
   (die) Kleinen (des) Erdlands,
@@ -2500,7 +2500,7 @@ KLEINE UND WEISE
   aber sie (ist) in (den) Palästen (des) Regenten.
 
 
-284. Vergleichende, VG30.29-31
+294. Vergleichende, VG30.29-31
   Drei (sind) es,
   (die) Wohlmachenden (des) Schrittes,
   und vier,
@@ -2517,7 +2517,7 @@ KLEINE UND WEISE
   (so) Eidfluchserstehung bei ihm (ist).
 
 
-285. Vergleichende, VG30.32,33
+295. Vergleichende, VG30.32,33
   Ob du verrucht wurdest im Dich-Erheben
   oder ob du plantest:
   (Lege) (die) Hand zum Mund,
@@ -2530,7 +2530,7 @@ KLEINE UND WEISE
   macht Hader herausgehen.
 
 
-286. Vergleichende, VG31.1-3
+296. Vergleichende, VG31.1-3
   Worte LöMUE´Ls, (des) Regenten.
   Traglast,
   (mit) der ihn seine Mutter erzüchtigte.
@@ -2544,7 +2544,7 @@ KLEINE UND WEISE
   (um) Regenten wegzuwischen.
 
 
-287. Vergleichende, VG31.4,6,7
+297. Vergleichende, VG31.4,6,7
   Nich(t) den Regenten, LöMOE´L,
   nich(t) den Regenten (ist's), Wein (zu) trinken,
   noch den Erlauchten
@@ -2559,7 +2559,7 @@ FÜR WEN BERAUSCHENDES IST
   und nicht gedenkt er noch seines Mühens.
 
 
-288. Vergleichende, VG31.8,9
+298. Vergleichende, VG31.8,9
 RECHTES REDEN
   Öffne deinen Mund für (den) Stummen,
   zum Rechtswalten
@@ -2571,7 +2571,7 @@ RECHTES REDEN
   (für) (den) Gedemütigten und Dürftigen.
 
 
-289. Vergleichende, VG31.10-14
+299. Vergleichende, VG31.10-14
 DIE MÄNNIN DER WAPPNUNG
   (Eine) Männin (der) Wappnung,
   wer findet (sie)?
@@ -2590,7 +2590,7 @@ DIE MÄNNIN DER WAPPNUNG
   aus (der) Ferne bringt sie ihr Brot.
 
 
-290. Vergleichende, VG31.18,20,23,26
+300. Vergleichende, VG31.18,20,23,26
 DIE MÄNNIN DER WAPPNUNG
   Sie beurteilt,
   dass ihr Erhandeltes gut (ist),
@@ -2616,7 +2616,7 @@ DIE MÄNNIN DER WAPPNUNG
   und Brot (des) Trägeseins isst sie nicht.
 
 
-291. Vergleichende, VG31.30,31
+301. Vergleichende, VG31.30,31
   Falschheit (ist) die (furchtlose) Gnade
   und Dunst  die Schönheit;
   (eine) Männin, fürchtend JHWH,
@@ -2627,7 +2627,7 @@ DIE MÄNNIN DER WAPPNUNG
   ihre Gemachten.
 
 
-292. ZITIERTE TEXTE UND TEXTNACHWEISE
+302. ZITIERTE TEXTE UND TEXTNACHWEISE
   -----------------------------------
   Bibelausgabe (Deutsch)
     DÜ4 - Die Geschriebene, DaBhaR-Übersetzung,
