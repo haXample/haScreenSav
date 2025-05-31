@@ -15,7 +15,7 @@ All files `*.frt` must reside *outside* the `c:\windows\system32` folder.
 (As an Example of the *FRT-File Format*, the file `document/haFaust.frt` is provided.)  
 
 Last Update May 2025: *haScreensav.scr*   
-Additions: `document/LudwigHohl.frt` `./Vergleichende.frt` `./Maxims&Reflections`    
+Additions: `document/LudwigHohl.frt` `./Vergleichende.frt` `./Maxims&Reflections.frt`    
 Changes: `source/haScreensav.cpp` prolonging reading time by pressing `<SPACE>`        
 Changes: `source/haScrTxtFile.cpp` improved checking wrong *.FRT File Format 
 
