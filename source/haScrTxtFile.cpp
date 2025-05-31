@@ -84,6 +84,8 @@ extern TCHAR _tDebugBuf[];         // Temp buffer for formatted UNICODE text
 extern int _tDebugbufSize;
 extern TCHAR* psz_tDebugBuf;
 
+extern char* pszhaScrFilename;      // .FRT file
+
 extern char haFaust_frt01[]; 
 extern char haFaust_frt02[]; 
 extern char haFaust_frt03[]; 
@@ -147,7 +149,7 @@ void errchk(char* _filename, int _lastErr)
         sprintf(DebugBuf, "%s\n%s", szErrorAccessDenied, _filename);
         break;
       case ERROR_BAD_FORMAT:        
-        sprintf(DebugBuf, "%s\n%s", szErrorBadFormat, _filename);
+        sprintf(DebugBuf, "%s [%d.]\n%s", szErrorBadFormat, txtIndex, _filename);
         break;
       case ERROR_SHARING_VIOLATION: // 0x20
         sprintf(DebugBuf, "%s\n%s", szErrorFileIsUsed, _filename);
@@ -207,12 +209,12 @@ int GetLastindex()
         pszTxtFilebuf[_i+2] ='.'; 
         break;
         }
-      else  if (pszTxtFilebuf[_i+1] >= '0'  &&  //10-99
-                pszTxtFilebuf[_i+1] <= '9'  &&
-                pszTxtFilebuf[_i+2] >= '0'  &&  
-                pszTxtFilebuf[_i+2] <= '9'  &&
-                pszTxtFilebuf[_i+3] == '.'  && 
-                pszTxtFilebuf[_i+4] == ' ')
+      else if (pszTxtFilebuf[_i+1] >= '0'  &&  //10-99
+               pszTxtFilebuf[_i+1] <= '9'  &&
+               pszTxtFilebuf[_i+2] >= '0'  &&  
+               pszTxtFilebuf[_i+2] <= '9'  &&
+               pszTxtFilebuf[_i+3] == '.'  && 
+               pszTxtFilebuf[_i+4] == ' ')
         {
         pszTxtFilebuf[_i+3] =0; 
         textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
@@ -342,20 +344,20 @@ void OpenTxtBuf()
 // to allow fast random access to text blocks. 
 //
 void BuildTxtPtrArray()
-  {
+  {                                             
   int _i, _j;
-  char ascDecNrStr[11];
+  char ascDecNrStr[10];                        // "10000. \x0"
   char* tmpPtr = NULL;
   
   GetLastindex();
                                   
-  _i=0; txtIndex = 1;                        // Text numbers start with 1
-  while (&pszTxtFilebuf[_i] != 0)
+  _i=0; txtIndex = 1;                          // Text numbers start with 1
+  while (_i < bytesrd)
     {
-    sprintf(ascDecNrStr, "%d. ", txtIndex);       
+    sprintf(ascDecNrStr, "%d. ", txtIndex);
     if ((tmpPtr=strstr(&pszTxtFilebuf[_i], ascDecNrStr)) != NULL)
       {
-      if (txtIndex > 1) *(tmpPtr-1) = 0;     // 0-terminate previous text block
+      if (txtIndex > 1) *(tmpPtr-1) = 0;       // 0-terminate previous text block
 
       // Find start of current text (skip txtIndex)
       tmpPtr = strstr(tmpPtr, ". ");
@@ -366,6 +368,11 @@ void BuildTxtPtrArray()
 
       txtIndex++;                              // advance to next text block
       if (txtIndex > textMaxIndex) break;      // stop if no more text
+      
+      // Format index check
+      sprintf(ascDecNrStr, "\xA%d. ", txtIndex);  
+      if (strstr(tmpPtr, ascDecNrStr) == NULL) 
+        { errchk(pszhaScrFilename, ERROR_BAD_FORMAT); break; }
       }
     _i++;                                      // advance buffer index
     } // end while
@@ -390,9 +397,10 @@ void GetText()
   // srand() initially seeds the random-number generator with the current time  
   if (_srandFlag == FALSE) { srand((unsigned)time(NULL)); _srandFlag = TRUE; }
   txtIndex = rand() % (textMaxIndex+1);
-//ha//txtIndex = rand() % 9;
+//ha//txtIndex = rand() % 9;                       // DEBUG TEST
 //ha//txtIndex++;                                  // DEBUG TEST 
 //ha//txtIndex=(textMaxIndex) % (textMaxIndex+1);  // DEBUG TEST 
+//ha//txtIndex=textMaxIndex;                       // DEBUG TEST 
 //ha//txtIndex=369;                                // DEBUG TEST see misc1.frt "369. "
 
   if (txtIndex == 0) txtIndex++;             // Texts start with "1. "
@@ -401,7 +409,10 @@ void GetText()
 
   // Discard any double CRLF and 0-terminate text
   if (tmpPtr[strlen(tmpPtr)-2] == '\x0A' &&
-      tmpPtr[strlen(tmpPtr)-4] == '\x0A') tmpPtr[strlen(tmpPtr)-4] = 0;                 
+      tmpPtr[strlen(tmpPtr)-4] == '\x0A') tmpPtr[strlen(tmpPtr)-4] = 0;
+  else if (tmpPtr[strlen(tmpPtr)-2] == '\x0A') tmpPtr[strlen(tmpPtr)-2] = 0;                     
+  else if (txtIndex == textMaxIndex && 
+           tmpPtr[strlen(tmpPtr)-1] == '\x0A') tmpPtr[strlen(tmpPtr)-1] = 0;                     
 
   StrCpy(pszString, tmpPtr); 
   if (timeFlag) StrCat(pszString, lh_time);     // append current time info
