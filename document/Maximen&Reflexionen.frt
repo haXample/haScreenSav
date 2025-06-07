@@ -1,1103 +1,9713 @@
-1. Goethe, Maximen und Reflexionen
-  Den Deutschen ist nichts daran gelegen, zusammenzubleiben,
-  aber doch, für sich zu bleiben. Jeder, sei er auch, welcher er wolle,
-  hat so ein eignes Für-sich, das er sich nicht gern möchte nehmen lassen.
+1. Johann Wolfgang Goethe, Maximen und Reflexionen 1
+AUS DEN WAHLVERWANDTSCHAFTEN (1809 Ottiliens Tagebuch)
+  Wir blicken so gern in die Zukunft, weil wir das Ungefähre,
+  was sich in ihr hin und her bewegt,
+  durch stille Wünsche so gern zu unsern Gunsten heranleiten möchten.
 
 
-2. Goethe, Maximen und Reflexionen
-  Die empirisch-sittliche Welt 
-  besteht größtenteils nur aus bösem Willen und Neid.
+2. Goethe, Maximen und Reflexionen 2
+AUS DEN WAHLVERWANDTSCHAFTEN (1809 Ottiliens Tagebuch)
+  Wir befinden uns nicht leicht in großer Gesellschaft,
+  ohne zu denken, der Zufall, der so viele zusammenbringt,
+  solle uns auch unsre Freunde herbeiführen.
 
 
-3. Goethe, Maximen und Reflexionen
-  Unreine Lebensverhältnisse soll man niemand wünschen; sie sind aber für den,
-  der zufällig hineingerät, Prüfsteine des Charakters und des Entschiedensten,
-  was der Mensch vermag.
+3. Goethe, Maximen und Reflexionen 3
+AUS DEN WAHLVERWANDTSCHAFTEN (1809 Ottiliens Tagebuch)
+  Man mag noch so eingezogen leben,
+  so wird man, ehe man sich's versieht,
+  ein Schuldner oder ein Gläubiger.
 
 
-4. Goethe, Maximen und Reflexionen
-  Wer meine Fehler überträgt, ist mein Herr, und wenn's mein Diener wäre.
+4. Goethe, Maximen und Reflexionen 4
+  Begegnet uns jemand, der uns Dank schuldig ist, gleich fällt es uns ein.
+  Wie oft können wir jemand begegnen, dem wir Dank schuldig sind,
+  ohne daran zu denken!
 
 
-5. Goethe, Maximen und Reflexionen
-  Eine Sammlung von Anekdoten und Maximen ist für den Weltmann der größte
-  Schatz, wenn er die ersten an schicklichen Orten ins Gespräch einzustreuen,
-  der letzten im treffenden Falle sich zu erinnern weiß.
+5. Goethe, Maximen und Reflexionen 5
+  Sich mitzuteilen ist Natur;
+  Mitgeteiltes aufzunehmen, wie es gegeben wird, ist Bildung.
 
 
-6. Goethe, Maximen und Reflexionen
-  Es gibt Menschen, die gar nicht irren, 
-  weil sie sich nichts Vernünftiges vorsetzen.
+6. Goethe, Maximen und Reflexionen 6
+  Niemand würde viel in Gesellschaften sprechen,
+  wenn er sich bewusst wäre, wie oft er die andern missversteht.
 
 
 7. Goethe, Maximen und Reflexionen
-  Das Besondere unterliegt ewig dem Allgemeinen; 
+  Man verändert fremde Reden beim Wiederholen wohl nur darum so sehr,
+  weil man sie nicht verstanden hat.
+
+
+8. Goethe, Maximen und Reflexionen 8
+  Wer vor andern lange allein spricht,
+  ohne den Zuhörern zu schmeicheln,
+  erregt Widerwillen.
+
+
+9. Goethe, Maximen und Reflexionen 9
+  Jedes ausgesprochene Wort erregt den Gegensinn.
+
+
+10. Goethe, Maximen und Reflexionen 10
+  Widerspruch und Schmeichelei machen beide ein schlechtes Gespräch.
+
+
+11. Goethe, Maximen und Reflexionen 11
+  Die angenehmsten Gesellschaften sind die, in welchen eine heitere
+  Ehrerbietung der Glieder gegeneinander obwaltet.
+
+
+12. Goethe, Maximen und Reflexionen 12
+  Durch nichts bezeichnen die Menschen mehr ihren Charakter
+  als durch das, was sie lächerlich finden.
+
+
+13. Goethe, Maximen und Reflexionen 13
+  Das Lächerliche entspringt aus einem sittlichen Kontrast,
+  der auf eine unschädliche Weise für die Sinne in Verbindung gebracht wird.
+
+
+14. Goethe, Maximen und Reflexionen 14
+  Der sinnliche Mensch lacht oft, wo nichts zu lachen ist.
+  Was ihn auch anregt, sein inneres Behagen kommt zum Vorschein.
+
+
+15. Goethe, Maximen und Reflexionen 15
+  Der Verständige findet fast alles lächerlich,
+  der Vernünftige fast nichts.
+
+
+16. Goethe, Maximen und Reflexionen 16
+  Einem bejahrten Manne verdachte man,
+  dass er sich noch um junge Frauenzimmer bemühte.
+  "Es ist das einzige Mittel", versetzte er,
+  "sich zu verjüngen, und das will doch jedermann."
+
+
+17. Goethe, Maximen und Reflexionen 17
+  Man lässt sich seine Mängel vorhalten,
+  man lässt sich strafen,
+  man leidet manches um ihrer willen mit Geduld;
+  aber ungeduldig wird man, wenn man sie ablegen soll.
+
+
+18. Goethe, Maximen und Reflexionen 18
+  Gewisse Mängel sind notwendig zum Dasein des Einzelnen.
+  Es würde uns unangenehm sein,
+  wenn alte Freunde gewisse Eigenheiten ablegten.
+
+
+19. Goethe, Maximen und Reflexionen 19
+  Man sagt: "Er stirbt bald",
+  wenn einer etwas gegen seine Art und Weise tut.
+
+
+20. Goethe, Maximen und Reflexionen 20
+  Was für Mängel dürfen wir behalten, ja an uns kultivieren?
+  Solche, die den andern eher schmeicheln als sie verletzen.
+
+
+21. Goethe, Maximen und Reflexionen 21
+  Die Leidenschaften sind Mängel oder Tugenden, nur gesteigerte.
+
+
+22. Goethe, Maximen und Reflexionen 22
+  Unsre Leidenschaften sind wahre Phönixe. Wie der alte verbrennt,
+  steigt der neue sogleich wieder aus der Asche hervor.
+
+
+23. Goethe, Maximen und Reflexionen 23
+  Große Leidenschaften sind Krankheiten ohne Hoffnung.
+  Was sie heilen könnte, macht sie erst recht gefährlich.
+
+
+24. Goethe, Maximen und Reflexionen 24
+  Die Leidenschaft erhöht und mildert sich durchs Bekennen.
+  In nichts wäre die Mittelstraße vielleicht wünschenswerter
+  als im Vertrauen und Verschweigen gegen die, die wir lieben.
+
+
+25. Goethe, Maximen und Reflexionen 25
+  Man nimmt in der Welt jeden, wofür er sich gibt;
+  aber er muss sich auch für etwas geben.
+  Man erträgt die Unbequemen lieber,
+  als man die Unbedeutenden duldet.
+
+
+26. Goethe, Maximen und Reflexionen 26
+  Man kann der Gesellschaft alles aufdringen,
+  nur nicht, was eine Folge hat.
+
+
+27. Goethe, Maximen und Reflexionen 27
+  Wir lernen die Menschen nicht kennen, wenn sie zu uns kommen;
+  wir müssen zu ihnen gehen, um zu erfahren, wie es mit ihnen steht.
+
+
+28. Goethe, Maximen und Reflexionen 28
+  Ich finde es beinahe natürlich,
+  dass wir an Besuchenden mancherlei auszusetzen haben,
+  dass wir sogleich, wenn sie weg sind,
+  über sie nicht zum liebevollsten urteilen;
+  denn wir haben sozusagen ein Recht,
+  sie nach unserm Maßstabe zu messen.
+  Selbst verständige und billige Menschen
+  enthalten sich in solchen Fällen kaum einer scharfen Zensur.
+
+
+29. Goethe, Maximen und Reflexionen 29
+  Wenn man dagegen bei andern gewesen ist
+  und hat sie mit ihren Umgebungen, Gewohnheiten,
+  in ihren notwendigen, unausweichlichen Zuständen gesehen,
+  wie sie um sich wirken oder wie sie sich fügen,
+  so gehört schon Unverstand und böser Wille dazu,
+  um das lächerlich zu finden,
+  was uns in mehr als einem Sinne ehrwürdig scheinen müsste.
+
+30. Goethe, Maximen und Reflexionen 30
+  Durch das, was wir Betragen und gute Sitten nennen,
+  soll das erreicht werden,
+  was außerdem nur durch Gewalt
+  oder auch nicht einmal durch Gewalt zu erreichen ist.
+
+
+31. Goethe, Maximen und Reflexionen 31
+  Der Umgang mit Frauen ist das Element guter Sitten.
+
+
+32. Goethe, Maximen und Reflexionen 32
+  Wie kann der Charakter,
+  die Eigentümlichkeit des Menschen,
+  mit der Lebensart bestehen?
+
+
+33. Goethe, Maximen und Reflexionen 33
+  Das Eigentümliche müsste durch die Lebensart erst recht hervorgehoben werden.
+  Das Bedeutende will jedermann, nur soll es nicht unbequem sein.
+
+
+34. Goethe, Maximen und Reflexionen 34
+  Die größten Vorteile im Leben überhaupt wie in der Gesellschaft
+  hat ein gebildeter Soldat.
+
+
+35. Goethe, Maximen und Reflexionen 35
+  Rohe Kriegsleute gehen wenigstens nicht aus ihrem Charakter,
+  und weil doch meist hinter der Stärke eine Gutmütigkeit verborgen liegt,
+  so ist im Notfall auch mit ihnen auszukommen.
+
+
+36. Goethe, Maximen und Reflexionen 36
+  Niemand ist lästiger als ein täppischer Mensch vom Zivilstande.
+  Von ihm könnte man die Feinheit fordern,
+  da er sich mit nichts Rohem zu beschäftigen hat.
+
+
+37. Goethe, Maximen und Reflexionen 37
+  Zutraulichkeit an der Stelle der Ehrfurcht ist immer lächerlich.
+  Es würde niemand den Hut ablegen,
+  nachdem er kaum das Kompliment gemacht hat,
+  wenn er wüsste, wie komisch das aussieht.
+
+
+38. Goethe, Maximen und Reflexionen 38
+  Es gibt kein äußeres Zeichen der Höflichkeit,
+  das nicht einen tiefen sittlichen Grund hätte.
+  Die rechte Erziehung wäre,
+  welche dieses Zeichen und den Grund zugleich überlieferte.
+
+
+39. Goethe, Maximen und Reflexionen 39
+  Das Betragen ist ein Spiegel,
+  in welchem jeder sein Bild zeigt.
+
+
+40. Goethe, Maximen und Reflexionen 40
+  Es gibt eine Höflichkeit des Herzens; sie ist der Liebe verwandt.
+  Aus ihr entspringt die bequemste Höflichkeit des äußern Betragens.
+
+
+41. Goethe, Maximen und Reflexionen 41
+  Freiwillige Abhängigkeit ist der schönste Zustand,
+  und wie wäre der möglich ohne Liebe!
+
+
+42. Goethe, Maximen und Reflexionen 42
+  Wir sind nie entfernter von unsern Wünschen,
+  als wenn wir uns einbilden, das Gewünschte zu besitzen.
+
+
+43. Goethe, Maximen und Reflexionen 43
+  Niemand ist mehr Sklave, als der sich für frei hält, ohne es zu sein.
+
+
+44. Goethe, Maximen und Reflexionen 44
+  Es darf sich einer nur für frei erklären,
+  so fühlt er sich den Augenblick als bedingt.
+  Wagt er es, sich für bedingt zu erklären,
+  so fühlt er sich frei.
+
+45. Goethe, Maximen und Reflexionen 45
+  Gegen große Vorzüge eines andern gibt es kein Rettungsmittel als die Liebe.
+
+
+46. Goethe, Maximen und Reflexionen 46
+  Es ist was Schreckliches um einen vorzüglichen Mann,
+  auf den sich die Dummen was zugute tun.
+
+
+47. Goethe, Maximen und Reflexionen 47
+  Es gibt, sagt man, für den Kammerdiener keinen Helden.
+  Das kommt aber bloß daher,
+  weil der Held	nur vom Helden anerkannt werden kann.
+  Der Kammerdiener wird aber wahrscheinlich seinesgleichen zu schätzen wissen.
+
+48. Goethe, Maximen und Reflexionen 48
+  Es gibt keinen größeren Trost für die Mittelmäßigkeit,
+  als dass das Genie nicht unsterblich sei.
+
+
+49. Goethe, Maximen und Reflexionen 49
+  Die größten Menschen hängen immer mit ihrem Jahrhundert
+  durch eine Schwachheit zusammen.
+
+
+50. Goethe, Maximen und Reflexionen 50
+  Man hält die Menschen gewöhnlich für gefährlicher, als sie sind.
+
+
+51. Goethe, Maximen und Reflexionen 51
+  Toren und gescheite Leute sind gleich unschädlich.
+  Nur die Halbnarren und Halbweisen, das sind die gefährlichsten.
+
+
+52. Goethe, Maximen und Reflexionen 52
+  Man weicht der Welt nicht sicherer aus als durch die Kunst,
+  und man verknüpft sich nicht sicherer mit ihr als durch die Kunst.
+
+
+53. Goethe, Maximen und Reflexionen 53
+  Selbst im Augenblick des höchsten Glücks und der höchsten Not
+  bedürfen wir des Künstlers.
+
+
+54. Goethe, Maximen und Reflexionen 54
+  Die Kunst beschäftigt sich mit dem Schweren und Guten.
+
+
+55. Goethe, Maximen und Reflexionen 55
+  Das Schwierige leicht behandelt zu sehen
+  gibt uns das Anschauen des Unmöglichen.
+
+
+56. Goethe, Maximen und Reflexionen 56
+  Die Schwierigkeiten wachsen, je näher man dem Ziele kommt.
+
+
+57. Goethe, Maximen und Reflexionen 57
+  Säen ist nicht so beschwerlich als ernten.
+
+
+58. Johann Wolfgang Goethe, Maximen und Reflexionen 58
+AUS KUNST UND ALTERTUM I (1818 Naivität und Humor) 
+  Die Kunst ist ein ernsthaftes Geschäft,
+  am ernsthaftesten, wenn sie sich mit edlen,
+  heiligen Gegenständen beschäftigt;
+  der Künstler aber steht über der Kunst und dem Gegenstande:
+  über jener, da er sie zu seinen Zwecken braucht,
+  über diesem, weil er ihn nach eigner Weise behandelt.
+
+
+59. Goethe, Maximen und Reflexionen 59
+AUS KUNST UND ALTERTUM I (1818 Naivität und Humor) 
+  Die bildende Kunst ist auf das Sichtbare angewiesen,
+  auf die äußere Erscheinung des Natürlichen.
+  Das rein Natürliche, insofern es sittlich gefällig ist,
+  nennen wir naiv.
+  Naive Gegenstände sind also das Gebiet der Kunst,
+  die ein sittlicher Ausdruck des Natürlichen sein soll.
+  Gegenstände, die nach beiden Seiten hinweisen, sind die günstigsten.
+
+
+60. Goethe, Maximen und Reflexionen 60
+AUS KUNST UND ALTERTUM I (1818 Naivität und Humor) 
+  Das Naive als natürlich ist mit dem Wirklichen verschwistert.
+  Das Wirkliche ohne sittlichen Bezug nennen wir gemein.
+
+
+61. Goethe, Maximen und Reflexionen 61
+  Die Kunst an und für sich selbst ist edel;
+  deshalb fürchtet sich der Künstler nicht vor dem Gemeinen.
+  Ja indem er es aufnimmt, ist es schon geadelt,
+  und so sehen wir die größten Künstler
+  mit Kühnheit ihr Majestätsrecht ausüben.
+
+
+62. Goethe, Maximen und Reflexionen 62
+  In jedem Künstler liegt ein Keim von Verwegenheit,
+  ohne den kein Talent denkbar ist, und dieser wird besonders rege,
+  wenn man den Fähigen einschränken
+  und zu einseitigen Zwecken dingen und brauchen will.
+
+
+63. Goethe, Maximen und Reflexionen 63
+  Raffael ist unter den neuern Künstlern auch hier wohl der reinste.
+  Er ist durchaus naiv, das Wirkliche kommt bei ihm nicht zum Streit
+  mit dem Sittlichen oder gar Heiligen.
+  Der Teppich, worauf die Anbetung der Könige abgebildet ist,
+  eine überschwänglich herrliche Komposition,
+  zeigt von dem ältesten anbetenden Fürsten bis zu den Mohren und Affen,
+  die sich auf den Kamelen mit Äpfeln ergötzen, eine ganze Welt.
+  Hier durfte der heilige Joseph auch ganz naiv charakterisiert werden
+  als Pflegevater, der sich über die eingekommenen Geschenke freut.
+
+
+64. Goethe, Maximen und Reflexionen 64
+  Auf den heiligen Joseph überhaupt haben es die Künstler abgesehen.
+  Die Byzantiner, denen man nicht nachsagen kann,
+  dass sie überflüssigen Humor anbrächten, stellen doch bei der Geburt
+  den Heiligen immer verdrießlich vor. Das Kind liegt in der Krippe,
+  die Tiere schauen hinein, verwundert, statt ihres trockenen Futters
+  ein lebendiges, himmlisch-anmutiges Geschöpf zu finden.
+  Engel verehren den Ankömmling, die Mutter sitzt still dabei;
+  Sankt Joseph aber sitzt abgewendet
+  und kehrt unmutig den Kopf nach der sonderbaren Szene.
+
+
+65. Goethe, Maximen und Reflexionen 65
+  Der Humor ist eins der Elemente des Genies,
+  aber sobald er vorwaltet,
+  nur ein Surrogat desselben;
+  er begleitet die abnehmende Kunst,
+  zerstört, vernichtet sie zuletzt.
+
+
+66. Goethe, Maximen und Reflexionen 66
+  Hierüber kann eine Arbeit anmutig aufklären, die wir vorbereiten:
+  sämtliche Künstler nämlich, die uns schon von so manchen Seiten
+  bekannt sind, ausschließlich von der ethischen zu betrachten,
+  aus den Gegenständen und der Behandlung ihrer Werke zu entwickeln,
+  was Zeit und Ort, Nation und Lehrmeister,
+  was eigne unzerstörliche Individualität beigetragen,
+  sie zu dem zu bilden, was sie wurden,
+  sie bei dem zu erhalten, was sie waren.
+
+67. Johann Wolfgang Goethe, Maximen und Reflexionen 67
+AUS KUNST UND ALTERTUM II (1820 Bedenklichstes)
+  Gar oft im Laufe des Lebens, mitten in der größten Sicherheit
+  des Wandels bemerken wir auf einmal,
+  dass wir in einem Irrtum befangen sind,
+  dass wir uns für Personen, für Gegenstände einnehmen ließen,
+  ein Verhältnis zu ihnen erträumten,
+  das dem erwachten Auge sogleich verschwindet;
+  und doch können wir uns nicht losreißen,
+  eine Macht hält uns fest, die uns unbegreiflich scheint.
+  Manchmal jedoch kommen wir zum völligen Bewusstsein und begreifen,
+  dass ein Irrtum so gut als ein Wahres
+  zur Tätigkeit bewegen und antreiben kann.
+  Weil nun die Tat überall entscheidend ist,
+  so kann aus einem tätigen Irrtum etwas Treffliches entstehen,
+  weil die Wirkung jedes Getanen ins Unendliche reicht.
+  So ist das Hervorbringen freilich immer das Beste,
+  aber auch das Zerstören ist nicht ohne glückliche Folge.
+
+
+68. Goethe, Maximen und Reflexionen 68
+AUS KUNST UND ALTERTUM II (1820 Bedenklichstes)
+  Der wunderbarste Irrtum aber ist derjenige,
+  der sich auf uns selbst und unsere Kräfte bezieht:
+  dass wir uns einem würdigen Geschäft,
+  einem ehrsamen Unternehmen widmen, dem wir nicht gewachsen sind,
+  dass wir nach einem Ziel streben, das wir nie erreichen können.
+  Die daraus entspringende tantalisch-sisyphische Qual
+  empfindet jeder nur um desto bitterer, je redlicher er es meinte.
+  Und doch sehr oft, wenn wir uns von dem Beabsichtigten
+  für ewig getrennt sehen, haben wir schon auf unserm Wege
+  irgendein anderes Wünschenswerte gefunden, etwas uns Gemäßes, 
+  mit dem uns zu begnügen wir eigentlich geboren sind.
+
+
+69. Johann Wolfgang Goethe, Maximen und Reflexionen 69
+AUS KUNST UND ALTERTUM III (1821 Eigenes und Angeeignetes in Sprüchen)
+  Wenn der Mensch alles leisten soll,
+  was man von ihm fordert,
+  so muss er sich für mehr halten, als er ist.
+
+
+70. Goethe, Maximen und Reflexionen 70
+AUS KUNST UND ALTERTUM III (1821 Eigenes und Angeeignetes in Sprüchen)
+  Solange das nicht ins Absurde geht, erträgt man's auch gern.
+
+
+71. Goethe, Maximen und Reflexionen 71
+  Die Arbeit macht den Gesellen.
+
+
+72. Goethe, Maximen und Reflexionen 72
+  Gewisse Bücher scheinen geschrieben zu sein, nicht damit man daraus lerne,
+  sondern damit man wisse, dass der Verfasser etwas gewusst hat.
+
+
+73. Goethe, Maximen und Reflexionen 73
+  Sie peitschen den Quark, ob nicht etwa Creme daraus werden wolle.
+
+
+74. Goethe, Maximen und Reflexionen 74
+  Es ist weit eher möglich, sich in den Zustand eines Gehirns zu versetzen,
+  das im entschiedensten Irrtum befangen ist,
+  als eines, das Halbwahrheiten sich vorspiegelt.
+
+
+75. Goethe, Maximen und Reflexionen 75
+  Die Lust der Deutschen am Unsichern in den Künsten
+  kommt aus der Pfuscherei her;
+  denn wer pfuscht, darf das Rechte nicht gelten lassen,
+  sonst wäre er gar nichts.
+
+
+76. Goethe, Maximen und Reflexionen 76
+  Es ist traurig anzusehen,
+  wie ein außerordentlicher Mensch sich gar oft mit sich selbst,
+  seinen Umständen, seiner Zeit herumwürgt,
+  ohne auf einen grünen Zweig zu kommen. Trauriges Beispiel: Bürger.
+
+
+77. Goethe, Maximen und Reflexionen 77
+  Die größte Achtung, die ein Autor für sein Publikum haben kann,
+  ist, dass er niemals bringt, was man erwartet,
+  sondern was er selbst auf der
+  jedesmaligen Stufe eigner und fremder Bildung für recht und nützlich hält.
+
+
+78. Goethe, Maximen und Reflexionen 78
+  Die Weisheit ist nur in der Wahrheit.
+
+
+79. Goethe, Maximen und Reflexionen 79
+  Wenn ich irre, kann es jeder bemerken,
+  wenn ich lüge, nicht.
+
+
+80. Goethe, Maximen und Reflexionen 80
+  Der Deutsche hat Freiheit der Gesinnung,
+  und daher merkt er nicht,
+  wenn es ihm an Geschmacks- und Geistesfreiheit fehlt.
+
+
+81. Goethe, Maximen und Reflexionen 81
+  Ist denn die Welt nicht schon voller Rätsel genug,
+  dass man die einfachsten Erscheinungen
+  auch noch zu Rätseln machen soll?
+
+
+82. Goethe, Maximen und Reflexionen 82
+  Das kleinste Haar wirft seinen Schatten.
+
+
+83. Goethe, Maximen und Reflexionen 83
+  Was ich in meinem Leben durch falsche Tendenzen versucht habe zu tun,
+  hab ich denn doch zuletzt gelernt begreifen.
+
+
+84. Goethe, Maximen und Reflexionen 84
+  Die Freigebigkeit erwirbt einem jeden Gunst,
+  vorzüglich wenn sie von Demut begleitet wird.
+
+85. Goethe, Maximen und Reflexionen 85
+  Vor dem Gewitter erhebt sich zum letzten Male der Staub gewaltsam,
+  der nun bald für lange getilgt sein soll.
+
+
+86. Goethe, Maximen und Reflexionen 86
+  Die Menschen kennen einander nicht leicht,
+  selbst mit dem besten Willen und Vorsatz;
+  nun tritt noch der böse Wille hinzu, der alles entstellt.
+
+87. Goethe, Maximen und Reflexionen 87
+  Man würde einander besser kennen,
+  wenn sich nicht immer einer dem andern gleichstellen wollte.
+
+
+88. Goethe, Maximen und Reflexionen 88
+  Ausgezeichnete Personen sind daher übler dran als andere:
+  da man sich mit ihnen nicht vergleicht, passt man ihnen auf.
+
+
+89. Goethe, Maximen und Reflexionen 89
+  In der Welt kommt's nicht drauf an, dass man die Menschen kenne,
+  sondern dass man im Augenblick klüger sei als der vor uns Stehende.
+  Alle Jahrmärkte und Marktschreier geben Zeugnis.
+
+
+90. Goethe, Maximen und Reflexionen 90
+  Nicht überall, wo Wasser ist, sind Frösche;
+  aber wo man Frösche hört, ist Wasser.
+
+
+91. Goethe, Maximen und Reflexionen 91
+  Wer fremde Sprachen nicht kennt, weiß nichts von seiner eigenen.
+
+
+92. Goethe, Maximen und Reflexionen 92
+  Der Irrtum ist recht gut, solange wir jung sind;
+  man muss ihn nur nicht mit ins Alter schleppen.
+
+
+93. Goethe, Maximen und Reflexionen 93
+  Alle Travers, die veralten, sind unnützes ranziges Zeug.
+
+
+94. Goethe, Maximen und Reflexionen 94
+  Durch die despotische Unvernunft des Kardinal Richelieu
+  war Corneille an sich selbst irre geworden.
+
+
+95. Goethe, Maximen und Reflexionen 95
+  Die Natur gerät auf Spezifikationen wie in eine Sackgasse:
+  sie kann nicht durch und mag nicht wieder zurück;
+  daher die Hartnäckigkeit der Nationalbildung.
+
+
+96. Goethe, Maximen und Reflexionen 96
+  Metamorphose im höhern Sinn durch Nehmen und Geben,
+  Gewinnen und Verlieren hat schon Dante trefflich geschildert.
+
+
+97. Goethe, Maximen und Reflexionen 97
+  Jeder hat etwas in seiner Natur,
+  das, wenn er es öffentlich ausspräche,
+  Missfallen erregen müsste.
+
+
+98. Goethe, Maximen und Reflexionen 98
+  Wenn der Mensch über sein Physisches oder Moralisches nachdenkt,
+  findet er sich gewöhnlich krank.
+
+
+99. Goethe, Maximen und Reflexionen 99
+  Es ist eine Forderung der Natur,
+  dass der Mensch mitunter betäubt werde, ohne zu schlafen;
+  daher der Genuss im Tabakrauchen, Branntweintrinken, Opiaten.
+
+
+100. Goethe, Maximen und Reflexionen 100
+  Dem tätigen Menschen kommt es darauf an, dass er das Rechte tue;
+  ob das Rechte geschehe, soll ihn nicht kümmern.
+
+
+101. Goethe, Maximen und Reflexionen 101
+  Mancher klopft mit dem Hammer an der Wand herum und glaubt,
+  er treffe jedesmal den Nagel auf den Kopf.
+
+
+102. Goethe, Maximen und Reflexionen 102
+  Die französischen Worte
+  sind nicht aus geschriebenen lateinischen Worten entstanden,
+  sondern aus gesprochenen.
+
+
+103. Goethe, Maximen und Reflexionen 103
+  Das Zufällig-Wirkliche, an dem wir weder ein Gesetz der Natur
+  noch der Freiheit für den Augenblick entdecken, nennen wir das Gemeine.
+
+
+104. Goethe, Maximen und Reflexionen 104
+  Bemalung und Punktierung der Körper ist eine Rückkehr zur Tierheit.
+
+
+105. Goethe, Maximen und Reflexionen 105
+  Geschichte schreiben ist eine Art,
+  sich das Vergangene vom Halse zu schaffen.
+
+
+106. Goethe, Maximen und Reflexionen 106
+  Was man nicht versteht, besitzt man nicht.
+
+
+107. Goethe, Maximen und Reflexionen 107
+  Nicht jeder, dem man Prägnantes überliefert, wird produktiv;
+  es fällt ihm wohl etwas ganz Bekanntes dabei ein.
+
+
+108. Goethe, Maximen und Reflexionen 108
+  Gunst, als Symbol der Souveränität, von schwachen Menschen ausgeübt.
+
+
+109. Goethe, Maximen und Reflexionen 109
+  Es gibt nichts Gemeines, was, fratzenhaft ausgedruckt,
+  nicht humoristisch aussähe.
+
+
+110. Goethe, Maximen und Reflexionen 110
+  Es bleibt einem jeden immer noch so viel Kraft,
+  das auszuführen, wovon er überzeugt ist.
+
+
+111. Goethe, Maximen und Reflexionen 111
+  Das Gedächtnis mag immer schwinden,
+  wenn das Urteil im Augenblick nicht fehlt.
+
+
+112. Goethe, Maximen und Reflexionen 112
+  Die sogenannten Naturdichter sind frisch und neu aufgeforderte,
+  aus einer überbildeten, stockenden, manierierten Kunstepoche
+  zurückgewiesene Talente.
+  Dem Platten können sie nicht ausweichen,
+  man kann sie daher als rückschreitend ansehen;
+  sie sind aber regenerierend und veranlassen neue Vorschritte.
+
+
+113. Goethe, Maximen und Reflexionen 113
+  Keine Nation gewinnt ein Urteil,
+  als wenn sie über sich selbst urteilen kann.
+  Zu diesem großen Vorteil gelangt sie aber sehr spät.
+
+
+114. Goethe, Maximen und Reflexionen 114
+  Anstatt meinen Worten zu widersprechen,
+  sollten sie nach meinem Sinne handeln.
+
+
+115. Goethe, Maximen und Reflexionen 115
+  Die Natur verstummt auf der Folter;
+  ihre treue Antwort auf redliche Frage ist:
+  Ja! ja! Nein! nein! Alles übrige ist vom Übel.
+
+
+116. Goethe, Maximen und Reflexionen 116
+  Die Menschen verdrießt's, dass das Wahre so einfach ist;
+  sie sollten bedenken, dass sie noch Mühe genug haben,
+  es praktisch zu ihrem Nutzen anzuwenden.
+
+
+117. Goethe, Maximen und Reflexionen 117
+  Ich verwünsche die, die aus dem Irrtum eine eigene Welt machen
+  und doch unablässig fordern, dass der Mensch nützlich sein müsse.
+
+
+118. Goethe, Maximen und Reflexionen 118
+  Eine Schule ist als ein einziger Mensch anzusehen,
+  der hundert Jahre mit sich selbst spricht
+  und sich in seinem eignen Wesen,
+  und wenn es auch noch so albern wäre,
+  ganz außerordentlich gefällt.
+
+
+119. Goethe, Maximen und Reflexionen 119
+  Eine falsche Lehre lässt sich nicht widerlegen,
+  denn sie ruht ja auf der Überzeugung, dass das Falsche wahr sei.
+  Aber das Gegenteil kann, darf und muss man wiederholt aussprechen.
+
+
+120. Goethe, Maximen und Reflexionen 120
+  Man streiche zwei Stäbchen, einen rot an, den andern blau,
+  man bringe sie nebeneinander ins Wasser,
+  und einer wird gebrochen erscheinen wie der andere.
+  Jeder kann dieses einfache Experiment mit den Augen des Leibes erblicken;
+  wer es mit Geistesaugen beschaut,
+  wird von tausend und aber tausend irrtümlichen Paragraphen befreit sein.
+
+
+121. Goethe, Maximen und Reflexionen 121
+  Alle Gegner einer geistreichen Sache schlagen nur in die Kohlen:
+  diese springen umher und zünden da, wo sie sonst nicht gewirkt hätten.
+
+
+122. Goethe, Maximen und Reflexionen 122
+  Der Mensch wäre nicht der Vornehmste auf der Erde,
+  wenn er nicht zu vornehm für sie wäre.
+
+
+123. Goethe, Maximen und Reflexionen 123
+  Das längst Gefundene wird wieder verscharrt;
+  wie bemühte sich Tycho, die Kometen zu regelmäßigen Körpern zu machen,
+  wofür sie Seneca längst anerkannt!
+
+
+124. Goethe, Maximen und Reflexionen 124
+  Wie lange hat man über die Antipoden hin und her gestritten!
+
+
+125. Goethe, Maximen und Reflexionen 125
+  Gewissen Geistern muss man ihre Idiotismen lassen.
+
+
+126. Goethe, Maximen und Reflexionen 126
+  Es werden jetzt Produktionen möglich,
+  die null sind, ohne schlecht zu sein:
+  null, weil sie keinen Gehalt haben,
+  nicht schlecht,
+  weil eine allgemeine Form guter Muster den Verfassern vorschwebt.
+
+
+127. Goethe, Maximen und Reflexionen 127
+  Der Schnee ist eine erlogene Reinlichkeit.
+
+
+128. Goethe, Maximen und Reflexionen 128
+  Wer sich vor der Idee scheut,
+  hat auch zuletzt den Begriff nicht mehr.
+
+
+129. Goethe, Maximen und Reflexionen 129
+  Unsere Meister nennen wir billig die, von denen wir immer lernen.
+  Nicht ein jeder, von dem wir lernen, verdient diesen Titel.
+
+
+130. Goethe, Maximen und Reflexionen 130
+  Alles Lyrische muss im Ganzen sehr vernünftig,
+  im Einzelnen ein bisschen unvernünftig sein.
+
+
+131. Goethe, Maximen und Reflexionen 131
+  Es hat mit euch eine Beschaffenheit wie mit dem Meer,
+  dem man unterschiedliche Namen gibt,
+  und es ist doch endlich alles gesalzen Wasser.
+
+
+132. Goethe, Maximen und Reflexionen 132
+  Man sagt: "Eitles Eigenlob stinket." Das mag sein;
+  was aber fremder und ungerechter Tadel für einen Geruch habe,
+  dafür hat das Publikum keine Nase.
+
+
+133. Goethe, Maximen und Reflexionen 133
+  Der Roman ist eine subjektive Epopée,
+  in welcher der Verfasser sich die Erlaubnis ausbittet,
+  die Welt nach seiner Weise zu behandeln.
+  Es fragt sich also nur, ob er eine Weise habe;
+  das andere wird sich schon finden.
+
+
+134. Goethe, Maximen und Reflexionen 134
+  Es gibt problematische Naturen, die keiner Lage gewachsen sind,
+  in der sie sich befinden, und denen keine genugtut.
+  Daraus entsteht der ungeheure Widerstreit,
+  der das Leben ohne Genuss verzehrt.
+
+
+135. Goethe, Maximen und Reflexionen 135
+  Das eigentlich wahrhaft Gute, was wir tun,
+  geschieht größtenteils clam, vi et precario.
+
+
+136. Goethe, Maximen und Reflexionen 136
+  Ein lustiger Gefährte ist ein Rollwagen auf der Wanderschaft.
+
+
+137. Goethe, Maximen und Reflexionen 137
+  Der Schmutz ist glänzend, wenn die Sonne scheinen mag.
+
+
+138. Goethe, Maximen und Reflexionen 138
+  Der Müller denkt, es wachse kein Weizen, als damit seine Mühle gehe.
+
+
+139. Goethe, Maximen und Reflexionen 139
+  Es ist schwer, gegen den Augenblick gerecht sein:
+  der gleichgültige macht uns Langeweile,
+  am guten hat man zu tragen und am bösen zu schleppen.
+
+
+140. Goethe, Maximen und Reflexionen 140
+  Der ist der glücklichste Mensch,
+  der das Ende seines Lebens
+  mit dem Anfang in Verbindung setzen kann.
+
+
+141. Goethe, Maximen und Reflexionen 141
+  So eigensinnig widersprechend ist der Mensch:
+  zu seinem Vorteil will er keine Nötigung,
+  zu seinem Schaden leidet er jeden Zwang.
+
+
+142. Goethe, Maximen und Reflexionen 142
+  Die Vorsicht ist einfach, die Hinterdreinsicht vielfach.
+
+
+143. Goethe, Maximen und Reflexionen 143
+  Ein Zustand, der alle Tage neuen Verdruss zuzieht, ist nicht der rechte.
+
+
+144. Goethe, Maximen und Reflexionen 144
+  Bei Unvorsichtigkeiten ist nichts gewöhnlicher,
+  als Aussichten auf die Möglichkeit eines Auswegs zu suchen.
+
+
+145. Goethe, Maximen und Reflexionen 145
+  Die Hindus der Wüste geloben, keine Fische zu essen.
+
+146. Goethe, Maximen und Reflexionen 146
+  Ein unzulängliches Wahre wirkt eine Zeitlang fort,
+  statt völliger Aufklärung aber
+  tritt auf einmal ein blendendes Falsche herein;
+  das genügt der Welt, und so sind Jahrhunderte betört.
+
+
+147. Goethe, Maximen und Reflexionen 147
+  In den Wissenschaften ist es höchst verdienstlich,
+  das unzulängliche Wahre, was die Alten schon besessen,
+  aufzusuchen und weiterzuführen.
+
+
+148. Goethe, Maximen und Reflexionen 148
+  Es ist mit Meinungen, die man wagt, wie mit Steinen,
+  die man voran im Brette bewegt: sie können geschlagen werden,
+  aber sie haben ein Spiel eingeleitet, das gewonnen wird.
+
+
+149. Goethe, Maximen und Reflexionen 149
+  Es ist so gewiss als wunderbar,
+  dass Wahrheit und Irrtum aus einer Quelle entstehen;
+  deswegen man oft dem Irrtum nicht schaden darf,
+  weil man zugleich der Wahrheit schadet.
+
+
+150. Goethe, Maximen und Reflexionen 150
+  Die Wahrheit gehört dem Menschen, der Irrtum der Zeit an.
+  Deswegen sagte man von einem außerordentlichen Manne:
+  "Le malheur des temps a causé son erreur,
+   mais la force de son âme l'en a fait sortir avec gloire."
+
+
+151. Goethe, Maximen und Reflexionen 151
+  Jedermann hat seine Eigenheiten und kann sie nicht loswerden;
+  und doch geht mancher an seinen Eigenheiten,
+  oft an den unschuldigsten, zugrunde.
+
+
+152. Goethe, Maximen und Reflexionen 152
+  Wer sich nicht zuviel dünkt,
+  ist viel mehr, als er glaubt.
+
+
+153. Goethe, Maximen und Reflexionen 153
+  In Kunst und Wissenschaft so wie im Tun und Handeln
+  kommt alles darauf an, dass die Objekte rein aufgefasst
+  und ihrer Natur gemäß behandelt werden.
+
+
+154. Goethe, Maximen und Reflexionen 154
+  Wenn verständige, sinnige Personen im Alter
+  die Wissenschaft geringschätzen, so kommt es nur daher,
+  dass sie von ihr und von sich zu viel gefordert haben.
+
+
+155. Goethe, Maximen und Reflexionen 155
+  Ich bedauere die Menschen,
+  welche von der Vergänglichkeit der Dinge viel Wesens machen
+  und sich in Betrachtung irdischer Nichtigkeit verlieren.
+  Sind wir ja eben deshalb da,
+  um das Vergängliche unvergänglich zu machen;
+  das kann ja nur dadurch geschehen, wenn man beides zu schätzen weiß.
+
+
+156. Goethe, Maximen und Reflexionen 156
+  Ein Phänomen, ein Versuch kann nichts beweisen;
+  es ist das Glied einer großen Kette, das erst im Zusammenhange gilt.
+  Wer eine Perlenschnur verdecken
+  und nur die schönste einzelne vorzeigen wollte,
+  verlangend, wir sollten ihm glauben, die übrigen seien alle so:
+  schwerlich würde sich jemand auf den Handel einlassen.
+
+
+157. Goethe, Maximen und Reflexionen 157
+  Abbildungen, Wortbeschreibung, Maß, Zahl und Zeichen
+  stellen noch immer kein Phänomen dar.
+  Darum bloß konnte sich die Newtonische Lehre so lange halten,
+  dass der Irrtum in dem Quartbande der lateinischen Übersetzung
+  für ein paar Jahrhunderte einbalsamiert war.
+
+
+158. Goethe, Maximen und Reflexionen 158
+  Man muss sein Glaubensbekenntnis von Zeit zu Zeit wiederholen,
+  aussprechen, was man billigt, was man verdammt;
+  der Gegenteil lässt's ja auch nicht daran fehlen.
+
+
+159. Goethe, Maximen und Reflexionen 159
+  In der jetzigen Zeit soll niemand schweigen oder nachgeben;
+  man muss reden und sich rühren, nicht um zu überwinden,
+  sondern sich auf seinem Posten zu erhalten;
+  ob bei der Majorität oder Minorität, ist ganz gleichgültig.
+
+
+160. Goethe, Maximen und Reflexionen 160
+  Was die Franzosen tournure nennen, ist eine zur Anmut gemilderte Anmaßung.
+  Man sieht daraus, dass die Deutschen keine tournure haben können:
+  ihre Anmaßung ist hart und herb, ihre Anmut mild und demütig;
+  das eine schließt das andere aus und sind nicht zu verbinden.
+
+
+161. Goethe, Maximen und Reflexionen 161
+  Einen Regenbogen, der eine Viertelstunde steht, sieht man nicht mehr an.
+
+
+162. Goethe, Maximen und Reflexionen 162
+  Es begegnete und geschieht mir noch, dass ein Werk bildender Kunst
+  mir beim ersten Anblick missfällt, weil ich ihm nicht gewachsen bin;
+  ahnd ich aber ein Verdienst daran, so such ich ihm beizukommen,
+  und dann fehlt es nicht an den erfreulichsten Entdeckungen:
+  an den Dingen werd ich neue Eigenschaften
+  und an mir neue Fähigkeiten gewahr.
+
+
+163. Goethe, Maximen und Reflexionen 163
+  Der Glaube ist ein häuslich heimlich Kapital,
+  wie es öffentliche Spar- und Hilfskassen gibt,
+  woraus man in Tagen der Not einzelnen ihr Bedürfnis reicht;
+  hier nimmt der Gläubige sich seine Zinsen im stillen selbst.
+
+164. Goethe, Maximen und Reflexionen 164
+  Das Leben, so gemein es aussieht, so leicht es sich mit dem Gewöhnlichen,
+  Alltäglichen zu befriedigen scheint,
+  hegt und pflegt doch immer gewisse höhere Forderungen im stillen fort
+  und sieht sich nach Mitteln um, sie zu befriedigen.
+
+
+165. Goethe, Maximen und Reflexionen 165
+  Der eigentliche Obskurantismus ist nicht,
+  dass man die Ausbreitung des Wahren, Klaren, Nützlichen hindert,
+  sondern dass man das Falsche in Kurs bringt.
+
+
+166. Johann Wolfgang Goethe, Maximen und Reflexionen 166
+AUS KUNST UND ALTERTUM IV (1823 Eigenes und Angeeignetes)
+  Der Irrtum ist viel leichter zu erkennen, als die Wahrheit zu finden;
+  jener liegt auf der Oberfläche, damit lässt sich wohl fertig werden;
+  diese ruht in der Tiefe, danach zu forschen ist nicht jedermanns Sache.
+
+
+167. Goethe, Maximen und Reflexionen 167
+AUS KUNST UND ALTERTUM IV (1823 Eigenes und Angeeignetes)
+  Wir alle leben vom Vergangnen und gehen am Vergangenen zugrunde.
+
+
+168. Goethe, Maximen und Reflexionen 168
+AUS KUNST UND ALTERTUM IV (1823 Eigenes und Angeeignetes)
+  Wie wir was Großes lernen sollen,
+  flüchten wir uns gleich in unsre angeborne Armseligkeit
+  und haben doch immer etwas gelernt.
+
+
+169. Goethe, Maximen und Reflexionen 169
+  Den Deutschen ist nichts daran gelegen, zusammenzubleiben,
+  aber doch, für sich zu bleiben.
+  Jeder, sei er auch, welcher er wolle,
+  hat so ein eignes Für-sich,
+  das er sich nicht gern möchte nehmen lassen.
+
+
+170. Goethe, Maximen und Reflexionen 170
+  Die empirisch-sittliche Welt
+  besteht größtenteils nur aus bösem Willen und Neid.
+
+
+171. Goethe, Maximen und Reflexionen 171
+  Der Aberglaube ist die Poesie des Lebens;
+  deswegen schadet's dem Dichter nicht, abergläubisch zu sein.
+
+
+172. Goethe, Maximen und Reflexionen 172
+  Mit dem Vertrauen ist es eine wunderliche Sache.
+  Hört man nur einen: der kann sich irren oder sich betrügen;
+  hört man viele: die sind in demselbigen Falle,
+  und gewöhnlich findet man da die Wahrheit gar nicht heraus.
+
+
+173. Goethe, Maximen und Reflexionen 173
+  Unreine Lebensverhältnisse soll man niemand wünschen;
+  sie sind aber für den, der zufällig hineingerät,
+  Prüfsteine des Charakters und des Entschiedensten,
+  was der Mensch vermag.
+
+
+174. Goethe, Maximen und Reflexionen 174
+  Ein beschränkter, ehrlicher Mensch sieht oft die Schelmerei
+  der feinsten Mächler (faiseurs) durch und durch.
+
+
+175. Goethe, Maximen und Reflexionen 175
+  Wer keine Liebe fühlt, muss schmeicheln lernen,
+  sonst kommt er nicht aus.
+
+
+176. Goethe, Maximen und Reflexionen 176
+  Gegen die Kritik kann man sich weder schützen noch wehren;
+  man muss ihr zum Trutz handeln,
+  und das lässt sie sich nach und nach gefallen.
+
+
+177. Goethe, Maximen und Reflexionen 177
+  Die Menge kann tüchtige Menschen nicht entbehren,
+  und die Tüchtigen sind ihnen jederzeit zur Last.
+
+
+178. Goethe, Maximen und Reflexionen 178
+  Wer meine Fehler überträgt, ist mein Herr, und wenn's mein Diener wäre.
+
+
+179. Goethe, Maximen und Reflexionen 179
+  Memoiren von oben herunter oder von unten hinauf:
+  sie müssen sich immer begegnen.
+
+180. Goethe, Maximen und Reflexionen 180
+  Wenn man von den Leuten Pflichten fordert und ihnen keine Rechte
+  zugestehen will, muss man sie gut bezahlen.
+
+
+181. Goethe, Maximen und Reflexionen 181
+  Das sogenannte Romantische einer Gegend ist ein stilles Gefühl
+  des Erhabenen unter der Form der Vergangenheit oder, was gleich lautet,
+  der Einsamkeit, Abwesenheit, Abgeschiedenheit.
+
+
+182. Goethe, Maximen und Reflexionen 182
+  Der herrliche Kirchengesang "Veni Creator Spiritus"
+  ist ganz eigentlich ein Appell ans Genie;
+  deswegen er auch geist- und kraftreiche Menschen gewaltig anspricht.
+
+
+183. Goethe, Maximen und Reflexionen 183
+  Das Schöne ist eine Manifestation geheimer Naturgesetze,
+  die uns ohne dessen Erscheinung ewig wären verborgen geblieben.
+
+
+184. Goethe, Maximen und Reflexionen 184
+  Aufrichtig zu sein kann ich versprechen,
+  unparteiisch zu sein aber nicht.
+
+
+185. Goethe, Maximen und Reflexionen 185
+  Der Undank ist immer eine Art Schwäche.
+  Ich habe nie gesehen,
+  dass tüchtige Menschen wären undankbar gewesen.
+
+
+186. Goethe, Maximen und Reflexionen 186
+  Wir alle sind so borniert, dass wir immer glauben, recht zu haben;
+  und so lässt sich ein außerordentlicher Geist denken,
+  der nicht allein irrt, sondern sogar Lust am Irrtum hat.
+
+
+187. Goethe, Maximen und Reflexionen 187
+  Reine mittlere Wirkung zur Vollendung des Guten und Rechten
+  ist sehr selten;
+  gewöhnlich sehen wir Pedanterie, welche zu retardieren,
+  Frechheit, die zu übereilen strebt.
+
+188. Goethe, Maximen und Reflexionen 188
+  Wort und Bild sind Korrelate, die sich immerfort suchen,
+  wie wir an Tropen und Gleichnissen genugsam gewahr werden.
+  So von jeher, was dem Ohr nach innen gesagt oder gesungen war,
+  sollte dem Auge gleichfalls entgegenkommen.
+  Und so sehen wir in kindlicher Zeit in Gesetzbuch und Heilsordnung,
+  in Bibel und Fibel sich Wort und Bild immerfort balancieren.
+  Wenn man aussprach, was sich nicht bilden, bildete,
+  was sich nicht aussprechen ließ, so war das ganz recht;
+  aber man vergriff sich gar oft und sprach, statt zu bilden,
+  und daraus entstanden die doppelt bösen symbolisch-mystischen Ungeheuer.
+
+
+189. Goethe, Maximen und Reflexionen 189
+  Wer sich mit Wissenschaften abgibt, leidet erst durch Retardationen
+  und dann durch Präokkupationen.
+  Die erste Zeit wollen die Menschen dem keinen Wert zugestehen,
+  was wir ihnen überliefern, und dann gebärden sie sich, 
+  als wenn ihnen alles schon bekannt wäre,
+  was wir ihnen überliefern könnten.
+
+
+190. Goethe, Maximen und Reflexionen 190
+  Eine Sammlung von Anekdoten und Maximen ist für den Weltmann
+  der größte Schatz, wenn er die ersten an schicklichen Orten
+  ins Gespräch einzustreuen,
+  der letzten im treffenden Falle sich zu erinnern weiß.
+
+
+191. Goethe, Maximen und Reflexionen 191
+  Man sagt: "Studiere, Künstler, die Natur!"
+  Es ist aber keine Kleinigkeit, aus dem Gemeinen das Edle,
+  aus der Unform das Schöne zu entwickeln.
+
+
+192. Goethe, Maximen und Reflexionen 192
+  Wo der Anteil sich verliert, verliert sich auch das Gedächtnis.
+
+
+193. Goethe, Maximen und Reflexionen 193
+  Die Welt ist eine Glocke, die einen Riss hat: 
+  sie klappert, aber klingt nicht.
+
+
+194. Goethe, Maximen und Reflexionen 194
+  Die Zudringlichkeiten junger Dilettanten muss man mit Wohlwollen ertragen:
+  sie werden im Alter die wahrsten Verehrer der Kunst und des Meisters.
+
+
+195. Goethe, Maximen und Reflexionen 195
+  Wenn die Menschen recht schlecht werden,
+  haben sie keinen Anteil mehr als die Schadenfreude.
+
+
+196. Goethe, Maximen und Reflexionen 196
+  Gescheute Leute sind immer das beste Konversationslexikon.
+
+
+197. Goethe, Maximen und Reflexionen 197
+  Es gibt Menschen, die gar nicht irren,
+  weil sie sich nichts Vernünftiges vorsetzen.
+
+
+198. Goethe, Maximen und Reflexionen 198
+  Kenne ich mein Verhältnis zu mir selbst und zur Außenwelt,
+  so heiß ich's Wahrheit.
+  Und so kann jeder seine eigene Wahrheit haben,
+  und es ist doch immer dieselbige.
+
+
+199. Goethe, Maximen und Reflexionen 199
+  Das Besondere unterliegt ewig dem Allgemeinen;
   das Allgemeine hat ewig sich dem Besondern zu fügen.
 
 
-8. Goethe, Maximen und Reflexionen
-  In der Phanerogamie ist noch so viel Kryptogamisches, 
+200. Goethe, Maximen und Reflexionen 200
+  Vom eigentlich Produktiven ist niemand Herr,
+  und sie müssen es alle nur so gewähren lassen.
+
+
+201. Goethe, Maximen und Reflexionen 201
+  Wem die Natur ihr offenbares Geheimnis zu enthüllen anfängt,
+  der empfindet eine unwiderstehliche Sehnsucht
+  nach ihrer würdigsten Auslegerin, der Kunst.
+
+
+202. Goethe, Maximen und Reflexionen 202
+  Die Zeit ist selbst ein Element.
+
+
+203. Goethe, Maximen und Reflexionen 203
+  Der Mensch begreift niemals, wie anthropomorphisch er ist.
+
+
+204. Goethe, Maximen und Reflexionen 204
+  Ein Unterschied, der dem Verstand nichts gibt, ist kein Unterschied.
+
+
+205. Goethe, Maximen und Reflexionen 205
+  In der Phanerogamie ist noch so viel Kryptogamisches,
   dass Jahrhunderte es nicht entziffern werden.
 
 
-9. Goethe, Maximen und Reflexionen
-  Wenn man alle Gesetze studieren sollte, 
+206. Goethe, Maximen und Reflexionen 206
+  Die Verwechselung eines Konsonanten mit dem andern
+  möchte wohl aus Unfähigkeit des Organs,
+  die Verwandlung der Vokale in Diphthongen
+  aus einem eingebildeten Pathos entstehen.
+
+
+207. Goethe, Maximen und Reflexionen 207
+  Wenn man alle Gesetze studieren sollte,
   so hätte man gar keine Zeit, sie zu übertreten.
 
 
-10. Goethe, Maximen und Reflexionen
-  Wo man die Liberalität aber suchen muss, das ist in den Gesinnungen, 
-  und diese sind das lebendige Gemüt. 
-  Gesinnungen aber sind selten liberal, 
-  weil die Gesinnung unmittelbar aus der Person, 
-  ihren nächsten Beziehungen und Bedürfnissen hervorgeht.
+208. Goethe, Maximen und Reflexionen 208
+  Man kann nicht für jedermann leben, besonders für die nicht,
+  mit denen man nicht leben möchte.
 
 
-11. Goethe, Maximen und Reflexionen
+209. Goethe, Maximen und Reflexionen 209
+  Der Appell an die Nachwelt entspringt aus dem reinen lebendigen Gefühl,
+  dass es ein Unvergängliches gebe und, wenn auch nicht gleich anerkannt,
+  doch zuletzt aus der Minorität sich der Majorität werde zu erfreuen haben.
+
+
+210. Goethe, Maximen und Reflexionen 210
+  Geheimnisse sind noch keine Wunder.
+
+
+211. Goethe, Maximen und Reflexionen 211
+  "I convertiti stanno freschi appresso di me."
+
+
+212. Goethe, Maximen und Reflexionen 212
+  Leichtsinnige, leidenschaftliche Begünstigung problematischer Talente
+  war ein Fehler meiner frühern Jahre, den ich niemals ganz ablegen konnte.
+
+
+213. Goethe, Maximen und Reflexionen 213
+  Ich möchte gern ehrlich mit dir sein, ohne dass wir uns entzweiten;
+  das geht aber nicht. Du benimmst dich falsch
+  und setzest dich zwischen zwei Stühle,
+  Anhänger gewinnst du nicht und verlierst deine Freunde.
+  Was soll daraus werden!
+
+
+214. Goethe, Maximen und Reflexionen 214
+  Es ist ganz einerlei, vornehm oder gering sein:
+  das Menschliche muss man immer ausbaden.
+
+
+215. Goethe, Maximen und Reflexionen 215
+  Die liberalen Schriftsteller spielen jetzt ein gutes Spiel:
+  sie haben das ganze Publikum zu Suppleanten.
+
+
+216. Goethe, Maximen und Reflexionen 216
+  Wenn ich von liberalen Ideen reden höre, so verwundere ich mich immer,
+  wie die Menschen sich gern mit leeren Wortschällen hinhalten:
+  Eine Idee darf nicht liberal sein! Kräftig sei sie, tüchtig,
+  in sich selbst abgeschlossen, damit sie den göttlichen Auftrag,
+  produktiv zu sein, erfülle.
+  Noch weniger darf der Begriff liberal sein;
+  denn der hat einen ganz andern Auftrag.
+
+
+217. Goethe, Maximen und Reflexionen 217
+Wo man die Liberalität aber suchen muss, das ist in den Gesinnungen,
+  und diese sind das lebendige Gemüt.
+  
+
+218. Goethe, Maximen und Reflexionen 218
+  Gesinnungen aber sind selten liberal, weil die Gesinnung unmittelbar
+  aus der Person, ihren nächsten Beziehungen und Bedürfnissen hervorgeht.
+
+
+219. Goethe, Maximen und Reflexionen 219
+  Weiter schreiben wir nicht; an diesem Maßstab halte man,
+  was man tagtäglich hört!
+
+
+220. Goethe, Maximen und Reflexionen 220
+  Es sind immer nur unsere Augen, unsere Vorstellungsarten;
+  die Natur weiß ganz allein, was sie will, was sie gewollt hat.
+
+
+221. Goethe, Maximen und Reflexionen 221
+  "Gib mir, wo ich stehe!" (Archimedes).
+  "Nimm dir, wo du stehest!" (Nose).
+  Behaupte, wo du stehst! (G).
+
+
+222. Goethe, Maximen und Reflexionen 222
+  Allgemeines Kausalverhältnis, das der Beobachter aufsucht und
+  ähnliche Erscheinungen einer allgemeinen Ursache zuschreibt;
+  an die nächste wird selten gedacht.
+
+
+223. Goethe, Maximen und Reflexionen 223
+  Einem Klugen widerfährt keine geringe Torheit.
+
+
+224. Goethe, Maximen und Reflexionen 224
+  Bei jedem Kunstwerk, groß oder klein,
+  bis ins kleinste kommt alles auf die Konzeption an.
+
+
+225. Goethe, Maximen und Reflexionen 225
+  Es gibt eine Poesie ohne Tropen, die ein einziger Tropus ist.
+
+
+226. Goethe, Maximen und Reflexionen 226
   Ein alter gutmütiger Examinator sagt einem Schüler ins Ohr:
   "Etiam nihil didicisti" und lässt ihn für gut hingehen.
 
 
-12. Goethe, Maximen und Reflexionen
-  Das Wahre ist eine Fackel, aber eine ungeheure; 
+227. Goethe, Maximen und Reflexionen 227
+  Das Fürtreffliche ist unergründlich,
+  man mag damit anfangen, was man will.
+
+
+228. Goethe, Maximen und Reflexionen 228
+  Aemilium Paulum -
+  virum in tantum laudandum, in quantum intelligi virtus potest.
+
+
+229. Goethe, Maximen und Reflexionen 229
+  Ich habe mich so lange ums Allgemeine bemüht, bis ich einsehen lernte,
+  was vorzügliche Menschen im Besondern leisten.
+
+230. Johann Wolfgang Goethe, Maximen und Reflexionen 230
+AUS KUNST UND ALTERTUM V (1824 Einzelnes)
+  Indem ich mich zeither mit der Lebensgeschichte
+  wenig und viel bedeutender Menschen anhaltender beschäftigte,
+  kam ich auf den Gedanken:
+  es möchten sich wohl die einen in dem Weltgewebe als Zettel,
+  die andern als Einschlag betrachten lassen;
+  jene gäben eigentlich die Breite des Gewebes an,
+  diese dessen Halt, Festigkeit,
+  vielleicht auch mit Zutat irgendeines Gebildes.
+  Die Schere der Parze hingegen bestimmt die Länge,
+  dem sich denn das übrige alles zusammen unterwerfen muss.
+  Weiter wollen wir das Gleichnis nicht verfolgen.
+
+
+231. Goethe, Maximen und Reflexionen 231
+AUS KUNST UND ALTERTUM V (1824 Einzelnes)
+  Auch Bücher haben ihr Erlebtes, das ihnen nicht entzogen werden kann.
+    Wer nie sein Brot mit Tränen aß,
+    Wer nicht die kummervollen Nächte
+    Auf seinem Bette weinend saß,
+    Der kennt euch nicht, ihr himmlischen Mächte!
+  Diese tiefschmerzlichen Zeilen wiederholte sich eine höchst vollkommene,
+  angebetete Königin in der grausamsten Verbannung,
+  zu grenzenlosem Elend verwiesen. Sie befreundete sich mit dem Buche,
+  das diese Worte und noch manche schmerzliche Erfahrung überliefert,
+  und zog daraus einen peinlichen Trost;
+  wer dürfte diese schon in die Ewigkeit sich erstreckende Wirkung
+  wohl jemals verkümmern?
+
+
+232. Goethe, Maximen und Reflexionen 232
+AUS KUNST UND ALTERTUM V (1824 Einzelnes)
+  Mit dem größten Entzücken sieht man im
+  Apollosaal der Villa Aldobrandini zu Frascati,
+  auf welche glückliche Weise Domenichin die Ovidischen "Metamorphosen"
+  mit der schicklichsten Örtlichkeit umgibt;
+  dabei nun erinnert man sich gern, dass die glücklichsten  Ereignisse
+  doppelt selig empfunden werden, wenn sie uns in herrlicher
+  Gegend gegönnt waren, ja dass gleichgültige Momente
+  durch würdige Lokalität zu hoher Bedeutung gesteigert wurden.
+
+
+233. Goethe, Maximen und Reflexionen 233
+  Poesie wirkt am meisten im Anfang der Zustände,
+  sie seien nun ganz roh,
+  halbkultiviert oder bei Abänderung einer Kultur,
+  beim Gewahrwerden einer fremden Kultur,
+  dass man also sagen kann,
+  die Wirkung der Neuheit findet durchaus statt.
+
+
+234. Goethe, Maximen und Reflexionen 234
+  M a n n r ä u s c h l e i n  nannte man im siebzehnten Jahrhundert
+  gar ausdrucksvoll die Geliebte.
+
+
+235. Goethe, Maximen und Reflexionen 235
+  Liebes gewaschenes Seelchen ist der verliebteste Ausdruck auf Hiddensee.
+
+
+236. Goethe, Maximen und Reflexionen 236
+  Das Wahre ist eine Fackel, aber eine ungeheure;
   deswegen suchen wir alle nur blinzend so daran vorbeizukommen,
   in Furcht sogar, uns zu verbrennen.
 
 
-13. Goethe, Maximen und Reflexionen
-  Der Hass ist ein aktives Missvergnügen, der Neid ein passives; 
-  deshalb darf man sich nicht wundern, 
+237. Goethe, Maximen und Reflexionen 237
+  Die Klugen haben miteinander viel gemein. (Äschylus)
+
+
+238. Goethe, Maximen und Reflexionen 238
+  Das eigentlich Unverständige sonst verständiger Menschen ist,
+  dass sie nicht zurechtzulegen wissen, was ein anderer sagt,
+  aber nicht gerade trifft, wie er's hätte sagen sollen.
+
+
+239. Goethe, Maximen und Reflexionen 239
+  Ein jeder, weil er spricht, glaubt,
+  auch über die Sprache sprechen zu können.
+
+
+240. Goethe, Maximen und Reflexionen 240
+  Man darf nur alt werden, um milder zu sein;
+  ich sehe keinen Fehler begehen,
+  den ich nicht auch begangen hätte.
+
+
+241. Goethe, Maximen und Reflexionen 241
+  Der Handelnde ist immer gewissenlos;
+  es hat niemand Gewissen als der Betrachtende.
+
+
+242. Goethe, Maximen und Reflexionen 242
+  Ob denn die Glücklichen glauben,
+  dass der Unglückliche wie ein Gladiator
+  mit Anstand vor ihnen umkommen solle,
+  wie der römische Pöbel zu fordern pflegte?
+
+
+243. Goethe, Maximen und Reflexionen 243
+  Den Timon fragte jemand wegen des Unterrichts seiner Kinder. "Lasst sie",
+  sagte der, "unterrichten in dem, was sie niemals begreifen werden."
+
+
+244. Goethe, Maximen und Reflexionen 244
+  Es gibt Personen, denen ich wohlwill und wünschte,
+  ihnen besser wollen zu können.
+
+
+245. Goethe, Maximen und Reflexionen 245
+  Der eine Bruder brach Töpfe, der andere Krüge.
+  Verderbliche Wirtschaft!
+
+
+246. Goethe, Maximen und Reflexionen 246
+  Wie man aus Gewohnheit nach einer abgelaufenen Uhr hinsieht,
+  als wenn sie noch ginge,
+  so blickt man auch wohl einer Schönen ins Gesicht,
+  als wenn sie noch liebte.
+
+
+247. Goethe, Maximen und Reflexionen 247
+  Der Hass ist ein aktives Missvergnügen, der Neid ein passives;
+  deshalb darf man sich nicht wundern,
   wenn der Neid so schnell in Hass übergeht.
 
 
-14. Goethe, Maximen und Reflexionen
-  "Deutlichkeit ist eine gehörige Verteilung von Licht und Schatten." 
-  Hamann. Hört!
+248. Goethe, Maximen und Reflexionen 248
+  Der Rhythmus hat etwas Zauberisches,
+  sogar macht er uns glauben, das Erhabene gehöre uns an.
 
 
-15. Goethe, Maximen und Reflexionen
-  Die Druckerkunst war schon über hundert Jahre erfunden, 
-  dem ungeachtet erschien ein Buch noch als ein Heiliges, 
-  wie wir aus dem damaligen Einbande sehen, 
-  und so war es dem edlen Dichter lieb und ehrenwert; 
-  wir aber broschieren jetzt alles 
+249. Goethe, Maximen und Reflexionen 249
+  Dilettantismus, ernstlich behandelt,
+  und Wissenschaft, mechanisch betrieben, werden Pedanterei.
+
+
+250. Goethe, Maximen und Reflexionen 250
+  Die Kunst kann niemand fördern als der Meister.
+  Gönner fördern den Künstler, das ist recht und gut;
+  aber dadurch wird nicht immer die Kunst gefördert.
+
+
+251. Goethe, Maximen und Reflexionen 251
+  "Deutlichkeit ist eine gehörige Verteilung von Licht und Schatten."
+  (Hamann) Hört!
+
+
+252. Goethe, Maximen und Reflexionen 252
+  Shakespeare ist reich an wundersamen Tropen,
+  die aus personifizierten Begriffen entstehen
+  und uns gar nicht kleiden würden,
+  bei ihm aber völlig am Platze sind,
+  weil zu seiner Zeit alle Kunst von der Allegorie beherrscht wurde.
+  Auch findet derselbe Gleichnisse, wo wir sie nicht hernehmen würden;
+  zum Beispiel vom Buche. Die Druckerkunst war schon über hundert
+  Jahre erfunden, dem ohngeachtet erschien ein Buch noch als ein Heiliges,
+  wie wir aus dem damaligen Einbande sehen,
+  und so war es dem edlen Dichter lieb und ehrenwert;
+  wir aber broschieren jetzt alles
   und haben nicht leicht vor dem Einbande noch seinem Inhalte Respekt.
 
 
-16. Goethe, Maximen und Reflexionen
-  Der törichste von allen Irrtümern ist, 
-  wenn junge gute Köpfe glauben, ihre Originalität zu verlieren, 
-  indem sie das Wahre anerkennen, was von andern schon anerkannt worden.
+253. Goethe, Maximen und Reflexionen 253
+  "Herr von Schweinichen" ist ein merkwürdiges Geschichts- und Sittenbuch;
+  für die Mühe, die es kostet, es zu lesen, finden wir uns reichlich belohnt;
+  es wird für gewisse Zustände eine Symbolik der vollkommensten Art.
+  Es ist kein Lesebuch, aber man muss es gelesen haben.
 
 
-17. Goethe, Maximen und Reflexionen
-  Älter werden heißt selbst ein neues Geschäft antreten; 
-  alle Verhältnisse verändern sich, 
+254. Goethe, Maximen und Reflexionen 254
+  Der törichtste von allen Irrtümern ist,
+  wenn junge gute Köpfe glauben,
+  ihre Originalität zu verlieren,
+  indem sie das Wahre anerkennen,
+  was von andern schon anerkannt worden.
+
+
+255. Goethe, Maximen und Reflexionen 255
+  Die Gelehrten sind meist gehässig, wenn sie widerlegen;
+  einen Irrenden sehen sie gleich als ihren Todfeind an.
+
+
+256. Goethe, Maximen und Reflexionen 256
+  Die Schönheit kann nie über sich selbst deutlich werden.
+
+
+257. Goethe, Maximen und Reflexionen 257
+  Sobald man der subjektiven oder sogenannten sentimentalen Poesie
+  mit der objektiven, darstellenden gleiche Rechte verlieh,
+  wie es denn auch wohl nicht anders sein konnte,
+  weil man sonst die moderne Poesie ganz hätte ablehnen müssen,
+  so war vorauszusehen, dass, wenn auch wahrhafte poetische Genies
+  geboren werden sollten,
+  sie doch immer mehr das Gemütliche des inneren Lebens
+  als das Allgemeine des großen Weltlebens darstellen würden.
+  Dieses ist nun in dem Grade eingetroffen,
+  dass es eine Poesie ohne Tropen gibt,
+  der man doch keineswegs allen Beifall versagen kann.
+
+
+258. Johann Wolfgang Goethe, Maximen und Reflexionen 258
+AUS KUNST UND ALTERTUM V (1825 Einzelnes)
+  Madame Roland, auf dem Blutgerüste, verlangte Schreibzeug,
+  um die ganz besondern Gedanken aufzuschreiben,
+  die ihr auf dem letzten Wege vorgeschwebt.
+  Schade, dass man ihr's versagte; denn am Ende des Lebens
+  gehen dem gefassten Geiste Gedanken auf, bisher undenkbare;
+  sie sind wie selige Dämonen,
+  die sich auf den Gipfeln der Vergangenheit glänzend niederlassen.
+
+
+259. Goethe, Maximen und Reflexionen 259
+AUS KUNST UND ALTERTUM V (1825 Einzelnes)
+  Man sagt sich oft im Leben, dass man die Vielgeschäftigkeit,
+  Polypragmosyne, vermeiden, besonders, je älter man wird,
+  sich desto weniger in ein neues Geschäft einlassen solle.
+  Aber man hat gut reden, gut sich und anderen raten.
+  Älter werden heißt selbst ein neues Geschäft antreten;
+  alle Verhältnisse verändern sich,
   und man muss entweder zu handeln ganz aufhören
   oder mit Willen und Bewusstsein das neue Rollenfach übernehmen.
 
 
-18. Goethe, Maximen und Reflexionen
-  Große Talente sind selten, 
-  und selten ist es, dass sie sich selbst erkennen; 
-  nun aber hat kräftiges unbewusstes Handeln und Sinnen 
-  so höchst erfreuliche als unerfreuliche Folgen, 
+260. Goethe, Maximen und Reflexionen 260
+AUS KUNST UND ALTERTUM V (1825 Einzelnes)
+  Große Talente sind selten, und selten ist es,
+  dass sie sich selbst erkennen;
+  nun aber hat kräftiges unbewusstes Handeln und Sinnen
+  so höchst erfreuliche als unerfreuliche Folgen,
   und in solchem Konflikt schwindet ein bedeutendes Leben vorüber.
+  Hievon ergeben sich in Medwins "Unterhaltungen"
+  so merkwürdige als traurige Beispiele.
 
 
-19. Goethe, Maximen und Reflexionen
-  In der Idee leben heißt das Unmögliche behandeln, als wenn es möglich wäre.
-  Mit dem Charakter hat es dieselbe Bewandtnis: 
-  treffen beide zusammen, so entstehen Ereignisse, 
+261. Goethe, Maximen und Reflexionen 261
+  Vom Absoluten in theoretischem Sinne wag ich nicht zu reden;
+  behaupten aber darf ich, dass, wer es in der Erscheinung anerkannt
+  und immer im Auge behalten hat,
+  sehr großen Gewinn davon erfahren wird.
+
+
+262. Goethe, Maximen und Reflexionen 262
+  In der Idee leben heißt das Unmögliche behandeln,
+  als wenn es möglich wäre. Mit dem Charakter hat es dieselbe Bewandtnis:
+  treffen beide zusammen, so entstehen Ereignisse,
   worüber die Welt vom Erstaunen sich Jahrtausende nicht erholen kann.
 
 
-20. Goethe, Maximen und Reflexionen
-  Und doch bei aller Unvollständigkeit des Literarwesens 
-  finden wir tausendfältige Wiederholung, woraus hervorgeht, 
+263. Goethe, Maximen und Reflexionen 263
+  Napoleon, der ganz in der Idee lebte, konnte sie doch im Bewusstsein
+  nicht erfassen; er leugnet alles Ideelle durchaus und spricht ihm jede
+  Wirklichkeit ab, indessen er eifrig es zu verwirklichen trachtet.
+  Einen solchen innern perpetuierlichen Widerspruch kann aber sein klarer
+  unbestechlicher Verstand nicht ertragen, und es ist höchst wichtig,
+  wenn er, gleichsam genötigt, sich darüber gar eigen und anmutig ausdrückt.
+
+
+264. Goethe, Maximen und Reflexionen 264
+  Er betrachtet die Idee als ein geistiges Wesen, das zwar keine Realität hat,
+  aber, wenn es verfliegt, ein Residuum (caput mortuum) zurücklässt,
+  dem wir die Wirklichkeit nicht ganz absprechen können.
+  Wenn dieses uns auch starr und materiell genug scheinen mag,
+  so spricht er sich ganz anders aus,
+  wenn er von den unaufhaltsamen Folgen seines Lebens und Treibens
+  mit Glauben und Zutrauen die Seinen unterhält.
+  Da gesteht er wohl gern, dass Leben Lebendiges hervorbringe,
+  dass eine gründliche Befruchtung auf alle Zeiten hinauswirke.
+  Er gefällt sich, zu bekennen,
+  dass er dem Weltgange eine frische Anregung,
+  eine neue Richtung gegeben habe.
+
+
+265. Goethe, Maximen und Reflexionen 265
+  Höchst bemerkenswert bleibt es immer, dass Menschen,
+  deren Persönlichkeit fast ganz Idee ist,
+  sich so äußerst vor dem Phantastischen scheuen.
+  So war Hamann, dem es unerträglich schien,
+  wenn von "Dingen einer andern Welt" gesprochen wurde.
+  Er drückte sich gelegentlich darüber in einem gewissen Paragraphen aus,
+  den er aber, weil er ihm unzulänglich schien, vierzehnmal variierte
+  und sich doch immer wahrscheinlich nicht genugtat.
+  Zwei von diesen Versuchen sind uns übrig geblieben;
+  einen dritten haben wir selbst gewagt,
+  welchen hier abdrucken zu lassen wir durch Obenstehendes veranlasst sind.
+
+
+266. Goethe, Maximen und Reflexionen 266
+  Der Mensch ist als wirklich in die Mitte einer wirklichen Welt gesetzt
+  und mit solchen Organen begabt, dass er das Wirkliche und nebenbei
+  das Mögliche erkennen und hervorbringen kann. Alle gesunde
+  Menschen haben die Überzeugung ihres Daseins und eines Daseienden
+  um sie her. Indessen gibt es auch einen hohlen Fleck im Gehirn,
+  das heißt eine Stelle, wo sich kein Gegenstand abspiegelt
+  wie denn auch im Auge selbst ein Fleckchen ist, das nicht sieht.
+  Wird der Mensch auf diese Stelle besonders aufmerksam,
+  vertieft er sich darin, so verfällt er in eine Geisteskrankheit,
+  ahnet hier "Dinge aus einer andern Welt",
+  die aber eigentlich Undinge sind und weder Gestalt noch Begrenzung haben,
+  sondern als leere Nacht-Räumlichkeit ängstigen und den,
+  der sich nicht losreißt, mehr als gespensterhaft verfolgen.
+
+267. Goethe, Maximen und Reflexionen 267
+  Wie wenig von dem Geschehenen ist geschrieben worden,
+  wie wenig von dem Geschriebenen gerettet!
+  Die Literatur ist von Haus aus fragmentarisch,
+  sie enthält nur Denkmale des menschlichen Geistes,
+  insofern sie in Schriften verfasst und zuletzt übrig geblieben sind.
+
+
+268. Goethe, Maximen und Reflexionen 268
+  Und doch bei aller Unvollständigkeit des Literarwesens finden wir
+  tausendfältige Wiederholung, woraus hervorgeht,
   wie beschränkt des Menschen Geist und Schicksal sei.
 
 
-21. Goethe, Maximen und Reflexionen
-  Wer viel mit Kindern lebt, wird finden, 
+269. Goethe, Maximen und Reflexionen 269
+  Da wir denn doch zu dieser allgemeinen Weltberatung als Assessoren,
+  obgleich sine voto, berufen sind und wir uns von den Zeitungsschreibern
+  tagtäglich referieren lassen, so ist es ein Glück,
+  auch aus der Vorzeit tüchtig Referierende zu finden.
+  Für mich sind von Raumer und Wachler
+  in den neusten Tagen dergleichen geworden.
+
+
+270. Goethe, Maximen und Reflexionen 270
+  Die Frage, wer höher steht, der Historiker oder der Dichter,
+  darf gar nicht aufgeworfen werden; sie konkurrieren nicht miteinander,
+  so wenig als der Wettläufer und der Faustkämpfer.
+  Jedem gebührt seine eigene Krone.
+
+
+271. Goethe, Maximen und Reflexionen 271
+  Die Pflicht des Historikers ist zwiefach:
+  erst gegen sich selbst, dann gegen den Leser.
+  Bei sich selbst muss er genau prüfen, was wohl geschehen sein könnte,
+  und um des Lesers willen muss er festsetzen, was geschehen sei.
+  Wie er mit sich selbst handelt, mag er mit seinen Kollegen ausmachen;
+  das Publikum muss aber nicht ins Geheimnis hineinsehen,
+  wie wenig in der Geschichte als entschieden ausgemacht
+  kann angesprochen werden.
+
+272. Goethe, Maximen und Reflexionen 272
+  Es geht uns mit Büchern wie mit neuen Bekanntschaften.
+  Die erste Zeit sind wir hoch vergnügt,
+  wenn wir im Allgemeinen Übereinstimmung finden,
+  wenn wir uns an irgendeiner Hauptseite unserer Existenz
+  freundlich berührt fühlen;
+  bei näherer Bekanntschaft treten alsdann erst die Differenzen hervor,
+  und da ist denn die Hauptsache eines vernünftigen Betragens,
+  dass man nicht, wie etwa in der Jugend geschieht,
+  sogleich zurückschaudere, sondern dass man gerade das Übereinstimmende
+  recht festhalte und sich über die Differenzen vollkommen aufkläre,
+  ohne sich deshalb vereinigen zu wollen.
+
+
+273. Goethe, Maximen und Reflexionen 273
+  Eine solche freundlich-belehrende Unterhaltung ist mir durch
+  Stiedenroths "Psychologie" geworden.
+  Alle Wirkung des Äußern aufs Innere trägt er unvergleichlich vor,
+  und wir sehen die Welt nochmals nach und nach in uns entstehen.
+  Aber mit der Gegenwirkung des Innern nach außen gelingt es ihm nicht ebenso.
+  Der Entelechie, die nichts aufnimmt,
+  ohne sich's durch eigene Zutat anzueignen,
+  lässt er nicht Gerechtigkeit widerfahren,
+  und mit dem Genie will es auf diesem Weg gar nicht fort;
+  und wenn er das Ideal aus der Erfahrung abzuleiten denkt und sagt:
+  "das Kind idealisiert nicht", so mag man antworten:
+  "das Kind zeugt nicht",
+  denn zum Gewahrwerden des Ideellen gehört auch eine Pubertät.
+  Doch genug, er bleibt uns ein werter Gesell und Gefährte
+  und soll nicht von unserer Seite kommen.
+
+
+274. Goethe, Maximen und Reflexionen 274
+  Wer viel mit Kindern lebt, wird finden,
   dass keine äußere Einwirkung auf sie ohne Gegenwirkung bleibt.
-  Die Gegenwirkung eines vorzüglich kindlichen Wesens 
+
+
+275. Goethe, Maximen und Reflexionen 275
+  Die Gegenwirkung eines vorzüglich kindlichen Wesens
   ist sogar leidenschaftlich, das Eingreifen tüchtig.
-  Deshalb leben Kinder in Schnellurteilen, um nicht zu sagen in Vorurteilen; 
-  denn bis das schnell, aber einseitig Gefasste sich auslöscht, 
-  um einem Allgemeinen Platz zu machen, erfordert es Zeit. 
-  Hierauf zu achten, ist eine der größten       Pflichten des Erziehers.
 
 
-22. Goethe, Maximen und Reflexionen
-  Missgunst und Hass beschränken den Beobachter auf die Oberfläche, 
-  selbst wenn Scharfsinn sich zu ihnen gesellt; 
-  verschwistert sich dieser hingegen mit Wohlwollen und Liebe, 
-  so durchdringt er die Welt und den Menschen, 
+276. Goethe, Maximen und Reflexionen 276
+  Deshalb leben Kinder in Schnellurteilen, um nicht zu sagen in Vorurteilen;
+  denn bis das schnell, aber einseitig Gefasste sich auslöscht,
+  um einem Allgemeinern Platz zu machen, erfordert es Zeit.
+  Hierauf zu achten, ist eine der größten Pflichten des Erziehers.
+
+
+277. Goethe, Maximen und Reflexionen 277
+  Ein zweijähriger Knabe hatte die Geburtstagsfeier begriffen,
+  an der seinigen die bescherten Gaben mit Dank und Freude sich zugeeignet,
+  nicht weniger dem Bruder die seinigen bei gleichem Feste gegönnt.
+  Hierdurch veranlasst, fragte er am Weihnachtsabend,
+  wo so viele Geschenke vorlagen, wann denn sein Weihnachten komme.
+  Dies allgemeine Fest zu begreifen war noch ein ganzes Jahr nötig.
+
+
+278. Goethe, Maximen und Reflexionen 278
+  Die große Schwierigkeit bei psychologischen Reflexionen ist,
+  dass man immer das Innere und Äußere
+  parallel oder vielmehr verflochten betrachten muss.
+  Es ist immerfort Systole und Diastole,
+  Einatmen und Ausatmen des lebendigen Wesens;
+  kann man es auch nicht aussprechen,
+  so beobachte man es genau und merke darauf.
+
+
+279. Goethe, Maximen und Reflexionen 279
+  Mein Verhältnis zu Schiller
+  gründete sich auf die entschiedene Richtung beider auf einen Zweck,
+  unsere gemeinsame Tätigkeit auf die Verschiedenheit der Mittel,
+  wodurch wir jenen zu erreichen strebten.
+  Bei einer zarten Differenz, die einst zwischen uns zur Sprache kam
+  und woran ich durch eine Stelle seines Briefs wieder erinnert werde,
+  macht ich folgende Betrachtungen.
+  Es ist ein großer Unterschied,
+  ob der Dichter zum Allgemeinen das Besondere sucht
+  oder im Besondern das Allgemeine schaut.
+  Aus jener Art entsteht Allegorie, wo das Besondere nur als Beispiel,
+  als Exempel des Allgemeinen gilt;
+  die letztere aber ist eigentlich die Natur der Poesie,
+  sie spricht ein Besonderes aus, ohne ans Allgemeine zu denken
+  oder darauf hinzuweisen.
+  Wer nun dieses Besondere lebendig fasst, erhält zugleich das Allgemeine mit,
+  ohne es gewahr zu werden, oder erst spät.
+
+
+280. Goethe, Maximen und Reflexionen 280
+  Den einzelnen Verkehrtheiten des Tags
+  sollte man immer nur große weltgeschichtliche Massen entgegensetzen.
+
+
+281. Johann Wolfgang Goethe, Maximen und Reflexionen 281
+AUS KUNST UND ALTERTUM V (1826 Einzelnes)
+  Eigentlich weiß man nur, wenn man wenig weiß;
+  mit dem Wissen wächst der Zweifel.
+
+
+282. Goethe, Maximen und Reflexionen 282
+AUS KUNST UND ALTERTUM V (1826 Einzelnes)
+  Die Irrtümer des Menschen machen ihn eigentlich liebenswürdig.
+
+
+283. Goethe, Maximen und Reflexionen 283
+AUS KUNST UND ALTERTUM V (1826 Einzelnes)
+  Bonus vir semper tiro.
+
+
+284. Goethe, Maximen und Reflexionen 284
+  Es gibt Menschen, die ihr Gleiches lieben und aufsuchen,
+  und wieder solche, die ihr Gegenteil lieben und diesem nachgehn.
+
+
+285. Goethe, Maximen und Reflexionen 285
+  Wer sich von jeher erlaubt hätte, die Welt so schlecht anzusehen,
+  wie uns die Widersacher darstellen,
+  der müsste ein miserables Subjekt geworden sein.
+
+
+286. Goethe, Maximen und Reflexionen 286
+  Missgunst und Hass beschränken den Beobachter auf die Oberfläche,
+  selbst wenn Scharfsinn sich zu ihnen gesellt;
+  verschwistert sich dieser hingegen mit Wohlwollen und Liebe,
+  so durchdringt er die Welt und den Menschen,
   ja er kann hoffen, zum Allerhöchsten zu gelangen.
 
 
-23. Goethe, Maximen und Reflexionen
-  "Panoramic ability" schreibt mir ein englischer Kritiker zu, 
+287. Goethe, Maximen und Reflexionen 287
+  Panoramic ability schreibt mir ein englischer Kritiker zu,
   wofür ich allerschönstens zu danken habe.
 
 
-24. Goethe, Maximen und Reflexionen
-  Die Menschen halten sich mit ihren Neigungen ans Lebendige. 
+288. Goethe, Maximen und Reflexionen 288
+  Einem jeden wohlgesinnten Deutschen ist eine gewisse Portion
+  poetischer Gabe zu wünschen als das wahre Mittel,
+  seinen Zustand, von welcher Art er auch sei,
+  mit Wert und Anmut einigermaßen zu umkleiden.
+
+
+289. Goethe, Maximen und Reflexionen 289
+  Den Stoff sieht jedermann vor sich, den Gehalt findet nur der,
+  der etwas dazuzutun hat, und die Form ist ein Geheimnis den meisten.
+
+
+290. Goethe, Maximen und Reflexionen 290
+  Die Menschen halten sich mit ihren Neigungen ans Lebendige.
   Die Jugend bildet sich wieder an der Jugend.
 
 
-25. Goethe, Maximen und Reflexionen
-  Wie in Rom außer den Römern noch ein Volk von Statuen war, 
-  so ist außer dieser realen Welt noch eine Welt des Wahns, 
+291. Goethe, Maximen und Reflexionen 291
+  Wir mögen die Welt kennenlernen, wie wir wollen,
+  sie wird immer eine Tag- und eine Nachtseite behalten.
+
+
+292. Goethe, Maximen und Reflexionen 292
+  Der Irrtum wiederholt sich immerfort in der Tat,
+  deswegen muss man das Wahre unermüdlich in Worten wiederholen.
+
+
+293. Goethe, Maximen und Reflexionen 293
+  Wie in Rom außer den Römern noch ein Volk von Statuen war,
+  so ist außer dieser realen Welt noch eine Welt des Wahns,
   viel mächtiger beinahe, in der die meisten leben.
 
 
-26. Goethe, Maximen und Reflexionen
-  Die Menschen sind wie das Rote Meer: 
-  der Stab hat sie kaum auseinander gehalten, 
+294. Goethe, Maximen und Reflexionen 294
+  Die Menschen sind wie das Rote Meer:
+  der Stab hat sie kaum auseinander gehalten,
   gleich hinterdrein fließen sie wieder zusammen.
 
 
-27. Goethe, Maximen und Reflexionen
-  Pflicht des Historikers, 
-  das Wahre vom Falschen, 
-  das Gewisse vom Ungewissen, 
-  das Zweifelhafte vom Verwerflichen zu unterscheiden. 
+295. Goethe, Maximen und Reflexionen 295
+  Pflicht des Historikers,
+  das Wahre vom Falschen,
+  das Gewisse vom Ungewissen,
+  das Zweifelhafte vom Verwerflichen zu unterscheiden.
+
+
+296. Goethe, Maximen und Reflexionen 296
   Eine Chronik schreibt nur derjenige, dem die Gegenwart wichtig ist.
 
 
-28. Goethe, Maximen und Reflexionen
-  Die Gedanken kommen wieder, die Überzeugungen pflanzen sich fort; 
+297. Goethe, Maximen und Reflexionen 297
+  Die Gedanken kommen wieder, die Überzeugungen pflanzen sich fort;
   die Zustände gehen unwiederbringlich vorüber.
 
 
-29. Goethe, Maximen und Reflexionen
-  Alles, was wir treiben und tun, ist ein Abmüden; 
+298. Goethe, Maximen und Reflexionen 298
+  Unter allen Völkerschaften haben die Griechen
+  den Traum des Lebens am schönsten geträumt.
+
+
+299. Goethe, Maximen und Reflexionen 299
+  Übersetzer sind als geschäftige Kuppler anzusehen,
+  die uns eine halbverschleierte Schöne als höchst liebenswürdig anpreisen:
+  sie erregen eine unwiderstehliche Neigung nach dem Original.
+
+
+300. Goethe, Maximen und Reflexionen 300
+  Das Altertum setzen wir gern über uns, aber die Nachwelt nicht.
+  Nur ein Vater neidet seinem Sohn nicht das Talent.
+
+
+301. Goethe, Maximen und Reflexionen 301
+  Sich subordinieren ist überhaupt keine Kunst;
+  aber in absteigender Linie,
+  in der Deszendenz etwas über sich erkennen, was unter einem steht!
+
+
+302. Goethe, Maximen und Reflexionen 302
+  Unser ganzes Kunststück besteht darin,
+  dass wir unsere Existenz aufgeben,
+  um zu existieren.
+
+
+303. Goethe, Maximen und Reflexionen 303
+  Alles, was wir treiben und tun, ist ein Abmüden;
   wohl dem, der nicht müde wird!
 
-
-30. Goethe, Maximen und Reflexionen
-  Die Wahrheit widerspricht unserer Natur, der Irrtum nicht, 
-  und zwar aus einem sehr einfachen Grunde: 
-  die Wahrheit fordert, dass wir uns für beschränkt erkennen sollen, 
-  der Irrtum schmeichelt uns, wir seien auf ein oder die andere Weise unbegrenzt.
+304. Goethe, Maximen und Reflexionen 304
+  Hoffnung ist die zweite Seele der Unglücklichen.
 
 
-31. Goethe, Maximen und Reflexionen
-  Der Despotismus fördert die Autokratie eines jeden, 
-  indem er von oben bis unten die Verantwortlichkeit dem Individuum zumutet 
+305. Goethe, Maximen und Reflexionen 305
+  "L'amour est un vrai recommenceur."
+
+
+306. Goethe, Maximen und Reflexionen 306
+  Es gibt im Menschen auch ein Dienenwollendes;
+  daher die chevalerie der Franzosen eine servage.
+  
+
+307. Goethe, Maximen und Reflexionen 307
+  Im Theater wird durch die Belustigung des Gesichts und Gehörs
+  die Reflexion sehr eingeschränkt.
+
+
+308. Goethe, Maximen und Reflexionen 308
+  Erfahrung kann sich ins Unendliche erweitern,
+  Theorie nicht in eben dem Sinne reinigen und vollkommener werden.
+  Jener steht das Universum nach allen Richtungen offen,
+  diese bleibt innerhalb der Grenze
+  der menschlichen Fähigkeiten eingeschlossen.
+  Deshalb müssen alle Vorstellungsarten wiederkehren,
+  und der wunderliche Fall tritt ein,
+  dass bei erweiterter Erfahrung
+  eine bornierte Theorie wieder Gunst erwerben kann.
+
+
+309. Goethe, Maximen und Reflexionen 309
+  Es ist immer dieselbe Welt, die der Betrachtung offen steht,
+  die immerfort angeschaut oder geahnt wird, und es sind immer dieselben
+  Menschen, die im Wahren oder Falschen leben,
+  im letzten bequemer als im ersten.
+
+
+310. Goethe, Maximen und Reflexionen 310
+  Die Wahrheit widerspricht unserer Natur, der Irrtum nicht,
+  und zwar aus einem sehr einfachen Grunde: die Wahrheit fordert,
+  dass wir uns für beschränkt erkennen sollen, der Irrtum schmeichelt uns,
+  wir seien auf ein oder die andere Weise unbegrenzt.
+
+
+311. Goethe, Maximen und Reflexionen 311
+  Es ist nun schon bald zwanzig Jahre,
+  dass die Deutschen sämtlich transzendieren.
+  Wenn sie es einmal gewahr werden,
+  müssen sie sich wunderlich vorkommen.
+
+
+312. Goethe, Maximen und Reflexionen 312
+  Dass Menschen dasjenige noch zu können glauben, was sie gekonnt haben,
+  ist natürlich genug;
+  dass andere zu vermögen glauben, was sie nie vermochten,
+  ist wohl seltsam, aber nicht selten.
+
+
+313. Goethe, Maximen und Reflexionen 313
+  Zu allen Zeiten sind es nur die Individuen,
+  welche für die Wissenschaft gewirkt, nicht das Zeitalter.
+  Das Zeitalter war's, das den Sokrates durch Gift hinrichtete,
+  das Zeitalter, das Hussen verbrannte:
+  die Zeitalter sind sich immer gleich geblieben.
+
+
+314. Goethe, Maximen und Reflexionen 314
+  Das ist die wahre Symbolik,
+  wo das Besondere das Allgemeinere repräsentiert,
+  nicht als Traum und Schatten,
+  sondern als lebendig-augenblickliche Offenbarung des Unerforschlichen.
+
+
+315. Goethe, Maximen und Reflexionen 315
+  Alles Ideelle, sobald es vom Realen gefordert wird,
+  zehrt endlich dieses und sich selbst auf.
+  So der Kredit (Papiergeld) das Silber und sich selbst.
+
+
+316. Goethe, Maximen und Reflexionen 316
+  Die Meisterschaft gilt oft für Egoismus.
+
+
+317. Goethe, Maximen und Reflexionen 317
+  Sobald die guten Werke und das Verdienstliche derselben aufhören,
+  sogleich tritt die Sentimentalität dafür ein, bei den Protestanten.
+
+
+318. Goethe, Maximen und Reflexionen 318
+  Es ist eben, als ob man es selbst vermöchte,
+  wenn man sich guten Rats erholen kann.
+
+
+319. Goethe, Maximen und Reflexionen 319
+  Die Wahlsprüche deuten auf das, was man nicht hat, wonach man strebt.
+  Man stellt sich solches wie billig immer vor Augen.
+
+
+320. Goethe, Maximen und Reflexionen 320
+  Wer einen Stein nicht allein erheben mag,
+  der soll ihn auch selbander liegen lassen.
+
+
+321. Goethe, Maximen und Reflexionen 321
+  Der Despotismus fördert die Autokratie eines jeden,
+  indem er von oben bis unten die Verantwortlichkeit dem Individuum zumutet
   und so den höchsten Grad von Tätigkeit hervorbringt.
 
 
-32. Goethe, Maximen und Reflexionen
-  Alles Spinozistische in der poetischen Produktion 
+322. Goethe, Maximen und Reflexionen 322
+  Alles Spinozistische in der poetischen Produktion
   wird in der Reflexion Machiavellismus.
 
 
-33. Goethe, Maximen und Reflexionen
-  Man muss seine Irrtümer teuer bezahlen, wenn man sie loswerden will, 
+323. Goethe, Maximen und Reflexionen 323
+  Man muss seine Irrtümer teuer bezahlen, wenn man sie loswerden will,
   und dann hat man noch von Glück zu sagen.
 
 
-34. Goethe, Maximen und Reflexionen
-  Geselligkeit lag in meiner Natur; 
-  deswegen ich bei vielfachem Unternehmen mir Mitarbeiter gewann 
-  und mich ihnen zum Mitarbeiter bildete und so das Glück       erreichte, 
+324. Goethe, Maximen und Reflexionen 324
+  Wenn ein deutscher Literator seine Nation vormals beherrschen wollte,
+  so musste er ihr nur glauben machen, es sei einer da,
+  der sie beherrschen wolle. Da waren sie gleich so verschüchtert,
+  dass sie sich, von wem es auch wäre, gern beherrschen ließen.
+
+
+325. Goethe, Maximen und Reflexionen 325
+  "Nihil rerum mortalium tam instabile ac fluxum
+   est quam potentia non sua vi nixa."
+
+
+326. Goethe, Maximen und Reflexionen 326
+  Es gibt auch Afterkünstler: Dilettanten und Spekulanten;
+  jene treiben die Kunst um des Vergnügens,
+  diese um des Nutzens willen.
+
+
+327. Goethe, Maximen und Reflexionen 327
+  Geselligkeit lag in meiner Natur;
+  deswegen ich bei vielfachem Unternehmen mir Mitarbeiter gewann
+  und mich ihnen zum Mitarbeiter bildete
+  und so das Glück erreichte,
   mich in ihnen und sie in mir fortleben zu sehn.
 
 
-35. Goethe, Maximen und Reflexionen
-  Der Irrtum verhält sich gegen das Wahre wie der Schlaf gegen das Wachen. 
-  Ich habe bemerkt, dass man aus dem Irren sich wie erquickt 
+328. Goethe, Maximen und Reflexionen 328
+  Mein ganzes inneres Wirken erwies sich als eine lebendige Heuristik,
+  welche, eine unbekannte geahnte Regel anerkennend,
+  solche in der Außenwelt zu finden
+  und in die Außenwelt einzuführen trachtet.
+
+
+329. Goethe, Maximen und Reflexionen 329
+  Es gibt eine enthusiastische Reflexion, die von dem größten Wert ist,
+  wenn man sich von ihr nur nicht hinreißen lässt.
+
+
+330. Goethe, Maximen und Reflexionen 330
+  Nur in der Schule selbst ist die eigentliche Vorschule.
+
+
+331. Goethe, Maximen und Reflexionen 331
+  Der Irrtum verhält sich gegen das Wahre wie der Schlaf gegen das Wachen.
+  Ich habe bemerkt, dass man aus dem Irren sich wie erquickt
   wieder zu dem Wahren hinwende.
 
 
-36. Goethe, Maximen und Reflexionen
-  Eigentlich lernen wir nur von Büchern, die wir nicht beurteilen können. 
+332. Goethe, Maximen und Reflexionen 332
+  Ein jeder leidet, der nicht für sich selbst handelt.
+  Man handele für andere, um mit ihnen zu genießen.
+
+
+333. Goethe, Maximen und Reflexionen 333
+  Das Fassliche gehört der Sinnlichkeit und dem Verstande.
+  Hieran schließt sich das Gehörige, welches verwandt ist mit dem Schicklichen.
+  Das Gehörige jedoch ist ein Verhältnis zu einer besondern Zeit
+  und entschiedenen Umständen.
+
+
+334. Goethe, Maximen und Reflexionen 334
+  Eigentlich lernen wir nur von Büchern, die wir nicht beurteilen können.
   Der Autor eines Buchs, das wir beurteilen könnten, müsste von uns lernen.
-  Deshalb ist die Bibel ein ewig wirksames Buch, weil, solange die Welt steht,
-  niemand auftreten und sagen wird: 
-  ich begreife es im Ganzen und verstehe es im Einzelnen. 
-  Wir aber sagen bescheiden: 
+
+
+335. Goethe, Maximen und Reflexionen 335
+  Deshalb ist die Bibel ein ewig wirksames Buch,
+  weil, solange die Welt steht, niemand auftreten und sagen wird:
+  ich begreife es im Ganzen und verstehe es im Einzelnen.
+  Wir aber sagen bescheiden:
   im Ganzen ist es ehrwürdig und im Einzelnen anwendbar.
 
 
-37. Goethe, Maximen und Reflexionen
-  Die Vorurteile der Menschen 
-  beruhen auf dem jeweiligen Charakter der Menschen, 
-  daher sind sie, mit dem Zustand innig vereinigt, ganz unüberwindlich; 
-  weder Evidenz noch Verstand noch Vernunft haben den mindesten Einfluss darauf.
+336. Goethe, Maximen und Reflexionen 336
+  Alle Mystik ist ein Transzendieren
+  und ein Ablösen von irgendeinem Gegenstande,
+  den man hinter sich zu lassen glaubt.
+  Je größer und bedeutender dasjenige war, dem man absagt,
+  desto reicher sind die Produktionen des Mystikers.
 
 
-38. Goethe, Maximen und Reflexionen
+337. Goethe, Maximen und Reflexionen 337
+  Die orientalische mystische Poesie hat deswegen den großen Vorzug,
+  dass der Reichtum der Welt, den der Adepte wegweist,
+  ihm noch jederzeit zu Gebote steht.
+  Er befindet sich also noch immer mitten in der Fülle,
+  die er verlässt, und schwelgt in dem, was er gern los sein möchte.
+
+
+338. Goethe, Maximen und Reflexionen 338
+  Christliche Mystiker sollte es gar nicht geben,
+  da die Religion selbst Mysterien darbietet.
+  Auch gehen sie immer gleich ins Abstruse, in den Abgrund des Subjekts.
+
+
+339. Goethe, Maximen und Reflexionen 339
+  Ein geistreicher Mann sagte, die neuere Mystik sei die Dialektik
+  des Herzens und deswegen mitunter so erstaunenswert und verführerisch,
+  weil sie Dinge zur Sprache bringe, zu denen der Mensch
+  auf dem gewöhnlichen Verstands-, Vernunfts- und Religionswege
+  nicht gelangen würde. Wer sich Mut und Kraft glaube, sie zu studieren,
+  ohne sich betäuben zu lassen,
+  der möge sich in diese Höhle des Trophonios versenken,
+  jedoch auf seine eigene Gefahr.
+
+
+340. Goethe, Maximen und Reflexionen 340
+  Die Deutschen sollten in einem Zeitraume von dreißig Jahren
+  das Wort Gemüt nicht aussprechen,
+  dann würde nach und nach Gemüt sich wieder erzeugen;
+  jetzt heißt es nur Nachsicht mit Schwächen, eignen und fremden.
+
+
+341. Goethe, Maximen und Reflexionen 341
+  Die Vorurteile der Menschen beruhen auf dem jedesmaligen Charakter
+  der Menschen, daher sind sie, mit dem Zustand innig vereinigt,
+  ganz unüberwindlich; 
+  weder Evidenz noch Verstand noch Vernunft
+  haben den mindesten Einfluss darauf.
+
+
+342. Goethe, Maximen und Reflexionen 342
+  Charaktere machen oft die Schwäche zum Gesetz.
+  Weltkenner haben gesagt:
+  "Die Klugheit ist unüberwindlich, hinter welcher sich die Furcht versteckt."
   Schwache Menschen haben oft revolutionäre Gesinnungen; 
-  sie meinen, es wäre ihnen wohl, wenn sie nicht regiert würden, 
+  sie meinen, es wäre ihnen wohl, wenn sie nicht regiert würden,
   und fühlen nicht, dass sie weder sich noch andere regieren können.
 
 
-39. Goethe, Maximen und Reflexionen
-  Alle Menschen, wie sie zur Freiheit gelangen, machen ihre Fehler gelten: 
+343. Goethe, Maximen und Reflexionen 343
+  In eben dem Falle sind die neuern deutschen Künstler:
+  den Zweig der Kunst, den sie nicht besitzen,
+  erklären sie für schädlich und daher wegzuhauen.
+
+
+344. Goethe, Maximen und Reflexionen 344
+  Der Menschenverstand wird mit dem gesunden Menschen rein geboren,
+  entwickelt sich aus sich selbst und offenbart sich
+  durch ein entschiedenes Gewahrwerden und Anerkennen
+  des Notwendigen und Nützlichen.
+  Praktische Männer und Frauen bedienen sich dessen mit Sicherheit.
+  Wo er mangelt, halten beide Geschlechter, was sie begehren,
+  für notwendig, und für nützlich, was ihnen gefällt.
+
+
+345. Goethe, Maximen und Reflexionen 345
+  Alle Menschen, wie sie zur Freiheit gelangen, machen ihre Fehler gelten:
   die Starken das Übertreiben, die Schwachen das Vernachlässigen.
 
 
-40. Goethe, Maximen und Reflexionen
-  Der Kampf des Alten, Bestehenden, Beharrenden mit Entwicklung, 
-  Aus- und Umbildung ist immer derselbe. 
+346. Goethe, Maximen und Reflexionen 346
+  Der Kampf des Alten, Bestehenden, Beharrenden mit Entwicklung,
+  Aus- und Umbildung ist immer derselbe.
   Aus aller Ordnung entsteht zuletzt Pedanterie;
-  um diese loszuwerden, zerstört man jene, und es geht eine Zeit hin, 
-  bis man       gewahr wird, dass man wieder Ordnung machen müsse.
-  Der größte Verstand des Regierenden wäre daher, diesen Kampf so zu mäßigen,
-  dass er ohne Untergang der einen Seite sich ins Gleiche stellte; 
-  dies ist aber den Menschen nicht gegeben, 
+  um diese loszuwerden, zerstört man jene, und es geht eine Zeit hin,
+  bis man gewahr wird, dass man wieder Ordnung machen müsse.
+  Klassizismus und Romantizismus, Innungszwang und Gewerbsfreiheit,
+  Festhalten und Zersplittern des Grundbodens:
+  es ist immer derselbe Konflikt, der zuletzt wieder einen neuen erzeugt.
+  Der größte Verstand des Regierenden wäre daher,
+  diesen Kampf so zu mäßigen,
+  dass er ohne Untergang der einen Seite sich ins Gleiche stellte;
+  dies ist aber den Menschen nicht gegeben,
   und Gott scheint es auch nicht zu wollen.
 
 
-41. Goethe, Maximen und Reflexionen
+347. Goethe, Maximen und Reflexionen 347
+  Welche Erziehungsart ist für die beste zu halten? Antwort:
+  die der Hydrioten.
+  Als Insulaner und Seefahrer nehmen sie ihre Knaben
+  gleich mit zu Schiffe und lassen sie im Dienste herankrabbeln.
+  Wie sie etwas leisten, haben sie teil am Gewinn,
+  und so kümmern sie sich schon um Handel, Tausch und Beute,
+  und es bilden sich die tüchtigsten Küsten- und Seefahrer,
+  die klügsten Handelsleute und verwegensten Piraten.
+  Aus einer solchen Masse können denn freilich Helden hervortreten,
+  die den verderblichen Brander mit eigener Hand an das Admiralschiff
+  der feindlichen Flotte festklammern.
+
+
+348. Goethe, Maximen und Reflexionen 348
+  Alles Vortreffliche beschränkt uns für einen Augenblick,
+  indem wir uns demselben nicht gewachsen fühlen;
+  nur insofern wir es nachher in unsere Kultur aufnehmen,
+  es unsern Geist- und Gemütskräften aneignen, wird es uns lieb und wert.
+
+
+349. Goethe, Maximen und Reflexionen 349
   Kein Wunder, dass wir uns alle mehr oder weniger im Mittelmäßigen gefallen,
-  weil es uns in Ruhe lässt; 
-  es gibt das behagliche Gefühl, als wenn man mit seinesgleichen umginge.
+  weil es uns in Ruhe lässt; es gibt das behagliche Gefühl,
+  als wenn man mit seinesgleichen umginge.
 
 
-42. Goethe, Maximen und Reflexionen
-  Welche Regierung die beste sei? 
-  Diejenige, die uns lehrt, uns selbst zu       regieren.
+350. Goethe, Maximen und Reflexionen 350
+  Das Gemeine muss man nicht rügen; denn das bleibt sich ewig gleich.
 
 
-43. Goethe, Maximen und Reflexionen
-  Allen andern Künsten muss man etwas vorgeben, 
+351. Goethe, Maximen und Reflexionen 351
+  Wir können einem Widerspruch in uns selbst nicht entgehen;
+  wir müssen ihn auszugleichen suchen. Wenn uns andere widersprechen,
+  das geht uns nichts an, das ist ihre Sache.
+
+
+352. Goethe, Maximen und Reflexionen 352
+  Es ist soviel gleichzeitig Tüchtiges und Treffliches auf der Welt,
+  aber es berührt sich nicht.
+
+353. Goethe, Maximen und Reflexionen 353
+  Welche Regierung die beste sei?
+  Diejenige, die uns lehrt, uns selbst zu regieren.
+
+
+354. Goethe, Maximen und Reflexionen 354
+  Dozieren kannst du Tüchtiger freilich nicht;
+  es ist, wie das Predigen, durch unsern Zustand geboten,
+  wahrhaft nützlich, wenn Konversation und Katechisation sich anschließen,
+  wie es auch ursprünglich gehalten wurde.
+  Lehren aber kannst du und wirst du, das ist:
+  wenn Tat dem Urteil, Urteil der Tat zum Leben hilft.
+
+
+355. Goethe, Maximen und Reflexionen 355
+  Gegen die drei Einheiten ist nichts zu sagen,
+  wenn das Sujet sehr einfach ist;
+  gelegentlich aber werden dreimal drei Einheiten,
+  glücklich verschlungen, eine sehr angenehme Wirkung tun.
+
+
+356. Goethe, Maximen und Reflexionen 356
+  Wenn die Männer sich mit den Weibern schleppen,
+  so werden sie so gleichsam abgesponnen wie ein Wocken.
+
+
+357. Goethe, Maximen und Reflexionen 357
+  Es kann wohl sein, dass der Mensch durch öffentliches und häusliches
+  Geschick zuzeiten grässlich gedroschen wird;
+  allein das rücksichtlose Schicksal, wenn es die reichen Garben trifft,
+  zerknittert nur das Stroh,
+  die Körner aber spüren nichts davon
+  und springen lustig auf der Tenne hin und wider,
+  unbekümmert, ob sie zur Mühle, ob sie zum Saatfeld wandern.
+
+
+358. Goethe, Maximen und Reflexionen 358
+  "Arden von Feversham", Shakespeares Jugendarbeit. 
+  Es ist der ganze rein-treue Ernst des Auffassens und Wiedergebens,
+  ohne Spur von Rücksicht auf den Effekt,
+  vollkommen dramatisch, ganz untheatralisch.
+
+
+359. Goethe, Maximen und Reflexionen 359
+  Shakespeares trefflichsten Theaterstücken
+  mangelt es hier und da an Fazilität:
+  sie sind etwas mehr, als sie sein sollten,
+  und eben deshalb deuten sie auf den großen Dichter.
+
+
+360. Goethe, Maximen und Reflexionen 360
+  Die größte Wahrscheinlichkeit der Erfüllung lässt noch einen Zweifel zu;
+  daher ist das Gehoffte, wenn es in die Wirklichkeit eintritt,
+  jederzeit überraschend.
+
+
+361. Goethe, Maximen und Reflexionen 361
+  Allen andern Künsten muss man etwas vorgeben,
   der griechischen allein bleibt man ewig Schuldner.
 
 
-44. Goethe, Maximen und Reflexionen
+362. Goethe, Maximen und Reflexionen 362
+  "Vis superba formae." Ein schönes Wort von Johannes Secundus.
+
+
+363. Goethe, Maximen und Reflexionen 363
+  Die Sentimentalität der Engländer ist humoristisch und zart,
+  der Franzosen populär und weinerlich, der Deutschen naiv und realistisch.
+
+
+364. Goethe, Maximen und Reflexionen 364
+  Das Absurde, mit Geschmack dargestellt,
+  erregt Widerwillen und Bewunderung.
+
+
+365. Goethe, Maximen und Reflexionen 365
+  Von der besten Gesellschaft sagte man:
+  ihr Gespräch ist unterrichtend,
+  ihr Schweigen bildend.
+
+
+366. Goethe, Maximen und Reflexionen 366
+  Von einem bedeutenden frauenzimmerlichen Gedichte sagte jemand,
+  es habe mehr Energie als Enthusiasmus, mehr Charakter als Gehalt,
+  mehr Rhetorik als Poesie und im ganzen etwas Männliches.
+
+
+367. Goethe, Maximen und Reflexionen 367
   Es ist nichts schrecklicher als eine tätige Unwissenheit.
 
+368. Goethe, Maximen und Reflexionen 368
+  Schönheit und Geist muss man entfernen,
+  wenn man nicht ihr Knecht werden will.
 
-45. Goethe, Maximen und Reflexionen
-  Der Alte verliert eins der größten Menschenrechte: 
+
+369. Goethe, Maximen und Reflexionen 369
+  Der Mystizismus ist die Scholastik des Herzens,
+  die Dialektik des Gefühls.
+
+
+370. Goethe, Maximen und Reflexionen 370
+  Man schont die Alten, wie man die Kinder schont.
+
+
+371. Goethe, Maximen und Reflexionen 371
+  Der Alte verliert eins der größten Menschenrechte:
   er wird nicht mehr von seinesgleichen beurteilt.
 
 
-46. Goethe, Maximen und Reflexionen
-  Man streitet viel und wird viel streiten 
-  über Nutzen und Schaden der Bibelverbreitung. 
-  Mir ist klar: 
-  schaden wird sie wie bisher, dogmatisch und phantastisch gebraucht; 
+372. Goethe, Maximen und Reflexionen 372
+  Es ist mir in den Wissenschaften gegangen wie einem,
+  der früh aufsteht, in der Dämmerung die Morgenröte,
+  sodann aber die Sonne ungeduldig erwartet
+  und doch, wie sie hervortritt, geblendet wird.
+
+
+373. Goethe, Maximen und Reflexionen 373
+  Man streitet viel und wird viel streiten
+  über Nutzen und Schaden der Bibelverbreitung. Mir ist klar:
+  schaden wird sie wie bisher, dogmatisch und phantastisch gebraucht;
   nutzen wie bisher, didaktisch und gefühlvoll aufgenommen.
 
 
-47. Goethe, Maximen und Reflexionen
-  Das Erste und Letzte, was vom Genie gefordert wird, ist Wahrheitsliebe. 
-  Wer gegen sich selbst und andere wahr ist und bleibt, 
+374. Goethe, Maximen und Reflexionen 374
+  Große, von Ewigkeit her oder in der Zeit entwickelte ursprüngliche
+  Kräfte wirken unaufhaltsam, ob nutzend oder schadend, das ist zufällig.
+
+
+375. Goethe, Maximen und Reflexionen 375
+  Die Idee ist ewig und einzig; dass wir auch den Plural brauchen,
+  ist nicht wohlgetan. Alles, was wir gewahr werden und wovon wir reden
+  können, sind nur Manifestationen der Idee; Begriffe sprechen wir aus,
+  und insofern ist die Idee selbst ein Begriff.
+
+
+376. Goethe, Maximen und Reflexionen 376
+  Im Ästhetischen tut man nicht wohl, zu sagen: die Idee des Schönen;
+  dadurch vereinzelt man das Schöne,
+  das doch einzeln nicht gedacht werden kann.
+  Vom Schönen kann man einen Begriff haben,
+  und dieser Begriff kann überliefert werden.
+
+
+377. Goethe, Maximen und Reflexionen 377
+  Die Manifestation der Idee als des Schönen ist ebenso flüchtig
+  als die Manifestation des Erhabenen,
+  des Geistreichen, des Lustigen, des Lächerlichen.
+  Dies ist die Ursache, warum so schwer darüber zu reden ist.
+
+
+378. Goethe, Maximen und Reflexionen 378
+  Echt ästhetisch-didaktisch könnte man sein,
+  wenn man mit seinen Schülern an allem Empfindungswerten vorüberginge
+  oder es ihnen zubrächte im Moment,
+  wo es kulminiert und sie höchst empfänglich sind.
+  Da aber diese Forderung nicht zu erfüllen ist,
+  so müsste der höchste Stolz des Kathederlehrers sein,
+  die Begriffe so vieler Manifestationen in seinen Schülern
+  dergestalt zum Leben zu bringen,
+  dass sie für alles Gute, Schöne, Große, Wahre empfänglich würden,
+  um es mit Freuden aufzufassen, wo es ihnen zur rechten Stunde begegnete.
+  Ohne dass sie es merkten und wüssten, wäre somit die Grundidee,
+  woraus alles hervorgeht, in ihnen lebendig geworden.
+
+
+379. Goethe, Maximen und Reflexionen 379
+  Wie man gebildete Menschen sieht, so findet man,
+  dass sie nur für eine Manifestation des Urwesens
+  oder doch nur für wenige empfänglich sind,
+  und das ist schon genug.
+  Das Talent entwickelt im Praktischen alles
+  und braucht von den theoretischen Einzelheiten nicht Notiz zu nehmen:
+  der Musikus kann ohne seinen Schaden den Bildhauer ignorieren und umgekehrt.
+
+
+380. Goethe, Maximen und Reflexionen 380
+  Man soll sich alles praktisch denken und deshalb auch dahin trachten,
+  dass verwandte Manifestationen der großen Idee,
+  insofern sie durch Menschen zur Erscheinung kommen sollen,
+  auf eine gehörige Weise ineinander wirken.
+  Malerei, Plastik und Mimik stehen in einem unzertrennlichen Bezug;
+  doch muss der Künstler, zu dem einen berufen, sich hüten,
+  von dem andern beschädigt zu werden:
+  der Bildhauer kann sich vom Maler,
+  der Maler vom Mimiker verführen lassen,
+  und alle drei können einander so verwirren,
+  dass keiner derselben auf den Füßen stehen bleibt.
+
+
+381. Goethe, Maximen und Reflexionen 381
+  Die mimische Tanzkunst würde eigentlich alle bildenden Künste
+  zugrunde richten, und mit Recht. Glücklicherweise ist der Sinnenreiz,
+  den sie bewirkt, so flüchtig, und sie muss, um zu reizen,
+  ins Übertriebene gehen. Dieses schreckt die übrigen Künstler
+  glücklicherweise sogleich ab;
+  doch können sie, wenn sie klug und vorsichtig sind, viel dabei lernen.
+
+
+382. Johann Wolfgang Goethe, Maximen und Reflexionen 382
+AUS KUNST UND ALTERTUM V (1827)
+  Das Erste und Letzte, was vom Genie gefordert wird, ist Wahrheitsliebe.
+
+
+383. Goethe, Maximen und Reflexionen 383
+AUS KUNST UND ALTERTUM V (1827)
+  Wer gegen sich selbst und andere wahr ist und bleibt,
   besitzt die schönste Eigenschaft der größten Talente.
 
 
-48. Goethe, Maximen und Reflexionen
-  Die Liebe, deren Gewalt die Jugend empfindet, ziemt nicht dem Alten, 
-  so wie alles, was Produktivität voraussetzt. 
+384. Johann Wolfgang Goethe, Maximen und Reflexionen 384
+AUS KUNST UND ALTERTUM (1827  B r o c a r d i c o n)
+  Die Kunst ist eine Vermittlerin des Unaussprechlichen; darum scheint
+  es eine Torheit, sie wieder durch Worte vermitteln zu wollen.
+  Doch indem wir uns dahin bemühen, findet sich für den Verstand
+  so mancher Gewinn, der dem ausübenden Vermögen auch wieder zugute kommt.
+
+
+385. Johann Wolfgang Goethe, Maximen und Reflexionen 385
+AUS KUNST UND ALTERTUM
+(1827 Verhältnis, Neigung, Liebe, Leidenschaft, Gewohnheit)
+  Die Liebe, deren Gewalt die Jugend empfindet, ziemt nicht dem Alten,
+  so wie alles, was Produktivität voraussetzt.
   Dass diese sich mit den Jahren erhält, ist ein seltner Fall.
 
 
-49. Goethe, Maximen und Reflexionen
-  Was Freunde mit und für uns tun, ist auch ein Erlebtes; 
-  denn es stärkt und fördert unsere Persönlichkeit. 
-  Was Feinde gegen uns unternehmen, erleben wir nicht, 
-  wir erfahren's nur, lehnen's ab und schützen uns dagegen 
-  wie gegen Frost, Sturm, Regen und Schloßenwetter  
+386. Goethe, Maximen und Reflexionen 386
+AUS KUNST UND ALTERTUM
+(1827 Verhältnis, Neigung, Liebe, Leidenschaft, Gewohnheit)
+  Alle Ganz- und Halbpoeten machen uns mit der Liebe dergestalt bekannt,
+  dass sie müsste trivial geworden sein, wenn sie sich nicht
+  naturgemäß in voller Kraft und Glanz immer wieder erneute.
+
+
+387. Goethe, Maximen und Reflexionen 387
+AUS KUNST UND ALTERTUM
+(1827 Verhältnis, Neigung, Liebe, Leidenschaft, Gewohnheit)
+  Der Mensch, abgesehen von der Herrschaft,
+  in welcher die Passion ihn fesselt,
+  ist noch von manchen notwendigen Verhältnissen gebunden.
+  Wer diese nicht kennt oder in Liebe umwandeln will,
+  der muss unglücklich werden.
+
+
+388. Goethe, Maximen und Reflexionen 388
+  Alle Liebe bezieht sich auf Gegenwart;
+  was mir in der Gegenwart angenehm ist, sich abwesend mir immer darstellt,
+  den Wunsch des erneuerten Gegenwärtigseins immerfort erregt,
+  bei Erfüllung dieses Wunsches von einem lebhaften Entzücken,
+  bei Fortsetzung dieses Glücks von einer immer gleichen Anmut begleitet wird,
+  das eigentlich lieben wir, und hieraus folgt, dass wir alles lieben können,
+  was zu unserer Gegenwart gelangen kann; ja um das Letzte auszusprechen:
+  die Liebe des Göttlichen strebt immer darnach,
+  sich das Höchste zu vergegenwärtigen.
+
+
+389. Goethe, Maximen und Reflexionen 389
+  Ganz nahe daran steht die Neigung,
+  aus der nicht selten Liebe sich entwickelt.
+  Sie bezieht sich auf ein reines Verhältnis,
+  das in allem der Liebe gleicht,
+  nur nicht in der notwendigen Forderung einer fortgesetzten Gegenwart.
+
+
+390. Goethe, Maximen und Reflexionen 390
+  Diese Neigung kann nach vielen Seiten gerichtet sein,
+  sich auf manche Personen und Gegenstände beziehen,
+  und sie ist es eigentlich, die den Menschen,
+  wenn er sie sich zu erhalten weiß, in einer schönen Folge glücklich macht.
+  Es ist einer eignen Betrachtung wert, dass die Gewohnheit sich vollkommen
+  an die Stelle der Liebesleidenschaft setzen kann:
+  sie fordert nicht sowohl eine anmutige als bequeme Gegenwart;
+  alsdann aber ist sie unüberwindlich.
+  Es gehört viel dazu, ein gewohntes Verhältnis aufzuheben;
+  es besteht gegen alles Widerwärtige; Missvergnügen,
+  Unwillen, Zorn vermögen nichts gegen dasselbe;
+  ja es überdauert die Verachtung, den Hass.
+  Ich weiß nicht, ob es einem Romanschreiber geglückt ist,
+  dergleichen vollkommen darzustellen,
+  auch müsste er es nur beiläufig, episodisch unternehmen;
+  denn er würde immer bei einer genauen Entwickelung
+  mit manchen Unwahrscheinlichkeiten zu kämpfen haben.
+
+
+391. Johann Wolfgang Goethe, Maximen und Reflexionen 391
+AUS DEN HEFTEN ZUR MORPHOLOGIE I (1822)
+  Das Höchste, was wir von Gott und der Natur erhalten haben,
+  ist das Leben, die rotierende Bewegung der Monas um sich selbst,
+  welche weder Rast noch Ruhe kennt;
+  der Trieb, das Leben zu hegen und zu pflegen,
+  ist einem jeden unverwüstlich eingeboren,
+  die Eigentümlichkeit desselben jedoch bleibt uns und andern ein Geheimnis.
+
+
+392. Goethe, Maximen und Reflexionen 392
+AUS DEN HEFTEN ZUR MORPHOLOGIE I (1822)
+  Die zweite Gunst der von oben wirkenden Wesen ist das Erlebte,
+  das Gewahrwerden, das Eingreifen der lebendig-beweglichen Monas
+  in die Umgebungen der Außenwelt,
+  wodurch sie sich erst selbst als innerlich Grenzenloses,
+  als äußerlich Begrenztes gewahr wird.
+  Über dieses Erlebte können wir,
+  obgleich Anlage, Aufmerksamkeit und Glück dazu gehört,
+  in uns selbst klar werden;
+  andern bleibt aber auch dies immer ein Geheimnis.
+  
+
+393. Goethe, Maximen und Reflexionen 393
+AUS DEN HEFTEN ZUR MORPHOLOGIE I (1822)
+  Als Drittes entwickelt sich nun dasjenige, was wir als Handlung und Tat,
+  als Wort und Schrift gegen die Außenwelt richten;
+  dieses gehört derselben mehr an als uns selbst,
+  so wie sie sich darüber auch eher verständigen kann,
+  als wir es selbst vermögen; jedoch fühlt sie,
+  dass sie, um recht klar darüber zu werden,
+  auch von unserm Erlebten soviel als möglich zu erfahren habe.
+  Weshalb man auch auf Jugendanfänge, Stufen der Bildung,
+  Lebenseinzelheiten, Anekdoten und dergleichen höchst begierig ist.
+
+
+394. Goethe, Maximen und Reflexionen 394
+  Dieser Wirkung nach außen folgt unmittelbar eine Rückwirkung,
+  es sei nun, dass Liebe uns zu fördern suche oder Hass uns zu hindern wisse.
+  Dieser Konflikt bleibt sich im Leben ziemlich gleich,
+  indem ja der Mensch sich gleich bleibt und ebenso alles dasjenige,
+  was Zuneigung oder Abneigung an seiner Art zu sein empfinden muss.
+
+
+395. Goethe, Maximen und Reflexionen 395
+  Was Freunde mit und für uns tun, ist auch ein Erlebtes;
+  denn es stärkt und fördert unsere Persönlichkeit.
+  Was Feinde gegen uns unternehmen, erleben wir nicht,
+  wir erfahren's nur, lehnen's ab
+  und schützen uns dagegen wie gegen Frost, Sturm, Regen und Schloßenwetter
   oder sonst äußere Übel, die zu erwarten sind.
 
 
-50. Goethe, Maximen und Reflexionen
-  Das Erlebte weiß jeder zu schätzen, 
-  am meisten der Denkende und Nachsinnende im Alter; 
-  er fühlt mit Zuversicht und Behaglichkeit, dass ihm das niemand rauben kann.
+396. Goethe, Maximen und Reflexionen 396
+  Man mag nicht mit jedem leben, und so kann man auch nicht für jeden leben;
+  wer das recht einsieht, wird seine Freunde höchlich zu schätzen wissen,
+  seine Feinde nicht hassen noch verfolgen;
+  vielmehr erlangt der Mensch nicht leicht einen größeren Vorteil,
+  als wenn er die Vorzüge seiner Widersacher gewahr werden kann:
+  dies gibt ihm ein entschiedenes Übergewicht über sie.
 
 
-51. Goethe, Maximen und Reflexionen
-  Die Wissenschaft wird dadurch sehr zurückgehalten, 
-  dass man sich abgibt mit dem, was nicht wissenswert, 
-  und mit dem, was nicht wissbar ist.
+397. Goethe, Maximen und Reflexionen 397
+  Gehen wir in die Geschichte zurück,
+  so finden wir überallPersönlichkeiten,
+  mit denen wir uns vertrügen,
+  andere, mit denen wir uns gewiss in Widerstreit befänden.
 
 
-52. Goethe, Maximen und Reflexionen
-  Allein kann der Mensch nicht wohl bestehen, 
-  daher schlägt er sich gern zu einer Partei, 
+398. Goethe, Maximen und Reflexionen 398
+  Das Wichtigste bleibt jedoch das Gleichzeitige,
+  weil es sich in uns am reinsten abspiegelt, wir uns in ihm.
+
+
+399. Goethe, Maximen und Reflexionen 399
+  Cato ward in seinem Alter gerichtlich angeklagt,
+  da er denn in seiner Verteidigungsrede hauptsächlich hervorhob,
+  man könne sich vor niemand verteidigen als vor denen,
+  mit denen man gelebt habe.
+  Und er hat vollkommen recht:
+  wie will eine Jury aus Prämissen urteilen, die ihr ganz abgehen?
+  wie will sie sich über Motive beraten, die schon längst hinter ihr liegen?
+
+
+400. Goethe, Maximen und Reflexionen 400
+  Das Erlebte weiß jeder zu schätzen,
+  am meisten der Denkende und Nachsinnende im Alter;
+  er fühlt mit Zuversicht und Behaglichkeit,
+  dass ihm das niemand rauben kann.
+
+
+401. Goethe, Maximen und Reflexionen 401
+  So ruhen meine Naturstudien auf der reinen Basis des Erlebten;
+  wer kann mir nehmen, dass ich 1749 geboren bin,
+  dass ich (um vieles zu überspringen)
+  mich aus Erxlebens "Naturlehre" erster Ausgabe treulich unterrichtet,
+  dass ich den Zuwachs der übrigen Editionen,
+  die sich durch Lichtenbergs Aufmerksamkeit grenzenlos anhäuften,
+  nicht etwa im Druck zuerst gesehen, sondern jede neue Entdeckung
+  im Fortschreiten sogleich vernommen und erfahren;
+  dass ich, Schritt für Schritt folgend,
+  die großen Entdeckungen der zweiten Hälfte des achtzehnten Jahrhunderts
+  bis auf den heutigen Tag wie einen Wunderstern nach dem andern
+  vor mir aufgehen sehe? Wer kann mir die heimliche Freude nehmen,
+  wenn ich mir bewusst bin, durch fortwährendes aufmerksames Bestreben
+  mancher großen weltüberraschenden Entdeckung
+  selbst so nahe gekommen zu sein, dass ihre Erscheinung gleichsam
+  aus meinem eignen Innern hervorbrach
+  und ich nun die wenigen Schritte klar vor mir liegen sah,
+  welche zu wagen ich in düsterer Forschung versäumt hatte?
+
+
+402. Goethe, Maximen und Reflexionen 402
+  Wer die Entdeckung der Luftballone miterlebt hat,
+  wird ein Zeugnis geben, welche Weltbewegung daraus entstand,
+  welcher Anteil die Luftschiffer begleitete,
+  welche Sehnsucht in so viel tausend Gemütern hervordrang,
+  an solchen längst vorausgesetzten, vorausgesagten, immer geglaubten
+  und immer unglaublichen, gefahrvollen Wanderungen teilzunehmen,
+  wie frisch und umständlich jeder einzelne glückliche Versuch
+  die Zeitungen füllte, zu Tagesheften und Kupfern Anlass gab,
+  welchen zarten Anteil man an den unglücklichen Opfern
+  solcher Versuche genommen. 
+  Dies ist unmöglich selbst in der Erinnerung wiederherzustellen, so wenig,
+  als wie lebhaft man sich für einen vor dreißig Jahren ausgebrochenen,
+  höchst bedeutenden Krieg interessierte.
+
+
+403. Goethe, Maximen und Reflexionen 403
+  Die schönste Metempsychose ist die,
+  wenn wir uns im andern wieder auftreten sehn.
+
+
+404. Goethe, Maximen und Reflexionen 404
+  Professor Zaupers "Deutsche Poetik aus Goethe"
+  sowie der "Nachtrag" zu derselben, Wien 1822,
+  darf dem Dichter wohl einen angenehmen Eindruck machen;
+  es ist ihm, als wenn er an Spiegeln vorbeiginge
+  und sich im günstigen Lichte dargestellt erblickte.
+
+
+405. Goethe, Maximen und Reflexionen 405
+  Und wäre es denn anders? Was der junge Freund an uns erlebt,
+  ist ja gerade Handlung und Tat, Wort und Schrift,
+  die von uns in glücklichen Momenten ausgegangen sind,
+  zu denen wir uns immer gern bekennen.
+
+
+406. Goethe, Maximen und Reflexionen 406
+  Gar selten tun wir uns selbst genug;
+  desto tröstender ist es, andern genug getan zu haben.
+
+
+407. Goethe, Maximen und Reflexionen 407
+  Wir sehen in unser Leben doch nur als in ein Zerstückeltes zurück,
+  weil das Versäumte, Misslungene uns immer zuerst entgegentritt
+  und das Geleistete, Erreichte in der Einbildungskraft überwiegt.
+
+
+408. Goethe, Maximen und Reflexionen 408
+  Davon kommt dem teilnehmenden Jüngling nichts zur Erscheinung;
+  er sieht, genießt, benutzt die Jugend eines Vorfahren
+  und erbaut sich selbst daran aus dem Innersten heraus,
+  als wenn er schon einmal gewesen wäre, was er ist.
+
+
+409. Goethe, Maximen und Reflexionen 409
+  Auf ähnliche, ja gleiche Weise erfreuen mich die mannigfaltigen Anklänge,
+  die aus fremden Ländern zu mir gelangen.
+  Fremde Nationen lernen erst später unsere Jugendarbeiten kennen;
+  ihre Jünglinge, ihre Männer, strebend und tätig,
+  sehen ihr Bild in unserm Spiegel,
+  sie erfahren, dass wir das, was sie wollen, auch wollten,
+  ziehen uns in ihre Gemeinschaft
+  und täuschen mit dem Schein einer rückkehrenden Jugend.
+
+
+410. Goethe, Maximen und Reflexionen 410
+  Die Wissenschaft wird dadurch sehr zurückgehalten,
+  dass man sich abgibt mit dem, was nicht wissenswert,
+  und mit dem, was nicht wißbar ist.
+
+411. Goethe, Maximen und Reflexionen 411
+  Die höhere Empirie verhält sich zur Natur
+  wie der Menschenverstand zum praktischen Leben.
+
+
+412. Goethe, Maximen und Reflexionen 412
+  Vor den Urphänomenen, wenn sie unseren Sinnen enthüllt erscheinen,
+  fühlen wir eine Art von Scheu, bis zur Angst.
+  Die sinnlichen Menschen retten sich ins Erstaunen;
+  geschwind aber kommt der tätige Kuppler Verstand
+  und will auf seine Weise das Edelste mit dem Gemeinsten vermitteln.
+  
+
+413. Goethe, Maximen und Reflexionen 413
+  Die wahre Vermittlerin ist die Kunst.
+  Über Kunst sprechen heißt die Vermittlerin vermitteln wollen,
+  und doch ist uns daher viel Köstliches erfolgt.
+
+
+414. Goethe, Maximen und Reflexionen 414
+  Es ist mit den Ableitungsgründen wie mit den Einteilungsgründen:
+  sie müssen durchgehen, oder es ist gar nichts dran.
+
+
+415. Goethe, Maximen und Reflexionen 415
+  Auch in Wissenschaften kann man eigentlich nichts wissen,
+  es will immer getan sein.
+
+
+416. Goethe, Maximen und Reflexionen 416
+  Alles wahre Aperçu kömmt aus einer Folge und bringt Folge.
+  Es ist ein Mittelglied einer großen, produktiv aufsteigenden Kette.
+
+
+417. Goethe, Maximen und Reflexionen 417
+  Die Wissenschaft hilft uns vor allem, dass sie das Staunen,
+  wozu wir von Natur berufen sind, einigermaßen erleichtere; sodann aber,
+  dass sie dem immer gesteigerten Leben neue Fertigkeiten erwecke
+  zu Abwendung des Schädlichen und Einleitung des Nutzbaren.
+
+
+418. Goethe, Maximen und Reflexionen 418
+  Man klagt über wissenschaftliche Akademien, dass sie nicht frisch
+  genug ins Leben eingreifen; das liegt aber nicht an ihnen,
+  sondern an der Art, die Wissenschaften zu behandeln, überhaupt.
+
+
+419. Johann Wolfgang Goethe, Maximen und Reflexionen 419
+AUS DEN HEFTEN ZUR NATURWISSENSCAFT II (1823 Älteres, beinahe Veraltetes)
+  Wenn ein Wissen reif ist, Wissenschaft zu werden,
+  so muss notwendig eine Krise entstehen;
+  denn es wird die Differenz offenbar zwischen denen,
+  die das Einzelne trennen und getrennt darstellen,
+  und solchen, die das Allgemeine im Auge haben
+  und gern das Besondere an- und einfügen möchten.
+  Wie nun aber die wissenschaftliche, ideelle, umgreifendere Behandlung
+  sich mehr und mehr Freunde, Gönner und Mitarbeiter wirbt,
+  so bleibt auf der höheren Stufe jene Trennung zwar nicht so entschieden,
+  aber doch genugsam merklich.
+  Diejenigen, welche ich die Universalisten nennen möchte,
+  sind überzeugt und stellen sich vor: dass alles überall,
+  obgleich mit unendlichen Abweichungen und Mannigfaltigkeiten,
+  vorhanden und vielleicht auch zu finden sei;
+  die andern, die ich Singularisten benennen will,
+  gestehen den Hauptpunkt im allgemeinen zu, ja sie beobachten,
+  bestimmen und lehren hiernach; aber immer wollen sie Ausnahmen finden da,
+  wo der ganze Typus nicht ausgesprochen ist, und darin haben sie recht.
+  Ihr Fehler aber ist nur, dass sie die Grundgestalt verkennen,
+  wo sie sich verhüllt, und leugnen, wenn sie sich verbirgt.
+  Da nun beide Vorstellungsweisen ursprünglich sind
+  und sich einander ewig gegenüberstehen werden,
+  ohne sich zu vereinigen oder aufzuheben,
+  so hüte man ja sich vor aller Kontrovers
+  und stelle seine Überzeugung klar und nackt hin.
+
+
+420. Goethe, Maximen und Reflexionen 420
+AUS DEN HEFTEN ZUR NATURWISSENSCAFT II (1823 Älteres, beinahe Veraltetes)
+  So wiederhole ich die meinige:
+  dass man auf diesen höheren Stufen nicht wissen kann, sondern tun muss;
+  so wie an einem Spiele wenig zu wissen und alles zu leisten ist.
+  Die Natur hat uns das Schachbrett gegeben,
+  aus dem wir nicht hinaus wirken können noch wollen,
+  sie hat uns die Steine geschnitzt, deren Wert, Bewegung und Vermögen
+  nach und nach bekannt werden: nun ist es an uns, Züge zu tun,
+  von denen wir uns Gewinn versprechen;
+  dies versucht nun ein jeder auf seine Weise
+  und lässt sich nicht gern einreden. Mag das also geschehen,
+  und beobachten wir nur vor allem genau,
+  wie nah oder fern ein jeder von uns stehe,
+  und vertragen uns sodann vorzüglich mit denjenigen,
+  die sich zu der Seite bekennen, zu der wir uns halten. Ferner bedenke man,
+  dass man immer mit einem unauflöslichen Problem zu tun habe,
+  und erweise sich frisch und treu, alles zu beachten,
+  was irgend auf eine Art zur Sprache kommt,
+  am meisten dasjenige, was uns widerstrebt;
+  denn dadurch wird man am ersten das Problematische gewahr,
+  welches zwar in den Gegenständen selbst,
+  mehr aber noch in den Menschen liegt. Ich bin nicht gewiss,
+  ob ich in diesem so wohl bearbeiteten Felde persönlich weiter wirke,
+  doch behalte ich mir vor, auf diese oder jene Wendung des Studiums,
+  auf diese oder jene Schritte der Einzelnen aufmerksam zu sein
+  und aufmerksam zu machen.
+
+
+421. Goethe, Maximen und Reflexionen 421
+AUS DEN HEFTEN ZUR NATURWISSENSCAFT II (1823 Älteres, beinahe Veraltetes)
+  Allein kann der Mensch nicht wohl bestehen,
+  daher schlägt er sich gern zu einer Partei,
   weil er da, wenn auch nicht Ruhe, doch Beruhigung und Sicherheit findet.
 
 
-53. Goethe, Maximen und Reflexionen
-  Es gibt wohl zu diesem oder jenem Geschäft von Natur unzulängliche Menschen; 
-  Übereilung und Dünkel jedoch sind gefährliche Dämonen, 
-  die den Fähigsten unzulänglich machen, 
-  alle Wirkung zum Stocken bringen, 
-  freie Fortschritte lähmen. 
+422. Goethe, Maximen und Reflexionen 422
+  Es gibt wohl zu diesem oder jenem Geschäft
+  von Natur unzulängliche Menschen;
+  Übereilung und Dünkel jedoch sind gefährliche Dämonen,
+  die den Fähigsten unzulänglich machen,
+  alle Wirkung zum Stocken bringen, freie Fortschritte lähmen.
   Dies gilt von weltlichen Dingen, besonders auch von Wissenschaften.
 
 
-54. Goethe, Maximen und Reflexionen
-  Zur Verewigung des Irrtums tragen die Werke besonders bei, 
-  die enzyklopädisch das Wahre und Falsche des Tages überliefern. 
-  Hier kann die Wissenschaft nicht bearbeitet werden, 
-  sondern was man weiß, glaubt, wähnt, wird aufgenommen; 
+423. Goethe, Maximen und Reflexionen 423
+  Im Reich der Natur waltet Bewegung und Tat,
+  im Reiche der Freiheit Anlage und Willen.
+  Bewegung ist ewig und tritt bei jeder günstigen Bedingung
+  unwiderstehlich in die Erscheinung.
+  Anlagen entwickeln sich zwar auch naturgemäß,
+  müssen aber erst durch den Willen geübt und nach und nach gesteigert werden.
+  Deswegen ist man des freiwilligen Willens so gewiss nicht
+  als der selbständigen Tat: diese tut sich selbst, er aber wird getan;
+  denn er muss, um vollkommen zu werden und zu wirken,
+  sich im Sittlichen dem Gewissen, das nicht irrt,
+  im Kunstreiche aber der Regel fügen, die nirgends ausgesprochen ist.
+  Das Gewissen bedarf keines Ahnherrn, mit ihm ist alles gegeben;
+  es hat nur mit der innern eigenen Welt zu tun.
+  Das Genie bedürfte auch keine Regel, wäre sich selbst genug,
+  gäbe sich selbst die Regel; da es aber nach außen wirkt,
+  so ist es vielfach bedingt durch Stoff und Zeit,
+  und an beiden muss es notwendig irre werden;
+  deswegen es mit allem, was eine Kunst ist,
+  mit dem Regiment wie mit Gedicht, Statue und Gemälde,
+  durchaus so wunderlich und unsicher aussieht.
+
+
+424. Goethe, Maximen und Reflexionen 424
+  Es ist eine schlimme Sache, die doch manchem Beobachter begegnet,
+  mit einer Anschauung sogleich eine Folgerung zu verknüpfen
+  und beide für gleich geltend zu achten.
+
+
+425. Goethe, Maximen und Reflexionen 425
+  Die Geschichte der Wissenschaften zeigt uns bei allem,
+  was für dieselben geschieht,
+  gewisse Epochen, die bald schneller, bald langsamer aufeinander folgen.
+  Eine bedeutende Ansicht, neu oder erneut, wird ausgesprochen;
+  sie wird anerkannt, früher oder später;
+  es finden sich Mitarbeiter; das Resultat geht in die Schüler über;
+  es wird gelehrt und fortgepflanzt, und wir bemerken leider,
+  dass es gar nicht darauf ankommt, ob die Ansicht wahr oder falsch sei:
+  beides macht denselben Gang, beides wird zuletzt eine Phrase,
+  beides prägt sich als totes Wort dem Gedächtnis ein.
+
+
+426. Goethe, Maximen und Reflexionen 426
+  Zur Verewigung des Irrtums tragen die Werke besonders bei,
+  die enzyklopädisch das Wahre und Falsche des Tages überliefern.
+  Hier kann die Wissenschaft nicht bearbeitet werden,
+  sondern was man weiß, glaubt, wähnt, wird aufgenommen;
   deswegen sehen solche Werke nach fünfzig Jahren gar wunderlich aus.
 
 
-55. Goethe, Maximen und Reflexionen
-  Zuerst belehre man sich selbst, 
-  dann wird man Belehrung von andern empfangen.
+427. Goethe, Maximen und Reflexionen 427
+  Zuerst belehre man sich selbst, dann wird man Belehrung von andern empfangen.
 
 
-56. Goethe, Maximen und Reflexionen
-  Der Magnet ist ein Urphänomen, 
+428. Goethe, Maximen und Reflexionen 428
+  Theorien sind gewöhnlich Übereilungen eines ungeduldigen Verstandes,
+  der die Phänomene gern los sein möchte
+  und an ihrer Stelle deswegen Bilder, Begriffe, ja oft nur Worte einschiebt.
+  Man ahnt, man sieht auch wohl, dass es nur ein Behelf ist;
+  liebt sich nicht aber Leidenschaft und Parteigeist jederzeit Behelfe?
+  Und mit Recht, da sie ihrer so sehr bedürfen.
+
+
+429. Goethe, Maximen und Reflexionen 429
+  Unsere Zustände schreiben wir bald Gott, bald dem Teufel zu
+  und fehlen ein wie das andere Mal:
+  in uns selbst liegt das Rätsel, die wir Ausgeburt zweier Welten sind.
+  Mit der Farbe geht's ebenso:
+  bald sucht man sie im Lichte bald draußen im Weltall
+  und kann sie gerade da nicht finden, wo sie zu Hause ist.
+
+
+430. Goethe, Maximen und Reflexionen 430
+  Es wird eine Zeit kommen,
+  wo man eine pathologische Experimentalphysik vorträgt
+  und alle jene Spiegelfechtereien ans Tageslicht bringt,
+  welche den Verstand hintergehen,
+  sich eine Überzeugung erschleichen und, was das Schlimmste daran ist,
+  durchaus jeden praktischen Fortschritt verhindern.
+  Die Phänomene müssen ein für allemal
+  aus der düstern empirisch-mechanisch-dogmatischen Marterkammer
+  vor die Jury des gemeinen Menschenverstandes gebracht werden.
+
+
+431. Goethe, Maximen und Reflexionen 431
+  Dass Newton bei seinen prismatischen Versuchen
+  die Öffnung so klein als möglich nahm,
+  um eine Linie zum Lichtstrahl bequem zu symbolisieren,
+  hat eine unheilbare Verirrung über die Welt gebracht,
+  an der vielleicht noch Jahrhunderte leiden.
+  Durch dieses kleine Löchlein ward Malus zu einer abenteuerlichen
+  Theorie getrieben, und wäre Seebeck nicht so umsichtig,
+  so musste er verhindert werden, den Urgrund dieser Erscheinungen,
+  die entoptischen Figuren und Farben zu entdecken.
+
+
+432. Goethe, Maximen und Reflexionen 432
+  Was aber das Allersonderbarste ist:
+  der Mensch, wenn er auch den Grund des Irrtums aufdeckt,
+  wird den Irrtum selbst deshalb doch nicht los.
+  Mehrere Engländer, besonders Dr. Reade,
+  sprechen gegen Newton leidenschaftlich aus:
+  das prismatische Bild sei keineswegs das Sonnenbild,
+  sondern das Bild der Öffnung unseres Fensterladens,
+  mit Farbensäumen geschmückt;
+  im prismatischen Bilde gebe es kein ursprünglich Grün,
+  dieses entstehe durch das Übereinandergreifen des Blauen und Gelben,
+  so dass ein schwarzer Streif ebenso gut als ein weißer
+  in Farben aufgelöst scheinen könne, wenn man hier von Auflösen reden wolle.
+  Genug, alles, was wir seit vielen Jahren dargetan haben,
+  legt dieser gute Beobachter gleichfalls vor.
+  Nun aber lässt ihn die fixe Idee einer diversen Refrangibilität nicht los,
+  doch kehrt er sie um
+  und ist womöglich noch befangener als sein großer Meister.
+  Anstatt, durch diese neue Ansicht begeistert,
+  aus jenem Chrysalidenzustande sich herauszureißen,
+  sucht er die schon erwachsenen und entfalteten Glieder
+  aufs neue in die alten Puppenschalen unterzubringen.
+
+
+433. Goethe, Maximen und Reflexionen 433
+  Das unmittelbare Gewahrwerden der Urphänomene
+  versetzt uns in eine Art von Angst:
+  wir fühlen unsere Unzulänglichkeit;
+  nur durch das ewige Spiel der Empirie belebt, erfreuen sie uns.
+
+
+434. Goethe, Maximen und Reflexionen 434
+  Der Magnet ist ein Urphänomen,
   das man nur aussprechen darf, um es erklärt zu haben;
-  dadurch wird es denn auch ein Symbol für alles übrige, 
+  dadurch wird es denn auch ein Symbol für alles übrige,
   wofür wir keine Worte noch Namen zu suchen brauchen.
 
 
-57. Goethe, Maximen und Reflexionen
+435. Goethe, Maximen und Reflexionen 435
   Alles Lebendige bildet eine Atmosphäre um sich her.
 
 
-58. Goethe, Maximen und Reflexionen
-  Alles Gescheite ist schon gedacht worden, 
-  man muss nur versuchen, es noch       einmal zu denken.
+436. Goethe, Maximen und Reflexionen 436
+  Die außerordentlichen Männer des sechzehnten und siebzehnten Jahrhunderts
+  waren selbst Akademien, wie Humboldt zu unserer Zeit.
+  Als nun das Wissen so ungeheuer überhand nahm,
+  taten sich Privatleute zusammen,
+  um, was den Einzelnen unmöglich wird, vereinigt zu leisten.
+  Von Ministern, Fürsten und Königen hielten sie sich fern.
+  Wie suchte nicht das französische stille Konventikel
+  die Herrschaft Richelieus abzulehnen!
+  Wie verhinderte der englische Oxforder und Londoner Verein
+  den Einfluss der Lieblinge Karls des Zweiten!
+  Da es aber einmal geschehen war
+  und die Wissenschaften sich als ein Staatsglied im Staatskörper fühlten,
+  einen Rang bei Prozessionen und andern Feierlichkeiten erhielten,
+  war bald der höhere Zweck aus den Augen verloren;
+  man stellte seine Person vor,
+  und die Wissenschaften hatten auch Mäntelchen um und Käppchen auf.
+  In meiner "Geschichte der Farbenlehre"
+  habe ich dergleichen weitläuftig angeführt.
+  Was aber geschrieben steht, es steht deswegen da,
+  damit es immerfort erfüllt werde.
 
 
-59. Goethe, Maximen und Reflexionen
-  Wie kann man sich selbst kennenlernen? 
+437. Goethe, Maximen und Reflexionen 437
+  Die Natur auffassen und sie unmittelbar benutzen
+  ist wenig Menschen gegeben;
+  zwischen Erkenntnis und Gebrauch erfinden sie sich gern ein
+  Luftgespinst, das sie sorgfältig ausbilden
+  und darüber den Gegenstand zugleich mit der Benutzung vergessen.
+
+
+438. Goethe, Maximen und Reflexionen 438
+  Ebenso begreift man nicht leicht, dass in der großen Natur das geschieht,
+  was auch im kleinsten Zirkel vorgeht.
+  Dringt es ihnen die Erfahrung auf, so lassen sie sich's zuletzt gefallen.
+  Spreu, von geriebenem Bernstein angezogen,
+  steht mit dem ungeheuersten Donnerwetter in Verwandtschaft,
+  ja ist eine und eben dieselbe Erscheinung.
+  Dieses Mikromegische gestehen wir auch in einigen andern Fällen zu,
+  bald aber verlässt uns der reine Naturgeist,
+  und der Dämon der Künstelei bemächtigt sich unser
+  und weiß sich überall	geltend zu machen.
+
+
+439. Goethe, Maximen und Reflexionen 439
+  Die Natur hat sich so viel Freiheit vorbehalten,
+  dass wir mit Wissen und Wissenschaft ihr nicht durchgängig beikommen
+  oder sie in die Enge treiben können.
+
+
+440. Goethe, Maximen und Reflexionen 440
+  Mit den Irrtümern der Zeit ist schwer sich abzufinden:
+  widerstrebt man ihnen, so steht man allein;
+  lässt man sich davon befangen, so hat man auch weder Ehre noch Freude davon.
+
+
+441. Johann Wolfgang Goethe, Maximen und Reflexionen 441
+AUS WILHELM MEISTERS WANDERJAHREN (1829 Betrachtungen im Sinne der Wanderer)
+  Alles Gescheite ist schon gedacht worden,
+  man muss nur versuchen, es noch einmal zu denken.
+
+
+442. Goethe, Maximen und Reflexionen 442
+AUS WILHELM MEISTERS WANDERJAHREN (1829 Betrachtungen im Sinne der Wanderer)
+  Wie kann man sich selbst kennenlernen?
   Durch Betrachten niemals, wohl aber durch Handeln.
-  Versuche, deine Pflicht zu tun, und du weißt gleich, was an dir ist. 
+  Versuche, deine Pflicht zu tun, und du weißt gleich, was an dir ist.
+
+
+443. Goethe, Maximen und Reflexionen 443
+AUS WILHELM MEISTERS WANDERJAHREN (1829 Betrachtungen im Sinne der Wanderer)
   Was aber ist deine Pflicht? Die Forderung des Tages.
 
 
-60. Goethe, Maximen und Reflexionen
-  Mir wird, je länger ich lebe, immer verdrießlicher, 
-  wenn ich den Menschen sehe, 
-  der eigentlich auf seiner höchsten Stelle da ist, um der Natur zu gebieten, 
-  um sich und die Seinigen von der gewalttätigen Notwendigkeit zu befreien, 
-  wenn ich sehe, wie er aus irgendeinem vorgefassten falschen Begriff 
-  gerade das Gegenteil tut von dem, was er will, 
-  und sich alsdann, weil die Anlage im ganzen verdorben ist, 
+444. Goethe, Maximen und Reflexionen 444
+  Die vernünftige Welt
+  ist als ein großes unsterbliches Individuum zu betrachten,
+  das unaufhaltsam das Notwendige bewirkt
+  und dadurch sich sogar über das Zufällige zum Herrn macht.
+
+
+445. Goethe, Maximen und Reflexionen 445
+  Mir wird, je länger ich lebe, immer verdrießlicher,
+  wenn ich den Menschen sehe,
+  der eigentlich auf seiner höchsten Stelle da ist,
+  um der Natur zu gebieten,
+  um sich und die Seinigen von der gewalttätigen Notwendigkeit zu befreien,
+  wenn ich sehe, wie er aus irgendeinem	vorgefassten falschen Begriff
+  gerade das Gegenteil tut von dem, was er will,
+  und sich alsdann, weil die Anlage im ganzen verdorben ist,
   im einzelnen kümmerlich herumpfuschet.
 
 
-61. Goethe, Maximen und Reflexionen
-  Tüchtiger, tätiger Mann, verdiene dir und erwarte 
-  von den Großen - Gnade, 
-  von den Mächtigen - Gunst, 
-  von Tätigen und Guten - Förderung, 
-  von der Menge - Neigung, 
+446. Goethe, Maximen und Reflexionen 446
+  Tüchtiger, tätiger Mann, verdiene dir und erwarte
+  von den Großen - Gnade,
+  von den Mächtigen - Gunst,
+  von Tätigen und Guten - Förderung,
+  von der Menge - Neigung,
   von dem Einzelnen - Liebe!
 
 
-62. Goethe, Maximen und Reflexionen
-  Sage mir, mit wem du umgehst, so sage ich dir, wer du bist; 
-  weiß ich, womit du dich beschäftigst, so weiß ich, was aus dir werden kann.
+447. Goethe, Maximen und Reflexionen 447
+  Die Dilettanten, wenn sie das möglichste getan haben,
+  pflegen zu ihrer Entschuldigung zu sagen,
+  die Arbeit sei noch nicht fertig.
+  Freilich kann sie nie fertig werden,
+  weil sie nie recht angefangen ward.
+  Der Meister stellt sein Werk mit wenigen Strichen als fertig dar;
+  ausgeführt oder nicht, schon ist es vollendet.
+  Der geschickteste Dilettant tastet im Ungewissen,
+  und wie die Ausführung wächst,
+  kommt die Unsicherheit der ersten Anlage immer mehr zum Vorschein.
+  Ganz zuletzt entdeckt sich erst das Verfehlte,
+  das nicht auszugleichen ist,
+  und so kann das Werk freilich nicht fertig werden.
 
 
-63. Goethe, Maximen und Reflexionen
+448. Goethe, Maximen und Reflexionen 448
+  In der wahren Kunst gibt es keine Vorschule,
+  wohl aber Vorbereitungen;
+  die beste jedoch ist die Teilnahme des geringsten Schülers
+  am Geschäft des Meisters.
+  Aus Farbenreibern sind treffliche Maler hervorgegangen.
+
+
+449. Goethe, Maximen und Reflexionen 449
+  Ein anderes ist die Nachäffung,
+  zu welcher die natürliche allgemeine Tätigkeit des Menschen
+  durch einen bedeutenden Künstler,
+  der das Schwere mit Leichtigkeit vollbringt,
+  zufällig angeregt wird.
+
+
+450. Goethe, Maximen und Reflexionen 450
+  Von der Notwendigkeit, dass der bildende Künstler
+  Studien nach der Natur mache,
+  und von dem Werte derselben überhaupt sind wir genugsam überzeugt;
+  allein wir leugnen nicht,
+  dass es uns öfters betrübt,
+  wenn wir den Missbrauch eines so löblichen Strebens gewahr werden.
+
+
+451. Goethe, Maximen und Reflexionen 451
+  Nach unserer Überzeugung sollte der junge Künstler
+  wenig oder gar keine Studien nach der Natur beginnen,
+  wobei er nicht zugleich dächte,
+  wie er jedes Blatt zu einem Ganzen abrunden, wie er diese Einzelheit,
+  in ein angenehmes Bild verwandelt, in einen Rahmen eingeschlossen,
+  dem Liebhaber und Kenner gefällig anbieten möge.
+
+
+452. Goethe, Maximen und Reflexionen 452
+  Es steht manches Schöne isoliert in der Welt,
+  doch der Geist ist es, der Verknüpfungen zu entdecken
+  und dadurch Kunstwerke hervorzubringen hat. -
+  Die Blume gewinnt erst ihren Reiz durch das Insekt, das ihr anhängt,
+  durch den Tautropfen, der sie befeuchtet,
+  durch das Gefäß, woraus sie allenfalls ihre letzte Nahrung zieht.
+  Kein Busch, kein Baum, dem man nicht durch die Nachbarschaft eines
+  Felsens, einer Quelle Bedeutung geben, durch eine mäßige, einfache
+  Ferne größern Reiz verleihen könnte.
+  So ist es mit menschlichen Figuren und so mit Tieren aller Art beschaffen.
+
+
+453. Goethe, Maximen und Reflexionen 453
+  Der Vorteil, den sich der junge Künstler hierdurch verschafft,
+  ist gar mannigfaltig.
+  Er lernt denken, das Passende gehörig zusammenbinden,
+  und wenn er auf diese Weise geistreich komponiert,
+  wird es ihm zuletzt auch an dem, was man Erfindung nennt,
+  an dem Entwickeln des Mannigfaltigen aus dem Einzelnen
+  keineswegs fehlen können.
+
+
+454. Goethe, Maximen und Reflexionen 454
+  Tut er nun hierin der eigentlichen Kunstpädagogik wahrhaft Genüge,
+  so hat er noch nebenher den großen, nicht zu verachtenden Gewinn,
+  dass er lernt, verkäufliche, dem Liebhaber anmutige und liebliche
+  Blätter hervorzubringen.
+
+
+455. Goethe, Maximen und Reflexionen 455
+  Eine solche Arbeit braucht nicht im höchsten Grade ausgeführt
+  und vollendet zu sein; wenn sie gut gesehen, gedacht und fertig ist,
+  so ist sie für den Liebhaber oft reizender
+  als ein größeres, ausgeführtes Werk.
+
+
+456. Goethe, Maximen und Reflexionen 456
+  Beschaue doch jeder junge Künstler seine Studien im Büchelchen
+  und im Portefeuille und überlege,
+  wie viele Blätter er davon auf jene Weise
+  genießbar und wünschenswert hätte machen können!
+
+
+457. Goethe, Maximen und Reflexionen 457
+  Es ist nicht die Rede vom Höheren,
+  wovon man wohl auch sprechen könnte,
+  sondern es soll nur als Warnung gesagt sein,
+  die von einem Abwege zurückruft und aufs Höhere hindeutet.
+
+
+458. Goethe, Maximen und Reflexionen 458
+  Versuche es doch der Künstler nur ein halb Jahr praktisch
+  und setze weder Kohle noch Pinsel an ohne Intention,
+  einen vorliegenden Naturgegenstand als Bild abzuschließen!
+  Hat er angebornes Talent, so wird sich's bald offenbaren,
+  welche Absicht wir bei diesen Andeutungen im Sinne hegten.
+
+
+459. Goethe, Maximen und Reflexionen 459
+  Sage mir, mit wem du umgehst,
+  so sage ich dir, wer du bist;
+  weiß ich, womit du dich beschäftigst,
+  so weiß ich, was aus dir werden kann.
+
+
+460. Goethe, Maximen und Reflexionen 460
+  Jeder Mensch muss nach seiner Weise denken;
+  denn er findet auf seinem Wege immer ein Wahres oder eine Art von Wahrem,
+  die ihm durchs Leben hilft.
+  Nur darf er sich nicht gehen lassen, er muss sich kontrollieren;
+  der bloße nackte Instinkt geziemt nicht dem Menschen.
+
+
+461. Goethe, Maximen und Reflexionen 461
   Unbedingte Tätigkeit, von welcher Art sie sei, macht zuletzt bankrott.
 
 
-64. Goethe, Maximen und Reflexionen
-  Wie soll nun aber ein junger Mann für sich selbst dahin gelangen, 
-  dasjenige für tadelnswert und schädlich anzusehen, 
+462. Goethe, Maximen und Reflexionen 462
+  In den Werken des Menschen wie in denen der Natur
+  sind eigentlich die Absichten vorzüglich der Aufmerksamkeit wert.
+
+
+463. Goethe, Maximen und Reflexionen 463
+  Die Menschen werden an sich und andern irre,
+  weil sie die Mittel als Zweck behandeln,
+  da denn vor lauter Tätigkeit gar nichts geschieht
+  oder vielleicht gar das Widerwärtige.
+
+
+464. Goethe, Maximen und Reflexionen 464
+  Was wir ausdenken, was wir vornehmen,
+  sollte schon vollkommen so rein und schön sein,
+  dass die Welt nur daran zu verderben hätte;
+  wir blieben dadurch in dem Vorteil,
+  das Verschobene zurechtzurücken,
+  das Zerstörte wiederherzustellen.
+
+
+465. Goethe, Maximen und Reflexionen 465
+  Ganze, Halb- und Viertelsirrtümer sind gar schwer und mühsam zurechtzulegen,
+  zu sichten und das Wahre daran dahin zu stellen, wohin es gehört.
+
+
+466. Goethe, Maximen und Reflexionen 466
+  Es ist nicht immer nötig, dass das Wahre sich verkörpere;
+  schon genug, wenn es geistig umherschwebt und Übereinstimmung bewirkt,
+  wenn es wie Glockenton ernst-freundlich durch die Lüfte wogt.
+
+
+467. Goethe, Maximen und Reflexionen 467
+  Wenn ich jüngere deutsche Maler,
+  sogar solche, die sich eine Zeitlang in Italien aufgehalten, befrage,
+  warum sie doch, besonders in ihren Landschaften,
+  so widerwärtige grelle Töne dem Auge darstellen
+  und vor aller Harmonie zu fliehen scheinen,
+  so geben sie wohl ganz dreist und getrost zur Antwort,
+  sie sähen die Natur genau auf solche Weise.
+
+
+468. Goethe, Maximen und Reflexionen 468
+  Kant hat uns aufmerksam gemacht, dass es eine Kritik der Vernunft gebe,
+  dass dieses höchste Vermögen, was der Mensch besitzt,
+  Ursache habe, über sich selbst zu wachen.
+  Wie großen Vorteil uns diese Stimme gebracht,
+  möge jeder an sich selbst geprüft haben.
+  Ich aber möchte in eben dem Sinne die Aufgabe stellen,
+  dass eine Kritik der Sinne nötig sei,
+  wenn die Kunst überhaupt, besonders die deutsche,
+  irgend wieder sich erholen und in einem erfreulichen Lebensschritt
+  vorwärts gehen solle.
+
+
+469. Goethe, Maximen und Reflexionen 469
+  Der zur Vernunft geborene Mensch bedarf noch großer Bildung,
+  sie mag sich ihm nun durch Sorgfalt der Eltern und Erzieher,
+  durch friedliches Beispiel oder durch strenge Erfahrung
+  nach und nach offenbaren.
+  Eben so wird zwar der angehende Künstler,
+  aber nicht der vollendete geboren;
+  sein Auge komme frisch auf die Welt,
+  er habe glücklichen Blick für Gestalt, Proportion, Bewegung;
+  aber für höhere Komposition, für Haltung, Licht, Schatten, Farben
+  kann ihm die natürliche Anlage fehlen, ohne dass er es gewahr wird.
+
+
+470. Goethe, Maximen und Reflexionen 470
+  Ist er nun nicht geneigt,
+  von höher ausgebildeten Künstlern der Vor- und Mitzeit das zu lernen,
+  was ihm fehlt, um eigentlicher Künstler zu sein,
+  so wird er im falschen Begriff von bewahrter Originalität
+  hinter sich selbst zurückbleiben;
+  denn nicht allein das, was mit uns geboren ist,
+  sondern auch das, was wir erwerben können,
+  gehört uns an, und wir sind es.
+
+
+471. Goethe, Maximen und Reflexionen 471
+  Allgemeine Begriffe und großer Dünkel
+  sind immer auf dem Wege, entsetzliches Unglück anzurichten.
+
+
+472. Goethe, Maximen und Reflexionen 472
+  Blasen ist nicht flöten, ihr müsst die Finger bewegen.
+
+
+473. Goethe, Maximen und Reflexionen 473
+  Die Botaniker haben eine Pflanzenabteilung,
+  die sie Incompletae nennen;
+  man kann eben auch sagen,
+  dass es inkomplette, unvollständige Menschen gibt.
+  Es sind diejenigen, deren Sehnsucht und Streben
+  mit ihrem Tun und Leisten nicht proportioniert ist.
+
+
+474. Goethe, Maximen und Reflexionen 474
+  Grenzen seiner Fähigkeiten und Fertigkeiten bewegt;
+  aber selbst schöne Vorzüge werden verdunkelt, aufgehoben und vernichtet,
+  wenn jenes unerlässlich geforderte Ebenmaß abgeht.
+  Dieses Unheil wird sich in der neuern Zeit noch öfter hervortun;
+  denn wer wird wohl den Forderungen einer durchaus gesteigerten Gegenwart,
+  und zwar in schnellster Bewegung, genugtun können?
+
+
+475. Goethe, Maximen und Reflexionen 475
+  Nur klug-tätige Menschen, die ihre Kräfte kennen
+  und sie mit Maß und Gescheitheit benutzen,
+  werden es im Weltwesen weit bringen.
+
+
+476. Goethe, Maximen und Reflexionen 476
+  Ein großer Fehler:
+  dass man sich mehr dünkt, als man ist,
+  und sich weniger schätzt, als man wert ist.
+
+
+477. Goethe, Maximen und Reflexionen 477
+  Es begegnet mir von Zeit zu Zeit ein Jüngling,
+  an dem ich nichts verändert noch gebessert wünschte; 
+  nur macht mir bange, dass ich manchen vollkommen geeignet sehe,
+  im Zeitstrom mit fortzuschwimmen,
+  und hier ist's, wo ich immerfort aufmerksam machen möchte:
+  dass dem Menschen in seinem zerbrechlichen Kahn
+  eben deshalb das Ruder in die Hand gegeben ist,
+  damit er nicht der Willkür der Wellen,
+  sondern dem Willen seiner Einsicht Folge leiste.
+
+
+478. Goethe, Maximen und Reflexionen 478
+  Wie soll nun aber ein junger Mann für sich selbst dahin gelangen,
+  dasjenige für tadelnswert und schädlich anzusehen,
   was jedermann treibt, billigt und fördert?
   Warum soll er sich nicht und sein Naturell auch dahin gehen lassen?
 
 
-65. Goethe, Maximen und Reflexionen
-  Für das größte Unheil unserer Zeit, die nichts reif werden lässt, 
-  muss ich halten, dass man im nächsten Augenblick den vorhergehenden verspeist, 
-  den Tag im Tage vertut und so immer aus der Hand in den Mund lebt, 
+479. Goethe, Maximen und Reflexionen 479
+  Für das größte Unheil unserer Zeit, die nichts reif werden lässt,
+  muss ich halten,
+  dass man im nächsten Augenblick den vorhergehenden verspeist,
+  den Tag im Tage vertut und so immer aus der Hand in den Mund lebt,
   ohne irgend etwas vor sich zu bringen.
+  Haben wir doch schon Blätter für sämtliche Tageszeiten!
+  Ein guter Kopf könnte wohl noch eins und das andere interkalieren.
+  Dadurch wird alles, was ein jeder tut, treibt, dichtet, ja was er vorhat,
+  ins Öffentliche geschleppt.
+  Niemand darf sich freuen oder leiden als zum Zeitvertreib der übrigen,
+  und so springt's von Haus zu Haus, von Stadt zu Stadt, von Reich zu Reich 
+  und zuletzt von Weltteil zu Weltteil, alles veloziferisch.
 
 
-66. Goethe, Maximen und Reflexionen
-  und ernstlich denkende Menschen 
+480. Goethe, Maximen und Reflexionen 480
+  Sowenig nun die Dampfmaschinen zu dämpfen sind,
+  sowenig ist dies auch im Sittlichen möglich:
+  die Lebhaftigkeit des Handels,
+  das Durchrauschen des Papiergelds,
+  das Anschwellen der Schulden, um Schulden zu bezahlen,
+  das alles sind die ungeheueren Elemente,
+  auf die gegenwärtig ein junger Mann gesetzt ist.
+  Wohl ihm, wenn er von der Natur mit mäßigem, ruhigem Sinn begabt ist,
+  um weder unverhältnismäßige Forderungen an die Welt zu machen
+  noch auch von ihr sich bestimmen zu lassen!
+
+
+481. Goethe, Maximen und Reflexionen 481
+  Aber in einem jeden Kreise bedroht ihn der Tagesgeist,
+  und nichts ist nötiger,
+  als früh genug ihm die Richtung bemerklich zu machen,
+  wohin sein Wille zu steuern hat.
+
+
+482. Goethe, Maximen und Reflexionen 482
+  Die Bedeutsamkeit der unschuldigsten Reden und Handlungen wächst
+  mit den Jahren, und wen ich länger um mich sehe,
+  den suche ich immerfort aufmerksam zu machen,
+  welch ein Unterschied stattfinde
+  zwischen Aufrichtigkeit, Vertrauen und Indiskretion,
+  ja dass eigentlich kein Unterschied sei,
+  vielmehr nur ein leiser Übergang vom Unverfänglichsten zum Schädlichsten,
+  welcher bemerkt oder vielmehr empfunden werden müsse.
+
+
+483. Goethe, Maximen und Reflexionen 483
+  Hierauf haben wir unsern Takt zu üben, sonst laufen wir Gefahr,
+  auf dem Wege, worauf wir uns die Gunst der Menschen erwarben,
+  sie ganz unversehens wieder zu verscherzen.
+  Das begreift man wohl im Laufe des Lebens von selbst,
+  aber erst nach bezahltem teuren Lehrgelde,
+  das man leider seinen Nachkommenden nicht ersparen kann.
+
+
+484. Goethe, Maximen und Reflexionen 484
+  Das Verhältnis der Künste und Wissenschaften zum Leben
+  ist nach Verhältnis der Stufen, worauf sie stehen,
+  nach Beschaffenheit der Zeiten
+  und tausend andern Zufälligkeiten sehr verschieden;
+  deswegen auch niemand darüber im ganzen leicht klug werden kann.
+
+
+485. Goethe, Maximen und Reflexionen 485
+  Musik im besten Sinne bedarf weniger der Neuheit,
+  ja vielmehr je älter sie ist, je gewohnter man sie ist,
+  desto mehr wirkt sie.
+
+
+486. Goethe, Maximen und Reflexionen 486
+  Die Würde der Kunst erscheint bei der Musik vielleicht am eminentesten,
+  weil sie keinen Stoff hat, der abgerechnet werden müsste.
+  Sie ist ganz Form und Gehalt
+  und erhöht und veredelt alles, was sie ausdrückt.
+
+
+487. Goethe, Maximen und Reflexionen 487
+  Die Musik ist heilig oder profan.
+  Das Heilige ist ihrer Würde ganz gemäß,
+  und hier hat sie die größte Wirkung aufs Leben,
+  welche sich durch alle Zeiten und Epochen gleich bleibt.
+  Die profane sollte durchaus heiter sein.
+
+
+488. Goethe, Maximen und Reflexionen 488
+  Eine Musik, die den heiligen und profanen Charakter vermischt, ist gottlos,
+  und eine halbschürige, welche schwache, jammervolle,
+  erbärmliche Empfindungen auszudrücken Belieben findet,
+  ist abgeschmackt.
+  Denn sie ist nicht ernst genug, um heilig zu sein,
+  und es fehlt ihr der Hauptcharakter des Entgegengesetzten: die Heiterkeit.
+
+
+489. Goethe, Maximen und Reflexionen 489
+  Die Heiligkeit der Kirchenmusiken,
+  das Heitere und Neckische der Volksmelodien sind die beiden Angeln,
+  um die sich die wahre Musik herumdreht.
+  Auf diesen beiden Punkten beweist sie jederzeit
+  eine unausbleibliche Wirkung: Andacht oder Tanz.
+  Die Vermischung macht irre, die Verschwächung wird fade,
+  und will die Musik sich an Lehrgedichte
+  oder beschreibende und dergleichen wenden, so wird sie kalt.
+
+
+490. Goethe, Maximen und Reflexionen 490
+  Plastik wirkt eigentlich nur auf ihrer höchsten Stufe;
+  alles Mittlere kann wohl aus mehr denn einer Ursache imponieren,
+  aber alle mittleren Kunstwerke dieser Art
+  machen mehr irre, als dass sie erfreuen.
+  Die Bildhauerkunst muss sich daher noch ein stoffartiges Interesse suchen,
+  und das findet sie in den Bildnissen bedeutender Menschen.
+  Aber auch hier muss sie schon einen hohen Grad erreichen,
+  wenn sie zugleich wahr und würdig sein will.
+
+
+491. Goethe, Maximen und Reflexionen 491
+  Die Malerei ist die lässlichste und bequemste von allen Künsten.
+  Die lässlichste, weil man ihr um des Stoffes und des Gegenstandes willen
+  auch da, wo sie nur Handwerk oder kaum eine Kunst ist,
+  vieles zugute hält und sich an ihr erfreut;
+  teils weil eine technische, obgleich geistlose Ausführung
+  den Ungebildeten wie den Gebildeten in Verwunderung setzt,
+  so dass sie sich also nur einigermaßen zur Kunst zu steigern braucht,
+  um in einem höheren Grade willkommen zu sein.
+  Wahrheit in Farben, Oberflächen, in Beziehungen der sichtbaren Gegenstände
+  aufeinander ist schon angenehm, und da das Auge ohnehin gewohnt ist,
+  alles zu sehen, so ist ihm eine Missgestalt und also auch ein Missbild
+  nicht so zuwider als dem Ohr ein Misston.
+  Man lässt die schlechteste Abbildung gelten,
+  weil man noch schlechtere Gegenstände zu sehen gewohnt ist.
+  Der Maler darf also nur einigermaßen Künstler sein,
+  so findet er schon ein größeres Publikum als der Musiker,
+  der auf gleichem Grade stünde;
+  wenigstens kann der geringere Maler immer für sich operieren,
+  anstatt dass der mindere Musiker sich mit anderen soziieren muss,
+  um durch gesellige Leistung einigen Effekt zu tun.
+
+
+492. Goethe, Maximen und Reflexionen 492
+  Die Frage, ob man bei Betrachtung von Kunstleistungen
+  vergleichen solle oder nicht, möchten wir folgendermaßen beantworten:
+  Der ausgebildete Kenner soll vergleichen; denn ihm schwebt die Idee vor,
+  er hat den Begriff gefasst, was geleistet werden könne und solle;
+  der Liebhaber, auf dem Wege zur Bildung begriffen, fördert sich am besten,
+  wenn er nicht vergleicht, sondern jedes Verdienst einzeln betrachtet:
+  dadurch bildet sich Gefühl und Sinn für das Allgemeinere
+  nach und nach aus.
+  Das Vergleichen der Unkenner ist eigentlich nur eine Bequemlichkeit,
+  die sich gern des Urteils überheben möchte.
+
+
+493. Goethe, Maximen und Reflexionen 493
+  Wahrheitsliebe zeigt sich darin,
+  dass man überall das Gute zu finden und zu schätzen weiß.
+
+
+494. Goethe, Maximen und Reflexionen 494
+  Ein historisches Menschengefühl heißt ein dergestalt gebildetes,
+  dass es bei Schätzung gleichzeitiger Verdienste und Verdienstlichkeiten
+  auch die Vergangenheit mit in Anschlag bringt.
+
+
+495. Goethe, Maximen und Reflexionen 495
+  Das Beste, was wir von der Geschichte haben,
+  ist der Enthusiasmus, den sie erregt.
+
+
+496. Goethe, Maximen und Reflexionen 496
+  Eigentümlichkeit ruft Eigentümlichkeit hervor.
+
+
+497. Goethe, Maximen und Reflexionen 497
+  Man muss bedenken, dass unter den Menschen gar viele sind,
+  die doch auch etwas Bedeutendes sagen wollen, ohne produktiv zu sein,
+  und da kommen die wunderlichsten Dinge an den Tag.
+
+
+498. Goethe, Maximen und Reflexionen 498
+  Tief und ernstlich denkende Menschen
   haben gegen das Publikum einen bösen Stand.
 
 
-67. Goethe, Maximen und Reflexionen
-  Alles, was unsern Geist befreit, 
+499. Goethe, Maximen und Reflexionen 499
+  Wenn ich die Meinung eines andern anhören soll,
+  so muss sie positiv ausgesprochen werden;
+  Problematisches hab ich in mir selbst genug.
+
+
+500. Goethe, Maximen und Reflexionen 500
+  Der Aberglaube gehört zum Wesen des Menschen und flüchtet sich,
+  wenn man ihn ganz und gar zu verdrängen denkt,
+  in die wunderlichsten Ecken und Winkel,
+  von wo er auf einmal, wenn er einigermaßen sicher zu sein glaubt,
+  wieder hervortritt.
+
+
+501. Goethe, Maximen und Reflexionen 501
+  Wir würden gar vieles besser kennen,
+  wenn wir es nicht zu genau erkennen wollten.
+  Wird uns doch ein Gegenstand
+  unter einem Winkel von fünfundvierzig Graden erst fasslich.
+
+
+502. Goethe, Maximen und Reflexionen 502
+  Mikroskope und Fernröhre verwirren eigentlich den reinen Menschensinn.
+
+
+503. Goethe, Maximen und Reflexionen 503
+  Ich schweige zu vielem still; denn ich mag die Menschen nicht irremachen
+  und bin wohl zufrieden, wenn sie sich freuen da, wo ich mich ärgere.
+
+
+504. Goethe, Maximen und Reflexionen 504
+  Alles, was unsern Geist befreit,
   ohne uns die Herrschaft über uns selbst zu geben, ist verderblich.
 
 
-68. Goethe, Maximen und Reflexionen
-  Man ist nur eigentlich lebendig, wenn man sich des Wohlwollens andrer freut.
+505. Goethe, Maximen und Reflexionen 505
+  Das Was des Kunstwerks interessiert die Menschen mehr als das Wie;
+  jenes können sie einzeln ergreifen, dieses im ganzen nicht fassen.
+  Daher kommt das Herausheben von Stellen, wobei zuletzt,
+  wenn man wohl aufmerkt, die Wirkung der Totalität auch nicht ausbleibt,
+  aber jedem unbewusst.
 
 
-69. Goethe, Maximen und Reflexionen
-  Kannst du lesen, so sollst du verstehen; 
-  kannst du schreiben, so musst du etwas wissen; 
-  kannst du glauben, so sollst du begreifen; 
-  wenn du begehrst, wirst du sollen; 
-  wenn du forderst, wirst du nicht erlangen, 
+506. Goethe, Maximen und Reflexionen 506
+  Die Frage: "Woher hat's der Dichter?"
+  geht auch nur aufs Was; vom Wie erfährt dabei niemand etwas.
+
+
+507. Goethe, Maximen und Reflexionen 507
+  Einbildungskraft wird nur durch Kunst, besonders durch Poesie geregelt.
+  Es ist nichts fürchterlicher als Einbildungskraft ohne Geschmack.
+
+
+508. Goethe, Maximen und Reflexionen 508
+  Das Manierierte ist ein verfehltes Ideelle, ein subjektiviertes Ideelle;
+  daher fehlt ihm das Geistreiche nicht leicht.
+
+
+509. Goethe, Maximen und Reflexionen 509
+  Der Philolog ist angewiesen auf die Kongruenz
+  des geschrieben Überlieferten.
+  Ein Manuskript liegt zum Grunde,
+  es finden sich in demselben wirkliche Lücken,
+  Schreibfehler, die eine Lücke im Sinne machen,
+  und was sonst alles an einem Manuskript zu tadeln sein mag.
+  Nun findet sich eine zweite Abschrift, eine dritte;
+  die Vergleichung derselben bewirkt immer mehr,
+  das Verständige und Vernünftige der Überlieferung gewahr zu werden.
+  Ja er geht weiter und verlangt von seinem innern Sinn,
+  dass derselbe ohne äußere Hilfsmittel die Kongruenz
+  des Abgehandelten immer mehr zu begreifen und darzustellen wisse.
+  Weil nun hiezu ein besonderer Takt, eine besondere Vertiefung
+  in seinen abgeschiedenen Autor nötig und ein gewisser Grad
+  von Erfindungskraft gefordert wird,
+  so kann man dem Philologen nicht verdenken,
+  wenn er sich auch ein Urteil bei Geschmackssachen zutraut,
+  welches ihm jedoch nicht immer gelingen wird.
+
+
+510. Goethe, Maximen und Reflexionen 510
+  Der Dichter ist angewiesen auf Darstellung.
+  Das Höchste derselben ist, wenn sie mit der Wirklichkeit wetteifert,
+  das heißt, wenn ihre Schilderungen durch den Geist dergestalt lebendig sind,
+  dass sie als gegenwärtig für jedermann gelten können.
+  Auf ihrem höchsten Gipfel scheint die Poesie ganz äußerlich;
+  je mehr sie sich ins Innere zurückzieht, ist sie auf dem Wege zu sinken. -
+  Diejenige, die nur das Innere darstellt,
+  ohne es durch ein Äußeres zu verkörpern
+  oder ohne das Äußere durch das Innere durchfühlen zu lassen,
+  sind beides die letzten Stufen,
+  von welchen aus sie ins gemeine Leben hineintritt.
+
+
+511. Goethe, Maximen und Reflexionen 511
+  Die Redekunst ist angewiesen auf alle Vorteile der Poesie,
+  auf alle ihre Rechte;
+  sie bemächtigt sich derselben und missbraucht sie,
+  um gewisse äußere, sittliche oder unsittliche, augenblickliche Vorteile
+  im bürgerlichen Leben zu erreichen.
+
+
+512. Goethe, Maximen und Reflexionen 512
+  Literatur ist das Fragment der Fragmente;
+  das wenigste dessen, was geschah und gesprochen worden,
+  ward geschrieben, vom Geschriebenen ist das wenigste übrig geblieben.
+
+
+513. Goethe, Maximen und Reflexionen 513
+  In natürlicher Wahrheit und Großheit,
+  obgleich wild und unbehaglich ausgebildetes Talent ist Lord Byron,
+  und deswegen kaum ein anderes ihm vergleichbar.
+
+
+514. Goethe, Maximen und Reflexionen 514
+  Eigentlichster Wert der sogenannten Volkslieder ist der,
+  dass ihre Motive unmittelbar von der Natur genommen sind.
+  Dieses Vorteils aber könnte der gebildete Dichter sich auch bedienen,
+  wenn er es verstünde.
+
+
+515. Goethe, Maximen und Reflexionen 515
+  Hierbei aber haben jene immer das voraus,
+  dass natürliche Menschen sich besser auf den Lakonismus verstehen
+  als eigentlich Gebildete.
+
+
+516. Goethe, Maximen und Reflexionen 516
+  Shakespeare ist für aufkeimende Talente gefährlich zu lesen;
+  er nötigt sie, ihn zu reproduzieren, und sie bilden sich ein,
+  sich selbst zu produzieren.
+
+
+517. Goethe, Maximen und Reflexionen 517
+  Über Geschichte kann niemand urteilen,
+  als wer an sich selbst Geschichte erlebt hat.
+  So geht es ganzen Nationen.
+  Die Deutschen können erst über Literatur urteilen,
+  seitdem sie selbst eine Literatur haben.
+
+
+518. Goethe, Maximen und Reflexionen 518
+  Man ist nur eigentlich lebendig,
+  wenn man sich des Wohlwollens andrer freut.
+
+
+519. Goethe, Maximen und Reflexionen 519 
+  Frömmigkeit ist kein Zweck, sondern ein Mittel,
+  um durch die reinste Gemütsruhe zur höchsten Kultur zu gelangen.
+
+
+520. Goethe, Maximen und Reflexionen 520
+  Deswegen lässt sich bemerken, dass diejenigen,
+  welche Frömmigkeit als Zweck und Ziel aufstecken,
+  meistens Heuchler werden.
+
+
+521. Goethe, Maximen und Reflexionen 521
+  Wenn man alt ist, muss man mehr tun, als da man jung war.
+
+
+522. Goethe, Maximen und Reflexionen 522
+  Erfüllte Pflicht empfindet sich immer noch als Schuld,
+  weil man sich nie ganz genuggetan.
+
+
+523. Goethe, Maximen und Reflexionen 523
+  Die Mängel erkennt nur der Lieblose;
+  deshalb, um sie einzusehen, muss man auch lieblos werden,
+  aber nicht mehr, als hiezu nötig ist.
+
+
+524. Goethe, Maximen und Reflexionen 524
+  Das höchste Glück ist das, welches unsere Mängel verbessert
+  und unsere Fehler ausgleicht.
+
+
+525. Goethe, Maximen und Reflexionen 525
+  Kannst du lesen, so sollst du verstehen;
+  kannst du schreiben, so musst du etwas wissen;
+  kannst du glauben, so sollst du begreifen;
+  wenn du begehrst, wirst du sollen;
+  wenn du forderst, wirst du nicht erlangen,
   und wenn du erfahren bist, sollst du nutzen.
 
+526. Goethe, Maximen und Reflexionen 526
+  Man erkennt niemand an als den, der uns nutzt.
+  Wir erkennen den Fürsten an,
+  weil wir unter seiner Firma den Besitz gesichert sehen.
+  Wir gewärtigen uns von ihm Schutz
+  gegen äußere und innere widerwärtige Verhältnisse.
 
-70. Goethe, Maximen und Reflexionen
-  Die Theorie an und für sich ist nichts nütze, als insofern sie uns 
-  an den Zusammenhang der Erscheinungen glauben macht.
+
+527. Goethe, Maximen und Reflexionen 527
+  Der Bach ist dem Müller befreundet, dem er nutzt,
+  und er stürzt gern über die Räder;
+  was hilft es ihm, gleichgültig durchs Tal hinzuschleichen?
 
 
-71. Goethe, Maximen und Reflexionen
-  Wer zuviel verlangt, wer sich am Verwickelten erfreut, 
+528. Goethe, Maximen und Reflexionen 528
+  Wer sich mit reiner Erfahrung begnügt und darnach handelt,
+  der hat Wahres genug.
+  Das heranwachsende Kind ist weise in diesem Sinne.
+
+
+529. Goethe, Maximen und Reflexionen 529
+  Die Theorie an und für sich ist nichts nütze,
+  als insofern sie uns an den Zusammenhang der Erscheinungen glauben macht.
+
+
+530. Goethe, Maximen und Reflexionen 530
+  Alles Abstrakte wird durch Anwendung dem Menschenverstand genähert,
+  und so gelangt der Menschenverstand
+  durch Handeln und Beobachten zur Abstraktion.
+
+
+531. Goethe, Maximen und Reflexionen 531
+  Wer zuviel verlangt, wer sich am Verwickelten erfreut,
   der ist den Verirrungen ausgesetzt.
 
 
-72. Goethe, Maximen und Reflexionen
-  Nach Analogien denken ist nicht zu schelten: 
-  die Analogie hat den Vorteil, dass sie nicht abschließt
-  und eigentlich nichts Letztes will; 
-  dagegen die Induktion verderblich ist, 
-  die einen vorgesetzten Zweck im Auge trägt  
-  und, auf denselben losarbeitend, Falsches und Wahres mit sich fortreißt.
+532. Goethe, Maximen und Reflexionen 532
+  Nach Analogien denken ist nicht zu schelten:
+  die Analogie hat den Vorteil,
+  dass sie nicht abschließt und eigentlich nichts Letztes will;
+  dagegen die Induktion verderblich ist,
+  die einen vorgesetzten Zweck im Auge trägt und,
+  auf denselben losarbeitend, Falsches und Wahres mit sich fortreißt.
+
+533. Goethe, Maximen und Reflexionen 533
+  Gewöhnliches Anschauen, richtige Ansicht der irdischen Dinge
+  ist ein Erbteil des allgemeinen Menschenverstandes;
+  reines Anschauen des Äußern und Innern ist sehr selten.
 
 
-73. Goethe, Maximen und Reflexionen
-  Die Menschheit ist bedingt durch Bedürfnisse. 
-  Sind diese nicht befriedigt, so erweist sie sich ungeduldig; 
-  sind sie befriedigt, so erscheint sie gleichgültig. 
-  Der eigentliche Mensch bewegt sich also zwischen beiden Zuständen, 
-  und seinen Verstand, den sogenannten Menschenverstand, wird er anwenden, 
-  seine Bedürfnisse zu befriedigen; 
-  ist es geschehen, so hat er die Aufgabe, 
+534. Goethe, Maximen und Reflexionen 534
+  Es äußert sich jenes im praktischen Sinn, im unmittelbaren Handeln;
+  dieses symbolisch, vorzüglich durch Mathematik,
+  in Zahlen und Formeln, durch Rede, uranfänglich, tropisch,
+  als Poesie des Genies, als Sprichwörtlichkeit des Menschenverstandes.
+
+
+535. Goethe, Maximen und Reflexionen 535
+  Das Abwesende wirkt auf uns durch Überlieferung.
+  Die gewöhnliche ist historisch zu nennen;
+  eine höhere, der Einbildungskraft verwandte, ist mythisch.
+  Sucht man hinter dieser noch etwas Drittes, irgendeine Bedeutung,
+  so verwandelt sie sich in Mystik. Auch wird sie leicht sentimental,
+  so dass wir uns nur, was gemütlich ist, aneignen.
+
+
+536. Goethe, Maximen und Reflexionen 536
+  Die Wirksamkeiten, auf die wir achten müssen,
+  wenn wir wahrhaft gefördert sein wollen, sind:
+   vorbereitende,
+   begleitende,
+   mitwirkende,
+   nachhelfende,
+   fördernde,
+   verstärkende,
+   hindernde,
+   nachwirkende.
+
+537. Goethe, Maximen und Reflexionen 537
+  Im Betrachten wie im Handeln ist das Zugängliche
+  von dem Unzugänglichen zu unterscheiden;
+  ohne dies lässt sich im Leben wie im Wissen wenig leisten.
+
+
+538. Goethe, Maximen und Reflexionen 538
+  "Le sens commun est le génie de l'humanité."
+
+
+539. Goethe, Maximen und Reflexionen 539
+  Der Gemeinverstand, der als Genie der Menschheit gelten soll,
+  muss vorerst in seinen Äußerungen betrachtet werden.
+  Forschen wir, wozu ihn die Menschheit benutzt, so finden wir folgendes:
+  Die Menschheit ist bedingt durch Bedürfnisse.
+  Sind diese nicht befriedigt, so erweist sie sich ungeduldig;
+  sind sie befriedigt, so erscheint sie gleichgültig.
+  Der eigentliche Mensch bewegt sich also zwischen beiden Zuständen,
+  und seinen Verstand, den sogenannten Menschenverstand,
+  wird er anwenden, seine Bedürfnisse zu befriedigen;
+  ist es geschehen, so hat er die Aufgabe,
   die Räume der Gleichgültigkeit auszufüllen.
+  Beschränkt sich dieses in die nächsten und notwendigsten Grenzen,
+  so gelingt es ihm auch. Erheben sich aber die Bedürfnisse,
+  treten sie aus dem Kreise des Gemeinen heraus,
+  so ist der Gemeinverstand nicht mehr hinreichend, er ist kein Genius mehr,
+  die Region des Irrtums ist der Menschheit aufgetan.
 
 
-74. Goethe, Maximen und Reflexionen
-  Das Recht dringt auf Schuldigkeit, die Polizei aufs Geziemende. 
-  Das Recht ist abwägend und entscheidend, 
-  die Polizei überschauend und gebietend. 
-  Das Recht bezieht sich auf den Einzelnen, die Polizei auf die Gesamtheit.
+540. Goethe, Maximen und Reflexionen 540
+  Es geschieht nichts Unvernünftiges,
+  das nicht Verstand oder Zufall wieder in die Richte brächten;
+  nichts Vernünftiges, das Unverstand und Zufall nicht missleiten könnten.
 
 
-75. Goethe, Maximen und Reflexionen
-  Eines nur sei hier ausgesprochen: 
+541. Goethe, Maximen und Reflexionen 541
+  Jede große Idee, sobald sie in die Erscheinung tritt, wirkt tyrannisch;
+  daher die Vorteile, die sie hervorbringt,
+  sich nur allzubald in Nachteile verwandeln.
+  Man kann deshalb eine jede Institution verteidigen und rühmen,
+  wenn man an ihre Anfänge erinnert und darzutun weiß,
+  dass alles, was von ihr im Anfange gegolten, auch jetzt noch gelte.
+
+
+542. Goethe, Maximen und Reflexionen 542
+  Lessing, der mancherlei Beschränkung unwillig fühlte,
+  lässt eine seiner Personen sagen:
+  "Niemand muss müssen."
+  Ein geistreicher, frohgesinnter Mann sagte:
+  "Wer will, der muss."
+  Ein Dritter, freilich ein Gebildeter, fügte hinzu:
+  "Wer einsieht, der will auch."
+  Und so glaubte man den ganzen Kreis des Erkennens, Wollens und Müssens
+  abgeschlossen zu haben.
+  Aber im Durchschnitt bestimmt die Erkenntnis des Menschen,
+  von welcher Art sie auch sei,	sein Tun und Lassen;
+  deswegen auch nichts schrecklicher ist,
+  als die Unwissenheit handeln zu sehen.
+
+
+543. Goethe, Maximen und Reflexionen 543
+  Es gibt zwei friedliche Gewalten:
+  das Recht und die Schicklichkeit.
+
+
+544. Goethe, Maximen und Reflexionen 544
+  Das Recht dringt auf Schuldigkeit,
+  die Polizei aufs Geziemende.
+  Das Recht ist abwägend und entscheidend,
+  die Polizei überschauend und gebietend.
+  Das Recht bezieht sich auf den Einzelnen,
+  die Polizei auf die Gesamtheit.
+
+
+545. Goethe, Maximen und Reflexionen 545
+  Die Geschichte der Wissenschaften ist eine große Fuge,
+  in der die Stimmen der Völker nach und nach zum Vorschein kommen.
+
+
+546. Goethe, Maximen und Reflexionen 546
+  Man kann in den Naturwissenschaften über manche Probleme nicht
+  gehörig sprechen, wenn man die Metaphysik nicht zu Hilfe ruft;
+  aber nicht jene Schul-und Wortweisheit:
+  es ist dasjenige, was vor, mit und nach der Physik war, ist und sein wird.
+
+
+547. Goethe, Maximen und Reflexionen 547
+  Autorität, dass nämlich etwas schon einmal geschehen,
+  gesagt oder entschieden worden sei, hat großen Wert;
+  aber nur der Pedant fordert überall Autorität.
+
+
+548. Goethe, Maximen und Reflexionen 548
+  Altes Fundament ehrt man, darf aber das Recht nicht aufgeben,
+  irgendwo wieder einmal von vorn zu gründen.
+
+
+549. Goethe, Maximen und Reflexionen 549
+  Beharre, wo du stehst! - Maxime, notwendiger als je,
+  indem einerseits die Menschen in große Parteien gerissen werden,
+  sodann aber auch jeder Einzelne nach individueller Einsicht
+  und Vermögen sich geltend machen will.
+
+
+550. Goethe, Maximen und Reflexionen 550
+  Man tut immer besser, dass man sich grad ausspricht, wie man denkt,
+  ohne viel beweisen zu wollen; denn alle Beweise, die wir vorbringen,
+  sind doch nur Variationen unserer Meinungen,
+  und die Widriggesinnten hören weder auf das eine noch auf das andere.
+
+
+551. Goethe, Maximen und Reflexionen 551
+  Da ich mit der Naturwissenschaft,
+  wie sie sich von Tag zu Tage vorwärts bewegt,
+  immer mehr bekannt und verwandt werde,
+  so dringt sich mir gar manche Betrachtung auf über die Vor- und Rückschritte,
+  die zu gleicher Zeit geschehen. Eines nur sei hier ausgesprochen:
   dass wir sogar anerkannte Irrtümer aus der Wissenschaft nicht loswerden.
   Die Ursache hievon ist ein offenbares Geheimnis.
-  Einen Irrtum nenn ich, wenn irgendein Ereignis falsch ausgelegt, 
+
+
+552. Goethe, Maximen und Reflexionen 552
+  Einen Irrtum nenn ich, wenn irgendein Ereignis falsch ausgelegt,
   falsch angeknüpft, falsch abgeleitet wird.
+  Nun ereignet sich aber im Gange des Erfahrens und Denkens,
+  dass eine Erscheinung folgerecht angeknüpft, richtig abgeleitet wird.
+  Das lässt man sich wohl gefallen, legt aber keinen besondern Wert darauf
+  und lässt den Irrtum ganz ruhig daneben liegen,
+  und ich kenne ein kleines Magazin von Irrtümern,
+  die man sorgfältig aufbewahrt.
 
 
-76. Goethe, Maximen und Reflexionen
-  Die Vernunft ist auf das Werdende, der Verstand auf das Gewordene angewiesen;
-  jene bekümmert sich nicht: wozu?, dieser fragt nicht: woher? - 
-  Sie erfreut sich am Entwickeln; er wünscht alles festzuhalten, 
-  damit er es nutzen könne.
+553. Goethe, Maximen und Reflexionen 553
+  Da nun den Menschen eigentlich nichts interessiert als seine Meinung,
+  so sieht jedermann, der eine Meinung vorträgt, sich rechts und links
+  nach Hilfsmitteln um, damit er sich und andere bestärken möge.
+  Des Wahren bedient man sich, solange es brauchbar ist;
+  aber leidenschaftlich-rhetorisch ergreift man das Falsche,
+  sobald man es für den Augenblick nutzen,
+  damit als einem Halbargumente blenden,
+  als mit einem Lückenbüßer das Zerstückelte scheinbar vereinigen kann.
+  Dieses zu erfahren war mir erst ein Ärgernis, dann betrübte ich mich
+  darüber, und nun macht es mir Schadenfreude:
+  ich habe mir das Wort gegeben,
+  ein solches Verfahren niemals wieder aufzudecken.
 
 
-77. Goethe, Maximen und Reflexionen
-  Der Mensch muss bei dem Glauben verharren, dass das Unbegreifliche
-  begreiflich sei; er würde sonst nicht forschen.
+554. Goethe, Maximen und Reflexionen 554
+  Jedes Existierende ist ein Analogon alles Existierenden;
+  daher erscheint uns das Dasein
+  immer zu gleicher Zeit gesondert und verknüpft.
+  Folgt man der Analogie zu sehr, so fällt alles identisch zusammen;
+  meidet man sie, so zerstreut sich alles ins Unendliche.
+  In beiden Fällen stagniert die Betrachtung,
+  einmal als überlebendig, das andere Mal als getötet.
 
 
-78. Goethe, Maximen und Reflexionen
-  Es gibt Pedanten, die zugleich Schelme sind, und das sind die allerschlimmsten.
+555. Goethe, Maximen und Reflexionen 555
+  Die Vernunft ist auf das Werdende, der Verstand auf das Gewordene
+  angewiesen; jene bekümmert sich nicht: wozu?, dieser fragt nicht: woher? -
+  Sie erfreut sich am Entwickeln;
+  er wünscht alles festzuhalten, damit er es nutzen könne.
 
 
-79. Goethe, Maximen und Reflexionen
-  Um zu begreifen, dass der Himmel überall blau ist, 
+556. Goethe, Maximen und Reflexionen 556
+  Es ist eine Eigenheit dem Menschen angeboren und mit seiner Natur
+  innigst verwebt: dass ihm zur Erkenntnis das Nächste nicht genügt;
+  da doch jede Erscheinung, die wir selbst gewahr werden, im Augenblick
+  das Nächste ist und wir von ihr fordern können,
+  dass sie sich selbst erkläre, wenn wir kräftig in sie dringen.
+
+
+557. Goethe, Maximen und Reflexionen 557
+  Das werden aber die Menschen nicht lernen, weil es gegen ihre Natur ist;
+  daher die Gebildeten es selbst nicht lassen können, wenn sie an Ort
+  und Stelle irgendein Wahres erkannt haben, es nicht nur mit dem Nächsten,
+  sondern auch mit dem Weitesten und Fernsten zusammenzuhängen,
+  woraus denn Irrtum über Irrtum entspringt.
+  Das nahe Phänomen hängt aber mit dem fernen nur in dem Sinne zusammen,
+  dass sich alles auf wenige große Gesetze bezieht,
+  die sich überall manifestieren.
+
+
+558. Goethe, Maximen und Reflexionen 558
+  Was ist das Allgemeine?
+    Der einzelne Fall.
+    Was ist das Besondere?
+    Millionen Fälle.
+
+
+559. Goethe, Maximen und Reflexionen 559
+  Die Analogie hat zwei Verirrungen zu fürchten:
+  einmal, sich dem Witz hinzugeben, wo sie in nichts zerfließt,
+  die andere, sich mit Tropen und Gleichnissen zu umhüllen,
+  welches jedoch weniger schädlich ist.
+
+
+560. Goethe, Maximen und Reflexionen 560
+  Weder Mythologie noch Legenden sind in der Wissenschaft zu dulden.
+  Lasse man diese den Poeten, die berufen sind,
+  sie zu Nutz und Freude der Welt zu behandeln.
+  Der wissenschaftliche Mann beschränke sich
+  auf die nächste, klarste Gegenwart.
+  Wollte derselbe jedoch gelegentlich als Rhetor auftreten,
+  so sei ihm jenes auch nicht verwehrt.
+
+
+561. Goethe, Maximen und Reflexionen 561
+  Um mich zu retten, betrachte ich alle Erscheinungen als unabhängig
+  voneinander und suche sie gewaltsam zu isolieren;
+  dann betrachte ich sie als Korrelate,
+  und sie verbinden sich zu einem entschiedenen Leben.
+  Dies bezieh ich vorzüglich auf Natur;
+  aber auch in Bezug auf die neueste, um uns her bewegte Weltgeschichte
+  ist diese Betrachtungsweise fruchtbar.
+
+
+562. Goethe, Maximen und Reflexionen 562
+  Alles, was wir Erfinden, Entdecken im höheren Sinne nennen,
+  ist die bedeutende Ausübung, Betätigung eines originalen Wahrheitsgefühles,
+  das, im stillen längst ausgebildet, unversehens, mit Blitzesschnelle
+  zu einer fruchtbaren Erkenntnis führt.
+  Es ist eine aus dem Innern am Äußern sich entwickelnde Offenbarung,
+  die den Menschen seine Gottähnlichkeit vorahnen lässt.
+  Es ist eine Synthese von Welt und Geist,
+  welche von der ewigen Harmonie des Daseins die seligste Versicherung gibt.
+
+
+563. Goethe, Maximen und Reflexionen 563
+  Der Mensch muss bei dem Glauben verharren,
+  dass das Unbegreifliche begreiflich sei;
+  er würde sonst nicht forschen.
+
+
+564. Goethe, Maximen und Reflexionen 564
+  Begreiflich ist jedes Besondere,
+  das sich auf irgendeine Weise anwenden lässt.
+  Auf diese Weise kann das Unbegreifliche nützlich werden.
+
+
+565. Goethe, Maximen und Reflexionen 565
+  Es gibt eine zarte Empirie, die sich mit dem Gegenstand innigst
+  identisch macht und dadurch zur eigentlichen Theorie wird.
+  Diese Steigerung des geistigen Vermögens
+  aber gehört einer hochgebildeten Zeit an.
+
+
+566. Goethe, Maximen und Reflexionen 566
+  Am widerwärtigsten sind die kricklichen Beobachter und grilligen Theoristen;
+  ihre Versuche sind kleinlich und kompliziert,
+  ihre Hypothesen abstrus und wunderlich.
+
+
+567. Goethe, Maximen und Reflexionen 567
+  Es gibt Pedanten, die zugleich Schelme sind,
+  und das sind die allerschlimmsten.
+
+
+568. Goethe, Maximen und Reflexionen 568
+  Um zu begreifen, dass der Himmel überall blau ist,
   braucht man nicht um die Welt zu reisen.
 
 
-80. Goethe, Maximen und Reflexionen
-  Als getrennt muss sich darstellen: Physik von Mathematik. 
-  Jene muss in einer entschiedenen Unabhängigkeit bestehen 
-  und mit allen liebenden, verehrenden, frommen Kräften 
-  in die Natur und das heilige Leben derselben einzudringen suchen, 
+569. Goethe, Maximen und Reflexionen 569
+  Das Allgemeine und Besondere fallen zusammen:
+  das Besondere ist das Allgemeine,
+  unter verschiedenen Bedingungen erscheinend.
+
+
+570. Goethe, Maximen und Reflexionen 570
+  Man braucht nicht alles selbst gesehen noch erlebt zu haben;
+  willst du aber dem andern und seinen Darstellungen vertrauen,
+  so denke, dass du es nun mit dreien zu tun hast:
+  mit dem Gegenstand und zwei Subjekten.
+
+
+571. Goethe, Maximen und Reflexionen 571
+  Grundeigenschaft der lebendigen Einheit:
+  sich zu trennen, sich zu vereinen,
+  sich ins Allgemeine zu ergehen, im Besondern zu verharren,
+  sich zu verwandeln, sich zu spezifizieren und,
+  wie das Lebendige unter tausend Bedingungen sich dartun mag,
+  hervorzutreten und zu verschwinden, zu solideszieren und zu schmelzen,
+  zu erstarren und zu fließen, sich auszudehnen und sich zusammenzuziehen.
+  Weil nun alle diese Wirkungen im gleichen Zeitmoment zugleich vorgehen,
+  so kann alles und jedes zu gleicher Zeit eintreten. Entstehen und Vergehen,
+  Schaffen und Vernichten, Geburt und Tod, Freud und Leid,
+  alles wirkt durcheinander, in gleichem Sinn und gleicher Maße;
+  deswegen denn auch das Besonderste, das sich ereignet,
+  immer als Bild und Gleichnis des Allgemeinsten auftritt.
+
+
+572. Goethe, Maximen und Reflexionen 572
+  Ist das ganze Dasein ein ewiges Trennen und Verbinden,
+  so folgt auch, dass die Menschen im Betrachten
+  des ungeheuren Zustandes auch bald trennen, bald verbinden werden.
+
+
+573. Goethe, Maximen und Reflexionen 573
+  Als getrennt muss sich darstellen: Physik von Mathematik.
+  Jene muss in einer entschiedenen Unabhängigkeit bestehen
+  und mit allen liebenden, verehrenden, frommen Kräften
+  in die Natur und das heilige Leben derselben einzudringen suchen,
   ganz unbekümmert, was die Mathematik von ihrer Seite leistet und tut.
-  Diese muss sich dagegen unabhängig von allem Äußern erklären, 
-  ihren eigenen großen Geistesgang gehen und sich selber reiner ausbilden, 
-  als es geschehen kann, wenn sie wie bisher sich mit dem Vorhandenen abgibt 
+  Diese muss sich dagegen unabhängig von allem Äußern erklären,
+  ihren eigenen großen Geistesgang gehen und sich selber reiner ausbilden,
+  als es geschehen kann, wenn sie wie bisher sich mit dem Vorhandenen abgibt
   und diesem etwas abzugewinnen oder anzupassen trachtet.
 
 
-81. Goethe, Maximen und Reflexionen
-  Wenn man die Probleme des Aristoteles ansieht, 
-  so erstaunt man über die Gabe des Bemerkens 
-  und für was alles die Griechen Augen gehabt haben. 
-  Nur begehen sie den Fehler der Übereilung, 
+574. Goethe, Maximen und Reflexionen 574
+  In der Naturforschung bedarf es eines kategorischen Imperativs
+  so gut als im Sittlichen; nur bedenke man,
+  dass man dadurch nicht am Ende, sondern erst am Anfang ist.
+
+
+575. Goethe, Maximen und Reflexionen 575
+  Das Höchste wäre: zu begreifen, dass alles Faktische schon Theorie ist.
+  Die Bläue des Himmels offenbart uns das Grundgesetz der Chromatik.
+  Man suche nur nichts hinter den Phänomenen: sie selbst sind die Lehre.
+
+
+576. Goethe, Maximen und Reflexionen 576
+  In den Wissenschaften ist viel Gewisses,
+  sobald man sich von den Ausnahmen nicht irremachen lässt
+  und die Probleme zu ehren weiß.
+
+
+577. Goethe, Maximen und Reflexionen 577
+  Wenn ich mich beim Urphänomen zuletzt beruhige,
+  so ist es doch auch nur Resignation;
+  aber es bleibt ein großer Unterschied,
+  ob ich mich an den Grenzen der Menschheit resigniere
+  oder innerhalb einer hypothetischen Beschränktheit
+  meines bornierten Individuums.
+
+
+578. Goethe, Maximen und Reflexionen 578
+  Wenn man die Probleme des Aristoteles ansieht,
+  so erstaunt man über die Gabe des Bemerkens
+  und für was alles die Griechen Augen gehabt haben.
+  Nur begehen sie den Fehler der Übereilung,
   da sie von dem Phänomen unmittelbar zur Erklärung schreiten,
+  wodurch denn ganz unzulängliche theoretische Aussprüche zum Vorschein kommen.
   Dieses ist jedoch der allgemeine Fehler, der noch heutzutage begangen wird.
 
-
-82. Goethe, Maximen und Reflexionen
-  Hypothesen sind Wiegenlieder, womit der Lehrer seine Schüler einlullt; 
-  der denkende, treue Beobachter lernt immer mehr seine Beschränkung kennen, 
-  er sieht: je weiter sich das Wissen ausbreitet, 
+579. Goethe, Maximen und Reflexionen 579
+  Hypothesen sind Wiegenlieder, womit der Lehrer seine Schüler einlullt;
+  der denkende, treue Beobachter lernt immer mehr seine Beschränkung kennen,
+  er sieht: je weiter sich das Wissen ausbreitet,
   desto mehr Probleme kommen zum Vorschein.
 
 
-83. Goethe, Maximen und Reflexionen
-  Die Deutschen, und sie nicht allein, besitzen die Gabe, 
+580. Goethe, Maximen und Reflexionen 580
+  Unser Fehler besteht darin,
+  dass wir am Gewissen zweifeln und das Ungewisse fixieren möchten.
+  Meine Maxime bei der Naturforschung ist,
+  das Gewisse festzuhalten und dem Ungewissen aufzupassen.
+
+
+581. Goethe, Maximen und Reflexionen 581
+  Lässliche Hypothese nenn ich eine solche,
+  die man gleichsam schalkhaft aufstellt,
+  um sich von der ernsthaften Natur widerlegen zu lassen.
+
+
+582. Goethe, Maximen und Reflexionen 582
+  Wie wollte einer als Meister in seinem Fach erscheinen,
+  wenn er nichts Unnützes lehrte!
+
+
+583. Goethe, Maximen und Reflexionen 583
+  Das Närrischste ist,
+  dass jeder glaubt überliefern zu müssen,
+  was man gewusst zu haben glaubt.
+
+
+584. Goethe, Maximen und Reflexionen 584
+  Weil zum didaktischen Vortrag Gewissheit verlangt wird,
+  indem der Schüler nichts Unsicheres überliefert haben will,
+  so darf der Lehrer kein Problem stehen lassen
+  und sich etwa in einiger Entfernung da herumbewegen.
+  Gleich muss etwas bestimmt sein ("bepaalt", sagt der Holländer),
+  und nun glaubt man eine Weile, den unbekannten Raum zu besitzen,
+  bis ein anderer die Pfähle wieder ausreißt
+  und sogleich enger oder weiter abermals wieder bepfählt.
+
+
+585. Goethe, Maximen und Reflexionen 585
+  Lebhafte Frage nach der Ursache,
+  Verwechslung von Ursache und Wirkung,
+  Beruhigung in einer falschen Theorie sind von großer,
+  nicht zu entwickelnder Schädlichkeit.
+
+
+586. Goethe, Maximen und Reflexionen 586
+  Wenn mancher sich nicht verpflichtet fühlte, das Unwahre zu wiederholen,
+  weil er's einmal gesagt hat, so wären es ganz andere Leute geworden.
+
+
+587. Goethe, Maximen und Reflexionen 587
+  Das Falsche hat den Vorteil, dass man immer darüber schwätzen kann;
+  das Wahre muss gleich genutzt werden, sonst ist es nicht da.
+
+
+588. Goethe, Maximen und Reflexionen 588
+  Wer nicht einsieht, wie das Wahre praktisch erleichtert,
+  mag gern daran mäkeln und häkeln, damit er nur sein irriges,
+  mühseliges Treiben einigermaßen beschönigen könne.
+
+
+589. Goethe, Maximen und Reflexionen 589
+  Die Deutschen, und sie nicht allein, besitzen die Gabe,
   die Wissenschaften unzugänglich zu machen.
-  Der Engländer ist Meister, das Entdeckte gleich zu nutzen, 
-  bis es wieder zu neuer Entdeckung und frischer Tat führt. 
+
+
+590. Goethe, Maximen und Reflexionen 590
+  Der Engländer ist Meister, das Entdeckte gleich zu nutzen,
+  bis es wieder zu neuer Entdeckung und frischer Tat führt.
   Man frage nun, warum sie uns überall voraus sind.
 
 
-84. Goethe, Maximen und Reflexionen
-  Nichts ist widerwärtiger als die Majorität; 
-  denn sie besteht aus wenigen kräftigen Vorgängern, 
-  aus Schelmen, die sich akkommodieren, 
-  aus Schwachen, die sich assimilieren, 
-  und der Masse, die nachtrollt, ohne nur im mindesten zu wissen, was sie will.
+591. Goethe, Maximen und Reflexionen 591
+  Der denkende Mensch hat die wunderliche Eigenschaft,
+  dass er an die Stelle, wo das unaufgelöste Problem liegt,
+  gerne ein Phantasiebild hinfabelt, das er nicht loswerden kann,
+  wenn das Problem auch aufgelöst und die Wahrheit am Tage ist.
 
 
-85. Goethe, Maximen und Reflexionen
-  Der Mathematiker ist nur insofern vollkommen, 
-  als er ein vollkommener Mensch ist, 
-  als er das Schöne des Wahren in sich empfindet; 
-  dann erst wird er gründlich, durchsichtig, umsichtig, rein, klar, anmutig, 
-  ja elegant wirken. Das alles gehört dazu, um La Grange ähnlich zu werden.
+592. Goethe, Maximen und Reflexionen 592
+  Es gehört eine eigene Geisteswendung dazu,
+  um das gestaltlose Wirkliche in seiner eigensten Art zu fassen
+  und es von Hirngespinsten zu unterscheiden,
+  die sich denn doch auch mit einer gewissen Wirklichkeit lebhaft aufdringen.
 
 
-86. Goethe, Maximen und Reflexionen
+593. Goethe, Maximen und Reflexionen 593
+  Bei Betrachtung der Natur im großen wie im kleinen hab ich
+  unausgesetzt die Frage gestellt:
+  "Ist es der Gegenstand oder bist du es, der sich hier ausspricht?"
+  Und in diesem Sinne betrachtete ich auch Vorgänger und Mitarbeiter.
+
+
+594. Goethe, Maximen und Reflexionen 594
+  Ein jeder Mensch sieht die fertige und geregelte, gebildete,
+  vollkommene Welt doch nur als ein Element an,
+  woraus er sich eine besondere,
+  ihm angemessene Welt zu erschaffen bemüht ist.
+  Tüchtige Menschen ergreifen sie ohne Bedenken und suchen damit,
+  wie es gehen will, zu gebaren,
+  andere zaudern an ihr herum,
+  einige zweifeln sogar an ihrem Dasein.
+  Wer sich von dieser Grundwahrheit recht durchdrungen fühlte,
+  würde mit niemanden streiten, sondern nur die Vorstellungsart eines andern
+  wie seine eigene als ein Phänomen betrachten.
+  Denn wir erfahren fast täglich, dass der eine mit Bequemlichkeit denken mag,
+  was dem andern zu denken unmöglich ist, und zwar nicht etwa in Dingen,
+  die auf Wohl und Wehe nur irgendeinen Einfluss hätten,
+  sondern in Dingen, die für uns völlig gleichgültig sind.
+
+
+595. Goethe, Maximen und Reflexionen 595
+  Man weiß eigentlich das, was man weiß, nur für sich selbst.
+  Spreche ich mit einem andern von dem, was ich zu wissen glaube,
+  unmittelbar glaubt er's besser zu wissen,
+  und ich muss mit meinem Wissen immer wieder in mich selbst zurückkehren.
+
+
+596. Goethe, Maximen und Reflexionen 596
+  Das Wahre fördert; 
+  aus dem Irrtum entwickelt sich nichts,
+  er verwickelt uns nur.
+
+
+597. Goethe, Maximen und Reflexionen 597
+  Der Mensch findet sich mitten unter Wirkungen
+  und kann sich nicht enthalten, nach den Ursachen zu fragen;
+  als ein bequemes Wesen greift	er nach der nächsten als der besten
+  und beruhigt sich dabei;
+  besonders ist dies die Art des allgemeinen Menschenverstandes.
+
+
+598. Goethe, Maximen und Reflexionen 598
+  Sieht man ein Übel, so wirkt man unmittelbar darauf,
+  das heißt, man kuriert unmittelbar aufs Symptom los.
+
+
+599. Goethe, Maximen und Reflexionen 599
+  Die Vernunft hat nur über das Lebendige Herrschaft;
+  die entstandene Welt, mit der sich die Geognosie abgibt, ist tot.
+  Daher kann es keine Geologie geben;
+  denn die Vernunft hat hier nichts zu tun.
+
+
+600. Goethe, Maximen und Reflexionen 600
+  Wenn ich ein zerstreutes Gerippe finde,
+  so kann ich es zusammenlesen und aufstellen;
+  denn hier spricht die ewige Vernunft durch ein Analogon zu mir,
+  und wenn es das Riesenfaultier wäre.
+
+
+601. Goethe, Maximen und Reflexionen 601
+  Was nicht mehr entsteht, können wir uns als entstehend nicht denken;
+  das Entstandene begreifen wir nicht.
+
+
+602. Goethe, Maximen und Reflexionen 602
+  Der allgemeine neuere Vulkanismus
+  ist eigentlich ein kühner Versuch,
+  die gegenwärtige unbegreifliche Welt
+  an eine vergangene unbekannte	zu knüpfen.
+
+
+603. Goethe, Maximen und Reflexionen 603
+  Gleiche oder wenigstens ähnliche Wirkungen
+  werden auf verschiedene Weise durch Naturkräfte hervorgebracht.
+
+
+604. Goethe, Maximen und Reflexionen 604
+  Nichts ist widerwärtiger als die Majorität;
+  denn sie besteht aus wenigen kräftigen Vorgängern,
+  aus Schelmen, die sich akkommodieren,
+  aus Schwachen, die sich assimilieren,
+  und der Masse, die nachtrollt,
+  ohne nur im mindesten zu wissen, was sie will.
+
+
+605. Goethe, Maximen und Reflexionen 605
+  Die Mathematik ist wie die Dialektik
+  ein Organ des inneren, höheren Sinnes;
+  in der Ausübung ist sie eine Kunst wie die Beredsamkeit.
+  Für beide hat nichts Wert als die Form;
+  der Gehalt ist ihnen gleichgültig.
+  Ob die Mathematik Pfennige oder Guineen berechne,
+  die Rhetorik Wahres oder Falsches verteidige,
+  ist beiden vollkommen gleich.
+
+
+606. Goethe, Maximen und Reflexionen 606
+  Hier aber kommt es nun auf die Natur des Menschen an,
+  der ein solches Geschäft betreibt, eine solche Kunst ausübt.
+  Ein durchgreifender Advokat in einer gerechten Sache,
+  ein durchdringender Mathematiker
+  vor dem Sternenhimmel erscheinen beide gleich gottähnlich.
+
+
+607. Goethe, Maximen und Reflexionen 607
+  Was ist an der Mathematik exakt als die Exaktheit?
+  Und diese, ist sie nicht eine Folge des innern Wahrheitsgefühls?
+
+
+608. Goethe, Maximen und Reflexionen 608
+  Die Mathematik vermag kein Vorurteil wegzuheben,
+  sie kann den Eigensinn nicht lindern,
+  den Parteigeist nicht beschwichtigen,
+  nichts von allem Sittlichen vermag sie.
+
+
+609. Goethe, Maximen und Reflexionen 609
+  Der Mathematiker ist nur insofern vollkommen,
+  als er ein vollkommener Mensch ist,
+  als er das Schöne des Wahren in sich empfindet;
+  dann erst wird er gründlich, durchsichtig, umsichtig, rein,
+  klar, anmutig, ja elegant wirken.
+  Das alles gehört dazu, um La Grange ähnlich zu werden.
+
+
+610. Goethe, Maximen und Reflexionen 610
+  Nicht die Sprache an und für sich ist richtig, tüchtig, zierlich,
+  sondern der Geist ist es, der sich darin verkörpert,
+  und so kommt es nicht auf einen jeden an, ob er seinen Rechnungen,
+  Reden oder Gedichten die wünschenswerten Eigenschaften verleihen will:
+  es ist die Frage, ob ihm die Natur
+  hierzu die geistigen und sittlichen Eigenschaften verliehen hat.
+  Die geistigen: das Vermögen der An- und Durchschauung,
+  die sittlichen: dass er die bösen Dämonen ablehne,
+  die ihn hindern könnten, dem Wahren die Ehre zu geben.
+
+
+611. Goethe, Maximen und Reflexionen 611
+  Das Einfache durch das Zusammengesetzte,
+  das Leichte durch das Schwierige erklären zu wollen ist ein Unheil,
+  das in dem ganzen Körper der Wissenschaft verteilt ist,
+  von den Einsichtigen wohl anerkannt, aber nicht überall eingestanden.
+
+
+612. Goethe, Maximen und Reflexionen 612
+  Man sehe die Physik genau durch, und man wird finden,
+  dass die Phänomene sowie die Versuche, worauf sie gebaut ist,
+  verschiedenen Wert haben.
+
+613. Goethe, Maximen und Reflexionen 613
+  Auf die primären, die Urversuche kommt alles an,
+  und das Kapitel, das hierauf gebaut ist, steht sicher und fest.
+  Aber es gibt auch sekundäre, tertiäre und so weiter;
+  gesteht man diesen das gleiche Recht zu,
+  so verwirren sie nur das, was von den ersten aufgeklärt war.
+
+
+614. Goethe, Maximen und Reflexionen 614
+  Ein großes Übel in den Wissenschaften, ja überall entsteht daher,
+  dass Menschen, die kein Ideenvermögen haben,
+  zu theoretisieren sich vermessen, weil sie nicht begreifen,
+  dass noch so vieles Wissen hierzu nicht berechtigt.
+  Sie gehen im Anfange wohl mit einem löblichen Menschenverstand zu Werke,
+  dieser aber hat seine Grenzen, und wenn er sie überschreitet,
+  kommt er in Gefahr, absurd zu werden.
+  Des Menschenverstandes angewiesenes Gebiet und Erbteil
+  ist der Bezirk des Tuns und Handelns.
+  Tätig wird er sich selten verirren;
+  das höhere Denken, Schließen und Urteilen jedoch ist nicht seine Sache.
+
+
+615. Goethe, Maximen und Reflexionen 615
+  Die Erfahrung nutzt erst der Wissenschaft, sodann schadet sie,
+  weil die Erfahrung Gesetz und Ausnahme gewahr werden lässt.
+  Der Durchschnitt von beiden gibt keineswegs das Wahre.
+
+
+616. Goethe, Maximen und Reflexionen 616
+  Man sagt, zwischen zwei entgegengesetzten Meinungen liege die
+  Wahrheit mitteninne. Keineswegs! Das Problem liegt dazwischen,
+  das Unschaubare, das ewig tätige Leben, in Ruhe gedacht.
+
+
+617. Johann Wolfgang Goethe, Maximen und Reflexionen 617
+AUS WILHELM MEISTERS WANDERJAHREN (1829 Aus Makariens Archiv)
+  Die Geheimnisse der Lebenspfade darf und kann man nicht offenbaren;
+  es gibt Steine des Anstoßes, über die ein jeder Wanderer stolpern muss.
+  Der Poet aber deutet auf die Stelle hin.
+
+
+618. Goethe, Maximen und Reflexionen 618
+AUS WILHELM MEISTERS WANDERJAHREN (1829 Aus Makariens Archiv)
+  Es wäre nicht der Mühe wert, siebzig Jahr alt zu werden,
+  wenn alle Weisheit der Welt Torheit wäre vor Gott.
+
+
+619. Goethe, Maximen und Reflexionen 619
+AUS WILHELM MEISTERS WANDERJAHREN (1829 Aus Makariens Archiv)
+  Das Wahre ist gottähnlich: es erscheint nicht unmittelbar,
+  wir müssen es aus seinen Manifestationen erraten.
+
+
+620. Goethe, Maximen und Reflexionen 620
   Der echte Schüler lernt aus dem Bekannten das Unbekannte entwickeln 
   und nähert sich dem Meister.
 
 
-87. Goethe, Maximen und Reflexionen
-  "Denn die Götter lehren uns ihr eigenstes Werk nachahmen; 
-  doch wissen wir nur, was wir tun, erkennen aber nicht, was wir nachahmen."
+621. Goethe, Maximen und Reflexionen 621
+  Aber die Menschen vermögen nicht leicht
+  aus dem Bekannten das Unbekannte zu entwickeln;
+  denn sie wissen nicht,
+  dass ihr Verstand ebensolche Künste wie die Natur treibt.
 
 
-88. Goethe, Maximen und Reflexionen
-  Die neueste Philosophie unserer westlichen Nachbarn gibt ein Zeugnis, 
-  dass der Mensch, er gebärde sich, wie er wolle, 
-  und so auch ganze Nationen immer wieder zum Angeborenen zurückkehren.
+622. Goethe, Maximen und Reflexionen 622
+  Denn die Götter lehren uns ihr eigenstes Werk nachahmen;
+  doch wissen wir nur, was wir tun,
+  erkennen aber nicht, was wir nachahmen.
 
 
-89. Goethe, Maximen und Reflexionen
-  Eine eklektische Philosophie kann es nicht geben, 
+623. Goethe, Maximen und Reflexionen 623
+  Alles ist gleich, alles ungleich, alles nützlich und schädlich,
+  sprechend und stumm, vernünftig und unvernünftig.
+  Und was man von einzelnen Dingen bekennt, widerspricht sich öfters.
+
+
+624. Goethe, Maximen und Reflexionen 624
+  Denn das Gesetz haben die Menschen sich selbst auferlegt,
+  ohne zu wissen, über was sie Gesetze gaben;
+  aber die Natur haben alle Götter geordnet.
+
+
+625. Goethe, Maximen und Reflexionen 625
+  Was nun die Menschen gesetzt haben, das will nicht passen,
+  es mag recht oder unrecht sein;
+  was aber die Götter setzten,
+  das ist immer am Platz, recht oder unrecht.
+
+
+626. Goethe, Maximen und Reflexionen 626
+  Ich aber will zeigen, dass die bekannten Künste der Menschen
+  natürlichen Begebenheiten gleich sind, die offenbar oder geheim vorgehen.
+
+
+627. Goethe, Maximen und Reflexionen 627
+  Von der Art ist die Weissagekunst.
+  Sie erkennet aus dem Offenbaren das Verborgene,
+  aus dem Gegenwärtigen das Zukünftige,
+  aus dem Toten das Lebendige, und den Sinn des Sinnlosen.
+
+
+628. Goethe, Maximen und Reflexionen 628
+  So erkennt der Unterrichtete immer recht die Natur des Menschen,
+  und der Ununterrichtete sieht sie bald so, bald so an,
+  und jeder ahmt sie nach seiner Weise nach.
+
+
+629. Goethe, Maximen und Reflexionen 629
+  Wenn ein Mann mit einem Weibe zusammentrifft und ein Knabe entsteht,
+  so wird aus etwas Bekanntem ein Unbekanntes.
+  Dagegen wenn der dunkle Geist des Knaben die deutlichen Dinge
+  in sich aufnimmt, so wird er zum Mann
+  und lernt aus dem Gegenwärtigen das Zukünftige erkennen.
+
+
+630. Goethe, Maximen und Reflexionen 630
+  Das Unsterbliche ist nicht dem sterblichen Lebenden zu vergleichen,
+  und doch ist auch das bloß Lebende verständig.
+  So weiß der Magen recht gut, wann er hungert und durstet.
+
+
+631. Goethe, Maximen und Reflexionen 631
+  So verhält sich die Wahrsagekunst zur menschlichen Natur.
+  Und beide sind dem Einsichtsvollen immer recht;
+  dem Beschränkten aber erscheinen sie bald so, bald so.
+
+
+632. Goethe, Maximen und Reflexionen 632
+  In der Schmiede erweicht man das Eisen, indem man das Feuer anbläst 
+  und dem Stabe seine überflüssige Nahrung nimmt;
+  ist er aber rein geworden, dann schlägt man ihn und zwingt ihn,
+  und durch die Nahrung eines fremden Wassers wird er wieder stark.
+  Das widerfährt auch dem Menschen von seinem Lehrer.
+
+
+633. Goethe, Maximen und Reflexionen 633
+  Da wir überzeugt sind, daß derjenige, der die intellektuelle Welt
+  beschaut und des wahrhaften Intellekts Schönheit gewahr wird,
+  auch wohl ihren Vater, der über allen Sinn erhaben ist, bemerken könne,
+  so versuchen wir denn, nach Kräften einzusehen
+  und für uns selbst auszudrücken
+   - insofern sich dergleichen deutlich machen lässt -,
+  auf welche Weise wir die Schönheit des Geistes und der Welt
+  anzuschauen vermögen.
+
+
+634. Goethe, Maximen und Reflexionen 634
+  Nehmet an daher, zwei steinerne Massen seien nebeneinander gestellt,
+  deren eine roh und ohne künstliche Bearbeitung geblieben,
+  die andere aber durch die Kunst zur Statue,
+  einer menschlichen oder göttlichen, ausgebildet worden.
+  Wäre es eine göttliche, so möchte sie eine Grazie oder Muse vorstellen;
+  wäre es eine menschliche, so dürfte es nicht ein besonderer Mensch sein,
+  vielmehr irgendeiner, den die Kunst aus allem Schönen versammelte.
+
+
+635. Goethe, Maximen und Reflexionen 635
+  Euch wird aber der Stein, der durch die Kunst zur schönen Gestalt
+  gebracht worden, alsobald schön erscheinen; doch nicht, weil er Stein ist
+  - denn sonst würde die andere Masse gleichfalls für schön gelten -,
+  sondern daher, dass er eine Gestalt hat, welche die Kunst ihm erteilte.
+
+
+636. Goethe, Maximen und Reflexionen 636
+  Die Materie aber hatte eine solche Gestalt nicht,
+  sondern diese war in dem Ersinnenden früher, als sie zum Stein gelangte.
+  Sie war jedoch in dem Künstler nicht, weil er Augen und Hände hatte,
+  sondern weil er mit der Kunst begabt war.
+
+
+637. Goethe, Maximen und Reflexionen 637
+  Also war in der Kunst noch eine weit größere Schönheit;
+  denn nicht die Gestalt, die in der Kunst ruhet, gelangt in den Stein,
+  sondern dorten bleibt sie, und es gehet indessen eine andere,
+  geringere hervor, die nicht rein in sich selbst verharret,
+  noch auch wie sie der Künstler wünschte,
+  sondern insofern der Stoff der Kunst gehorchte.
+
+
+638. Goethe, Maximen und Reflexionen 638
+  Wenn aber die Kunst dasjenige, was sie ist und besitzt
+  auch hervorbringt und das Schöne nach der Vernunft hervorbringt,
+  nach welcher sie immer handelt, so ist sie fürwahr diejenige,
+  die mehr und wahrer eine größere und trefflichere Schönheit
+  der Kunst besitzt, vollkommener als alles, was nach außen hervortritt.
+
+
+639. Goethe, Maximen und Reflexionen 639
+  Denn indem die Form, in die Materie hervorschreitend,	schon ausgedehnt wird,
+  so wird sie schwächer als jene, welche in einem verharret.
+  Denn was in sich eine Entfernung erduldet, tritt von sich selbst weg:
+  Stärke von Stärke, Wärme von Wärme, Kraft von Kraft,
+  so auch Schönheit von Schönheit.
+  Daher muss das Wirkende trefflicher sein als das Gewirkte.
+  Denn nicht die Unmusik macht den Musiker, sondern die Musik,
+  und die übersinnliche Musik bringt die Musik in sinnlichem Ton hervor.
+
+
+640. Goethe, Maximen und Reflexionen 640
+  Wollte aber jemand die Künste verachten, weil sie der Natur nachahmen,
+  so lässt sich darauf antworten,
+  dass die Naturen auch manches andere nachahmen,
+  dass ferner die Künste nicht das geradezu nachahmen,
+  was man mit Augen sieht, sondern auf jenes Vernünftige zurückgehen,
+  aus welchem die Natur bestehet und wonach sie handelt.
+
+
+641. Goethe, Maximen und Reflexionen 641
+  Ferner bringen auch die Künste vieles aus sich selbst hervor und
+  fügen andrerseits manches hinzu, was der Vollkommenheit abgehet,
+  indem sie die Schönheit in sich selbst haben.
+  So konnte Phidias den Gott bilden,
+  ob er gleich nichts sinnlich Erblickliches nachahmte,
+  sondern sich einen solchen in den Sinn fasste,
+  wie Zeus selbs erscheinen würde, wenn er unsern Augen begegnen möchte.
+
+
+642. Goethe, Maximen und Reflexionen 642
+  Man kann den Idealisten alter und neuer Zeit nicht verargen,
+  wenn sie so lebhaft auf Beherzigung des einen dringen,
+  woher alles entspringt und worauf alles wieder zurückzuführen wäre.
+  Denn freilich ist das belebende und ordnende Prinzip
+  in der Erscheinung dergestalt bedrängt, dass es sich kaum zu retten weiß.
+  Allein wir verkürzen uns an der andern Seite wieder,
+  wenn wir das Formende und die höhere Form selbst
+  in eine vor unserm äußern und innern Sinn verschwindende
+  Einheit zurückdrängen.
+
+
+643. Goethe, Maximen und Reflexionen 643
+  Wir Menschen sind auf Ausdehnung und Bewegung angewiesen;
+  diese beiden allgemeinen Formen sind es,
+  in welchen sich alle übrigen Formen, besonders die sinnlichen,
+  offenbaren. Eine geistige Form wird aber keineswegs verkürzt,
+  wenn sie in der Erscheinung hervortritt,
+  vorausgesetzt, dass ihr Hervortreten eine wahre Zeugung,
+  eine wahre Fortpflanzung sei.
+  Das Gezeugte ist nicht geringer als das Zeugende,
+  ja es ist der Vorteil lebendiger Zeugung,
+  dass das Gezeugte vortrefflicher sein kann als das Zeugende.
+
+
+644. Goethe, Maximen und Reflexionen 644
+  Dieses weiter auszuführen und vollkommen anschaulich, ja, was mehr ist,
+  durchaus praktisch zu machen würde von wichtigem Belang sein.
+  Eine umständliche, folgerechte Ausführung
+  aber möchte den Hörern übergroße Aufmerksamkeit zumuten.
+
+
+645. Goethe, Maximen und Reflexionen 645
+  Was einem angehört, wird man nicht los,
+  und wenn man es wegwürfe.
+
+
+646. Goethe, Maximen und Reflexionen 646
+  Die neueste Philosophie unserer westlichen Nachbarn gibt ein Zeugnis,
+  dass der Mensch, er gebärde sich, wie er wolle,
+  und so auch ganze Nationen 
+  immer wieder zum Angeborenen zurückkehren.
+  Und wie wollte das anders sein,
+  da ja dieses seine Natur und Lebensweise bestimmt?
+
+
+647. Goethe, Maximen und Reflexionen 647
+  Die Franzosen haben dem Materialismus entsagt
+  und den Uranfängen etwas mehr Geist und Leben zuerkannt;
+  sie haben sich vom Sensualismus losgemacht
+  und den Tiefen der menschlichen Natur
+  eine Entwickelung aus sich selbst eingestanden,
+  sie lassen in ihr eine produktive Kraft gelten
+  und suchen nicht alle Kunst aus Nachahmung
+  eines gewahr gewordenen Äußern zu erklären.
+  In solchen Richtungen mögen sie beharren.
+
+
+648. Goethe, Maximen und Reflexionen 648
+  Eine eklektische Philosophie kann es nicht geben,
   wohl aber eklektische Philosophen.
-  Ein Eklektiker aber ist ein jeder, der aus dem, was ihn umgibt, 
-  aus dem, was sich um ihn ereignet, 
-  sich dasjenige aneignet, was seiner Natur gemäß ist;
 
 
-90. Goethe, Maximen und Reflexionen
-  Verschiedene Sprüche der Alten, die man sich öfters zu wiederholen pflegt,
-  hatten eine ganz andere Bedeutung, 
+649. Goethe, Maximen und Reflexionen 649
+  Ein Eklektiker aber ist ein jeder, der aus dem, was ihn umgibt,
+  aus dem, was sich um ihn ereignet, sich dasjenige aneignet,
+  was seiner Natur gemäß ist;
+  und in diesem Sinne gilt alles,
+  was Bildung und Fortschreitung heißt, theoretisch oder praktisch genommen.
+
+
+650. Goethe, Maximen und Reflexionen 650
+  Zwei eklektische Philosophen könnten demnach die größten
+  Widersacher werden, wenn sie, antagonistisch geboren,
+  jeder von seiner Seite sich aus allen überlieferten Philosophien
+  dasjenige aneigneten, was ihm gemäß wäre.
+  Sehe man doch nur um sich her, so wird man immer finden,
+  dass jeder Mensch auf diese Weise verfährt
+  und deshalb nicht begreift,
+  warum er andere nicht zu seiner Meinung bekehren kann.
+
+
+651. Goethe, Maximen und Reflexionen 651
+  Besieht man es genauer, so findet sich, dass dem Geschichtschreiber
+  selbst die Geschichte nicht leicht historisch wird;
+  denn der jedesmalige Schreiber schreibt immer nur so,
+  als wenn er damals selbst dabei gewesen wäre,
+  nicht aber, was vormals war und damals bewegte.
+  Der Chronikenschreiber selbst deutet nur mehr oder weniger
+  auf die Beschränktheit, auf die Eigenheiten seiner Stadt,
+  seines Klosters wie seines Zeitalters.
+
+
+652. Goethe, Maximen und Reflexionen 652
+  Sogar ist es selten, dass jemand im höchsten Alter
+  sich selbst historisch wird
+  und dass ihm die Mitlebenden historisch werden,
+  so dass er mit niemanden mehr kontrovertieren mag noch kann.
+
+
+653. Goethe, Maximen und Reflexionen 653
+  Verschiedene Sprüche der Alten,
+  die man sich öfters zu wiederholen pflegt,
+  hatten eine ganz andere Bedeutung,
   als man ihnen in späteren Zeiten geben möchte.
 
 
-91. Goethe, Maximen und Reflexionen
-  Denn wenn wir uns dem Altertum gegenüberstellen 
-  und es ernstlich in der Absicht anschauen, uns daran zu bilden, 
-  so gewinnen wir die Empfindung, 
+654. Goethe, Maximen und Reflexionen 654
+  Das Wort, es solle kein mit der Geometrie Unbekannter
+  der Geometrie Fremder in die Schule des Philosophen treten,
+  heißt nicht etwa, man solle ein Mathematiker sein,
+  um ein Weltweiser zu werden.
+
+
+655. Goethe, Maximen und Reflexionen 655
+  Geometrie ist hier in ihren ersten Elementen gedacht,
+  wie sie uns im Euklid vorliegt
+  und wie wir sie einen jeden Anfänger beginnen lassen.
+  Alsdann aber ist sie die vollkommenste Vorbereitung,
+  ja Einleitung in die Philosophie.
+
+
+656. Goethe, Maximen und Reflexionen 656
+  Wenn der Knabe zu begreifen anfängt,
+  dass einem sichtbaren Punkte ein unsichtbarer vorhergehen müsse,
+  dass der nächste Weg zwischen zwei Punkten schon als Linie gedacht werde,
+  ehe sie mit dem Bleistift aufs Papier gezogen wird,
+  so fühlt er einen gewissen Stolz, ein Behagen. Und nicht mit Unrecht;
+  denn ihm ist die Quelle alles Denkens aufgeschlossen,
+  Idee und Verwirklichtes, "potentia et actu" ist ihm klar geworden;
+  der Philosoph entdeckt ihm nichts Neues,
+  dem Geometer war von seiner Seite der Grund alles Denkens aufgegangen.
+
+
+657. Goethe, Maximen und Reflexionen 657
+  Nehmen wir sodann das bedeutende Wort vor: "Erkenne dich selbst!",
+  so müssen wir es nicht im aszetischen Sinne auslegen.
+  Es ist keineswegs die Heautognosie unserer modernen Hypochondristen,
+  Humoristen und Heautontimorumenen damit gemeint;
+  sondern es heißt ganz einfach:
+  Gib einigermaßen acht auf dich selbst, nimm Notiz von dir selbst,
+  damit du gewahr werdest, wie du zu deinesgleichen
+  und der Welt zu stehen kommst!
+  Hierzu bedarf es keiner psychologischen Quälereien;
+  jeder tüchtige Mensch weiß und erfährt, was es heißen soll;
+  es ist ein guter Rat, der einem jeden praktisch zum größten Vorteil gedeiht.
+
+
+658. Goethe, Maximen und Reflexionen 658
+  Man denke sich das Große der Alten, vorzüglich der Sokratischen Schule,
+  dass sie Quelle und Richtschnur alles Lebens und Tuns	vor Augen stellt,
+  nicht zu leerer Spekulation, sondern zu Leben und Tat auffordert.
+
+
+659. Goethe, Maximen und Reflexionen 659
+  Wenn nun unser Schulunterricht immer auf das Altertum hinweist,
+  das Studium der griechischen und lateinischen Sprache fördert,
+  so können wir uns Glück wünschen,
+  dass diese zu einer höheren Kultur so nötigen Studien
+  niemals rückgängig werden.
+
+
+660. Goethe, Maximen und Reflexionen 660
+  Denn wenn wir uns dem Altertum gegenüberstellen
+  und es ernstlich in der Absicht anschauen, uns daran zu bilden,
+  so gewinnen wir die Empfindung,
   als ob wir erst eigentlich zu Menschen würden.
 
 
-92. Goethe, Maximen und Reflexionen
-  Wie Sokrates den sittlichen Menschen zu sich berief, 
-  damit dieser ganz einfach einigermaßen über sich selbst aufgeklärt würde, 
-  so traten Plato und Aristoteles gleichfalls als befugte Individuen 
-  vor die Natur; der eine, mit Geist und Gemüt sich ihr anzueignen, 
+661. Goethe, Maximen und Reflexionen 661
+  Der Schulmann, indem er Lateinisch zu schreiben und zu sprechen versucht,
+  kommt sich höher und vornehmer vor,
+  als er sich in seinem Alltagsleben dünken darf.
+
+
+662. Goethe, Maximen und Reflexionen 662
+  Der für dichterische und bildnerische Schöpfungen empfängliche Geist
+  fühlt sich dem Altertum gegenüber
+  in den anmutigst-ideellen Naturzustand versetzt,
+  und noch auf den heutigen Tag haben die Homerischen Gesänge die Kraft,
+  uns wenigstens für Augenblicke von der furchtbaren Last zu befreien,
+  welche die Überlieferung von mehreren tausend Jahren auf uns gewälzt hat.
+
+
+663. Goethe, Maximen und Reflexionen 663
+  Wie Sokrates den sittlichen Menschen zu sich berief,
+  damit dieser ganz einfach einigermaßen über sich selbst aufgeklärt würde,
+  so traten Plato und Aristoteles gleichfalls
+  als befugte Individuen vor die Natur;
+  der eine, mit Geist und Gemüt sich ihr anzueignen,
   der andere, mit Forscherblick und Methode sie für sich zu gewinnen.
+  Und so ist denn auch jede Annäherung,
+  die sich uns im ganzen und einzelnen an diese dreie möglich macht,
+  das Ereignis, was wir am freudigsten empfinden
+  und was unsere Bildung zu befördern sich jederzeit kräftig erweist.
 
 
-93. Goethe, Maximen und Reflexionen
+664. Goethe, Maximen und Reflexionen 664
+  Um sich aus der grenzenlosen Vielfachheit, Zerstückelung und Verwickelung
+  der modernen Naturlehre wieder ins Einfache zu retten,
+  muss man sich immer die Frage vorlegen:
+  Wie würde sich Plato gegen die Natur,
+  wie sie uns jetzt in ihrer größeren Mannigfaltigkeit,
+  bei aller gründlichen Einheit, erscheinen mag, benommen haben?
+
+
+665. Goethe, Maximen und Reflexionen 665
+  Denn wir glauben überzeugt zu sein, dass wir auf demselben Wege bis
+  zu den letzten Verzweigungen der Erkenntnis organisch gelangen
+  und von diesem Grund aus die Gipfel eines jeden Wissens uns
+  nach und nach aufbauen und befestigen können.
+  Wie uns hierbei die Tätigkeit des Zeitalters fördert und hindert,
+  ist freilich eine Untersuchung, die wir jeden Tag anstellen müssen,
+  wenn wir nicht das Nützliche abweisen und das Schädliche aufnehmen wollen.
+
+
+666. Goethe, Maximen und Reflexionen 666
+  Man rühmt das achtzehnte Jahrhundert,
+  dass es sich hauptsächlich mit Analyse abgegeben;
+  dem neunzehnten bleibt nun die Aufgabe,
+  die falschen obwaltenden Synthesen zu entdecken
+  und deren Inhalt aufs neue zu analysieren.
+
+
+667. Goethe, Maximen und Reflexionen 667
+  Es gibt nur zwei wahre Religionen,
+  die eine, die das Heilige, das in und um uns wohnt, ganz formlos,
+  die andere, die es in der schönsten Form anerkennt und anbetet.
+  Alles, was dazwischen liegt, ist Götzendienst.
+
+
+668. Goethe, Maximen und Reflexionen 668
+  Es ist nicht zu leugnen,
+  dass der Geist sich durch die Reformation zu befreien suchte;
+  die Aufklärung über griechisches und römisches Altertum brachte den Wunsch,
+  die Sehnsucht nach einem freieren, anständigeren und geschmackvolleren
+  Leben hervor. Sie wurde aber nicht wenig dadurch begünstigt,
+  dass das Herz in einen gewissen einfachen Naturstand zurückzukehren
+  und die Einbildungskraft sich zu konzentrieren trachtete.
+
+
+669. Goethe, Maximen und Reflexionen 669
+  Aus dem Himmel wurden auf einmal alle Heiligen vertrieben
+  und von einer göttlichen Mutter mit einem zarten Kinde Sinne,
+  Gedanken, Gemüt auf den Erwachsenen, sittlich Wirkenden,
+  ungerecht Leidenden gerichtet, welcher später als Halbgott verklärt,
+  als wirklicher Gott anerkannt und verehrt wurde.
+
+
+670. Goethe, Maximen und Reflexionen 670
+  Er stand vor einem Hintergrunde, wo der Schöpfer das Weltall
+  ausgebreitet hatte; von ihm ging eine geistige Wirkung aus,
+  seine Leiden eignete man sich als Beispiel zu,
+  und seine Verklärung war das Pfand für eine ewige Dauer.
+
+
+671. Goethe, Maximen und Reflexionen 671
+  So wie der Weihrauch einer Kohle Leben erfrischet,
+  so erfrischet das Gebet die Hoffnungen des Herzens.
+
+
+672. Goethe, Maximen und Reflexionen 672
+  Ich bin überzeugt, dass die Bibel immer schöner wird,
+  je mehr man sie versteht,
+  das heißt, je mehr man einsieht und anschaut,
+  dass jedes Wort, das wir allgemein auffassen
+  und im besondern auf uns anwenden,
+  nach gewissen Umständen, nach Zeit- und Ortsverhältnissen
+  einen eignen, besondern, unmittelbar individuellen Bezug gehabt hat.
+
+
+673. Goethe, Maximen und Reflexionen 673
+  Genau besehen, haben wir uns noch alle Tage zu reformieren
+  und gegen andere zu protestieren, wenn auch nicht in religiösem Sinne.
+
+
+674. Goethe, Maximen und Reflexionen 674
+  Wir haben das unabweichliche, täglich zu erneuernde,
+  grundernstliche Bestreben,
+  das Wort mit dem Empfundenen, Geschauten, Gedachten, Erfahrenen,
+  Imaginierten, Vernünftigen
+  möglichst unmittelbar zusammentreffend zu erfassen.
+
+
+675. Goethe, Maximen und Reflexionen 675
+  Jeder prüfe sich, und er wird finden,
+  dass dies viel schwerer sei, als man denken möchte;
+  denn leider sind dem Menschen die Worte gewöhnlich Surrogate:
+  er denkt und weiß es meistenteils besser, als er sich ausspricht.
+
+
+676. Goethe, Maximen und Reflexionen 676
+  Verharren wir aber in dem Bestreben,
+  das Falsche, Ungehörige, Unzulängliche,
+  was sich in uns und andern entwickeln oder einschleichen könnte,
+  durch Klarheit und Redlichkeit auf das möglichste zu beseitigen!
+
+
+677. Goethe, Maximen und Reflexionen 677
+  Mit den Jahren steigern sich die Prüfungen.
+
+
+678. Goethe, Maximen und Reflexionen 678
+  Wo ich aufhören muss, sittlich zu sein,
+  habe ich keine Gewalt mehr.
+
+
+679. Goethe, Maximen und Reflexionen 679
+  Zensur und Pressfreiheit werden immerfort miteinander kämpfen.
+  Zensur fordert und übt der Mächtige,
+  Pressfreiheit verlangt der Mindere.
+  Jener will weder in seinen Planen noch seiner Tätigkeit
+  durch	vorlautes, widersprechendes Wesen gehindert, sondern gehorcht sein;
+  diese wollen ihre Gründe aussprechen,	den Ungehorsam zu legitimieren.
+  Dieses wird man überall geltend finden.
+
+
+680. Goethe, Maximen und Reflexionen 680
+  Doch muss man auch hier bemerken,
+  dass der Schwächere, der leidende Teil
+  gleichfalls auf seine Weise die Preßfreiheit zu unterdrücken sucht,
+  und zwar in dem Falle, wenn er konspiriert und nicht verraten sein will.
+
+
+681. Goethe, Maximen und Reflexionen 681
   Man wird nie betrogen, man betrügt sich selbst.
 
-
-94. Goethe, Maximen und Reflexionen
-  Wir brauchen in unserer Sprache ein Wort, 
-  das, wie Kindheit sich zu Kind verhält, 
-  so das Verhältnis Volkheit zum Volke ausdrückt. 
-  Der Erzieher muss die Kindheit hören, nicht das Kind; 
-  der Gesetzgeber und Regent die Volkheit, nicht das Volk. 
-  Jene spricht immer dasselbe aus, ist vernünftig, beständig, rein und wahr;
-  dieses weiß niemals für lauter Wollen, was es will. 
-  Und in diesem Sinne soll und kann das Gesetz 
+682. Goethe, Maximen und Reflexionen 682
+  Wir brauchen in unserer Sprache ein Wort,
+  das, wie Kindheit sich zu Kind verhält,
+  so das Verhältnis Volkheit zum Volke ausdrückt.
+  Der Erzieher muss die Kindheit hören, nicht das Kind;
+  der Gesetzgeber und Regent die Volkheit, nicht das Volk.
+  Jene spricht immer dasselbe aus, ist vernünftig, beständig,
+  rein und wahr; dieses weiß niemals für lauter Wollen, was es will.
+  Und in diesem Sinne soll und kann das Gesetz
   der allgemein ausgesprochene Wille der Volkheit sein,
-  ein Wille, den die Menge niemals ausspricht, 
-  den aber der Verständige vernimmt 
+  ein Wille, den die Menge niemals ausspricht,
+  den aber der Verständige vernimmt
   und den der Vernünftige zu befriedigen weiß und der Gute gern befriedigt.
 
 
-95. Goethe, Maximen und Reflexionen
-  Wenn man den Tod abschaffen könnte, dagegen hätten wir nichts; 
-  die Todesstrafen abzuschaffen wird schwerhalten. 
+683. Goethe, Maximen und Reflexionen 683
+  Welches Recht wir zum Regiment haben, danach fragen wir nicht:
+  wir regieren. Ob das Volk ein Recht habe, uns abzusetzen,
+  darum bekümmern wir uns nicht: wir hüten uns nur,
+  dass es nicht in Versuchung komme, es zu tun.
+
+
+684. Goethe, Maximen und Reflexionen 684
+  Wenn man den Tod abschaffen könnte, dagegen hätten wir nichts;
+  die Todesstrafen abzuschaffen wird schwer halten.
   Geschieht es, so rufen wir sie gelegentlich wieder zurück.
 
 
-96. Goethe, Maximen und Reflexionen
+685. Goethe, Maximen und Reflexionen 685
+  Wenn sich die Sozietät des Rechtes begibt, die Todesstrafe zu verfügen,
+  so tritt die Selbsthülfe unmittelbar wieder hervor:
+  die Blutrache klopft an die Türe.
+
+
+686. Goethe, Maximen und Reflexionen 686
+  Alle Gesetze sind von Alten und Männern gemacht.
+  Junge und Weiber wollen die Ausnahme, Alte die Regel.
+
+
+687. Goethe, Maximen und Reflexionen 687
+  Der Verständige regiert nicht, aber der Verstand;
+  nicht der Vernünftige, sondern die Vernunft.
+
+
+688. Goethe, Maximen und Reflexionen 688
   Wen jemand lobt, dem stellt er sich gleich.
 
 
-97. Goethe, Maximen und Reflexionen
-  Es ist nicht genug zu wissen, man muss auch anwenden; 
+689. Goethe, Maximen und Reflexionen 689
+  Es ist nicht genug zu wissen, man muss auch anwenden;
   es ist nicht genug zu wollen, man muss auch tun.
 
 
-98. Goethe, Maximen und Reflexionen
-  Die wahren Weisen fragen, wie sich die Sache verhalte
-  in sich selbst und zu andern Dingen, unbekümmert um den Nutzen, 
+690. Goethe, Maximen und Reflexionen 690
+  Es gibt keine patriotische Kunst und keine patriotische Wissenschaft.
+  Beide gehören wie alles hohe Gute der ganzen Welt an
+  und können nur durch allgemeine freie Wechselwirkung
+  aller zugleich Lebenden in steter Rücksicht auf das,
+  was uns vom Vergangenen übrig und bekannt ist, gefördert werden.
+
+
+691. Goethe, Maximen und Reflexionen 691
+  Wissenschaften entfernen sich im ganzen immer vom Leben
+  und kehren nur durch einen Umweg wieder dahin zurück.
+
+
+692. Goethe, Maximen und Reflexionen 692
+  Denn sie sind eigentlich Kompendien des Lebens: sie bringen die
+  äußern und innern Erfahrungen ins Allgemeine, in einen Zusammenhang.
+
+
+693. Goethe, Maximen und Reflexionen 693
+  Das Interesse an ihnen wird im Grunde nur in einer besonderen Welt,
+  in der wissenschaftlichen, erregt;
+  denn dass man auch die übrige Welt dazu beruft
+  und ihr davon Notiz gibt, wie es in der neuern Zeit geschieht,
+  ist ein Missbrauch und bringt mehr Schaden als Nutzen.
+
+
+694. Goethe, Maximen und Reflexionen 694
+  Nur durch eine erhöhte Praxis sollten die Wissenschaften
+  auf die äußere Welt wirken;
+  denn eigentlich sind sie alle esoterisch
+  und können nur durch Verbessern irgendeines Tuns exoterisch werden.
+  Alle übrige Teilnahme führt zu nichts.
+
+
+695. Goethe, Maximen und Reflexionen 695
+  Die Wissenschaften, auch in ihrem innern Kreise betrachtet,
+  werden mit augenblicklichem, jedesmaligem Interesse behandelt.
+  Ein starker Anstoß, besonders von etwas Neuem und Unerhörtem
+  oder wenigstens mächtig Gefördertem, erregt eine allgemeine Teilnahme,
+  die jahrelang dauern kann und die besonders in den letzten Zeiten
+  sehr fruchtbar geworden ist.
+
+
+696. Goethe, Maximen und Reflexionen 696
+  Ein bedeutendes Faktum,
+  ein geniales Aperçu beschäftigt eine sehr große Anzahl Menschen,
+  erst nur, um es zu kennen, dann um es zu erkennen,
+  dann es zu bearbeiten und weiterzuführen.
+
+
+697. Goethe, Maximen und Reflexionen 697
+  Die Menge fragt bei einer jeden neuen bedeutenden Erscheinung,
+  was sie nutze, und sie hat nicht unrecht;
+  denn sie kann bloß durch den Nutzen den Wert einer Sache gewahr werden.
+
+
+698. Goethe, Maximen und Reflexionen 698
+  Die wahren Weisen fragen, wie sich die Sache verhalte in sich selbst
+  und zu andern Dingen, unbekümmert um den Nutzen,
   das heißt um die Anwendung auf das Bekannte und zum Leben Notwendige,
-  welche ganz andere Geister, scharfsinnige, lebenslustige, 
+  welche ganz andere Geister, scharfsinnige, lebenslustige,
   technisch geübte und gewandte, schon finden werden.
 
 
-99. Goethe, Maximen und Reflexionen
-  Lichtenbergs Schriften können wir uns als der wunderbarsten Wünschelrute
-  bedienen: wo er einen Spaß macht, liegt ein Problem verborgen.
+699. Goethe, Maximen und Reflexionen 699
+  Die Afterweisen suchen von jeder neuen Entdeckung
+  nur so geschwind als möglich für sich einigen Vorteil zu ziehen,
+  indem sie einen eitlen Ruhm bald in Fortpflanzung, bald in Vermehrung,
+  bald in Verbesserung, geschwinder Besitznahme,
+  vielleicht gar durch Präokkupation,
+  zu erwerben suchen und durch solche Unreifheiten die wahre Wissenschaft
+  unsicher machen und verwirren, ja ihre schönste Folge,
+  die praktische Blüte derselben, offenbar verkümmern.
 
 
-100. Goethe, Maximen und Reflexionen
+700. Goethe, Maximen und Reflexionen 700
+  Das schädlichste Vorurteil ist,
+  dass irgend eine Art Naturuntersuchung mit dem Bann belegt werden könne.
+
+
+701. Goethe, Maximen und Reflexionen 701
+  Jeder Forscher muss sich durchaus ansehen als einer,
+  der zu einer Jury berufen ist. Er hat nur darauf zu achten,
+  inwiefern der Vortrag vollständig sei
+  und durch klare Belege auseinandergesetzt.
+  Er fasst hiernach seine Überzeugung zusammen und gibt seine Stimme,
+  es sei nun, dass seine Meinung mit der des Referenten übereintreffe,
+  oder nicht.
+
+
+702. Goethe, Maximen und Reflexionen 702
+  Dabei bleibt er ebenso beruhigt, wenn ihm die Majorität beistimmt,
+  als wenn er sich in der Minorität befindet;
+  denn er hat das Seinige getan,
+  er hat seine Überzeugung ausgesprochen,
+  er ist nicht Herr über die Geister noch über die Gemüter.
+
+
+703. Goethe, Maximen und Reflexionen 703
+  In der wissenschaftlichen Welt haben aber diese Gesinnungen
+  niemals gelten wollen;
+  durchaus ist es auf Herrschen und Beherrschen angesehen,
+  und weil sehr wenige Menschen eigentlich selbständig sind,
+  so zieht die Menge den Einzelnen nach sich.
+
+704. Goethe, Maximen und Reflexionen 704
+  Die Geschichte der Philosophie, der Wissenschaften, der Religion,
+  alles zeigt, dass die Meinungen massenweise sich verbreiten,
+  immer aber diejenige den Vorrang gewinnt, welche fasslicher,
+  das heißt dem menschlichen Geiste in seinem gemeinen Zustande
+  gemäß und bequem ist.
+  Ja derjenige, der sich in höherem Sinne ausgebildet,
+  kann immer voraussetzen, dass er die Majorität gegen sich habe.
+
+
+705. Goethe, Maximen und Reflexionen 705
+  Wäre die Natur in ihren leblosen Anfängen nicht so gründlich stereometrisch,
+  wie wollte sie zuletzt zum unberechenbaren und unermesslichen Leben gelangen?
+
+
+706. Goethe, Maximen und Reflexionen 706
+  Der Mensch an sich selbst, insofern er sich seiner gesunden Sinne bedient,
+  ist der größte und genaueste physikalische Apparat,
+  den es geben kann;
+  und das ist eben das größte Unheil der neuern Physik,
+  dass man die Experimente gleichsam vom Menschen abgesondert hat
+  und bloß in dem, was künstliche Instrumente zeigen, die Natur erkennen,
+  ja, was sie leisten kann, dadurch beschränken und beweisen will.
+
+
+707. Goethe, Maximen und Reflexionen 707
+  Ebenso ist es mit dem Berechnen.
+  Es ist vieles wahr, was sich nicht berechnen lässt,
+  sowie sehr vieles,
+  was sich nicht bis zum entschiedenen Experiment bringen lässt.
+
+
+708. Goethe, Maximen und Reflexionen 708
+  Dafür steht ja aber der Mensch so hoch,
+  dass sich das sonst Undarstellbare in ihm darstellt.
+  Was ist denn eine Saite und alle mechanische Teilung derselben
+  gegen das Ohr des Musikers? Ja man kann sagen:
+  Was sind die elementaren Erscheinungen der Natur selbst gegen den Menschen,
+  der sie alle erst bändigen und modifizieren muss,
+  um sie sich einigermaßen assimilieren zu können?
+
+
+709. Goethe, Maximen und Reflexionen 709
+  Es ist von einem Experiment zu viel gefordert, wenn es alles leisten soll.
+  Konnte man doch die Elektrizität erst nur durch Reiben darstellen,
+  deren höchste Erscheinung jetzt durch bloße Berührung hervorgebracht wird.
+
+
+710. Goethe, Maximen und Reflexionen 710
+  Wie man der französischen Sprache niemals den Vorzug streitig
+  machen wird, als ausgebildete Hof- und Weltsprache,
+  sich immer mehr aus- und fortbildend, zu wirken,
+  so wird es niemand einfallen, das Verdienst der Mathematiker
+  gering zu schätzen, welches sie, in ihrer Sprache
+  die wichtigsten Angelegenheiten verhandelnd, sich um die Welt erwerben,
+  indem sie alles, was der Zahl und dem Maß im höchsten Sinne unterworfen ist,
+  zu regeln, zu bestimmen und zu entscheiden wissen.
+
+
+711. Goethe, Maximen und Reflexionen 711
+  Jeder Denkende, der seinen Kalender ansieht, nach seiner Uhr blickt,
+  wird sich erinnern, wem er diese Wohltaten schuldig ist.
+  Wenn man sie aber auch auf ehrfurchtsvolle Weise
+  in Zeit und Raum gewähren lässt,
+  so werden sie erkennen, dass wir etwas gewahr werden,
+  was weit darüber hinausgeht, welches allen angehört
+  und ohne welches sie selbst weder tun noch wirken könnten:
+  Idee und Liebe.
+
+
+712. Goethe, Maximen und Reflexionen 712
+  "Wer weiß etwas von Elektrizität", sagte ein heiterer Naturforscher,
+  "als wenn er im Finstern eine Katze streichelt
+  oder Blitz und Donner neben ihm niederleuchten und rasseln?
+  Wie viel und wie wenig weiß er alsdann davon?"
+
+
+713. Goethe, Maximen und Reflexionen 713
+  Lichtenbergs Schriften
+  können wir uns als der wunderbarsten Wünschelrute bedienen:
+  wo er einen Spaß macht, liegt ein Problem verborgen.
+
+
+714. Goethe, Maximen und Reflexionen 714
+  In den großen leeren Weltraum zwischen Mars und Jupiter
+  legte er auch einen heitren Einfall.
+  Als Kant sorgfältig bewiesen hatte,
+  dass die beiden genannten Planeten alles aufgezehrt
+  und sich zugeeignet hätten,
+  was nur in diesen Räumen zu finden gewesen von Materie,
+  sagte jener scherzhaft nach seiner Art:
+  "Warum sollte es nicht auch unsichtbare Welten geben?"
+  Und hat er nicht vollkommen wahr gesprochen? 
+  Sind die neu entdeckten Planeten nicht der ganzen Welt unsichtbar,
+  außer  den wenigen Astronomen,
+  denen wir auf Wort und Rechnung glauben müssen?
+
+
+715. Goethe, Maximen und Reflexionen 715
   Einer neuen Wahrheit ist nichts schädlicher als ein alter Irrtum.
 
 
-101. Goethe, Maximen und Reflexionen
-  Für die vorzüglichste Frau wird diejenige gehalten, 
+716. Goethe, Maximen und Reflexionen 716
+  Die Menschen sind durch die unendlichen Bedingungen des Erscheinens
+  dergestalt obruiert, dass sie das eine Urbedingende nicht gewahren können.
+
+
+717. Goethe, Maximen und Reflexionen 717
+  Wenn Reisende ein sehr großes Ergötzen auf ihren Bergklettereien empfinden,
+  so ist für mich etwas Barbarisches, ja Gottloses in dieser Leidenschaft.
+  Berge geben uns wohl den Begriff von Naturgewalt,
+  nicht aber von Wohltätigkeit der Vorsehung.
+  Zu welchem Gebrauch sind sie wohl dem Menschen?
+  Unternimmt er, dort zu wohnen, so wird im Winter eine Schneelawine,
+  im Sommer ein Bergrutsch sein Haus begraben oder fortschieben;
+  seine Herden schwemmt der Gießbach weg,
+  seine Kornscheuern die Windstürme.
+  Macht er sich auf den Weg, so ist jeder Aufstieg die Qual des Sisyphus,
+  jeder Niederstieg der Sturz Vulkans;
+  sein Pfad ist täglich von Steinen verschüttet,
+  der Gießbach unwegsam für Schiffahrt.
+  Finden auch seine Zwergherden notdürftige Nahrung,
+  oder sammelt er sie ihnen kärglich:
+  entweder die Elemente	entreißen sie ihm oder wilde Bestien.
+  Er führt ein einsam-kümmerlich Pflanzenleben
+  wie das Moos auf einem Grabstein, ohne Bequemlichkeit und ohne Gesellschaft.
+  Und diese Zickzackkämme, diese widerwärtigen Felsenwände,
+  diese ungestalteten Granitpyramiden, welche die schönsten Weltbreiten
+  mit den Schrecknissen des Nordpols bedecken,
+  wie sollte sich ein wohlwollender Mann daran gefallen
+  und ein Menschenfreund sie preisen?
+
+
+718. Goethe, Maximen und Reflexionen 718
+  Auf diese heitere Paradoxie eines würdigen Mannes wäre zu sagen,
+  dass, wenn es Gott und der Natur gefallen hätte, den Urgebirgsknoten
+  von Nubien durchaus nach Westen bis an das große Meer zu
+  entwickeln und fortzusetzen, ferner diese Gebirgsreihe einigemal von
+  Norden nach Süden zu durchschneiden, sodann Täler entstanden sein würden,
+  worin gar mancher Urvater Abraham ein Kanaan,
+  mancher Albert Julius eine Felsenburg würde gefunden haben,
+  wo denn seine Nachkommen, leicht mit den Sternen rivalisierend,
+  sich hätten vermehren können.
+
+
+719. Goethe, Maximen und Reflexionen 719
+  Steine sind stumme Lehrer, sie machen den Beobachter stumm,
+  und das Beste, was man von ihnen lernt, ist nicht mitzuteilen.
+
+
+720. Goethe, Maximen und Reflexionen 720
+  Was ich recht weiß, weiß ich nur mir selbst;
+  ein ausgesprochenes Wort fördert selten,
+  es erregt meistens Widerspruch, Stocken und Stillstehen.
+
+
+721. Goethe, Maximen und Reflexionen 721
+  Die Kristallographie, als Wissenschaft betrachtet,
+  gibt zu ganz eigenen Ansichten Anlass. Sie ist nicht produktiv,
+  sie ist nur sie selbst und hat keine Folgen, besonders nunmehr,
+  da man so manche isomorphische Körper angetroffen hat,
+  die sich ihrem Gehalte nach ganz verschieden erweisen.
+  Da sie eigentlich nirgends anwendbar ist,
+  so hat sie sich in dem hohen Grade in sich selbst ausgebildet.
+  Sie gibt dem Geist eine gewisse beschränkte Befriedigung
+  und ist in ihren Einzelheiten so mannigfaltig,
+  dass man sie unerschöpflich nennen kann;
+  deswegen sie auch vorzügliche Menschen
+  so entschieden und lange an sich festhält.
+
+
+722. Goethe, Maximen und Reflexionen 722
+  Etwas Mönchisch-Hagestolzenartiges hat die Kristallographie
+  und ist daher sich selbst genug.
+  Von praktischer Lebenseinwirkung ist sie nicht;
+  denn die köstlichsten Erzeugnisse ihres Gebiets,
+  die kristallinischen Edelsteine, müssen erst zugeschliffen werden,
+  ehe wir unsere Frauen damit schmücken können.
+
+
+723. Goethe, Maximen und Reflexionen 723
+  Ganz das Entgegengesetzte ist von der Chemie zu sagen,
+  welche von der ausgebreitetsten Anwendung
+  und von dem grenzenlosesten Einfluss aufs Leben sich erweist.
+
+
+724. Goethe, Maximen und Reflexionen 724
+  Der Begriff vom Entstehen ist uns ganz und gar versagt;
+  daher wir, wenn wir etwas werden sehen, denken,
+  dass es schon dagewesen sei.
+  Deshalb das System der Einschachtelung uns begreiflich vorkommt.
+
+
+725. Goethe, Maximen und Reflexionen 725
+  Wie manches Bedeutende sieht man aus Teilen zusammensetzen:
+  man betrachte die Werke der Baukunst;
+  man sieht manches sich regel- und unregelmäßig anhäufen.
+  Daher ist uns der atomistische Begriff nah und bequem zur Hand;
+  deshalb wir uns nicht scheuen, ihn auch in organischen Fällen anzuwenden.
+
+
+726. Goethe, Maximen und Reflexionen 726
+  Wer den Unterschied des Phantastischen und Ideellen,
+  des Gesetzlichen und Hypothetischen nicht zu fassen weiß,
+  der ist als Naturforscher in einer üblen Lage.
+
+
+727. Goethe, Maximen und Reflexionen 727
+  Es gibt Hypothesen, wo Verstand und Einbildungskraft
+  sich an die Stelle der Idee setzen.
+
+
+728. Goethe, Maximen und Reflexionen 728
+  Man tut nicht wohl, sich allzulange im Abstrakten aufzuhalten.
+  Das Esoterische schadet nur, indem es exoterisch zu werden trachtet.
+  Leben wird am besten durchs Lebendige belehrt.
+
+
+729. Goethe, Maximen und Reflexionen 729
+  Für die vorzüglichste Frau wird diejenige gehalten,
   welche ihren Kindern den Vater, wenn er abgeht, zu ersetzen imstande wäre.
 
 
-102. Goethe, Maximen und Reflexionen
-  "Nachdenken und Handeln verglich einer mit Rahel und Lea: 
-  die eine war anmutiger, die andere fruchtbarer."
+730. Goethe, Maximen und Reflexionen 730
+  Der unschätzbare Vorteil, welchen die Ausländer gewinnen,
+  indem sie unsere Literatur erst jetzt gründlich studieren, ist der,
+  dass sie über die Entwickelungskrankheiten,
+  durch die wir nun schon beinahe während dem Laufe des Jahrhunderts
+  durchgehen mussten, auf einmal weggehoben werden und,
+  wenn das Glück gut ist,
+  ganz eigentlich daran sich auf das wünschenswerteste ausbilden.
 
 
-103. Goethe, Maximen und Reflexionen
-  "Könnte man Zeit wie bares Geld beiseite legen, ohne sie zu benutzen, 
-  so wäre dies eine Art von Entschuldigung für den Müßiggang der halben Welt, 
-  aber keine völlige; denn es wäre ein Haushalt, 
-  wo man von dem Hauptstamm lebte, ohne sich um die Interessen zu bemühen."
+731. Goethe, Maximen und Reflexionen 731
+  Wo die Franzosen des achtzehnten Jahrhunderts zerstörend sind,
+  ist Wieland neckend.
 
 
-104. Goethe, Maximen und Reflexionen
-  Mut und Bescheidenheit sind die unzweideutigsten Tugenden; 
+732. Goethe, Maximen und Reflexionen 732
+  Das poetische Talent ist dem Bauer so gut gegeben wie dem Ritter;
+  es kommt nur darauf an, dass jeder seinen Zustand ergreife
+  und ihn nach Würden behandle.
+
+
+733. Goethe, Maximen und Reflexionen 733
+  Was sind Tragödien anders als versifizierte Passionen solcher Leute,
+  die sich aus den äußern Dingen ich weiß nicht was machen?
+
+
+734. Goethe, Maximen und Reflexionen 734
+  Das Wort Schule, wie man es in der Geschichte der bildenden Kunst nimmt,
+  wo man von einer florentinischen, römischen und venezianischen Schule
+  spricht, wird sich künftighin nicht mehr auf das deutsche Theater
+  anwenden lassen. Es ist ein Ausdruck,
+  dessen man sich vor dreißig, vierzig Jahren vielleicht noch bedienen konnte,
+  wounter beschränkteren Umständen sich eine natur- und kunstgemäße
+  Ausbildung noch denken ließ;
+  denn, genau besehen, gilt auch in der bildenden Kunst
+  das Wort Schule nur von den Anfängen:
+  denn sobald sie treffliche Männer hervorgebracht hat,
+  wirkt sie alsobald in die Weite.
+  Florenz beweist seinen Einfluss über Frankreich und Spanien;
+  Niederländer und Deutsche lernen von den Italienern
+  und erwerben sich mehr Freiheit in Geist und Sinn,
+  anstatt dass die Südländer von ihnen eine glücklichere Technik
+  und die genauste Ausführung von Norden her gewinnen.
+
+
+735. Goethe, Maximen und Reflexionen 735
+  Das deutsche Theater befindet sich in der Schlussepoche,
+  wo eine allgemeine Bildung dergestalt verbreitet ist,
+  dass sie keinem einzelnen Orte mehr angehören,
+  von keinem besondern Punkte mehr ausgehen kann.
+
+
+736. Goethe, Maximen und Reflexionen 736
+  Der Grund aller theatralischen Kunst wie einer jeden andern
+  ist das Wahre, das Naturgemäße. Je bedeutender dieses ist,
+  auf je höherem Punkte Dichter und Schauspieler es zu fassen verstehen,
+  eines desto höheren Ranges wird sich die Bühne zu rühmen haben.
+  Hierbei gereicht es Deutschland zu einem großen Gewinn,
+  dass der Vortrag trefflicher Dichtung allgemeiner geworden ist
+  und auch außerhalb des Theaters sich verbreitet hat.
+
+
+737. Goethe, Maximen und Reflexionen 737
+  Auf der Rezitation ruht alle Deklamation und Mimik.
+  Da nun beim Vorlesen jene ganz allein zu beachten und zu üben ist,
+  so bleibt offenbar, dass Vorlesungen die Schule des Wahren und Natürlichen
+  bleiben müssen, wenn Männer, die ein solches Geschäft übernehmen,
+  von dem Wert, von der Würde ihres Berufs durchdrungen sind.
+
+
+738. Goethe, Maximen und Reflexionen 738
+  Shakespeare und Calderón haben solchen Vorlesungen einen
+  glänzenden Eingang gewährt; jedoch bedenke man immer dabei,
+  ob nicht hier grade das imposante Fremde,
+  das bis zum Unwahren gesteigerte Talent der deutschen Ausbildung
+  schädlich werden müsse!
+
+
+739. Goethe, Maximen und Reflexionen 739
+  hat aber eine jede Nation eine von dem allgemeinen Eigentümlichen
+  der Menschheit abweichende besondere Eigenheit,
+  die uns zwar anfänglich widerstreben mag, aber zuletzt,
+  wenn wir's uns gefallen ließen, wenn wir uns derselben hingäben,
+  unsere eigene charakteristische Natur
+  zu überwältigen und zu erdrücken vermöchte.
+
+
+740. Goethe, Maximen und Reflexionen 740
+  Wieviel Falsches Shakespeare und besonders Calderón über uns gebracht,
+  wie diese zwei großen Lichter des poetischen Himmels
+  für uns zu Irrlichtern geworden,
+  mögen die Literatoren der Folgezeit historisch bemerken.
+
+
+741. Goethe, Maximen und Reflexionen 741
+  Eine völlige Gleichstellung mit dem spanischen Theater
+  kann ich nirgends billigen.
+  Der herrliche Calderón hat so viel Konventionelles,
+  dass einem redlichen Beobachter schwer wird,
+  das große Talent des Dichters durch die Theateretikette durchzuerkennen.
+  Und bringt man so etwas irgend einem Publikum,
+  so setzt man bei demselben immer guten Willen voraus,
+  dass es geneigt sei, auch das Weltfremde zuzugeben,
+  sich an ausländischem Sinn, Ton und Rhythmus zu ergötzen
+  und aus dem, was ihm eigentlich gemäß ist, eine Zeitlang herauszugehen.
+
+
+742. Goethe, Maximen und Reflexionen 742
+  Yorick-Sterne war der schönste Geist, der je gewirkt hat;
+  wer ihn liest, fühlt sich sogleich frei und schön;
+  sein Humor ist unnachahmlich,
+  und nicht jeder Humor befreit die Seele.
+
+
+743. Goethe, Maximen und Reflexionen 743
+  Mäßigkeit und klarer Himmel sind Apollo und die Musen.
+
+744. Goethe, Maximen und Reflexionen 744
+  Das Gesicht ist der edelste Sinn.
+  Die andern vier belehren uns nur durch die Organe des Takts:
+  wir hören, wir fühlen, riechen und betasten alles durch Berührung;
+  das Gesicht aber steht unendlich höher,
+  verfeint sich über die Materie und nähert sich den Fähigkeiten des Geistes.
+
+
+745. Goethe, Maximen und Reflexionen 745
+  Setzten wir uns an die Stelle anderer Personen,
+  so würden Eifersucht und Hass wegfallen,
+  die wir so oft gegen sie empfinden;
+  und setzten wir andere an unsere Stelle,
+  so würde Stolz und Einbildung gar sehr abnehmen.
+
+
+746. Goethe, Maximen und Reflexionen 746
+  Nachdenken und Handeln verglich einer mit Rahel und Lea:
+  die eine war anmutiger, die andere fruchtbarer.
+
+
+747. Goethe, Maximen und Reflexionen 747
+  Nichts im Leben, außer Gesundheit und Tugend,
+  ist schätzenswerter als Kenntnis und Wissen;
+  auch ist nichts so leicht zu erreichen und so wohlfeil zu erhandeln:
+  die ganze Arbeit ist Ruhigsein und die Ausgabe Zeit,
+  die wir nicht retten, ohne sie auszugeben.
+
+
+748. Goethe, Maximen und Reflexionen 748
+  Könnte man Zeit wie bares Geld beiseite legen, ohne sie zu benutzen,
+  so wäre dies eine Art von Entschuldigung für den Müßiggang der halben Welt,
+  aber keine völlige; denn es wäre ein Haushalt,
+  wo man von dem Hauptstamm lebte, ohne sich um die Interessen zu bemühen.
+
+
+749. Goethe, Maximen und Reflexionen 749
+  Neuere Poeten tun viel Wasser in die Tinte.
+
+750. Goethe, Maximen und Reflexionen 750
+  Unter mancherlei wunderlichen Albernheiten der Schulen kommt
+  mir keine so vollkommen lächerlich vor als der Streit über die Echtheit
+  alter Schriften, alter Werke. Ist es denn der Autor oder die Schrift,
+  die wir bewundern oder tadeln? Es ist immer nur der Autor,
+  den wir vor uns haben;
+  was kümmern uns die Namen, wenn wir ein Geisteswerk auslegen?
+
+
+751. Goethe, Maximen und Reflexionen 751
+  Wer will behaupten, dass wir Virgil oder Homer vor uns haben,
+  indem wir die Worte lesen, die ihm zugeschrieben werden?
+  Aber die Schreiber haben wir vor uns, und was haben wir weiter nötig?
+  Und ich denke fürwahr, die Gelehrten,
+  die in dieser unwesentlichen Sache so genau zu Werke gehen,
+  scheinen mir nicht weiser als ein sehr schönes Frauenzimmer,
+  das mich einmal mit möglichst süßem Lächlen befragte,
+  wer denn der Autor von Shakespeares Schauspielen gewesen sei.
+
+
+752. Goethe, Maximen und Reflexionen 752
+  Es ist besser, das geringste Ding von der Welt zu tun,
+  als eine halbe Stunde für gering halten.
+
+
+753. Goethe, Maximen und Reflexionen 753
+  Mut und Bescheidenheit sind die unzweideutigsten Tugenden;
   denn sie sind von der Art, dass Heuchelei sie nicht nachahmen kann.
+  Auch haben sie die Eigenschaft gemein,
+  sich beide durch dieselbe Farbe auszudrücken.
 
 
-105. Goethe, Maximen und Reflexionen
-  "Unter allem Diebsgesindel sind die Narren die schlimmsten: 
-  sie rauben euch beides, Zeit und Stimmung."
+754. Goethe, Maximen und Reflexionen 754
+  Unter allem Diebsgesindel sind die Narren die schlimmsten:
+  sie rauben euch beides, Zeit und Stimmung.
 
 
-106. Goethe, Maximen und Reflexionen
-  Der Deutsche läuft keine größere Gefahr, 
-  als sich mit und an seinen Nachbarn zu steigern. 
-  Es ist vielleicht keine Nation geeigneter, sich aus sich selbst zu entwickeln; 
-  deswegen es ihr zum größten Vorteil gereichte, 
+755. Goethe, Maximen und Reflexionen 755
+  Uns selbst zu achten leitet unsre Sittlichkeit;
+  andere zu schätzen regiert unser Betragen.
+
+
+756. Goethe, Maximen und Reflexionen 756
+  Kunst und Wissenschaft sind Worte, die man so oft braucht
+  und deren genauer Unterschied selten verstanden wird;
+  man gebraucht oft eins für das andere.
+
+
+757. Goethe, Maximen und Reflexionen 757
+  Auch gefallen mir die Definitionen nicht, die man davon gibt.
+  Verglichen fand ich irgendwo Wissenschaft mit Witz, Kunst mit Humor.
+  Hierin find ich mehr Einbildungskraft als Philosophie:
+  es gibt uns wohl einen Begriff von dem Unterschied beider,
+  aber keinen von dem Eigentümlichen einer jeden.
+
+
+758. Goethe, Maximen und Reflexionen 758
+  Ich denke,
+  Wissenschaft könnte man die Kenntnis des Allgemeinen nennen,
+  das abgezogene Wissen;
+  Kunst dagegen wäre Wissenschaft, zur Tat verwendet.
+  Wissenschaft wäre Vernunft und Kunst ihr Mechanismus;
+  deshalb man sie auch praktische Wissenschaft nennen könnte.
+  Und so wäre denn endlich Wissenschaft das Theorem, Kunst das Problem.
+
+
+759. Goethe, Maximen und Reflexionen 759
+  Vielleicht wird man mir einwenden:
+  Man hält die Poesie für Kunst, und doch ist sie nicht mechanisch.
+  Aber ich leugne, dass sie eine Kunst sei;
+  auch ist sie keine Wissenschaft.
+  Künste und Wissenschaften erreicht man durch Denken,
+  Poesie nicht; denn diese ist Eingebung:
+  sie war in der Seele empfangen, als sie sich zuerst regte.
+  Man sollte sie weder Kunst noch Wissenschaft nennen,
+  sondern Genius.
+
+
+760. Goethe, Maximen und Reflexionen 760
+  Auch jetzt im Augenblick sollte jeder Gebildete Sternes Werke
+  wieder zur Hand nehmen, damit auch das neunzehnte Jahrhundert erführe,
+  was wir ihm schuldig sind, und einsähe, was wir ihm schuldig werden können.
+
+
+761. Goethe, Maximen und Reflexionen 761
+  In dem Erfolg der Literaturen wird das frühere Wirksame verdunkelt,
+  und das daraus entsprungene Gewirkte nimmt überhand;
+  deswegen man wohltut, von Zeit zu Zeit wieder zurückzublicken.
+  Was an uns original ist, wird am besten erhalten und belobt,
+  wenn wir unsre Altvordern nicht aus den Augen verlieren.
+
+
+762. Goethe, Maximen und Reflexionen 762
+  Möge das Studium der griechischen und römischen Literatur
+  immerfort die Basis der höhern Bildung bleiben!
+
+
+763. Goethe, Maximen und Reflexionen 763
+  Chinesische, indische, ägyptische Altertümer sind immer nur Kuriositäten;
+  es ist sehr wohlgetan, sich und die Welt damit bekannt zu machen;
+  zu sittlicher und ästhetischer Bildung aber werden sie uns wenig fruchten.
+
+
+764. Goethe, Maximen und Reflexionen 764
+  Der Deutsche läuft keine größere Gefahr,
+  als sich mit und an seinen Nachbarn zu steigern.
+  Es ist vielleicht keine Nation geeigneter,
+  sich aus sich selbst zu entwickeln;
+  deswegen es ihr zum größten Vorteil gereichte,
   dass die Außenwelt von ihr so spät Notiz nahm.
 
 
-107. Goethe, Maximen und Reflexionen
+765. Goethe, Maximen und Reflexionen 765
+  Sehen wir unsre Literatur über ein halbes Jahrhundert zurück,
+  so finden wir, dass nichts um der Fremden willen geschehen ist.
+
+
+766. Goethe, Maximen und Reflexionen 766
+  Dass Friedrich der Große aber gar nichts von ihnen wissen wollte,
+  das verdross die Deutschen doch, und sie taten das möglichste,
+  als etwas vor ihm zu erscheinen.
+
+
+767. Goethe, Maximen und Reflexionen 767
+  Jetzt, da sich eine Weltliteratur einleitet, hat, genau besehen,
+  der Deutsche am meisten zu verlieren;
+  er wird wohltun, dieser Warnung nachzudenken.
+
+
+768. Goethe, Maximen und Reflexionen 768
+  Auch einsichtige Menschen bemerken nicht,
+  dass sie dasjenige erklären wollen,
+  was Grunderfahrungen sind,
+  bei denen man sich beruhigen müsste.
+
+
+769. Goethe, Maximen und Reflexionen 769
+  Doch mag dies auch vorteilhaft sein,
+  sonst unterließe man das Forschen allzu früh.
+
+
+770. Goethe, Maximen und Reflexionen 770
+  Wer sich von nun an nicht auf eine Kunst oder Handwerk legt,
+  der wird übel dran sein.
+  Das Wissen fördert nicht mehr bei dem schnellen Umtriebe der Welt;
+  bis man von allem Notiz genommen hat, verliert man sich selbst.
+
+
+771. Goethe, Maximen und Reflexionen 771
+  Eine allgemeine Ausbildung dringt uns jetzt die Welt ohnehin auf,
+  wir brauchen uns deshalb darum nicht weiter zu bemühen;
+  das Besondere müssen wir uns zueignen.
+
+
+772. Goethe, Maximen und Reflexionen 772
   Die größten Schwierigkeiten liegen da, wo wir sie nicht suchen.
 
 
-108. Goethe, Maximen und Reflexionen
-  "Sei nicht ungeduldig, wenn man deine Argumente nicht gelten läßt."
+773. Goethe, Maximen und Reflexionen 773
+  Lorenz Sterne war geboren 1713, starb 1768.
+  Um ihn zu begreifen, darf man die sittliche und kirchliche Bildung
+  seiner Zeit nicht unbeachtet lassen;
+  dabei hat man wohl zu bedenken, dass er Lebensgenosse Warburtons gewesen.
 
 
-109. Goethe, Maximen und Reflexionen
-  Wir sind naturforschend Pantheisten, 
-  dichtend Polytheisten, 
-  sittlich Monotheisten.
+774. Goethe, Maximen und Reflexionen 774
+  Eine freie Seele wie die seine kommt in Gefahr, frech zu werden,
+  wenn nicht ein edles Wohlwollen das sittliche Gleichgewicht herstellt.
 
 
-110. Goethe, Maximen und Reflexionen
-  "Ich glaube einen Gott!" Dies ist ein schönes, löbliches Wort; 
-  aber Gott anerkennen, wo und wie er sich offenbare, 
-  das ist eigentlich die Seligkeit auf Erden. 
-  Wer die Natur als göttliches Organ leugnen will, 
-  der leugne nur gleich alle Offenbarung. 
+775. Goethe, Maximen und Reflexionen 775
+  Bei leichter Berührbarkeit entwickelte sich alles von innen bei ihm heraus;
+  durch beständigen Konflikt unterschied er das Wahre vom Falschen,
+  hielt am ersten fest und verhielt sich gegen das andere rücksichtslos.
+
+
+776. Goethe, Maximen und Reflexionen 776
+  Er fühlte einen entschiedenen Hass gegen Ernst,
+  weil er didaktisch und dogmatisch ist
+  und gar leicht pedantisch wird,
+  wogegen er den entschiedensten Abscheu hegte.
+  Daher seine Abneigung gegen Terminologie.
+
+
+777. Goethe, Maximen und Reflexionen 777
+  Bei den vielfachsten Studien und Lektüre
+  entdeckte er überall das Unzulängliche und Lächerliche.
+
+
+778. Goethe, Maximen und Reflexionen 778
+  Shandeism nennt er die Unmöglichkeit,
+  über einen ernsten Gegenstand zwei Minuten zu denken.
+
+
+779. Goethe, Maximen und Reflexionen 779
+  Dieser schnelle Wechsel von Ernst und Scherz,
+  von Anteil und Gleichgültigkeit,
+  von Leid und Freude
+  soll in dem irländischen Charakter liegen.
+
+780. Goethe, Maximen und Reflexionen 780
+  Sagazität und Penetration sind bei ihm grenzenlos.
+
+
+781. Goethe, Maximen und Reflexionen 781
+  Seine Heiterkeit, Genügsamkeit, Duldsamkeit auf der Reise,
+  wo diese Eigenschaften am meisten geprüft werden,
+  finden nicht leicht ihresgleichen.
+
+
+782. Goethe, Maximen und Reflexionen 782
+  Sosehr uns der Anblick einer freien Seele dieser Art ergötzt,
+  ebensosehr werden wir gerade in diesem Fall erinnert,
+  dass wir von allem dem, wenigstens von dem meisten, was uns entzückt,
+  nichts in uns aufnehmen dürfen.
+
+
+783. Goethe, Maximen und Reflexionen 783
+  Das Element der Lüsternheit, in dem er sich so zierlich und sinnig
+  benimmt, würde vielen andern zum Verderben gereichen.
+
+
+784. Goethe, Maximen und Reflexionen 784
+  Das Verhältnis zu seiner Frau wie zur Welt ist betrachtenswert.
+  "Ich habe mein Elend nicht wie ein weiser Mann benutzt",
+  sagt er irgendwo.
+
+
+785. Goethe, Maximen und Reflexionen 785
+  Er scherzt gar anmutig über die Widersprüche,
+  die seinen Zustand zweideutig machen.
+
+
+786. Goethe, Maximen und Reflexionen 786
+  Ich kann das Predigen nicht vertragen;
+  ich glaube, ich habe in meiner Jugend mich daran übergessen.
+
+
+787. Goethe, Maximen und Reflexionen 787
+  Er ist in nichts ein Muster und in allem ein Andeuter und Erwecker.
+
+
+788. Goethe, Maximen und Reflexionen 788
+  Unser Anteil an öffentlichen Angelegenheiten ist meist nur Philisterei.
+
+
+789. Goethe, Maximen und Reflexionen 789
+  Nichts ist höher zu schätzen als der Wert des Tages.
+
+
+790. Goethe, Maximen und Reflexionen 790
+  "Pereant, qui ante nos nostra dixerunt!"
+  So wunderlich könnte nur derjenige sprechen,
+  der sich einbildete, ein Autochthon zu sein.
+  Wer sich's zur Ehre hält, von vernünftigen Vorfahren abzustammen,
+  wird ihnen doch wenigstens ebensoviel Menschensinn zugestehen
+  als sich selbst.
+
+
+791. Goethe, Maximen und Reflexionen 791
+  Die originalsten Autoren der neusten Zeit sind es nicht deswegen,
+  weil sie etwas Neues hervorbringen, sondern allein, weil sie fähig sind,
+  dergleichen Dinge zu sagen,
+  als wenn sie vorher niemals wären gesagt gewesen.
+
+
+792. Goethe, Maximen und Reflexionen 792
+  Daher ist das schönste Zeichen der Originalität,
+  wenn man einen empfangenen Gedanken dergestalt fruchtbar zu entwickeln weiß,
+  dass niemand leicht, wieviel in ihm verborgen liege, gefunden hätte.
+
+
+793. Goethe, Maximen und Reflexionen 793
+  Viele Gedanken heben sich erst aus der allgemeinen Kultur hervor
+  wie die Blüten aus den grünen Zweigen.
+  Zur Rosenzeit sieht man Rosen überall blühen.
+
+
+794. Goethe, Maximen und Reflexionen 794
+  Eigentlich kommt alles auf die Gesinnungen an;
+  wo diese sind, treten auch die Gedanken hervor,
+  und nachdem sie sind, sind auch die Gedanken.
+
+
+795. Goethe, Maximen und Reflexionen 795
+  Nichts wird leicht ganz unparteiisch wieder dargestellt.
+  Man könnte sagen, hiervon mache der Spiegel eine Ausnahme,
+  und doch sehen wir unser Angesicht niemals ganz richtig darin;
+  ja der Spiegel kehrt unsre Gestalt um
+  und macht unsre linke Hand zur rechten.
+  Dies mag ein Bild sein für alle Betrachtungen über uns selbst.
+
+
+796. Goethe, Maximen und Reflexionen 796
+  Im Frühling und Herbst denkt man nicht leicht ans Kaminfeuer,
+  und doch geschieht es, dass, wenn wir zufällig an einem vorbeigehen,
+  wir das Gefühl, das es mitteilt, so angenehm finden,
+  dass wir ihm wohl nachhängen mögen.
+  Dies möchte mit jeder Versuchung analog sein.
+
+
+797. Goethe, Maximen und Reflexionen 797
+  Sei nicht ungeduldig, wenn man deine Argumente nicht gelten lässt.
+
+
+798. Goethe, Maximen und Reflexionen 798
+  Wer lange in bedeutenden Verhältnissen lebt,
+  dem begegnet freilich nicht alles, was dem Menschen begegnen kann,
+  aber doch das Analoge und vielleicht einiges, was ohne Beispiel war.
+
+
+799. Johann Wolfgang Goethe, Maximen und Reflexionen 799
+AUS DEM NACHLASS (Über Literatur und Leben)
+  Jede große Idee, die als ein Evangelium in die Welt tritt,
+  wird dem stockenden pedantischen Volke ein Ärgernis und einem Viel, -
+  aber Leichtgebildeten eine Torheit.
+
+
+800. Goethe, Maximen und Reflexionen 800
+AUS DEM NACHLASS (Über Literatur und Leben)
+  Eine jede Idee tritt als ein fremder Gast in die Erscheinung,
+  und wie sie sich zu realisieren beginnt,
+  ist sie kaum von Phantasie und Phantasterei zu unterscheiden.
+
+
+801. Goethe, Maximen und Reflexionen 801
+AUS DEM NACHLASS (Über Literatur und Leben)
+  Dies ist es, was man Ideologie im guten und bösen Sinne genannt hat
+  und warum der Ideologe den lebhaft wirkenden praktischen
+  Tagesmenschen so sehr zuwider war.
+
+
+802. Goethe, Maximen und Reflexionen 802
+  Alle unmittelbare Aufforderung zum Ideellen ist bedenklich,
+  besonders an die Weiblein.
+  Wie es auch sei, umgibt sich der einzelne bedeutende Mann
+  mit einem mehr oder weniger religiös-moralisch-ästhetischen Serail.
+
+
+803. Goethe, Maximen und Reflexionen 803
+  Alle Empiriker streben nach der Idee
+  und können sie in der Mannigfaltigkeit nicht entdecken;
+  alle Theoretiker suchen sie im Mannigfaltigen
+  und können sie darinnen nicht auffinden.
+
+804. Goethe, Maximen und Reflexionen 804
+  Beide jedoch finden sich im Leben, in der Tat, in der Kunst zusammen,
+  und das ist so oft gesagt; wenige aber verstehen, es zu nutzen.
+
+
+805. Goethe, Maximen und Reflexionen 805
+  Man kann die Nützlichkeit einer Idee anerkennen
+  und doch nicht recht verstehen, sie vollkommen zu nutzen.
+
+
+806. Goethe, Maximen und Reflexionen 806
+  Jedem Alter des Menschen antwortet eine gewisse Philosophie.
+  Das Kind erscheint als Realist;
+  denn es findet sich so überzeugt von dem Dasein der Birnen und Äpfel
+  als von dem seinigen. Der Jüngling, von innern Leidenschaften bestürmt,
+  muss auf sich selbst merken, sich vorfühlen:
+  er wird zum Idealisten umgewandelt. Dagegen ein Skeptiker zu werden,
+  hat der Mann alle Ursache; er tut wohl, zu zweifeln, ob das Mittel,
+  das er zum Zwecke gewählt hat, auch das rechte sei. Vor dem Handeln,
+  im Handeln hat er alle Ursache, den Verstand beweglich zu erhalten,
+  damit er nicht nachher sich über eine falsche Wahl zu	betrüben habe.
+  Der Greis jedoch wird sich immer zum Mystizismus bekennen.
+  Er sieht, dass so vieles vom Zufall abzuhängen scheint:
+  das Unvernünftige gelingt, das Vernünftige schlägt fehl,
+  Glück und Unglück stellen sich unerwartet ins gleiche;
+  so ist es, so war es, und das hohe Alter beruhigt sich in dem,
+  der da ist, der da war und der da sein wird.
+
+
+807. Goethe, Maximen und Reflexionen 807
+  Wir sind naturforschend Pantheisten,
+  dichtend Polytheisten, sittlich Monotheisten.
+
+
+808. Goethe, Maximen und Reflexionen 808
+  Den teleologischen Beweis vom Dasein Gottes
+  hat die kritische Vernunft beseitigt;
+  wir lassen es uns gefallen. Was aber nicht als Beweis gilt,
+  soll uns als Gefühl gelten, und wir rufen daher von der
+  Brontotheologie bis zur Niphotheologie alle dergleichen fromme
+  Bemühungen wieder heran. Sollten wir im Blitz, Donner und Sturm
+  nicht die Nähe einer übergewaltigen Macht, in Blütenduft und lauem
+  Luftsäuseln nicht ein liebevoll sich annäherndes Wesen empfinden dürfen?
+
+
+809. Goethe, Maximen und Reflexionen 809
+  "Ich glaube einen Gott!"
+  Dies ist ein schönes, löbliches Wort;
+  aber Gott anerkennen, wo und wie er sich offenbare,
+  das ist eigentlich die Seligkeit auf Erden.
+
+
+810. Goethe, Maximen und Reflexionen 810
+  Wer die Natur als göttliches Organ leugnen will,
+  der leugne nur gleich alle Offenbarung.
+
+
+811. Goethe, Maximen und Reflexionen 811
   "Die Natur verbirgt Gott!" Aber nicht jedem!
 
 
-111. Goethe, Maximen und Reflexionen
-  Glaube ist Liebe zum Unsichtbaren, 
+812. Goethe, Maximen und Reflexionen 812
+  Keppler sagte: 
+  "Mein höchster Wunsch ist, den Gott, den ich im Äußern überall finde,
+   auch innerlich, innerhalb meiner gleichermaßen gewahr zu werden".
+  Der edle Mann fühlte, sich nicht bewusst, dass eben in dem Augeblicke
+  das Göttliche in ihm mit dem Göttlichen des Universums
+  in genauer Verbindung stand.
+
+
+813. Goethe, Maximen und Reflexionen 813
+  Gott, wenn wir hoch stehen, ist alles;
+  stehen wir niedrig, so ist er ein Supplement unsrer Armseligkeit.
+
+
+814. Goethe, Maximen und Reflexionen 814
+  Die Kreatur ist sehr schwach;
+  denn sucht sie etwas, findet sie's nicht.
+  Stark aber ist Gott;
+  denn sucht er die Kreatur, so hat er sie gleich in seiner Hand.
+
+815. Goethe, Maximen und Reflexionen 815
+  Glaube ist Liebe zum Unsichtbaren,
   Vertrauen aufs Unmögliche, Unwahrscheinliche.
 
 
-112. Goethe, Maximen und Reflexionen
-  Was ist Praedestinatio? Antwort: Gott ist mächtiger und weiser als wir;
+816. Goethe, Maximen und Reflexionen 816
+  Mythologie = Luxe de croyance.
+
+
+817. Goethe, Maximen und Reflexionen 817
+  Was ist Praedestinatio?
+  Antwort: Gott ist mächtiger und weiser als wir;
   drum macht er es mit uns nach seinem Gefallen.
 
 
-113. Goethe, Maximen und Reflexionen
-  "Die Kirche schwächt alles, was sie anrührt."
+818. Goethe, Maximen und Reflexionen 818
+  Das Christentum steht mit dem Judentum
+  in einem weit stärkern Gegensatz als mit dem Heidentum.
 
 
-114. Goethe, Maximen und Reflexionen
-  Es ist besser, es geschehe dir Unrecht, als die Welt sei ohne Gesetz. 
+819. Goethe, Maximen und Reflexionen 819
+  Die christliche Religion ist eine intentionierte politische Revolution,
+  die, verfehlt, nachher moralisch geworden ist.
+
+
+820. Goethe, Maximen und Reflexionen 820
+  Es gibt Theologen, die wollten,
+  dass es nur einen einzigen Menschen in der Welt gegeben hätte,
+  den Gott erlöst hätte;
+  denn da hätte es keine Ketzer geben können.
+
+
+821. Goethe, Maximen und Reflexionen 821
+  Die Kirche schwächt alles, was sie anrührt.
+
+
+822. Goethe, Maximen und Reflexionen 822
+  Apokrypha: Wichtig wäre es, das hierüber historisch schon Bekannte
+  nochmals zusammenzufassen und zu zeigen,
+  dass gerade jene apokryphischen Schriften,
+  mit denen die Gemeinden schon die ersten Jahrhunderte unserer Ära
+  überschwemmt wurden und woran unser Kanon jetzt noch leidet,
+  die eigentliche Ursache sind,
+  warum das Christentum in keinem Momente
+  der politischen und Kirchengeschichte 
+  in seiner ganzen Schönheit und Reinheit hervortreten konnte.
+
+
+823. Goethe, Maximen und Reflexionen 823
+  Die Ohrenbeichte im besten Sinne
+  ist eine fortgesetzte Katechisation der Erwachsnen.
+
+
+824. Goethe, Maximen und Reflexionen 824
+  In Neuyork, sagt man, finden sich neunzig christliche Kirchen
+  abweichender Konfession, und nun wird diese Stadt besonders seit
+  Eröffnung des Eriekanals überschwänglich reich.
+  Wahrscheinlich ist man der Überzeugung, 
+  ass religiöse Gedanken und Gefühle,
+  von welcher besondern Art sie auch seien,
+  dem beruhigenden Sonntag angehören, angestrengte Tätigkeit,
+  von frommen Gesinnungen begleitet, den Werkeltagen.
+
+
+825. Goethe, Maximen und Reflexionen 825
+  Wenn ein gutes Wort eine gute Statt findet,
+  so findet ein frommes Wort gewiss noch eine bessere.
+
+
+826. Goethe, Maximen und Reflexionen 826
+  Alles kommt bei der Mission darauf an,
+  dass der rohe, sinnliche Mensch gewahr wird,
+  dass es eine Sitte gebe;
+  dass der leidenschaftliche, ungebändigte merkt,
+  dass er Fehler begangen hat, die er sich selbst nicht verzeihen kann.
+  Die erste führt zur Annahme zarter Maximen,
+  das letzte auf Glauben einer Versöhnung.
+  Alles Mittlere von zufällig scheinenden Übeln
+  wird einer weisen, unerforschlichen Führung anheim gegeben.
+
+
+827. Goethe, Maximen und Reflexionen 827
+  Wo Lampen brennen, gibt's Ölflecken,
+  wo Kerzen brennen, gibt's Schnuppen;
+  die Himmelslichter allein erleuchten rein und ohne Makel.
+
+828. Goethe, Maximen und Reflexionen 828
+  Vollkommenheit ist die Norm des Himmels,
+  Vollkommenes wollen die Norm des Menschen.
+
+
+829. Goethe, Maximen und Reflexionen 829
+  Pflicht: wo man liebt, was man sich selbst befiehlt.
+
+
+830. Goethe, Maximen und Reflexionen 830
+  Der rechtliche Mensch denkt immer,
+  er sei vornehmer und mächtiger, als er ist.
+
+
+831. Goethe, Maximen und Reflexionen 831
+  Alle Gesetze sind Versuche,
+  sich den Absichten der moralischen Weltordnung
+  im Welt- und Lebenslaufe zu nähern.
+
+
+832. Goethe, Maximen und Reflexionen 832
+  Es ist besser, es geschehe dir Unrecht,
+  als die Welt sei ohne Gesetz.
   Deshalb füge sich jeder dem Gesetze.
 
 
-115. Goethe, Maximen und Reflexionen
+833. Goethe, Maximen und Reflexionen 833
+  Es ist besser, dass Ungerechtigkeiten geschehn,
+  als dass sie auf eine ungerechte Weise gehoben werden.
+
+
+834. Goethe, Maximen und Reflexionen 834
+  Nero hätte in den vier Jahren, die das Interregnum dauerte
+  - so nenne ich die Regierungen des Galba, Otho, Vitellius, -
+  nicht so viel Unheil stiften können,
+  als nach seiner Ermordung über die Welt gekommen.
+
+
+835. Goethe, Maximen und Reflexionen 835
+  Wäre es Gott darum zu tun gewesen,
+  dass die Menschen in der Wahrheit leben und handeln sollten,
+  so hätte er seine Einrichtung anders machen müssen.
+
+
+836. Goethe, Maximen und Reflexionen 836
+  Man könnte zum Scherze sagen,
+  der Mensch sei ganz aus Fehlern zusammengesetzt,
+  wovon einige der Gesellschaft nützlich, andre schädlich,
+  einige brauchbar, einige unbrauchbar gefunden werden.
+  Von jenen spricht man Gutes: nennt sie Tugenden;
+  von diesen Böses: nennt sie Fehler.
+
+
+837. Goethe, Maximen und Reflexionen 837
   Nicht allein das Angeborene, sondern auch das Erworbene ist der Mensch.
 
 
-116. Goethe, Maximen und Reflexionen
-  Man kann niemand lieben, 
-  als dessen Gegenwart man sicher ist, wenn man sein bedarf.
+838. Goethe, Maximen und Reflexionen 838
+  Unsre Eigenschaften müssen wir kultivieren,
+  nicht unsre Eigenheiten.
 
 
-117. Goethe, Maximen und Reflexionen
-  Mit jemand leben oder in jemand leben ist ein großer Unterschied. 
-  Es gibt Menschen, in denen man leben kann, ohne mit ihnen zu leben, 
-  und umgekehrt.
+839. Goethe, Maximen und Reflexionen 839
+  Charakter im großen und kleinen ist,
+  dass der Mensch demjenigen eine stete Folge gibt,
+  dessen er sich fähig fühlt.
+
+
+840. Goethe, Maximen und Reflexionen 840
+  Man sieht gleich, wo die zwei notwendigsten Eigenschaften fehlen:
+  Geist und Gewalt.
+
+
+841. Goethe, Maximen und Reflexionen 841
+  Unsre Meinungen sind nur Supplemente unsrer Existenz.
+  Wie einer denkt, daran kann man sehn, was ihm fehlt.
+  Die leersten Menschen halten sehr viel auf sich,
+  treffliche sind misstrauisch, der Lasterhafte ist frech,
+  und der Gute ist ängstlich. So setzt sich alles ins Gleichgewicht;
+  jeder will ganz sein oder es vor sich scheinen.
+
+
+842. Goethe, Maximen und Reflexionen 842
+  Historisch betrachtet, erscheint unser Gutes in mäßigem Lichte,
+  und unsere Mängel entschuldigen sich.
+
+
+843. Goethe, Maximen und Reflexionen 843
+  Der liebt nicht, der die Fehler des Geliebten nicht für Tugenden hält.
+
+
+844. Goethe, Maximen und Reflexionen 844
+  Man kann niemand lieben, als dessen Gegenwart man sicher ist,
+  wenn man sein bedarf.
+
+
+845. Goethe, Maximen und Reflexionen 845
+  Man kennt nur diejenigen, von denen man leidet.
+
+
+846. Goethe, Maximen und Reflexionen 846
+  Man beobachtet niemand als die Personen, von denen man leidet.
+  Um unerkannt in der Welt umherzugehen, müsste man nur niemand wehe tun.
+
+
+847. Goethe, Maximen und Reflexionen 847
+  Mit jemand leben oder in jemand leben ist ein großer Unterschied.
+  Es gibt Menschen,
+  in denen man leben kann, ohne mit ihnen zu leben, und umgekehrt.
   Beides zu verbinden ist nur der reinsten Liebe und Freundschaft möglich.
 
 
-118. Goethe, Maximen und Reflexionen
-  Zum Tun gehört Talent, zum Wohltun Vermögen.
+848. Goethe, Maximen und Reflexionen 848
+  Es ist besser, man betrügt sich an seinen Freunden,
+  als dass man seine Freunde betrüge.
 
 
-119. Goethe, Maximen und Reflexionen
-  Die schwer zu lösende Aufgabe strebender Menschen ist, 
-  die Verdienste älterer Mitlebenden anzuerkennen 
+849. Goethe, Maximen und Reflexionen 849
+  Wenn ein paar Menschen recht miteinander zufrieden sind,
+  kann man meistens versichert sein, dass sie sich irren.
+
+
+850. Goethe, Maximen und Reflexionen 850
+  Der Wolf im Schafpelze ist weniger gefährlich
+  als das Schaf in irgendeinem Pelze,
+  wo man es für mehr als einen Schöps nimmt.
+
+
+851. Goethe, Maximen und Reflexionen 851
+  Sage nicht, dass du geben willst,
+  sondern gib! Die Hoffnung befriedigst du nie.
+
+
+852. Goethe, Maximen und Reflexionen 852
+  Man würde viel Almosen geben, wenn man Augen hätte zu sehen,
+  was eine empfangende Hand für ein schönes Bild macht.
+
+
+853. Goethe, Maximen und Reflexionen 853
+Zum Tun gehört Talent, zum Wohltun Vermögen.
+
+
+854. Goethe, Maximen und Reflexionen 854
+  Eine gefallene Schreibfeder muss man gleich aufheben,
+  sonst wird sie zertreten.
+
+
+855. Goethe, Maximen und Reflexionen 855
+  Es ist keine Kunst,
+  eine Göttin zur Hexe, eine Jungfrau zur Hure zu machen;
+  aber zur umgekehrten Operation, Würde zu geben dem  Verschmähten,
+  wünschenswert zu machen das Verworfene,
+  dazu gehört entweder Kunst oder Charakter.
+
+
+856. Goethe, Maximen und Reflexionen 856
+  Es gibt keine Lage, die man nicht veredeln könnte durch Leisten oder Dulden.
+
+
+857. Goethe, Maximen und Reflexionen 857
+  Dem Verzweifelnden verzeiht man alles,
+  dem Verarmten gibt man jeden Erwerb zu.
+
+
+858. Goethe, Maximen und Reflexionen 858
+  Glaube, Liebe, Hoffnung fühlten einst in ruhiger, geselliger Stunde
+  einen plastischen Trieb in ihrer Natur;
+  sie befleißigten sich zusammen und schufen ein liebliches Gebild,
+  eine Pandora im höhern Sinne: die Geduld.
+
+
+859. Goethe, Maximen und Reflexionen 859
+  Lüsternheit:
+  Spiel mit dem zu Genießenden, Spiel mit dem Genossenen.
+
+
+860. Goethe, Maximen und Reflexionen 860
+  Eitelkeit ist eine persönliche Ruhmsucht:
+  man will nicht wegen seiner Eigenschaften,
+  seiner Verdienste, Taten geschätzt, geehrt, gesucht werden,
+  sondern um seines individuellen Daseins willen.
+  Am besten kleidet die Eitelkeit deshalb eine frivole Schöne.
+
+
+861. Goethe, Maximen und Reflexionen 861
+  Dummheit, seinen Feind vor dem Tode, und Niederträchtigkeit,
+  nach dem Siege zu verkleinern.
+
+
+862. Goethe, Maximen und Reflexionen 862
+  Die schwer zu lösende Aufgabe strebender Menschen ist,
+  die Verdienste älterer Mitlebenden anzuerkennen
   und sich von ihren Mängeln nicht hindern zu lassen.
 
 
-120. Goethe, Maximen und Reflexionen
-  Toleranz sollte eigentlich nur eine vorübergehende Gesinnung sein: 
-  sie muss zur Anerkennung führen. Dulden heißt beleidigen.
+863. Goethe, Maximen und Reflexionen 863
+  Das radikale Übel:
+  dass jeder gern sein möchte, was er sein könnte,
+  und die übrigen nichts, ja nicht wären.
 
 
-121. Goethe, Maximen und Reflexionen
-  Es gibt Menschen, die auf die Mängel ihrer Freunde sinnen; 
-  dabei ist nichts zu gewinnen. 
+864. Goethe, Maximen und Reflexionen 864
+  Ein Mensch zeigt nicht eher seinen Charakter,
+  als wenn er von einem großen Menschen
+  oder irgend von etwas Außerordentlichem spricht.
+  Es ist der rechte Probierstein aufs Kupfer.
+
+
+865. Goethe, Maximen und Reflexionen 865
+  Nur solchen Menschen, die nichts hervorzubringen wissen,
+  denen ist nichts da.
+
+
+866. Goethe, Maximen und Reflexionen 866
+  Warum man doch ewige Missreden hört?
+  Sie glauben sich alle etwas zu vergeben,
+  wenn sie das kleinste Verdienst anerkennen.
+
+
+867. Goethe, Maximen und Reflexionen 867
+  Vom Verdienste fordert man Bescheidenheit;
+  aber diejenigen, die unbescheiden das Verdienst schmälern,
+  werden mit Behagen angehört.
+
+868. Goethe, Maximen und Reflexionen 868
+  Dem Menschen ist verhasst, was er nicht glaubt selbst getan zu haben;
+  deswegen der Parteigeist so eifrig ist.
+  Jeder Alberne glaubt ins Beste einzugreifen,
+  und alle Welt, die nichts ist, wird zu was.
+
+
+869. Goethe, Maximen und Reflexionen 869
+  Egoistische Kleinstädterei, die sich Zentrum deucht.
+
+
+870. Goethe, Maximen und Reflexionen 870
+  Es ist niemand fähig zu denken,
+  dass jemand etwas konstruieren und protegieren möchte,
+  als um Partei zu machen.
+
+
+871. Goethe, Maximen und Reflexionen 871
+  Im Laufe des frischen Lebens erduldet man viel,
+  es sei nun vom Veralteten oder Überneuen.
+
+
+872. Goethe, Maximen und Reflexionen 872
+  Wie haben sich die Deutschen nicht gebärdet, um dasjenige abzuwehren,
+  was ich allenfalls getan und geleistet habe, und tun sie's nicht noch?
+  Hätten sie alles gelten lassen und wären weitergegangen,
+  hätten sie mit meinem Erwerb gewuchert,
+  so wären sie weiter, wie sie sind.
+
+
+873. Goethe, Maximen und Reflexionen 873
+  Dass die Naturforscher nicht durchaus mit mir einig werden,
+  ist bei der Stellung so verschiedener Denkweisen ganz natürlich;
+  die meinige werde ich gleichfalls künftig zu behaupten suchen.
+  Aber auch im ästhetischen und moralischen Felde wird es Mode,
+  gegen mich zu streiten und zu wirken.
+  Ich weiß recht gut woher und wohin, warum und wozu,
+  erkläre mich aber weiter nicht darüber.
+  Die Freunde, mit denen ich gelebt, für die ich gelebt,
+  werden sich und mein Andenken aufrecht zu erhalten wissen.
+
+
+874. Goethe, Maximen und Reflexionen 874
+  Das Urteil können sie verwehren, aber die Wirkung nicht hindern.
+
+
+875. Goethe, Maximen und Reflexionen 875
+  Toleranz sollte eigentlich nur eine vorübergehende Gesinnung sein:
+  sie muss zur Anerkennung führen.
+  Dulden heißt beleidigen.
+
+
+876. Goethe, Maximen und Reflexionen 876
+  Die wahre Liberalität ist Anerkennung.
+
+
+877. Goethe, Maximen und Reflexionen 877
+  Mit wahrhaft Gleichgesinnten kann man sich auf die Länge nicht entzweien,
+  man findet sich immer wieder einmal zusammen;
+  mit eigentlich Widergesinnten versucht man umsonst, Einigkeit zu halten,
+  es bricht immer wieder einmal auseinander.
+
+
+878. Goethe, Maximen und Reflexionen 878
+  Ich bin mit allen Menschen einig, die mich zunächst angehen,
+  und von den übrigen lass ich mir nichts mehr gefallen,
+  und da ist die Sache aus.
+
+
+879. Goethe, Maximen und Reflexionen 879
+  Ich höre das ganze Jahr jedermann anders reden, als ich's meine;
+  warum sollt ich denn auch nicht einmal sagen, wie ich gesinnt bin?
+
+
+880. Goethe, Maximen und Reflexionen 880
+  Eine nachgesprochne Wahrheit verliert schon ihre Grazie,
+  aber ein nachgesprochner Irrtum ist ganz ekelhaft.
+
+
+881. Goethe, Maximen und Reflexionen 881
+  Das Absurde, Falsche lässt sich jedermann gefallen:
+  denn es schleicht sich ein;
+  das Wahre, Derbe nicht:
+  denn es schließt aus.
+
+
+882. Goethe, Maximen und Reflexionen 882
+  Es gibt Menschen, die auf die Mängel ihrer Freunde sinnen;
+  dabei ist nichts zu gewinnen.
   Ich habe immer auf die Verdienste meiner Widersacher achtgehabt
   und davon Vorteil gezogen.
 
+883. Goethe, Maximen und Reflexionen 883
+  Vernünftiges und Unvernünftiges haben gleichen Widerspruch zu erleiden.
 
-122. Goethe, Maximen und Reflexionen
-  Es ist ganz einerlei, ob man das Wahre oder das Falsche sagt: 
+
+884. Goethe, Maximen und Reflexionen 884
+  Es ist ganz einerlei, ob man das Wahre oder das Falsche sagt:
   beidem wird widersprochen.
 
 
-123. Goethe, Maximen und Reflexionen
+885. Goethe, Maximen und Reflexionen 885
+  Gegner glauben uns zu widerlegen,
+  wenn sie ihre Meinung wiederholen
+  und auf die unsrige nicht achten.
+
+
+886. Goethe, Maximen und Reflexionen 886
+  Diejenigen, welche widersprechen und streiten,
+  sollten mitunter bedenken,
+  dass nicht jede Sprache jedem verständlich sei.
+
+
+887. Goethe, Maximen und Reflexionen 887
   Es hört doch jeder nur, was er versteht.
-  Es gibt viele Menschen, 
-  die sich einbilden, was sie erfahren, das verstünden sie auch.
 
 
-124. Goethe, Maximen und Reflexionen
-  Beim Zerstören gelten alle falschen Argumente, beim Aufbauen keineswegs.
-  Was nicht wahr ist, baut nicht.
+888. Goethe, Maximen und Reflexionen 888
+  Eine richtige Antwort ist wie ein lieblicher Kuß.
 
 
-125. Goethe, Maximen und Reflexionen
-  Die gegenwärtige Welt ist nicht wert, dass wir etwas für sie tun; 
-  denn die bestehende kann in dem Augenblick abscheiden. 
-  Für die vergangne und künftige müssen wir arbeiten: 
-  für jene, dass wir ihr Verdienst anerkennen, 
+889. Goethe, Maximen und Reflexionen 889
+  Es gibt viele Menschen, die sich einbilden,
+  was sie erfahren, das verstünden sie auch.
+
+
+890. Goethe, Maximen und Reflexionen 890
+  Wer kann sagen, er erfahre was, wenn er nicht ein Erfahrender ist?
+
+
+891. Goethe, Maximen und Reflexionen 891
+  Über die wichtigsten Angelegenheiten des Gefühls wie der Vernunft,
+  der Erfahrung wie des Nachdenkens soll man nur mündlich verhandeln.
+  Das ausgesprochene Wort ist sogleich tot,
+  wenn es nicht durch ein folgendes,
+  dem Hörer gemäßes am Leben erhalten wird.
+  Man merke nur auf ein geselliges Gespräch!
+  Gelangt das Wort nicht schon tot zu dem Hörer,
+  so ermordet er es alsogleich durch Widerspruch,
+  Bestimmen, Bedingen, Ablenken, Abspringen,
+  und wie die tausendfältigen Unarten des Unterhaltens auch heißen mögen.
+  Mit dem Geschriebenen ist es noch schlimmer.
+  Niemand mag lesen als das, woran er schon einigermaßen gewöhnt ist;
+  das Bekannte, das Gewohnte verlangt er unter veränderter Form.
+  Doch hat das Geschriebene den Vorteil,
+  dass es dauert und die Zeit abwarten kann, wo ihm zu wirken gegönnt ist.
+
+
+892. Goethe, Maximen und Reflexionen 892
+  Was man mündlich ausspricht,
+  muss der Gegenwart, dem Augenblick gewidmet sein;
+  was man schreibt, widme man der Ferne, der Folge.
+
+
+893. Goethe, Maximen und Reflexionen 893
+  Man frage nicht, ob man durchaus übereinstimmt,
+  sondern ob man in einem Sinne verfährt.
+
+
+894. Goethe, Maximen und Reflexionen 894
+  Nichts Peinlicheres habe gefunden,
+  als mit jemand in widerwärtigem Verhältnis zu stehen,
+  mit dem ich übrigens aus einem Sinne gern gehandelt hätte.
+
+
+895. Goethe, Maximen und Reflexionen 895
+  Beim Zerstören gelten alle falschen Argumente,
+  beim Aufbauen keineswegs. Was nicht wahr ist, baut nicht.
+
+
+896. Goethe, Maximen und Reflexionen 896
+  Die gegenwärtige Welt ist nicht wert, dass wir etwas für sie tun;
+  denn die bestehende kann in dem Augenblick abscheiden.
+  Für die vergangne und künftige müssen wir arbeiten:
+  für jene, dass wir ihr Verdienst anerkennen,
   für diese, dass wir ihren Wert zu erhöhen suchen.
 
 
-126. Goethe, Maximen und Reflexionen
+897. Goethe, Maximen und Reflexionen 897
+  Wie viele Jahre muss man nicht tun,
+  um nur einigermaßen zu wissen, was und wie es zu tun sei!
+
+
+898. Goethe, Maximen und Reflexionen 898
+  Es ist nichts furchtbarer anzuschauen
+  als grenzenlose Tätigkeit ohne Fundament.
+  Glücklich diejenigen, die im Praktischen gegründet sind
+  und sich zu gründen wissen!
+  Hierzu bedarf's aber einer ganz eigenen Doppelgabe.
+
+
+899. Goethe, Maximen und Reflexionen 899
+  Es ist nichts inkonsequenter als die höchste Konsequenz,
+  weil sie unnatürliche Phänomene hervorbringt, die zuletzt umschlagen.
+
+
+900. Goethe, Maximen und Reflexionen 900
   Wer das erste Knopfloch verfehlt, kommt mit dem Zuknöpfen nicht zu Rande.
 
 
-127. Goethe, Maximen und Reflexionen
-  Wer sein Leben mit einem Geschäft zubringt, 
-  dessen Undankbarkeit er zuletzt einsieht, 
+901. Goethe, Maximen und Reflexionen 901
+  Man geht nie weiter, als wenn man nicht mehr weiß, wohin man geht.
+
+
+902. Goethe, Maximen und Reflexionen 902
+  Wer sein Leben mit einem Geschäft zubringt,
+  dessen Undankbarkeit er zuletzt einsieht,
   der hasst es und kann es doch nicht loswerden.
 
 
-128. Goethe, Maximen und Reflexionen
-  Versuche, die eigne Autorität zu fundieren: 
+903. Goethe, Maximen und Reflexionen 903
+  Frage sich doch jeder,
+  mit welchem Organ er allenfalls in seine Zeit einwirken kann und wird!
+
+
+904. Goethe, Maximen und Reflexionen 904
+  Ein schäbiges Kamel trägt immer noch die Lasten vieler Esel.
+
+
+905. Goethe, Maximen und Reflexionen 905
+  Derjenige, der's allen andern zuvortun will, betrügt sich meist selbst;
+  er tut nur alles, was er kann, und bildet sich dann gefällig vor,
+  das sei so viel und mehr als das, was alle können.
+
+906. Goethe, Maximen und Reflexionen 906
+  Versuche, die eigne Autorität zu fundieren:
   sie ist überall begründet, wo Meisterschaft ist.
 
 
-129. Goethe, Maximen und Reflexionen
+907. Goethe, Maximen und Reflexionen 907
+  Denke nur niemand, dass man auf ihn als den Heiland gewartet habe!
+
+
+908. Goethe, Maximen und Reflexionen 908
+  Wer tätig sein will und muss,
+  hat nur das Gehörige des Augenblicks zu bedenken,
+  und so kommt er ohne Weitläufigkeit durch.
+  Das ist der Vorteil der Frauen, wenn sie ihn verstehen.
+
+
+909. Goethe, Maximen und Reflexionen 909
+  Der Augenblick ist eine Art von Publikum:
+  man muss ihn betrügen, dass er glaube, man tue was;
+  dann lässt er uns gewähren und im geheimen fortführen,
+  worüber seine Enkel erstaunen müssen.
+
+
+910. Goethe, Maximen und Reflexionen 910
+  Der Tag an und für sich ist gar zu miserabel;
+  wenn man nicht ein Lustrum anpackt, so gibt's keine Garbe.
+
+
+911. Goethe, Maximen und Reflexionen 911
+  Der Tag gehört dem Irrtum und dem Fehler,
+  die Zeitreihe dem Erfolg und dem Gelingen.
+
+
+912. Goethe, Maximen und Reflexionen 912
+  Wer vorsieht, ist Herr des Tags.
+
+
+913. Goethe, Maximen und Reflexionen 913
+  Ich verwünsche das Tägliche, weil es immer absurd ist.
+  Nur was wir durch mögliche Anstrengung ihm übergewinnen,
+  lässt sich wohl einmal summieren.
+
+
+914. Goethe, Maximen und Reflexionen 914
+  Indes wir, dem Ungeheuren unterworfen, kaum auf-und umschauen,
+  was zu tun sei und wohin wir unser Bestes von Kräften,
+  Tätigkeiten hinwenden sollen,
+  und des höchsten Enthusiasmus bedürftig sind,
+  der nur nachhalten kann, wenn er nicht empirisch ist,
+  nagen zwar keine Lind-, aber Lumpwürme an unsern Täglichkeiten.
+
+
+915. Goethe, Maximen und Reflexionen 915
+  Das ganze Leben besteht aus
+   Wollen und Nicht-Vollbringen,
+   Vollbringen und Nicht-Wollen.
+
+
+916. Goethe, Maximen und Reflexionen 916
+  Wollen und Vollbringen ist nicht der Mühe wert oder verdrießlich,
+  davon zu sprechen.
+
+
+917. Goethe, Maximen und Reflexionen 917
   Das Leben vieler Menschen besteht aus 
   Klatschigkeiten, Tägigkeiten, Intrige zu momentaner Wirkung.
 
 
-130. Goethe, Maximen und Reflexionen
-  Wenn die Affen es dahin bringen könnten, Langeweile zu haben, 
+918. Goethe, Maximen und Reflexionen 918
+  Wenn die Affen es dahin bringen könnten, Langeweile zu haben,
   so könnten sie Menschen werden.
 
 
-131. Goethe, Maximen und Reflexionen
-  Es ist besser, eine Torheit pure geschehen zu lassen, 
-  als ihr mit einiger Vernunft nachhelfen zu wollen. 
-  Die Vernunft verliert ihre Kraft, indem sie sich mit der Torheit vermischt, 
-  und die Torheit ihr Naturell, das ihr oft weiterhilft.
+919. Goethe, Maximen und Reflexionen 919
+  Dem Klugen kommt das Leben leicht vor, wenn dem Toren schwer,
+  und oft dem Klugen schwer, dem Toren leicht.
 
 
-132. Goethe, Maximen und Reflexionen
-  Alle praktische Menschen suchen sich die Welt handrecht zu machen; 
-  alleDenker wollen sie kopfrecht haben. 
+920. Goethe, Maximen und Reflexionen 920
+  Es ist besser, eine Torheit pure geschehen zu lassen,
+  als ihr mit einiger Vernunft nachhelfen zu wollen.
+  Die Vernunft verliert ihre Kraft,
+  indem sie sich mit der Torheit vermischt,
+  und die Torheit ihr Naturell, das ihr oft forthilft.
+
+
+921. Goethe, Maximen und Reflexionen 921
+  Mit Gedanken, die nicht aus der tätigen Natur entsprungen sind
+  und nicht wieder aufs tätige Leben wohltätig hinwirken
+  und so in einem mit dem jedesmaligen Lebenszustand übereinstimmenden
+  mannigfaltigen Wechsel unaufhörlich entstehen und sich auflösen,
+  ist der Welt wenig geholfen.
+
+
+922. Goethe, Maximen und Reflexionen 922
+  In Rücksicht aufs Praktische ist der unerbittliche Verstand Vernunft,
+  weil der Vernunft Höchstes ist, vis-à-vis des Verstands nämlich,
+  den Verstand unerbittlich zu machen.
+
+
+923. Goethe, Maximen und Reflexionen 923
+  Falsche Tendenzen sind eine Art realer Sehnsucht,
+  immer noch vorteilhafter als die falsche Tendenz,
+  die sich als ideelle Sehnsucht ausdrückt.
+
+
+924. Goethe, Maximen und Reflexionen 924
+  Alle praktische Menschen suchen sich die Welt handrecht zu machen;
+  alle Denker wollen sie kopfrecht haben.
   Wieweit es jedem gelingt, mögen sie zusehen.
 
 
-133. Goethe, Maximen und Reflexionen
-  Die Menschen glauben, dass man sich mit ihnen abgeben müsse, 
+925. Goethe, Maximen und Reflexionen 925
+  Die Realen: Was nicht geleistet wird, wird nicht verlangt.
+  Die Idealen: Was verlangt wird, ist nicht gleich zu leisten.
+
+
+926. Goethe, Maximen und Reflexionen 926
+  Im Idealen kommt alles auf die élans,
+  im Realen auf die Beharrlichkeit an.
+
+
+927. Goethe, Maximen und Reflexionen 927
+  Das Wunderlichste im Leben ist das Vertrauen, dass andre uns führen werden.
+  Haben wir's nicht, so tappen und tolpen wir unsern eignen Weg hin;
+  haben wir's, so sind wir auch, eh wir's uns versehen,
+  auf das schlechteste geführt.
+  
+
+928. Goethe, Maximen und Reflexionen 928
+  Die ungeheuerste Kultur, die der Mensch sich geben kann,
+  ist die Überzeugung, dass die andern nicht nach ihm fragen.
+
+
+929. Goethe, Maximen und Reflexionen 929
+  Wer hätte mit mir Geduld haben sollen, wenn ich's nicht gehabt hätte?
+
+
+930. Goethe, Maximen und Reflexionen 930
+  Die Menschen glauben, dass man sich mit ihnen abgeben müsse,
   da man sich mit sich selbst nicht abgibt.
 
 
-134. Goethe, Maximen und Reflexionen
-  Wenn mir eine Sache missfällt, so lass ich sie liegen oder mache sie besser.
+931. Goethe, Maximen und Reflexionen 931
+  Ein gebranntes Kind scheut das Feuer,
+  ein oft versengter Greis scheut, sich zu wärmen.
 
 
-135. Goethe, Maximen und Reflexionen
-  Wer sich in ein Wissen einlassen soll, 
-  muss betrogen werden oder sich selbst betrügen, 
-  wenn äußere Nötigungen ihn nicht unwiderstehlich bestimmen. 
-  Wer würde ein Arzt werden, wenn er alle Unbilden auf einmal vor sich sähe, 
-  die seiner warten?
+932. Goethe, Maximen und Reflexionen 932
+  Wie viel vermag nicht die Übung! Die Zuschauer schreien,
+  und der Geschlagne schweigt.
 
 
-136. Goethe, Maximen und Reflexionen
-  Sobald die Tyrannei aufgehoben ist, 
-  geht der Konflikt zwischen Aristokratie und Demokratie unmittelbar an.
+933. Goethe, Maximen und Reflexionen 933
+  Welcher Gewinn wäre es fürs Leben,
+  wenn man dies früher gewahr würde, zeitig erführe,
+  dass man mit seiner Schönen nie besser steht,
+  als wenn man seinen Rivalen lobt. Alsdann geht ihr das Herz auf,
+  jede Sorge, euch zu verletzen, die Furcht, euch zu verlieren,
+  ist verschwunden; sie macht euch zum Vertrauten,
+  und ihr überzeugt euch mit Freuden, dass ihr es seid,
+  dem die Frucht des Baumes gehört, wenn ihr guten Humor genug habt,
+  anderen die abfallenden Blätter zuüberlassen.
 
 
-137. Goethe, Maximen und Reflexionen
-  Vor der Revolution war alles Bestreben; 
-  nachher verwandelte sich alles in Forderung.
-  Gesetzgeber oder Revolutionärs, 
-  die Gleichsein und Freiheit zugleich versprechen, 
+934. Goethe, Maximen und Reflexionen 934
+  Wenn mir eine Sache missfällt,
+  so lass ich sie liegen oder mache sie besser.
+
+
+935. Goethe, Maximen und Reflexionen 935
+  Wer in sich recht ernstlich hinabsteigt,
+  wird sich immer nur als Hälfte finden; 
+  er fasse nachher ein Mädchen oder eine Welt,
+  um sich zum Ganzen zu konstituieren, das ist einerlei.
+
+
+936. Goethe, Maximen und Reflexionen 936
+ Weiß denn der Sperling, wie dem Storch zumute sei?
+
+
+937. Goethe, Maximen und Reflexionen 937
+  Der Tiger, der dem Hirsch begreiflich machen will,
+  wie köstlich es ist, Blut zu schlürfen.
+
+
+938. Goethe, Maximen und Reflexionen 938
+  Gesunde Menschen sind die,
+  in deren Leibes- und Geistesorganisation
+  jeder Teil eine vita propria hat.
+
+
+939. Goethe, Maximen und Reflexionen 939
+  Dass man gerade nur denkt,
+  wenn man das, worüber man denkt,
+  nicht ausdenken kann!
+
+
+940. Goethe, Maximen und Reflexionen 940
+  Wenn weise Männer nicht irrten,
+  müssten die Narren verzweifeln.
+
+
+941. Goethe, Maximen und Reflexionen 941
+  Manche sind auf das, was sie wissen, stolz,
+  gegen das, was sie nicht wissen, hoffärtig.
+
+
+942. Goethe, Maximen und Reflexionen 942
+  Wer sich in ein Wissen einlassen soll, muss betrogen werden
+  oder sich selbst betrügen, wenn äußere Nötigungen
+  ihn nicht unwiderstehlich bestimmen.
+  Wer würde ein Arzt werden,
+  wenn er alle Unbilden auf einmal vor sich sähe, die seiner warten?
+
+943. Goethe, Maximen und Reflexionen 943
+  Der Historiker kann und braucht nicht alles aufs Gewisse zu führen;
+  wissen doch die Mathematiker auch nicht zu erklären,
+  warum der Komet von 1770,
+  der in fünf oder elf Jahren wiederkommen sollte,
+  sich zur bestimmten Zeit noch nicht wieder hat sehen lassen.
+
+
+944. Goethe, Maximen und Reflexionen 944
+  Es ist mit der Geschichte wie mit der Natur, wie mit allem Profunden,
+  es sei vergangen, gegenwärtig oder zukünftig:
+  je tiefer man ernstlich eindringt,
+  desto schwierigere Probleme tun sich hervor.
+  Wer sie nicht fürchtet, sondern kühn darauf losgeht,
+  fühlt sich, indem er weiter gedeiht, höher gebildet und behaglicher.
+
+
+945. Goethe, Maximen und Reflexionen 945
+  Die Geschichte wie das Universum, das sie repräsentieren soll,
+  hat einen realen und idealen Teil.
+
+
+946. Goethe, Maximen und Reflexionen 946
+  Zum idealen Teile gehört der Kredit,
+  zum realen Besitztum, physische Macht pp.
+
+
+947. Goethe, Maximen und Reflexionen 947
+  Der Kredit ist eine durch reale Leistungen erzeugte Idee der Zuverlässigkeit.
+
+
+948. Goethe, Maximen und Reflexionen 948
+  Jeder Besitz ist eine plumpe Sache, und es ist gut,
+  dass darüber abgesprochen werde, ne incerta sint rerum dominia.
+
+
+949. Goethe, Maximen und Reflexionen 949
+  Jeder Mensch fühlt sich privilegiert.
+  Diesem Gefühl widerspricht
+  1. die Naturnotwendigkeit,
+  2. die Gesellschaft.
+  ad 1. Der Mensch kann ihr nicht entgehen, nicht ausweichen,
+        nichts abgewinnen.
+        Nur kann er durch Diät sich fügen und ihr nicht vorgreifen.
+  ad 2. Der Mensch kann ihr nicht entgehen, nicht ausweichen;
+        aber er kann ihr abgewinnen,
+        dass sie ihn ihre Vorteile mitgenießen lässt,
+        wenn er seinem Privilegiengefühl entsagt.
+
+
+950. Goethe, Maximen und Reflexionen 950
+  Der höchste Zweck der Gesellschaft ist Konsequenz der Vorteile,
+  jedem gesichert.
+  Jeder einzelne Vernünftige opfert schon der Konsequenz vieles auf,
+  geschweige die Gesellschaft.
+  Über diese Konsequenz geht fast der momentane Vorteil der Glieder zugrunde.
+
+
+951. Goethe, Maximen und Reflexionen 951
+  In der Gesellschaft sind alle gleich. Es kann keine Gesellschaft anders
+  als auf den Begriff der Gleichheit gegründet sein,
+  keineswegs aber auf den Begriff der Freiheit.
+  Die Gleichheit will ich in der Gesellschaft finden;
+  die Freiheit, nämlich die sittliche,
+  dass ich mich subordinieren mag, bringe ich mit.
+
+
+952. Goethe, Maximen und Reflexionen 952
+  Die Gesellschaft, in die ich trete, muss also zu mir sagen:
+  "Du sollst allen uns andern gleich sein."
+  Sie kann aber nur hinzufügen:
+  "Wir wünschen, dass du auch frei sein mögest",
+  das heißt:
+  Wir wünschen, dass du dich mit Überzeugung, aus freiem,
+  vernünftigem Willen deiner Privilegien begibst.
+
+
+953. Goethe, Maximen und Reflexionen 953
+  Gesetzgeber oder Revolutionärs,
+  die Gleichsein und Freiheit zugleich versprechen,
   sind Phantasten oder Charlatans.
 
 
-138. Goethe, Maximen und Reflexionen
-UNTERRICHTSWESEN 
-  Treffliche Männer leben in einer Art von Verzweiflung, 
-  dass sie dasjenige, was sie amts- und vorschriftsgemäß lehren 
-  und überliefern müssen, für unnütz und schädlich halten.
+954. Goethe, Maximen und Reflexionen 954
+  Eingebildete Gleichheit:
+  das erste Mittel, die Ungleichheit zu zeigen.
 
 
-139. Goethe, Maximen und Reflexionen
+955. Goethe, Maximen und Reflexionen 955
+  Jede Revolution geht auf Naturzustand hinaus, Gesetz- und Schamlosigkeit.
+  (Pikarden, Wiedertäufer, Sansculotten)
+
+
+956. Goethe, Maximen und Reflexionen 956
+  Sobald die Tyrannei aufgehoben ist,
+  geht der Konflikt zwischen Aristokratie und Demokratie unmittelbar an.
+
+
+957. Goethe, Maximen und Reflexionen 957
+  Die Menschen sind als Organe ihres Jahrhunderts anzusehen,
+  die sich meist unbewusst bewegen.
+
+
+958. Goethe, Maximen und Reflexionen 958
+  Fehler der sogenannten Aufklärung:
+  dass sie Menschen Vielseitigkeit gibt,
+  deren einseitige Lage man nicht ändern kann.
+
+
+959. Goethe, Maximen und Reflexionen 959
+  Vor der Revolution war alles Bestreben;
+  nachher verwandelte sich alles in Forderung.
+
+
+960. Goethe, Maximen und Reflexionen 960
+  In einigen Staaten ist infolge der erlebten heftigen Bewegungen
+  fast in allen Richtungen eine gewisse Übertreibung im Unterrichtswesen
+  eingetreten, dessen Schädlichkeit in der Folge allgemeiner eingesehen,
+  aber jetzt schon von tüchtigen, redlichen Vorstehern solcher Anstalten
+  vollkommen anerkannt ist. 
+  Treffliche Männer leben in einer Art von Verzweiflung, dass sie dasjenige,
+  was sie amts- und vorschriftsgemäß lehren und überliefern müssen,
+  für unnütz und schädlich halten.
+
+
+961. Goethe, Maximen und Reflexionen 961
+  Es ist nichts trauriger anzusehn als das unvermittelte Streben
+  ins Unbedingte in dieser durchaus bedingten Welt;
+  es erscheint im Jahre 1830 vielleicht ungehöriger als je.
+
+
+962. Goethe, Maximen und Reflexionen 962
+  Einen gerüsteten, auf die Defensive berechneten Zustand
+  kann kein Staat aushalten.
+
+
+963. Goethe, Maximen und Reflexionen 963
+  Ob eine Nation reif werden könne, ist eine wunderliche Frage.
+  Ich beantworte sie mit Ja,
+  wenn alle Männer als dreißigjährig geboren werden könnten;
+  da aber die Jugend vorlaut, das Alter aber kleinlaut ewig sein wird,
+  so ist der eigentlich reife Mann
+  immer zwischen beiden geklemmt
+  und wird sich auf eine wunderliche Weise behelfen und durchhelfen müssen.
+
+
+964. Goethe, Maximen und Reflexionen 964
+  Das große Recht, nicht etwa nur in seinen Privatangelegenheiten
+  - denn das weiß ein jeder, -
+  sondern auch in öffentlichen verständig, ja vernünftig zu sein.
+
+
+965. Goethe, Maximen und Reflexionen 965
+  Majestät ist das Vermögen,
+  ohne Rücksicht auf Belohnung oder Bestrafung
+  recht oder unrecht zu handlen.
+
+
+966. Goethe, Maximen und Reflexionen 966
+  Herrschen und genießen geht nicht zusammen.
+  Genießen heißt, sich und andern in Fröhlichkeit angehören;
+  herrschen heißt, sich und anderen im ernstlichsten Sinne wohltätig sein.
+
+
+967. Goethe, Maximen und Reflexionen 967
   Herrschen lernt sich leicht, regieren schwer.
+
+
+968. Goethe, Maximen und Reflexionen 968
   Wer klare Begriffe hat, kann befehlen.
 
 
-140. Goethe, Maximen und Reflexionen
-  Nach Pressfreiheit schreit niemand, als wer sie missbrauchen will. 
-  Die Deutschen der neueren Zeit haben nichts anders für Denk- und Pressfreiheit
-  gehalten, als dass sie sich einander öffentlich missachten dürfen.
+969. Goethe, Maximen und Reflexionen 969
+  Was von Seiten der Monarchen in den Zeitungen gedruckt wird,
+  nimmt sich nicht gut aus; denn die Macht soll handeln und nicht reden.
+  Was die Liberalen vorbringen, lässt sich immer lesen;
+  denn der Übermächtigte, weil er nicht handeln kann,
+  mag sich wenigstens redend äußern.
+  "lasst sie singen, wenn sie nur bezahlen!"
+  sagte Mazarin, als man ihm die Spottlieder auf eine neue Steuer vorlegte.
 
 
-141. Goethe, Maximen und Reflexionen
-  Der Deutsche soll alle Sprachen lernen, 
+970. Goethe, Maximen und Reflexionen 970
+  Wenn man einige Monate die Zeitungen nicht gelesen hat,
+  und man liest sie alsdann zusammen, so zeigt sich erst,
+  wieviel Zeit man mit diesen Papieren verdirbt.
+  Die Welt war immer in Parteien geteilt, besonders ist sie es jetzt,
+  und während jedes zweifelhaften Zustandes kirrt der Zeitungsschreiber
+  eine oder die andere Partei mehr oder	weniger
+  und nährt die innere Neigung und Abneigung von Tag zu Tag,
+  bis zuletzt Entscheidung eintritt
+  und das Geschehene wie eine Gottheit angestaunt wird.
+
+
+971. Goethe, Maximen und Reflexionen 971
+  In den Zeitungen ist alles Offizielle geschraubt, das übrige platt.
+
+
+972. Goethe, Maximen und Reflexionen 972
+  Nach Pressfreiheit schreit niemand, als wer sie missbrauchen will.
+
+
+973. Goethe, Maximen und Reflexionen 973
+  Die Deutschen der neueren Zeit
+  haben nichts anders für Denk- und Pressfreiheit gehalten,
+  als dass sie sich einander öffentlich missachten dürfen.
+
+
+974. Goethe, Maximen und Reflexionen 974
+  Die Deutschen der alten Zeit freute nichts,
+  als dass keiner dem andern gehorchen durfte.
+
+
+975. Goethe, Maximen und Reflexionen 975
+  Gerechtigkeit: Eigenschaft und Phantom der Deutschen.
+
+
+976. Goethe, Maximen und Reflexionen 976
+  Der echte Deutsche bezeichnet sich durch mannigfaltige Bildung
+  und Einheit des Charakters.
+
+
+977. Goethe, Maximen und Reflexionen 977
+  Die Engländer
+  werden uns beschämen durch reinen Menschenverstand und guten Willen,
+  die Franzosen
+  durch geistreiche Umsicht und praktische Ausführung.
+
+
+978. Goethe, Maximen und Reflexionen 978
+  Der Deutsche soll alle Sprachen lernen,
   damit ihm zu Hause kein Fremder unbequem,
   er aber in der Fremde überall zu Hause sei.
 
 
-142. Goethe, Maximen und Reflexionen
-  Ich verfluche allen negativen Purismus, 
+979. Goethe, Maximen und Reflexionen 979
+  Die Gewalt einer Sprache ist nicht, dass sie das Fremde abweist,
+  sondern dass sie es verschlingt.
+
+
+980. Goethe, Maximen und Reflexionen 980
+  Ich verfluche allen negativen Purismus,
   dass man ein Wort nicht brauchen soll,
   in welchem eine andre Sprache Vieles oder Zarteres gefasst hat.
 
 
-143. Goethe, Maximen und Reflexionen
-  Kein Wort steht still, 
-  sondern es rückt immer durch den Gebrauch von seinem anfänglichen Platz, 
-  eher hinab als hinauf, 
-  eher ins Schlechtere als ins Bessere,
-  ins Engere als Weitere, 
-  und an der Wandelbarkeit des Worts 
+981. Goethe, Maximen und Reflexionen 981
+  Meine Sache ist der affirmative Purismus,
+  der produktiv ist und nur davon ausgeht:
+  Wo müssen wir umschreiben, und der Nachbar hat ein entscheidendes Wort?
+
+
+982. Goethe, Maximen und Reflexionen 982
+  Der pedantische Purismus ist ein absurdes Ablehnen weiterer
+  Ausbreitung des Sinnes und Geistes.
+  (Zum Beispiel das englische Wort grief)
+
+
+983. Goethe, Maximen und Reflexionen 983
+  Kein Wort steht still, sondern es rückt immer durch den Gebrauch
+  von seinem anfänglichen Platz, eher hinab als hinauf,
+  eher ins Schlechtere als ins Bessere, ins Engere als Weitere,
+  und an der Wandelbarkeit des Worts
   lässt sich die Wandelbarkeit der Begriffe erkennen.
 
 
-144. Goethe, Maximen und Reflexionen
-  Wenn man älter wird, 
-  muss man mit Bewusstsein auf einer gewissen Stufe stehenbleiben. 
-  Es ziemt sich dem Bejahrten weder in der Denkweise 
-  noch in der Art, sich zu kleiden, der Mode nachzugehen.
+984. Goethe, Maximen und Reflexionen 984
+  Philologen: Apollo Sauroktonos,
+  immer mit dem spitzen Griffelchen in der Hand aufpassend,
+  eine Eidechse zu spießen.
 
 
-145. Goethe, Maximen und Reflexionen
-  In der Jugend bald die Vorzüge des Alters gewahr zu werden, 
-  im Alter die Vorzüge der Jugend zu erhalten, beides ist nur ein Glück.
+985. Goethe, Maximen und Reflexionen 985
+  Es ist kein großer Unterschied,
+  ob ich eine korrekte Stelle falsch verstehe
+  oder ob ich einer korrupten irgendeinen Sinn unterlege.
+  Das letzte ist für den Einzelnen vorteilhafter als das erste.
+  Es wird eine Privatemendation, wodurch er für seinen Geist gewinnt,
+  was jene für den Buchstaben gewonnen.
 
 
-146. Goethe, Maximen und Reflexionen
-  "Ich bin über die Wurzeln des Baums gestolpert, den ich gepflanzt hatte." 
+986. Goethe, Maximen und Reflexionen 986
+  Was man Mode heißt, ist augenblickliche Überlieferung.
+  Alle Überlieferung führt eine gewisse Notwendigkeit mit sich,
+  sich ihr gleichzustellen.
+
+
+987. Goethe, Maximen und Reflexionen 987
+  Wenn man älter wird, muss man mit Bewusstsein
+  auf einer gewissen Stufe stehen bleiben.
+
+
+988. Goethe, Maximen und Reflexionen 988
+  Es ziemt sich dem Bejahrten weder in der Denkweise noch in der Art,
+  sich zu kleiden, der Mode nachzugehen.
+
+989. Goethe, Maximen und Reflexionen 989
+  Aber man muss wissen, wo man steht und wohin die andern wollen.
+
+
+990. Goethe, Maximen und Reflexionen 990
+  Es ist mit den Jahren wie mit den Sibyllinischen Büchern:
+  je mehr man ihrer verbrennt, desto teurer werden sie.
+
+
+991. Goethe, Maximen und Reflexionen 991
+  Wenn die Jugend ein Fehler ist, so legt man ihn sehr bald ab.
+
+
+992. Goethe, Maximen und Reflexionen 992
+  In der Jugend bald die Vorzüge des Alters gewahr zu werden,
+  im Alter die Vorzüge der Jugend zu erhalten,
+  beides ist nur ein Glück.
+
+
+993. Goethe, Maximen und Reflexionen 993
+  Es betrügt sich kein Mensch, der in seiner Jugend noch so viel erwartet.
+  Aber wie er damals die Ahndung in seinem Herzen empfand,
+  so muss er auch die Erfüllung in seinem Herzen suchen,
+  nicht außer sich.
+
+
+994. Goethe, Maximen und Reflexionen 994
+  "Ich bin über die Wurzeln des Baums gestolpert, den ich gepflanzt hatte."
   Das muss ein alter Forstmann gewesen sein, der dies gesagt hat.
 
 
-147. Goethe, Maximen und Reflexionen
-  In jeder großen Trennung liegt ein Keim von Wahnsinn; 
+995. Goethe, Maximen und Reflexionen 995
+  Dass der Mensch zuletzt Epitomator von sich selbst wird!
+  Und dahin zu gelangen ist schon Glück genug.
+
+
+996. Goethe, Maximen und Reflexionen 996
+  Eltern und Kindern bleibt nichts übrig,
+  als entweder vor- oder hintereinander zu sterben,
+  und man weiß am Ende nicht, was man vorziehen sollte.
+
+
+997. Goethe, Maximen und Reflexionen 997
+  Wenn ich an meinen Tod denke, darf ich, kann ich nicht denken,
+  welche Organisation zerstört wird.
+
+998. Goethe, Maximen und Reflexionen 998
+  In jeder großen Trennung liegt ein Keim von Wahnsinn;
   man muss sich hüten, ihn nachdenklich auszubrüten und zu pflegen.
 
 
-148. Goethe, Maximen und Reflexionen
+999. Goethe, Maximen und Reflexionen 999
+  Höchst merkwürdig ist, dass von dem menschlichen Wesen
+  das Entgegengesetzte übrig bleibt:
+  Gehäus und Gerüst, worin und womit sich der Geist hienieden genügte,
+  sodann aber die idealen Wirkungen, die in Wort und Tat von ihm ausgingen.
+
+
+1000. Goethe, Maximen und Reflexionen 1000
   Ein ausgesprochnes Wort fordert sich selbst wieder.
 
 
-149. Goethe, Maximen und Reflexionen
-  Philosophie deutet auf die Geheimnisse der Vernunft und sucht sie durchs Wort
-  zu lösen (Naturphilosophie, Experimentalphilosophie); 
-  Mystik deutet auf die Geheimnisse der Natur und Vernunft 
+1001. Goethe, Maximen und Reflexionen 1001
+  Mystik: eine unreife Poesie, eine unreife Philosophie;
+  Poesie: eine reife Natur;
+  Philosophie: eine reife Vernunft.
+
+1002. Goethe, Maximen und Reflexionen 1002
+  Poesie deutet auf die Geheimnisse der Natur
+  und sucht sie durchs Bild zu lösen;
+  Philosophie deutet auf die Geheimnisse der Vernunft
+  und sucht sie durchs Wort zu lösen
+  (Naturphilosophie, Experimentalphilosophie);
+  Mystik deutet auf die Geheimnisse der Natur und Vernunft
   und sucht sie durch Wort und Bild zu lösen.
 
+1003. Goethe, Maximen und Reflexionen 1003
+  Bildliche Vorstellung: Reich der Poesie;
+  hypothetische Erklärung: Reich der Philosophie.
 
-150. Goethe, Maximen und Reflexionen
+1004. Goethe, Maximen und Reflexionen 1004
+  Das Wahre (Allgemeine), das wir erkennen und festhalten;
+  das Leidenschaftliche (Besondere), das uns hindert und festhält;
+  das Dritte, Rednerische, schwankend zwischen Wahrheit und Leidenschaft.
+
+1005. Goethe, Maximen und Reflexionen 1005
+  Die Laune ist ein Bewusstloses und beruht auf der Sinnlichkeit.
+  Es ist der Widerspruch der Sinnlichkeit mit sich selbst.
+
+1006. Goethe, Maximen und Reflexionen 1006
+  Der Humor entsteht,
+  wenn die Vernunft nicht im Gleichgewicht mit den Dingen ist,
+  sondern entweder sie zu beherrschen strebt
+  und nicht damit zustande kommen kann:
+  welches der ärgerliche oder üble Humor ist;
+  oder sich ihnen gewissermaßen unterwirft und mit sich spielen lässt,
+  salvo honore: welches der heitre Humor oder der gute ist.
+  Sie lässt sich gut symbolisieren durch einen Vater, der sich herablässt,
+  mit seinen Kindern zu spielen, und mehr Spaß einnimmt als ausgibt.
+  In diesem Falle spielt die Vernunft den Goffo,
+  im ersten Falle den Moroso.
+
+
+1007. Goethe, Maximen und Reflexionen 1007
+  Das Genie übt eine Art Ubiquität aus,
+  ins Allgemeine vor, ins Besondere nach der Erfahrung.
+
+
+1008. Goethe, Maximen und Reflexionen 1008
   Das Glück des Genies: wenn es zu Zeiten des Ernstes geboren wird.
 
 
-151. Goethe, Maximen und Reflexionen
-  Was ist das für eine Zeit, wo man die Begrabenen beneiden muss?
+1009. Goethe, Maximen und Reflexionen 1009
+  Große Talente sind das schönste Versöhnungsmittel.
 
 
-152. Goethe, Maximen und Reflexionen
-  Man spricht soviel von Geschmack: der Geschmack besteht in Euphemismen.
+1010. Goethe, Maximen und Reflexionen 1010
+  Das Genie mit Großsinn sucht seinem Jahrhundert vorzueilen;
+  das Talent aus Eigensinn möchte es oft zurückhalten.
+
+
+1011. Goethe, Maximen und Reflexionen 1011
+  Der Scharfsinn verlässt geistreiche Männer am wenigsten,
+  wenn sie unrecht haben.
+
+
+1012. Goethe, Maximen und Reflexionen 1012
+  Das Fürchterlichste ist,
+  wenn platte, unfähige Menschen zu Phantasten sich gesellen.
+
+
+1013. Goethe, Maximen und Reflexionen 1013
+  Man kann sich nicht verleugnen, dass die deutsche Welt,
+  mit vielen, guten, trefflichen Geistern geschmückt,
+  immer uneiniger, unzusammenhängender in Kunst und Wissenschaft,
+  sich auf historischem, theoretischem und praktischem Wege
+  immer mehr verirrt und verwirrt.
+
+
+1014. Goethe, Maximen und Reflexionen 1014
+  Sähe man Kunst und Wissenschaft nicht als ein Ewiges,
+  in sich selbst Lebendig-Fertiges verehrend an,
+  das im Zeitverlaufe nur Vorzüge und Mängel durcheinander mischt,
+  so würde man selbst irre werden und sich betrüben,
+  dass Reichtum in eine solche Verlegenheit setzen kann.
+
+
+1015. Goethe, Maximen und Reflexionen 1015
+  Was ist das für eine Zeit,
+  wo man die Begrabenen beneiden muss?
+
+
+1016. Goethe, Maximen und Reflexionen 1016
+  Was nicht originell ist, daran ist nichts gelegen,
+  und was originell ist, trägt immer die Gebrechen des Individuums an sich.
+
+
+1017. Goethe, Maximen und Reflexionen 1017
+  Wer's nicht besser machen kann, macht's wenigstens anders;
+  Zuhörer und Leser, in herkömmlicher Gleichgültigkeit,
+  lassen dergleichen am liebsten gelten.
+
+
+1018. Goethe, Maximen und Reflexionen 1018
+  Man spricht soviel von Geschmack:
+  der Geschmack besteht in Euphemismen.
   Diese sind Schonungen des Ohrs mit Aufregung des Sinnes.
 
 
-153. Goethe, Maximen und Reflexionen
-  Die Literatur verdirbt sich nur in dem Maße, 
+1019. Goethe, Maximen und Reflexionen 1019
+  Das Publikum will wie Frauenzimmer behandelt sein:
+  man soll ihnen durchaus nichts sagen, als was sie hören möchten.
+
+
+1020. Goethe, Maximen und Reflexionen 1020
+  Das Publikum beklagt sich lieber unaufhörlich,
+  übel bedient worden zu sein,
+  als dass es sich bemühte, besser bedient zu werden.
+
+
+1021. Goethe, Maximen und Reflexionen 1021
+  Es gibt empirische Enthusiasten, die, obgleich mit Recht,
+  an neuen guten Produkten, aber mit einer Ekstase sich erweisen,
+  als wenn sonst in der Welt nichts Vorzügliches zu sehen gewesen wäre.
+
+
+1022. Goethe, Maximen und Reflexionen 1022
+  Ein großes Unheil entspringt aus den falschen Begriffen der Menge,
+  weil der Wert vorhandener Werke gleich verkannt wird,
+  wenn sie nicht im kurrenten Vorurteil mit einbegriffen sind.
+
+
+1023. Goethe, Maximen und Reflexionen 1023
+  Innerhalb einer Epoche gibt es keinen Standpunkt, eine Epoche zu betrachten.
+
+
+1024. Goethe, Maximen und Reflexionen 1024
+  Keine Nation hat ein Urteil als über das,
+  was bei ihr getan und geschrieben ist.
+  Man könnte dies auch von jeder Zeit sagen.
+
+
+1025. Goethe, Maximen und Reflexionen 1025
+  Wahre, in alle Zeiten und Nationen eingreifende Urteile sind sehr selten.
+
+
+1026. Goethe, Maximen und Reflexionen 1026
+  Keine Nation hat eine Kritik als in der Maße,
+  wie sie vorzügliche, tüchtige und vortreffliche Werke besitzt.
+
+
+1027. Goethe, Maximen und Reflexionen 1027
+  Die Kritik erscheint wie Ate:
+  sie verfolgt die Autoren, aber hinkend.
+
+
+1028. Goethe, Maximen und Reflexionen 1028
+  Das Wahre, Gute und Vortreffliche ist einfach und sich immer gleich,
+  wie es auch erscheine. Das Irren aber, das den Tadel hervorruft,
+  ist höchst mannigfaltig, in sich selbst verschieden und nicht allein gegen
+  das Gute und Wahre, sondern auch gegen sich selbst kämpfend,
+  mit sich selbst in Widerspruch. Daher müssen in jeder Literatur
+  die Ausdrücke des Tadels die Worte des Lobes überwiegen.
+
+
+1029. Goethe, Maximen und Reflexionen 1029
+  Bei den Griechen, deren Poesie und Rhetorik einfach und positiv war,
+  erscheint die Billigung öfter als die Missbilligung;
+  bei den Lateinern hingegen ist es umgekehrt,
+  und je mehr sich Poesie und Redekunst	verdirbt,
+  desto mehr wird der Tadel wachsen und das Lob sich zusammenziehen.
+
+
+1030. Goethe, Maximen und Reflexionen 1030
+  Die Literatur verdirbt sich nur in dem Maße,
   als die Menschen verdorbener werden.
 
 
-154. Goethe, Maximen und Reflexionen
-  Jemand sagte: "Was bemüht ihr euch um den Homer? 
-  Ihr versteht ihn doch nicht."
-  dass die bildende Kunst in der Ilias auf einer so hohen Stufe erscheint, 
+1031. Goethe, Maximen und Reflexionen 1031
+  Klassisch ist das Gesunde, romantisch das Kranke.
+
+
+1032. Goethe, Maximen und Reflexionen 1032
+  Ovid blieb klassisch auch im Exil:
+  er sucht sein Unglück nicht in sich,
+  sondern in seiner Entfernung von der Hauptstadt der Welt.
+
+
+1033. Goethe, Maximen und Reflexionen 1033
+  Das Romantische ist schon in seinen Abgrund verlaufen;
+  das Grässlichste der neuern Produktionen ist kaum noch gesunkener zu denken.
+
+
+1034. Goethe, Maximen und Reflexionen 1034
+  Engländer und Franzosen haben uns darin überboten.
+  Körper, die bei Leibesleben verfaulen
+  und sich in detaillierter Betrachtung ihres Verwesens erbauen,
+  Tote, die zum Verderben anderer am Leben bleiben
+  und ihren Tod am Lebendigen ernähren: dahin sind unsre Produzenten gelangt!
+
+
+1035. Goethe, Maximen und Reflexionen 1035
+  Im Altertum spuken dergleichen Erscheinungen nur vor
+  wie seltene Krankheitsfälle;
+  bei den Neuern sind sie endemisch und epidemisch geworden.
+
+
+1036. Goethe, Maximen und Reflexionen 1036
+  "Sakuntala": Hier erscheint der Dichter in seiner höchsten Funktion.
+  Als Repräsentant des natürlichsten Zustandes, der feinsten Lebensweise,
+  des reinsten sittlichen Bestrebens,
+  der würdigsten Majestät und der ernstesten Gottesverehrung
+  wagt er sich in gemeine und lächerliche Gegensätze.
+
+
+1037. Goethe, Maximen und Reflexionen 1037
+  Jemand sagte:
+  "Was bemüht ihr euch um den Homer? Ihr versteht ihn doch nicht."
+  Darauf antwortet ich:
+  Versteh ich doch auch Sonne, Mond und Sterne nicht;
+  aber sie gehen über meinem Haupt hin, und ich erkenne mich in ihnen,
+  indem ich sie sehe und ihren regelmäßigen, wunderbaren Gang betrachte,
+  und denke dabei, ob auch wohl etwas aus mir werden könnte.
+
+
+1038. Goethe, Maximen und Reflexionen 1038
+  Dass die bildende Kunst in der Ilias auf einer so hohen Stufe erscheint,
   möchte wohl ein Argument für die Modernität des Gedichtes abgeben.
 
 
-155. Goethe, Maximen und Reflexionen
-  "Heinrich der Vierte" von Shakespeare: 
-  Wenn alles verloren wäre, was je, dieser Art geschrieben, zu uns gekommen, 
+1039. Goethe, Maximen und Reflexionen 1039
+  Die Modernen sollen nur Lateinisch schreiben,
+  wenn sie aus nichts etwas zu machen haben.
+  Umgekehrt machen sie ihr weniges Etwas immer zu nichts.
+
+
+1040. Goethe, Maximen und Reflexionen 1040
+  Die lateinische Sprache hat eine Art von Imperativus der Autorschaft.
+
+
+1041. Goethe, Maximen und Reflexionen 1041
+  Zu den glücklichen Umständen, welche Shakespeares gebornes großes Talent
+  frei und rein entwickelten, gehört auch, dass er Protestant war;
+  er hätte sonst wie Kalidasa und Calderón Absurditäten verherrlichen müssen.
+
+
+1042. Goethe, Maximen und Reflexionen 1042
+  "Heinrich der Vierte" von Shakespeare:
+  Wenn alles verloren wäre, was je, dieser Art geschrieben, zu uns gekommen,
   so könnte man Poesie und Rhetorik daraus vollkommen wiederherstellen.
 
 
-156. Goethe, Maximen und Reflexionen
+1043. Goethe, Maximen und Reflexionen 1043
   Um die alten, abgeschmacktesten locos communes der Menschheit
   durchzupeitschen, hat Klopstock Himmel und Hölle, Sonne, Mond und Sterne,
   Zeit und Ewigkeit, Gott und Teufel aufgeboten.
 
 
-157. Goethe, Maximen und Reflexionen
-  Beim Übersetzen muss man bis ans Unübersetzliche herangehen; alsdann wird
-  man aber erst die fremde Nation und die fremde Sprache gewahr.
+1044. Goethe, Maximen und Reflexionen 1044
+  Schmidt von Werneuchen ist der wahre Charakter der Natürlichkeit.
+  Jedermann hat sich über ihn lustig gemacht, und das mit Recht;
+  und doch hätte man sich über ihn nicht lustig machen können,
+  wenn er nicht als Poet wirkliches Verdienst hätte,
+  das wir an ihm zu ehren haben.
+
+1045. Goethe, Maximen und Reflexionen 1045
+  "Eulenspiegel":
+  Alle Hauptspäße des Buchs beruhen darauf,
+  dass alle Menschen figürlich sprechen und Eulenspiegel es eigentlich nimmt.
 
 
-158. Goethe, Maximen und Reflexionen
-  Es ist ein großer Unterschied, 
-  ob ich lese zu Genuss und Belebung oder zu Erkenntnis und Belehrung. 
-  Es gibt Bücher, durch welche man alles erfährt 
+1046. Goethe, Maximen und Reflexionen 1046
+  Märchen:
+  das uns unmögliche Begebenheiten
+  unter möglichen oder unmöglichen Bedingungen als möglich darstellt.
+
+
+1047. Goethe, Maximen und Reflexionen 1047
+  Roman:
+  der uns mögliche Begebenheiten
+  unter unmöglichen oder fast unmöglichen Bedingungen als wirklich darstellt.
+
+1048. Goethe, Maximen und Reflexionen 1048
+  Der Romanenheld assimiliert sich alles;
+  der Theaterheld muss nichts Ähnliches in allem dem finden, was ihn umgibt.
+
+
+1049. Goethe, Maximen und Reflexionen 1049
+  Einen wundersamen Anblick geben des Aristoteles Fragmente
+  des Traktats über Dichtkunst.
+  Wenn man das Theater in- und auswendig kennt wie unsereiner,
+  der einen bedeutenden Teil des Lebens auf diese Kunst verwendet
+  und selbst viel darin gearbeitet hat, so sieht man erst,
+  dass man sich vor allen Dingen mit der philosophischen Denkart
+  des Mannes bekannt machen müsste, um zu begreifen,
+  wie er diese Kunsterscheinung angesehen habe;
+  außerdem verwirrt unser Studium nur,
+  wie denn die moderne Poetik das Alleräußerlichste seiner Lehre
+  nur zu ihrem Verderben anwendet und angewendet hat.
+
+
+1050. Goethe, Maximen und Reflexionen 1050
+  Des tragischen Dichters Aufgabe und Tun ist nichts anders,
+  als ein psychisch-sittliches Phänomen,
+  in einem fasslichen Experiment dargestellt,
+  in der Vergangenheit nachzuweisen.
+
+
+1051. Goethe, Maximen und Reflexionen 1051
+  Was man Motive nennt,
+  sind also eigentlich Phänomene des Menschengeistes,
+  die sich wiederholt haben und wiederholen werden
+  und die der Dichter nur als historische nachweist.
+
+
+1052. Goethe, Maximen und Reflexionen 1052
+  Ein dramatisches Werk zu verfassen, dazu gehört Genie.
+  Am Ende soll die Empfindung, in der Mitte die Vernunft,
+  am Anfang der Verstand vorwalten und alles gleichmäßig
+  durch eine lebhaft-klare Einbildungskraft vorgetragen werden.
+
+
+1053. Goethe, Maximen und Reflexionen 1053
+  Es ist nichts theatralisch,
+  was nicht für die Augen symbolisch wäre.
+
+1054. Goethe, Maximen und Reflexionen 1054
+  Die gewöhnlichen Theaterkritiken sind unbarmherzige Sündenregister,
+  die ein böser Geist vorwurfsweise den armen Schächern vorhält
+  ohne hilfreiche Hand zu einem bessern Wege.
+
+
+1055. Goethe, Maximen und Reflexionen 1055
+  Eine Romanze ist kein Prozess, wo ein Definitivurteil sein muss.
+
+
+1056. Goethe, Maximen und Reflexionen 1056
+  Beim Übersetzen muss man bis ans Unübersetzliche herangehen;
+  alsdann wird man aber erst die fremde Nation und die fremde Sprache gewahr.
+
+
+1057. Goethe, Maximen und Reflexionen 1057
+  Es ist ein großer Unterschied,
+  ob ich lese zu Genuss und Belebung
+  oder zu Erkenntnis und Belehrung.
+
+
+1058. Goethe, Maximen und Reflexionen 1058
+  Es gibt Bücher, durch welche man alles erfährt
   und doch zuletzt von der Sache nichts begreift.
 
 
-159. Goethe, Maximen und Reflexionen
-  Wer streiten will, muss sich hüten, 
-  bei dieser Gelegenheit Sachen zu sagen, die ihm niemand streitig macht.
+1059. Goethe, Maximen und Reflexionen 1059
+  Wenn einem Autor ein Lexikon nachkommen kann, so taugt er nichts.
 
 
-160. Goethe, Maximen und Reflexionen
-  Die Dunkelheit gewisser Maximen ist nur relativ: 
-  nicht alles ist dem Hörenden deutlich zu machen, 
+1060. Goethe, Maximen und Reflexionen 1060
+  Ich denke immer, wenn ich einen Druckfehler sehe,
+  es sei etwas Neues erfunden.
+
+
+1061. Goethe, Maximen und Reflexionen 1061
+  Verleger haben die Autoren und sich selbst für vogelfrei erklärt;
+  wie wollen sie untereinander, wer will mit ihnen rechten?
+
+
+1062. Goethe, Maximen und Reflexionen 1062
+  Die Sehnsucht, die nach außen, in die Ferne strebt,
+  sich aber melodisch in sich selbst beschränkt, erzeugt den Minor.
+
+
+1063. Goethe, Maximen und Reflexionen 1063
+  Kantilene:
+  die Fülle der Liebe und jedes leidenschaftlichen Glücks verewigend.
+
+
+1064. Johann Wolfgang Goethe, Maximen und Reflexionen
+AUS DEM NACHLASS (Über Kunst und Kunstgeschichte)
+(Aphorismen. Freunden und Gegnern zur Beherzigung)
+  Wer gegenwärtig über Kunst schreiben oder gar streiten will,
+  der sollte einige Ahndung haben von dem,
+  was die Philosophie in unsern Tagen geleistet hat und zu leisten fortfährt.
+
+
+1065. Goethe, Maximen und Reflexionen 1065
+AUS DEM NACHLASS (Über Kunst und Kunstgeschichte)
+(Aphorismen. Freunden und Gegnern zur Beherzigung)
+  Wer einem Autor Dunkelheit vorwerfen will,
+  sollte erst sein eigen Inneres beschauen,
+  ob es denn da auch recht hell ist:
+  in der Dämmerung wird eine sehr deutliche Schrift unlesbar.
+
+
+1066. Goethe, Maximen und Reflexionen 1066
+AUS DEM NACHLASS (Über Kunst und Kunstgeschichte)
+(Aphorismen. Freunden und Gegnern zur Beherzigung)
+  Wer streiten will, muss sich hüten,
+  bei dieser Gelegenheit Sachen zu sagen,
+  die ihm niemand streitig macht.
+
+
+1067. Goethe, Maximen und Reflexionen 1067
+  Wer Maximen bestreiten will, sollte fähig sein,
+  sie recht klar aufzustellen und innerhalb dieser Klarheit zu kämpfen,
+  damit er nicht in den Fall gerate,
+  mit selbstgeschaffenen Luftbildern zu fechten.
+
+
+1068. Goethe, Maximen und Reflexionen 1068
+  Die Dunkelheit gewisser Maximen ist nur relativ:
+  nicht alles ist dem Hörenden deutlich zu machen,
   was dem Ausübenden einleuchtet.
 
 
-161. Goethe, Maximen und Reflexionen
+1069. Goethe, Maximen und Reflexionen 1069
+  Ein Künstler, der schätzbare Arbeiten verfertiget,
+  ist nicht immer imstande,
+  von eignen oder fremden Werken Rechenschaft zu geben.
+
+1070. Goethe, Maximen und Reflexionen 1070
+  Natur und Idee lässt sich nicht trennen,
+  ohne dass die Kunst sowie das Leben zerstört werde.
+
+
+1071. Goethe, Maximen und Reflexionen 1071
+  Wenn Künstler von Natur sprechen,
+  subintelligieren sie immer die Idee,
+  ohne sich's deutlich bewusst zu sein.
+
+
+1072. Goethe, Maximen und Reflexionen 1072
+  Eben so geht's allen, die ausschließlich die Erfahrung anpreisen;
+  sie bedenken nicht, dass die Erfahrung nur die Hälfte der Erfahrung ist.
+
+
+1073. Goethe, Maximen und Reflexionen 1073
+  Erst hört man von Natur und Nachahmung derselben;
+  dann soll es eine schöne Natur geben.
+  Man soll wählen.
+  Doch wohl das Beste! Und woran soll man's erkennen?
+  Nach welcher Norm soll man wählen? Und wo ist denn die Norm?
+  Doch wohl nicht auch in der Natur?
+
+
+1074. Goethe, Maximen und Reflexionen 1074
+  Und gesetzt, der Gegenstand wäre gegeben, der schönste Baum im Walde,
+  der in seiner Art als vollkommen auch vom Förster anerkannt würde.
+  Nun, um den Baum in ein Bild zu verwandeln,
+  gehe ich um ihn herum und suche mir die schönste Seite.
+  Ich trete weit genug weg, um ihn völlig zu übersehen,
+  ich warte ein günstiges Licht ab,
+  und nun soll von dem Naturbaum noch viel auf das Papier übergegangen sein!
+
+
+1075. Goethe, Maximen und Reflexionen 1075
+  Der Laie mag das glauben;
+  der Künstler, hinter den Kulissen seines Handwerks,
+  sollte aufgeklärter sein.
+
+
+1076. Goethe, Maximen und Reflexionen 1076
+  Gerade das, was ungebildeten Menschen am Kunstwerk als Natur auffällt,
+  das ist nicht Natur (von außen), 
+  sondern der Mensch (Natur von innen).
+
+1077. Goethe, Maximen und Reflexionen 1077
+  Wir wissen von keiner Welt als im Bezug auf den Menschen;
+  wir wollen keine Kunst, als die ein Abdruck dieses Bezugs ist.
+
+
+1078. Goethe, Maximen und Reflexionen 1078
+  Wer zuerst im Bilde auf seinen Horizont die Zielpunkte
+  des mannigfaltigen Spiels waagerechter Linien bannte,
+  erfand das Prinzip der Perspektive.
+
+
+1079. Goethe, Maximen und Reflexionen 1079
+  Wer zuerst aus der Systole und Diastole, zu der die Retina gebildet ist,
+  aus dieser Synkrisis und Diakrisis, mit Plato zu sprechen,
+  die Farbenharmonie entwickelte,
+  der hat die Prinzipien des Kolorits entdeckt.
+
+
+1080. Goethe, Maximen und Reflexionen 1080
+  Suchet in euch, so werdet ihr alles finden, und erfreuet euch,
+  wenn da draußen, wie ihr es immer heißen möget, eine Natur liegt,
+  die ja und amen zu allem sagt, was ihr in euch gefunden habt!
+
+
+1081. Goethe, Maximen und Reflexionen 1081
+  Gar vieles kann lange erfunden, entdeckt sein,
+  und es wirkt nicht auf die Welt;
+  es kann wirken und doch nicht bemerkt werden,
+  wirken und nicht ins Allgemeine greifen.
+  Deswegen jede Geschichte der Erfindung
+  sich mit den wunderbarsten Rätseln herumschlägt.
+
+
+1082. Goethe, Maximen und Reflexionen 1082
   Es ist so schwer, etwas von Mustern zu lernen, als von der Natur.
 
 
-162. Goethe, Maximen und Reflexionen
-  Albrecht Dürer förderte ein höchst innigstes realistisches Anschauen, 
-  ein liebenswürdiges menschliches Mitgefühl aller gegenwärtigen Zustände; 
+1083. Goethe, Maximen und Reflexionen 1083
+  Die Form will so gut verdauet sein als der Stoff;
+  ja sie verdaut sich viel schwerer.
+
+
+1084. Goethe, Maximen und Reflexionen 1084
+  Mancher hat nach der Antike studiert
+  und sich ihr Wesen nicht ganz zugeeignet:
+  ist er darum scheltenswert?
+
+
+1085. Goethe, Maximen und Reflexionen 1085
+  Die höheren Forderungen sind an sich schon schätzbarer,
+  auch unerfüllt, als niedrige, ganz erfüllte.
+
+
+1086. Goethe, Maximen und Reflexionen 1086
+  Das Trocken-Naive, das Steif-Wackere, das Ängstlich-Rechtliche,
+  und womit man ältere deutsche Kunst charakterisieren mag,
+  gehört zu jeder früheren, einfacheren Kunstweise.
+  Die alten Venezianer, Florentiner usw. haben das alles auch.
+
+
+1087. Goethe, Maximen und Reflexionen 1087
+  Und wir Deutsche sollen uns dann nur für original halten,
+  wenn wir uns nicht über die Anfänge erheben?
+
+
+1088. Goethe, Maximen und Reflexionen 1088
+  Weil Albrecht Dürer bei dem unvergleichlichen Talent
+  sich nie zur Idee des Ebenmaßes der Schönheit,
+  ja sogar nie zum Gedanken einer schicklichen Zweckmäßigkeit
+  erheben konnte, sollen wir auch immer an der Erde kleben?
+
+
+1089. Goethe, Maximen und Reflexionen 1089
+  Albrecht Dürer förderte ein höchst innigstes realistisches Anschauen,
+  ein liebenswürdiges menschliches Mitgefühl aller gegenwärtigen Zustände;
   ihm schadete eine trübe, form- und bodenlose Phantasie.
 
 
-163. Goethe, Maximen und Reflexionen
-  Nachdem uns Klopstock vom Reim erlöste und Voß uns prosodische Muster
-  gab, so sollen wir wohl wieder Knittelverse machen wie Hans Sachs?
+1090. Goethe, Maximen und Reflexionen 1090
+  Wie Martin Schön neben ihm steht und wie das deutsche Verdienst
+  sich dort beschränkt, wäre interessant zu zeigen,
+  und nützlich zu zeigen, dass dort nicht aller Tage Abend war.
 
 
-164. Goethe, Maximen und Reflexionen
-  Fehler der Dilettanten: Phantasie und Technik unmittelbar verbinden zu wollen.
+1091. Goethe, Maximen und Reflexionen 1091
+  Löste sich doch in jeder italienischen Schule
+  der Schmetterling aus der Puppe los!
 
 
-165. Goethe, Maximen und Reflexionen
-  Das Kopernikanische System beruht auf einer Idee, die schwer zu fassen war
-  und noch täglich unseren Sinnen widerspricht. 
+1092. Goethe, Maximen und Reflexionen 1092
+  Sollen wir ewig als Raupen herumkriechen,
+  weil einige nordische Künstler ihre Rechnung dabei finden?
+
+
+1093. Goethe, Maximen und Reflexionen 1093
+  Nachdem uns Klopstock vom Reim erlöste
+  und Voß uns prosodische Muster gab,
+  so sollen wir wohl wieder Knittelverse machen wie Hans Sachs?
+
+
+1094. Goethe, Maximen und Reflexionen 1094
+  lasst uns doch vielseitig sein! Märkische Rübchen schmecken gut,
+  am besten gemischt mit Kastanien, 
+  und diese beiden edlen Früchte wachsen weit auseinander.
+
+
+1095. Goethe, Maximen und Reflexionen 1095
+  Erlaubt uns in unsern vermischten Schriften doch neben den
+  abend- und nordländischen Formen auch die morgen- und südländischen!
+
+
+1096. Goethe, Maximen und Reflexionen 1096
+  Man ist nur vielseitig, wenn man zum Höchsten strebt, weil man muss
+  (im Ernst),
+  und zum Geringern herabsteigt, wenn man will
+  (zum Spaß).
+
+
+1097. Goethe, Maximen und Reflexionen 1097
+  lasst doch den deutschen Dichtern den frommen Wunsch,
+  auch als Homeriden zu gelten!
+  Deutsche Bildhauer, es wird euch nicht schaden,
+  zum Ruhm der letzten Praxiteliden zu streben!
+
+
+1098. Goethe, Maximen und Reflexionen 1098
+  Was hat ein Maler zu studieren,
+  bis er eine Pfirsche sehen kann wie Huysum,
+  und wir sollen nicht versuchen, ob es möglich sei,
+  den Menschen zu sehen, wie ihn ein Grieche gesehen hat?
+
+1099. Goethe, Maximen und Reflexionen 1099
+  Wer Proportion (das Messbare) von der Antike nehmen muss,
+  sollte uns nicht gehässig sein,
+  weil wir das Unmessbare von der Antike nehmen wollen.
+
+
+1100. Goethe, Maximen und Reflexionen 1100
+  Es ist schon genug, dass Kunstliebhaber das Vollkommene
+  übereinstimmend anerkennen und schätzen;h
+  über das Mittlere lässt sic der Streit nicht endigen.
+
+
+1101. Goethe, Maximen und Reflexionen 1101
+  Alles Prägnante, was allein an einem Kunstwerke vortrefflich ist,
+  wird nicht anerkannt, alles Fruchtbare und Fördernde wird beseitigt,
+  eine tiefumfassende Synthesis begreift nicht leicht jemand.
+
+
+1102. Goethe, Maximen und Reflexionen 1102
+  Ihr wählt euch ein Muster, und damit vermischt ihr eure Individualität:
+  das ist alle eure Kunst. 
+  Da ist an keine Grundsätze, an keine Schule, an keine Folge zu denken,
+  alles willkürlich und wie es einem jeden einfällt.
+  Dass man sich von Gesetzen losmacht,
+  die bloß durch Tradition geheiligt sind, dagegen ist nichts zu sagen;
+  aber dass man nicht denkt, es müssen doch Gesetze sein,
+  die aus der Natur jeder Kunst entspringen, daran denkt niemand.
+
+
+1103. Goethe, Maximen und Reflexionen 1103
+  Jedes gute und schlechte Kunstwerk, sobald es entstanden ist,
+  gehört zur Natur.
+  Die Antike gehört zur Natur,
+  und zwar, wenn sie anspricht, zur natürlichsten Natur,
+  und diese edle Natur sollen wir nicht studieren, aber die gemeine!
+
+
+1104. Goethe, Maximen und Reflexionen 1104
+  Denn das Gemeine ist's eigentlich, was den Herren Natur heißt!
+  Aus sich schöpfen mag wohl heißen, mit dem eben fertig werden,
+  was uns bequem wird!
+
+
+1105. Goethe, Maximen und Reflexionen 1105
+  Kunst:
+  eine andere Natur, auch geheimnisvoll, aber verständlicher;
+  denn sie entspringt aus dem Verstande.
+
+
+1106. Goethe, Maximen und Reflexionen 1106
+  Die Natur wirkt nach Gesetzen,
+  die sie sich in Eintracht mit dem Schöpfer vorschrieb,
+  die Kunst nach Regeln,über die sie sich mit dem Genie einverstanden hat.
+
+
+1107. Goethe, Maximen und Reflexionen 1107
+  Die Kunst ruht auf einer Art religiösem Sinn,
+  auf einem tiefen, unerschütterlichen Ernst;
+  deswegen sie sich auch so gern mit der Religion vereinigt.
+  Die Religion bedarf keines Kunstsinnes, sie ruht auf ihrem eignen;
+  sie verleiht aber auch keinen, sowenig sie Geschmack gibt.
+
+
+1108. Goethe, Maximen und Reflexionen 1108
+  Realität in der höchsten Nützlichkeit (Zweckmäßigkeit)
+  wird auch schön sein.
+
+
+1109. Goethe, Maximen und Reflexionen 1109
+  Vollkommenheit ist schon da, wenn das Notwendige geleistet wird,
+  Schönheit, wenn das Notwendige geleistet, doch verborgen ist.
+
+
+1110. Goethe, Maximen und Reflexionen 1110
+  Vollkommenheit kann mit Disproportion bestehen,
+  Schönheit allein mit Proportion.
+
+
+1111. Goethe, Maximen und Reflexionen 1111
+  Werke der Kunst werden zerstört, sobald der Kunstsinn verschwindet.
+  Die Allegorie verwandelt die Erscheinung in einen Begriff,
+  den Begriff in ein Bild, doch so,
+  dass der Begriff im Bilde immer noch begrenzt
+  und vollständig zu halten und zu haben und an demselben auszusprechen sei.
+
+
+1112. Goethe, Maximen und Reflexionen 1112
+  Die Allegorie verwandelt die Erscheinung in einen Begriff,
+  den Begriff in ein Bild,
+  doch so, dass der Begriff im Bilde immer noch begrenzt
+  und vollständig zu halten und zu haben und an demselben auszusprechen sei.
+
+1113. Goethe, Maximen und Reflexionen 1113
+  Die Symbolik verwandelt die Erscheinung in Idee,
+  die Idee in ein Bild, und so,
+  dass die Idee im Bild immer unendlich wirksam und unerreichbar bleibt
+  und, selbst in allen Sprachen ausgesprochen, doch unaussprechlich bliebe.
+
+
+1114. Goethe, Maximen und Reflexionen 1114
+  In Rembrandts trefflicher Radierung, der Austreibung der Käufer und
+  Verkäufer aus den Tempelhallen, ist die Glorie, welche gewöhnlich des
+  Herrn Haupt umgibt, in die vorwärts wirkende Hand gleichsam
+  gefahren, welche nun in göttlicher Tat, glanzumgeben, derb zuschlägt.
+  Um das Haupt ist's, wie auch das Gesicht, dunkel.
+
+
+1115. Goethe, Maximen und Reflexionen 1115
+  Jeder große Künstler reißt uns weg, steckt uns an. 
+  Alles, was in uns von eben der Fähigkeit ist, wird rege,
+  und da wir eine Vorstellung vom Großen und einige Anlage dazu haben,
+  so bilden wir uns gar leicht ein, der Keim davon stecke in uns.
+
+
+1116. Goethe, Maximen und Reflexionen 1116
+  Gemüt hat jedermann, Naturell manche, Kunstbegriffe sind selten.
+
+
+1117. Goethe, Maximen und Reflexionen 1117
+  In allen Künsten gibt es einen gewissen Grad, den man mit den
+  natürlichen Anlagen, sozusagen allein erreichen kann.
+  Zugleich aber ist es unmöglich, denselben zu überschreiten,
+  wenn nicht die Kunst zu Hilfe kommt.
+
+1118. Goethe, Maximen und Reflexionen 1118
+  Man sagt wohl zum Lobe des Künstlers: er hat alles aus sich selbst.
+  Wenn ich das nur nicht wieder hören müsste!
+  Genau besehen, sind die Produktionen eines solchen Originalgenies
+  meistens Reminiszenzen;
+  wer Erfahrung hat, wird sie meist einzeln nachweisen können.
+
+
+1119. Goethe, Maximen und Reflexionen 1119
+  Das sogenannte Aus-sich-Schöpfen
+  macht gewöhnlich falsche Originale und Manieristen.
+
+
+1120. Goethe, Maximen und Reflexionen 1120
+  Warum schelten wir das Manierierte so sehr, als weil wir glauben,
+  das Umkehren daher auf den rechten Weg sei unmöglich?
+
+
+1121. Goethe, Maximen und Reflexionen 1121
+  Die Kunst soll das Penible nicht vorstellen.
+
+
+1122. Goethe, Maximen und Reflexionen 1122
+  Was die letzte Hand tun kann, muss die erste schon entschieden
+  aussprechen. Hier muss schon bestimmt sein, was getan werden soll.
+
+
+1123. Goethe, Maximen und Reflexionen 1123
+  "An meinen Bildern müsst ihr nicht schnuffeln, die Farben sind ungesund."
+  (Rembrandt).
+
+
+1124. Goethe, Maximen und Reflexionen 1124
+  Aus vielen Skizzen endlich ein Ganzes hervorzubringen,
+  gelingt selbst den Besten nicht immer.
+
+
+1125. Goethe, Maximen und Reflexionen 1125
+  Selbst das mäßige Talent hat immer Geist in Gegenwart der Natur;
+  deswegen einigermaßen sorgfältige Zeichnungen der Art immer Freude machen.
+
+
+1126. Goethe, Maximen und Reflexionen 1126
+  Ursache des Dilettantismus:
+  Flucht vor der Manier, Unkenntnis der Methode,
+  törichtes Unternehmen, gerade immer das Unmögliche leisten zu wollen,
+  welches die höchste Kunst erforderte, wenn man sich ihm je nähern könnte.
+
+
+1127. Goethe, Maximen und Reflexionen 1127
+  Fehler der Dilettanten:
+  Phantasie und Technik unmittelbar verbinden zu wollen.
+
+
+1128. Goethe, Maximen und Reflexionen 1128
+  Es ist eine Tradition, Dädalus, der erste Plastiker,
+  habe die Erfindung der Drehscheibe des Töpfers beneidet.
+  Von Neid möchte wohl nichts vorgekommen sein;
+  aber der große Mann hat wahrscheinlich vorempfunden,
+  dass die Technik zuletzt in der Kunst verderblich werden müsse.
+
+
+1129. Goethe, Maximen und Reflexionen 1129
+  Die Technik im Bündnis mit dem Abgeschmackten
+  ist die fürchterlichste Feindin der Kunst.
+
+
+1130. Goethe, Maximen und Reflexionen 1130
+  Bei Gelegenheit der berlinischen "Vorbilder für Fabrikanten"
+  kam zur Sprache, ob so großer Aufwand auf die höchste Ausführung
+  der Blätter wäre nötig gewesen; wobei sich ergab,
+  dass gerade den talentvollen jungen Künstler und Handwerker
+  die Ausführung am meisten reizt
+  und dass er durch Beachtung und Nachbildung derselben erst befähigt wird,
+  das Ganze und den Wert der Formen zu begreifen.
+
+
+1131. Goethe, Maximen und Reflexionen 1131
+  Chodowiecki ist ein sehr respektabler und wir sagen idealer Künstler.
+  Seine guten Werke zeugen durchaus von Geist und Geschmack.
+  Mehr Ideales war in dem Kreise, in dem er arbeitete, nicht zu fordern.
+  Das Schrecklichste für den Schüler ist,
+  dass er sich am Ende doch gegen den Meister wiederherstellen muss.
+  Je kräftiger das ist, was dieser gibt,
+  in desto größerem Unmut, ja Verzweiflung ist der Empfangende.
+
+
+1132. Goethe, Maximen und Reflexionen 1132
+  Ein edler Philosoph sprach von der Baukunst als einer erstarrten Musik
+  und musste dagegen manches Kopfschütteln gewahr werden.
+  Wir glauben diesen schönen Gedanken nicht besser nochmals einzuführen,
+  als wenn wir die Architektur eine verstummte Tonkunst nennen.
+
+
+1133. Goethe, Maximen und Reflexionen 1133
+  Man denke sich den Orpheus,
+  der, als ihm ein großer wüster Bauplatz angewiesen war,
+  sich weislich an dem schicklichsten Ort niedersetzte
+  und durch die belebenden Töne seiner Leier
+  den geräumigen Marktplatz um sich her bildete.
+  Die von kräftig gebietenden, freundlich lockenden Tönen schnell ergriffenen,
+  aus ihrer massenhaften Ganzheit gerissenen Felssteine mussten,
+  indem sie sich enthusiastisch	herbeibewegten,
+  sich kunst- und handwerksgemäß gestalten,
+  um sich sodann in rhythmischen Schichten und Wänden gebührend	hinzuordnen.
+  Und so mag sich Straße zu Straßen anfügen!
+  An wohlschützenden Mauern wird's auch nicht fehlen.
+  Die Töne verhallen, aber die Harmonie bleibt.
+  Die Bürger einer solchen Stadt wandeln und weben zwischen ewigen Melodien;
+  der Geist kann nicht sinken, die Tätigkeit nicht einschlafen,
+  das Auge übernimmt Funktion, Gebühr und Pflicht des Ohres,
+  und die Bürger am gemeinsten Tage fühlen sich in einem ideellen Zustand:
+  ohne Reflexion, ohne nach dem Ursprung zu fragen,
+  werden sie des höchsten sittlichen und religiösen Genusses teilhaftig.
+  Man gewöhne sich, in Sankt Peter auf und ab zu gehen,
+  und man wird ein Analogon desjenigen empfinden,
+  was wir auszusprechen gewagt.
+  Der Bürger dagegen in einer schlecht gebauten Stadt,
+  wo der Zufall mit leidigem Besen die Häuser zusammenkehrte,
+  lebt unbewusst in der Wüste eines düstern Zustandes;
+  dem fremden Eintretenden jedoch ist es zumute,
+  als wenn er Dudelsack, Pfeifen und Schellentrommeln hörte
+  und sich bereiten müsste, Bärentänzen und Affensprüngen beiwohnen zu müssen.
+
+
+1134. Goethe, Maximen und Reflexionen 1134
+  Antike Tempel konzentrieren den Gott im Menschen;
+  des Mittelalters Kirchen streben nach dem Gott in der Höhe.
+
+
+1135. Johann Wolfgang Goethe, Maximen und Reflexionen 1135
+AUS DEM NACHLASS (Über Natur und Naturwissenschaft)
+  Begriff ist Summe, Idee Resultat der Erfahrung;
+  jene zu ziehen, wird Verstand,
+  dieses zu erfassen, Vernunft erfordert.
+
+
+1136. Goethe, Maximen und Reflexionen 1136
+AUS DEM NACHLASS (Über Natur und Naturwissenschaft)
+  Was man Idee nennt: das, was immer zur Erscheinung kommt
+  und daher als Gesetz aller Erscheinungen uns entgegentritt.
+
+
+1137. Goethe, Maximen und Reflexionen 1137
+AUS DEM NACHLASS (Über Natur und Naturwissenschaft)
+  Nur im Höchsten und im Gemeinsten trifft Idee und Erscheinung zusammen;
+  auf allen mittlern Stufen des Betrachtens und Erfahrens
+  trennen sie sich. Das Höchste ist das Anschauen des Verschiednen
+  als identisch; das Gemeinste ist die Tat,
+  das aktive Verbinden des Getrennten zur Identität.
+
+
+1138. Goethe, Maximen und Reflexionen 1138
+  Was uns so sehr irremacht, wenn wir die Idee in der Erscheinung
+  anerkennen sollen, ist, dass sie oft und gewöhnlich den Sinnen widerspricht.
+  Das Kopernikanische System beruht auf einer Idee,
+  die schwer zu fassen war und noch täglich unseren Sinnen widerspricht.
   Wir sagen nur nach, was wir nicht erkennen noch begreifen.
   Die Metamorphose der Pflanzen widerspricht gleichfalls unsren Sinnen.
 
 
-166. Goethe, Maximen und Reflexionen
-  Was man erfindet, tut man mit Liebe, was man gelernt hat, mit Sicherheit.
+1139. Goethe, Maximen und Reflexionen 1139
+  Das Erhabene, durch Kenntnis nach und nach vereinzelt,
+  tritt vor unserm Geist nicht leicht wieder zusammen,
+  und so werden wir stufenweise um das Höchste gebracht,
+  was uns gegönnt war, um die Einheit, die uns in vollem Maß
+  zur Mitempfindung des Unendlichen erhebt,
+  dagegen wir bei vermehrter Kenntnis immer kleiner werden.
+  Da wir vorher mit dem Ganzen als Riesen standen,
+  sehen wir uns als Zwerge gegen die Teile.
+
+
+1140. Goethe, Maximen und Reflexionen 1140
+  Es ist ein angenehmes Geschäft,
+  die Natur zugleich und sich selbst zu erforschen,
+  weder ihr noch seinem Geiste Gewalt anzutun,
+  sondern beide durch gelinden Wechseleinfluss
+  miteinander ins Gleichgewicht zu setzen.
+
+
+1141. Goethe, Maximen und Reflexionen 1141
+  Sich den Objekten in der Breite gleichstellen heißt lernen;
+  die Objekte in ihrer Tiefe auffassen heißt erfinden.
+
+
+1142. Goethe, Maximen und Reflexionen 1142
+  Was man erfindet, tut man mit Liebe,
+  was man gelernt hat, mit Sicherheit.
+
+
+1143. Goethe, Maximen und Reflexionen 1143
   Was ist denn das Erfinden? Es ist der Abschluss des Gesuchten.
 
 
-167. Goethe, Maximen und Reflexionen
-  Was ist der Unterschied zwischen Axiom und Enthymem? 
-  Axiom: was wir von Haus aus, ohne Beweis anerkennen; 
-  Enthymem: was uns an viele Fälle erinnert
-  und das zusammenknüpft, was wir schon einzeln erkannten.
+1144. Goethe, Maximen und Reflexionen 1144
+  Was ist der Unterschied zwischen Axiom und Enthymem? Axiom:
+  was wir von Haus aus, ohne Beweis anerkennen; Enthymem:
+  was uns an viele Fälle erinnert und das zusammenknüpft,
+  was wir schon einzeln erkannten.
 
 
-168. Goethe, Maximen und Reflexionen
-  Die Menschen, da sie zum Notwendigen nicht hinreichen, 
+1145. Goethe, Maximen und Reflexionen 1145
+  Die Freude des ersten Gewahrwerdens, des sogenannten Entdeckens
+  kann uns niemand nehmen. Verlangen wir aber auch Ehre davon,
+  die kann uns sehr verkümmert werden;
+  denn wir sind meistens nicht die ersten.
+
+
+1146. Goethe, Maximen und Reflexionen 1146
+  Was heißt auch erfinden, und wer kann sagen,
+  dass er dies oder jenes erfunden habe?
+  Wie es denn überhaupt, auf Priorität zu pochen, wahre Narrheit ist;
+  denn es ist nur bewusstloser Dünkel,
+  wenn man sich nicht redlich als Plagiarier bekennen will.
+
+
+1147. Goethe, Maximen und Reflexionen 1147
+  Mit den Ansichten, wenn sie aus der Welt verschwinden,
+  gehen oft die Gegenstände selbst verloren.
+  Kann man doch im höheren Sinne sagen,
+  dass die Ansicht der Gegenstand sei.
+
+
+1148. Goethe, Maximen und Reflexionen 1148
+  Es ist viel mehr schon entdeckt, als man glaubt.
+  Da die Gegenstände durch die Ansichten der Menschen
+  erst aus dem Nichts hervorgehoben werden, so kehren sie,
+  wenn sich die Ansichten verlieren, auch wieder ins Nichts zurück:
+  Rundung der Erde, Platos Bläue.
+
+
+1149. Goethe, Maximen und Reflexionen 1149
+  Es sind zwei Gefühle die schwersten zu überwinden:
+  gefunden zu haben, was schon gefunden ist,
+  und nicht gefunden zu sehen, was man hätte finden sollen.
+
+
+1150. Goethe, Maximen und Reflexionen 1150
+  Denken ist interessanter als Wissen,
+  aber nicht als Anschauen.
+
+
+1151. Goethe, Maximen und Reflexionen 1151
+  Das Wissen beruht auf der Kenntnis des zu Unterscheidenden,
+  die Wissenschaft auf der Anerkennung des nicht zu Unterscheidenden.
+
+
+1152. Goethe, Maximen und Reflexionen 1152
+  Das Wissen wird durch das Gewahrwerden seiner Lücken,
+  durch das Gefühl seiner Mängel zur Wissenschaft geführt,
+  welche vor, mit und nach allem Wissen besteht.
+
+
+1153. Goethe, Maximen und Reflexionen 1153
+  Im Wissen und Nachsinnen ist Falsches und Wahres.
+  Wie das sich nun das Ansehen der Wissenschaft gibt,
+  so wird's ein wahr-lügenhaftes Wesen.
+
+
+1154. Goethe, Maximen und Reflexionen 1154
+  Wir würden unser Wissen nicht für Stückwerk erklären,
+  wenn wir nicht einen Begriff von einem Ganzen hätten.
+
+
+1155. Goethe, Maximen und Reflexionen 1155
+  Die Wissenschaften so gut als die Künste
+  bestehen in einem überlieferbaren (realen), erlernbaren Teil
+  und in einem unüberlieferbaren (idealen), unlernbaren Teil.
+
+
+1156. Goethe, Maximen und Reflexionen 1156
+  In der Geschichte der Wissenschaften hat der ideale Teil
+  ein anderes Verhältnis zum realen als in der übrigen Weltgeschichte.
+
+
+1157. Goethe, Maximen und Reflexionen 1157
+  Geschichte der Wissenschaften:
+  der reale Teil sind die Phänomene,
+  der ideale die Ansichten der Phänomene.
+
+
+1158. Goethe, Maximen und Reflexionen 1158
+  Vier Epochen der Wissenschaften:
+  kindliche, poetische, abergläubische;
+  empirische, forschende, neugierige;
+  dogmatische, didaktische, pedantische;
+  ideelle, methodische, mystische.
+
+
+1159. Goethe, Maximen und Reflexionen 1159
+  Nur die gegenwärtige Wissenschaft gehört uns an,
+  nicht die vergangne noch die zukünftige.
+
+
+1160. Goethe, Maximen und Reflexionen 1160
+  Im sechzehnten Jahrhundert gehören die Wissenschaften
+  nicht diesem oder jenem Menschen, sondern der Welt.
+  Diese hat sie, besitzt sie pp.,
+  der Mensch ergreift nur den Reichtum.
+
+
+1161. Goethe, Maximen und Reflexionen 1161
+  Die Wissenschaften zerstören sich auf doppelte Weise selbst:
+  durch die Breite, in die sie gehen,
+  und durch die Tiefe, in die sie sich versenken.
+
+
+1162. Goethe, Maximen und Reflexionen 1162
+  Alles, was man (in Wissenschaften) fordert, ist so ungeheuer,
+  dass man recht gut begreift, dass gar nichts geleistet wird.
+
+
+1163. Goethe, Maximen und Reflexionen 1163
+  Was die Wissenschaften am meisten retardiert,
+  ist, dass diejenigen, die sich damit beschäftigen,
+  ungleiche Geister sind.
+
+
+1164. Goethe, Maximen und Reflexionen 1164
+  Der Fehler schwacher Geister ist, dass sie im Reflektieren
+  sogleich vom Einzelnen ins Allgemeine gehen,
+  anstatt dass man nur in der Gesamtheit das Allgemeine suchen kann.
+
+
+1165. Goethe, Maximen und Reflexionen 1165
+  In der Geschichte der Naturforschung bemerkt man durchaus,
+  dass die Beobachter von der Erscheinung zu schnell zur Theorie hineilen
+  und dadurch unzulänglich, hypothetisch werden.
+
+
+1166. Goethe, Maximen und Reflexionen 1166
+  Man datiert von Baco von Verulam
+  eine Epoche der Erfahrungs-Naturwissenschaften.
+  Ihr Weg ist jedoch durch theoretische Tendenzen
+  oft durchschnitten und ungangbar gemacht worden.
+  Genau besehen, kann und soll man von jedem Tag eine neue Epoche datieren.
+
+
+1167. Goethe, Maximen und Reflexionen 1167
+  Das Jahrhundert ist vorgerückt;
+  jeder Einzelne aber fängt doch von vorne an.
+
+
+1168. Goethe, Maximen und Reflexionen 1168
+  Jeden Tag hat man Ursache, die Erfahrung aufzuklären
+  und den Geist zu reinigen.
+
+
+1169. Goethe, Maximen und Reflexionen 1169
+  Da diejenigen, welche wissenschaftliche Versuche anstellen,
+  selten wissen, was sie eigentlich wollen und was dabei herauskommen soll,
+  so verfolgen sie ihren Weg meistenteils mit großem Eifer;
+  bald aber, da eigentlich nichts Entschiedenes entstehen will,
+  so lassen sie die Unternehmung fahren
+  und suchen sie sogar andern verdächtig zu machen.
+
+
+1170. Goethe, Maximen und Reflexionen 1170
+  Nachdem man in der zweiten Hälfte des siebzehnten Jahrhunderts
+  dem Mikroskop so unendlich viel schuldig geworden war,
+  so suchte man zu Anfang des achtzehnten Jahrhunderts
+  dasselbe geringschätzig zu behandeln.
+
+
+1171. Goethe, Maximen und Reflexionen 1171
+  Nachdem man in der neuern Zeit die meteorologischen Beobachtungen
+  auf den höchsten Grad der Genauigkeit getrieben hatte,
+  so will man sie nunmehr aus den nördlichen Gegenden verbannen
+  und will sie nur dem Beobachter unter den Tropen zugestehen.
+
+
+1172. Goethe, Maximen und Reflexionen 1172
+  Ward man doch auch des Sexualsystems, das, im höhern Sinne genommen,
+  so großen Wert hat, überdrüssig und wollte es verbannt wissen!
+  Geht es doch mit der alten Kunstgeschichte ebenso,
+  in der man seit fünfzig Jahren sich gewissenhaft zu üben
+  und die Unterschiede der aufeinander folgenden Zeiten
+  einzusehen sich auf das genauste bestrebt hat!
+  Das soll nun alles vergebens gewesen und alles Aufeinanderfolgende
+  als identisch und ununterscheidbar anzusehen sein.
+
+
+1173. Goethe, Maximen und Reflexionen 1173
+  Nach unserm Rat bleibe jeder auf dem eingeschlagenen Wege
+  und lasse sich ja nicht durch Autorität imponieren
+  durch allgemeine Übereinstimmung bedrängen und durch Mode hinreißen.
+
+
+1174. Goethe, Maximen und Reflexionen 1174
+  Autorität: Ohne sie kann der Mensch nicht existieren,
+  und doch bringt sie ebensoviel Irrtum als Wahrheit mit sich.
+  Sie verewigt im einzelnen, was einzeln vorübergehen sollte,
+  lehnt ab und lässt vorübergehen, was festgehalten werden sollte,
+  und ist hauptsächlich Ursache,
+  dass die Menschheit nicht vom Flecke kommt.
+
+
+1175. Goethe, Maximen und Reflexionen 1175
+  Der gemeine Wissenschaftler hält alles für überlieferbar
+  und fühlt nicht, dass die Niedrigkeit seiner Ansichten
+  ihm sogar das eigentlich Überlieferbare nicht fassen lässt.
+
+
+1176. Goethe, Maximen und Reflexionen 1176
+  Das Unzulängliche widerstrebt mehr,
+  als man denken sollte, dem Auslangenden.
+
+
+1177. Goethe, Maximen und Reflexionen 1177
+  Vor zwei Dingen kann man sich nicht genug in acht nehmen:
+  beschränkt man sich in seinem Fache, vor Starrsinn,
+  tritt man heraus, vor Unzulänglichkeit.
+
+
+1178. Goethe, Maximen und Reflexionen 1178
+  Wenn in Wissenschaften alte Leute retardieren, so retrogradieren junge.
+  Alte leugnen die Vorschritte,
+  wenn sie nicht mit ihren früheren Ideen zusammenhängen;
+  junge, wenn sie der Idee nicht gewachsen sind 
+  und doch auch etwas Außerordentliches leisten möchten.
+
+
+1179. Goethe, Maximen und Reflexionen 1179
+  Es ist ihnen wohl Ernst, aber sie wissen nicht,
+  was sie mit dem Ernst machen sollen.
+
+
+1180. Goethe, Maximen und Reflexionen 1180
+  Von dem, was sie verstehen, wollen sie nichts wissen.
+
+
+1181. Goethe, Maximen und Reflexionen 1181
+  In Neuyork sind neunzig verschiedene christliche Konfessionen,
+  von welchen jede auf ihre Art Gott und den Herrn bekennt,
+  ohne weiter aneinander irre zu werden.
+  In der Naturforschung, ja in jeder Forschung
+  müssen wir es so weit bringen;
+  denn was will das heißen, dass jedermann von Liberalität spricht
+  und den andern hindern will, nach seiner Weise zu denken
+  und sich auszusprechen?
+
+
+1182. Goethe, Maximen und Reflexionen 1182
+  Alle Individuen und, wenn sie tüchtig sind und auf andre wirken,
+  ihre Schulen sehen das Problematische in den Wissenschaften als etwas an,
+  wofür oder wogegen man streiten soll,
+  eben als wenn es eine andre Lebenspartei wäre,
+  anstatt dass das Wissenschaftliche eine Auflösung,
+  Ausgleichung oder eine Aufstellung unausgleichbarer Antinomien fordert.
+  In diesem Falle ist auch Aguillonius.
+
+
+1183. Goethe, Maximen und Reflexionen 1183
+  Wenn jemand spricht, er habe mich widerlegt,
+  so bedenkt er nicht,
+  dass er nur eine Ansicht der meinigen entgegen aufstellt;
+  dadurch ist ja noch nichts ausgemacht.
+  Ein Dritter hat eben das Recht, und so ins Unendliche fort.
+
+
+1184. Goethe, Maximen und Reflexionen 1184
+  Bei wissenschaftlichen Streitigkeiten nehme man sich in acht,
+  die Probleme nicht zu vermehren.
+
+
+1185. Goethe, Maximen und Reflexionen 1185
+  In Wissenschaften, sowie auch sonst, wenn man sich über das Ganze
+  verbreiten will, bleibt zur Vollständigkeit am Ende nichts übrig,
+  als Wahrheit für Irrtum, Irrtum für Wahrheit gelten zu machen.
+  Er kann nicht alles selbst untersuchen, muss sich an Überlieferung halten
+  und, wenn er ein Amt haben will, den Meinungen seiner Gönner frönen.
+  Mögen sich die sämtlichen akademischen Lehrer hiernach prüfen!
+
+
+1186. Goethe, Maximen und Reflexionen 1186
+  Das wäre wohl der werteste Professor der Physik,
+  der die Nichtigkeit seines Kompendiums und seiner Figuren,
+  gegen die Natur und gegen die höheren Forderungen des Geists gehalten,
+  durchaus zur Anschauung bringen könnte.
+
+
+1187. Goethe, Maximen und Reflexionen 1187
+  Nicht alles Wünschenswerte ist erreichbar,
+  nicht alles Erkennenswerte erkennbar.
+
+
+1188. Goethe, Maximen und Reflexionen 1188
+  Derjenige, der sich mit Einsicht für beschränkt erklärt,
+  ist der Vollkommenheit am nächsten.
+
+
+1189. Goethe, Maximen und Reflexionen 1189
+  Die Menschen, da sie zum Notwendigen nicht hinreichen,
   bemühen sich ums Unnütze.
 
 
-169. Goethe, Maximen und Reflexionen
-  "Genau besehen, ist alle Philosophie 
-  nur der Menschenverstand in amphigurischer Sprache."
+1190. Goethe, Maximen und Reflexionen 1190
+  Das Tier wird durch seine Organe belehrt;
+  der Mensch belehrt die seinigen und beherrscht sie.
 
 
-170. Goethe, Maximen und Reflexionen
-  Die Dialektik ist die Ausbildung des Widersprechungsgeistes, 
-  welcher dem Menschen gegeben, 
+1191. Goethe, Maximen und Reflexionen 1191
+  Anaxagoras lehrt, dass alle Tiere die tätige Vernunft haben,
+  aber nicht die leidende,
+  die gleichsam der Dolmetscher des Verstandes ist.
+
+
+1192. Goethe, Maximen und Reflexionen 1192
+  Die Alten vergleichen die Hand der Vernunft.
+  Die Vernunft ist die Kunst der Künste,
+  die Hand die Technik alles Handwerks.
+
+
+1193. Goethe, Maximen und Reflexionen 1193
+  Die Sinne trügen nicht, das Urteil trügt.
+
+
+1194. Goethe, Maximen und Reflexionen 1194
+  Der Mensch ist genugsam ausgestattet
+  zu allen wahren irdischen Bedürfnissen,
+  wenn er seinen Sinnen traut und sie dergestalt ausbildet,
+  dass sie des Vertrauens wert bleiben.
+
+
+1195. Goethe, Maximen und Reflexionen 1195
+  Man leugnet dem Gesicht nicht ab, dass es die Entfernung der Gegenstände,
+  die sich neben- und übereinander befinden, zu schätzen wisse;
+  das Hintereinander will man nicht gleichmäßig zugestehen.
+
+
+1196. Goethe, Maximen und Reflexionen 1196
+  Und doch ist dem Menschen, der nicht stationär,
+  sondern beweglich gedacht wird,
+  hierin die sicherste Lehre durch Parallaxe verliehen.
+
+
+1197. Goethe, Maximen und Reflexionen 1197
+  Die Lehre von dem Gebrauch der korrespondierenden Winkel ist,
+  genau besehen, darin eingeschlossen.
+
+
+1198. Goethe, Maximen und Reflexionen 1198
+  Kant beschränkt sich mit Vorsatz in einen gewissen Kreis
+  und deutet ironisch immer darüber hinaus.
+
+
+1199. Goethe, Maximen und Reflexionen 1199
+  Man hat sich lange mit der Kritik der Vernunft beschäftigt;
+  ich wünschte eine Kritik des Menschenverstandes.
+  Es wäre eine wahre Wohltat fürs Menschengeschlecht,
+  wenn man dem Gemeinverstand bis zur Überzeugung nachweisen könnte,
+  wie weit er reichen kann, und das ist gerade so viel,
+  als er zum Erdenleben vollkommen bedarf.
+
+
+1200. Goethe, Maximen und Reflexionen 1200
+  Genau besehen, ist alle Philosophie nur der Menschenverstand
+  in amphigurischer Sprache.
+
+
+1201. Goethe, Maximen und Reflexionen 1201
+  Der Menschenverstand, der eigentlichst aufs Praktische angewiesen ist,
+  irrt nur alsdann, wenn er sich an die Auflösung höherer Probleme wagt;
+  dagegen weiß aber auch eine höhere Theorie
+  sich selten in den Kreis zu finden, wo jener wirkt und west.
+
+
+1202. Goethe, Maximen und Reflexionen 1202
+  Die Dialektik ist die Ausbildung des Widersprechungsgeistes,
+  welcher dem Menschen gegeben,
   damit er den Unterschied der Dinge erkennen lerne.
 
 
-171. Goethe, Maximen und Reflexionen
-  Wir leben innerhalb der abgeleiteten Erscheinungen und wissen keineswegs,
-  wie wir zur Urfrage gelangen sollen.
+1203. Goethe, Maximen und Reflexionen 1203
+  Eine tätige Skepsis: welche unablässig bemüht ist,
+  sich selbst zu überwinden, um durch geregelte Erfahrung
+  zu einer Art von bedingter Zuverlässigkeit zu gelangen.
 
 
-172. Goethe, Maximen und Reflexionen
+1204. Goethe, Maximen und Reflexionen 1204
+  Das Allgemeine eines solchen Geistes ist die Tendenz:
+  zu erforschen, ob irgend einem Objekt irgend ein Prädikat
+  wirklich zukomme, und geschieht diese Untersuchung in der Absicht,
+  das als geprüft Gefundene in praxi mit Sicherheit anwenden zu können.
+
+
+1205. Goethe, Maximen und Reflexionen 1205
+  Der lebendige begabte Geist, sich in praktischer Absicht
+  ans Allernächste haltend, ist das Vorzüglichste auf Erden.
+
+
+1206. Goethe, Maximen und Reflexionen 1206
+  Je weiter man in der Erfahrung fortrückt,
+  desto näher kommt man dem Unerforschlichen;
+  je mehr man die Erfahrung zu nutzen weiß,
+  desto mehr sieht man, dass das Unerforschliche
+  keinen praktischen Nutzen hat.
+
+
+1207. Goethe, Maximen und Reflexionen 1207
+  Das schönste Glück des denkenden Menschen ist,
+  das Erforschliche erforscht zu haben
+  und das Unerforschliche ruhig zu verehren.
+
+
+1208. Goethe, Maximen und Reflexionen 1208
+  Wir leben innerhalb der abgeleiteten Erscheinungen
+  und wissen keineswegs, wie wir zur Urfrage gelangen sollen.
+
+
+1209. Goethe, Maximen und Reflexionen 1209
 QUANTENTHEORIE
-  Alles ist einfacher, als man denken kann, 
+  Alles ist einfacher, als man denken kann,
   zugleich verschränkter, als zu begreifen ist.
 
 
-173. Goethe, Maximen und Reflexionen
-  Die Natur bekümmert sich nicht um irgendeinen Irrtum; 
-  sie selbst kann nicht anders als ewig recht handeln, 
+1210. Goethe, Maximen und Reflexionen 1210
+  Es ist das Eigne zu bemerken,
+  dass der Mensch sich mit dem einfachen Erkennbaren nicht begnügt,
+  sondern auf die verwickelteren Probleme losgeht,
+  die er vielleicht nie erfassen wird.
+  Jenes einfache Fassliche ist durchaus anwendbar und nützlich
+  und kann uns ein ganzes Leben durch beschäftigen,
+  wenn es uns genügt und belebt.
+
+
+1211. Goethe, Maximen und Reflexionen 1211
+  Man erkundige sich ums Phänomen,
+  nehme es so genau damit als möglich und sehe,
+  wie weit man in der Einsicht
+  und in praktischer Anwendung damit kommen kann,
+  und lasse das Problem ruhig liegen.
+  Umgekehrt handeln die Physiker:
+  Sie gehen gerade aufs Problem los
+  und verwickeln sich unterwegs in so viel Schwierigkeiten,
+  dass ihnen zuletzt jede Aussicht verschwindet.
+
+
+1212. Goethe, Maximen und Reflexionen 1212
+  Deshalb hat die Petersburger Akademie auf ihre Preisfrage
+  keine Antwort erhalten; auch der verlängerte Termin wird nichts helfen.
+  Sie sollte jetzt den Preis verdoppeln und ihn demjenigen versprechen,
+  der sehr klar und deutlich vor Augen legte, warum keine Antwort
+  eingegangen ist und warum sie nicht erfolgen konnte.
+  Wer dies vermöchte, hätte jeden Preis wohl verdient.
+
+
+1213. Goethe, Maximen und Reflexionen 1213
+  Schon jetzt erklären die Meister der Naturwissenschaften die
+  Notwendigkeit monographischer Behandlung und also des Interesse
+  an Einzelheiten. Dies aber ist nicht denkbar ohne eine Methode,
+  die das Interesse an der Gesamtheit offenbart; hat man das erlangt,
+  so braucht man freilich nicht in Millionen Einzelheiten umherzutasten.
+
+
+1214. Goethe, Maximen und Reflexionen 1214
+  Zur Methode wird nur der getrieben, dem die Empirie lästig wird.
+
+
+1215. Goethe, Maximen und Reflexionen 1215
+  Cartesius schrieb sein Buch "De Methodo" einige Male um,
+  und wie es jetzt liegt, kann es uns doch nichts helfen.
+  Jeder, der eine Zeitlang auf dem redlichen Forschen verharrt,
+  muss seine Methode irgendeinmal umändern.
+
+
+1216. Goethe, Maximen und Reflexionen 1216
+  Das neunzehnte Jahrhundert hat alle Ursache, hierauf zu achten.
+
+
+1217. Goethe, Maximen und Reflexionen 1217
+  So ganz leere Worte wie die von der Dekomposition und Polarisation
+  des Lichts müssen aus der Physik hinaus, wenn etwas aus ihr werden soll.
+  Doch wäre es möglich, ja es ist wahrscheinlich,
+  dass diese Gespenster noch bis in die zweite Hälfte
+  des Jahrhunderts hinüberspuken.
+
+
+1218. Goethe, Maximen und Reflexionen 1218
+  Man nehme das nicht übel. Eben dasjenige, was niemand zugibt,
+  niemand hören will, muss desto öfter wiederholt werden.
+
+
+1219. Goethe, Maximen und Reflexionen 1219
+  Wer das Falsche verteidigen will, hat alle Ursache, leise aufzutreten
+  und sich zu einer feinen Lebensart zu bekennen.
+  Wer das Recht auf seiner Seite fühlt, muss derb auftreten:
+  ein höfliches Recht will gar nichts heißen.
+
+
+1220. Goethe, Maximen und Reflexionen 1220
+  Zum Ergreifen der Wahrheit braucht es ein viel höheres Organ
+  als zur Verteidigung des Irrtums.
+
+
+1221. Goethe, Maximen und Reflexionen 1221
+  Alle Hypothesen hindern den "Anateorismos" das Wiederbeschauen,
+  das Betrachten der Gegenstände, der fraglichen Erscheinungen
+  von allen Seiten.
+
+
+1222. Goethe, Maximen und Reflexionen 1222
+  Hypothesen sind Gerüste, die man vor dem Gebäude aufführt
+  und die man abträgt, wenn das Gebäude fertig ist.
+  Sie sind dem Arbeiter unentbehrlich;
+  nur muss er das Gerüste nicht für das Gebäude ansehn.
+
+
+1223. Goethe, Maximen und Reflexionen 1223
+  Wenn man den menschlichen Geist von einer Hypothese befreit,
+  die ihn unnötig einschränkte, die ihn zwang, falsch oder halb zu sehen,
+  falsch zu kombinieren, anstatt zu schauen zu grübeln,
+  anstatt zu urteilen zu sophistisieren,
+  so hat man ihm schon einen großen Dienst erzeigt.
+  Er sieht die Phänomene freier, in anderen Verhältnissen und Verbindungen an,
+  er ordnet sie nach seiner Weise, und er erhält wieder die Gelegenheit,
+  selbst und auf seine Weise zu irren, eine Gelegenheit,
+  die unschätzbar ist, wenn er in der Folge bald dazu gelangt,
+  seinen Irrtum selbst wieder einzusehen.
+
+
+1224. Goethe, Maximen und Reflexionen 1224
+  Die Erscheinung ist vom Beobachter nicht losgelöst,
+  vielmehr in die Individualität desselben verschlungen und verwickelt.
+
+
+1225. Goethe, Maximen und Reflexionen 1225
+  Aus dem Größten wie aus dem Kleinsten
+  - nur durch künstlichste Mittel dem Menschen zu vergegenwärtigen -
+  geht die Metaphysik der Erscheinungen hervor;
+  in der Mitte liegt das Besondere, unsern Sinnen Angemessene,
+  worauf ich angewiesen bin, deshalb aber die Begabten von Herzen segne,
+  die jene Regionen zu mir heranbringen.
+
+
+1226. Goethe, Maximen und Reflexionen 1226
+  Wer kann sagen, dass er eine Neigung zur reinen Erfahrung habe?
+  Was Baco dringend empfohlen hatte,
+  glaubte jeder zu tun, und wem gelang es?
+
+
+1227. Goethe, Maximen und Reflexionen 1227
+  Wer ein Phänomen vor Augen hat, denkt schon oft drüber hinaus;
+  wer nur davon erzählen hört, denkt gar nichts.
+
+
+1228. Goethe, Maximen und Reflexionen 1228
+  Die Phänomene sind nichts wert, als wenn sie uns eine tiefere, reichere
+  Einsicht in die Natur gewähren oder wenn sie uns zum Nutzen anzuwenden sind.
+
+
+1229. Goethe, Maximen und Reflexionen 1229
+  Die Konstanz der Phänomene ist allein bedeutend;
+  was wir dabei denken, ist ganz einerlei.
+
+
+1230. Goethe, Maximen und Reflexionen 1230
+  Kein Phänomen erklärt sich an und aus sich selbst;
+  nur viele, zusammen überschaut, methodisch geordnet,
+  geben zuletzt etwas, das für Theorie gelten könnte.
+
+
+1231. Goethe, Maximen und Reflexionen 1231
+  Theorie und Erfahrung/Phänomen stehen gegeneinander in beständigem Konflikt.
+  Alle Vereinigung in der Reflexion ist eine Täuschung;
+  nur durch Handeln können sie vereinigt werden.
+
+
+1232. Goethe, Maximen und Reflexionen 1232
+  Etwas Theoretisches populär zu machen, muss man es absurd darstellen.
+  Man muss es erst selbst ins Praktische einführen,
+  dann gilt's für alle Welt.
+
+
+1233. Goethe, Maximen und Reflexionen 1233
+  Man sagt gar gehörig: das Phänomen ist eine Folge ohne Grund,
+  eine Wirkung ohne Ursache. Es fällt dem Menschen so schwer,
+  Grund und Ursache zu finden, weil sie so einfach sind,
+  dass sie sich dem Blick verbergen.
+
+
+1234. Goethe, Maximen und Reflexionen 1234
+  Der denkende Mensch irrt besonders,
+  wenn er sich nach Ursache und Wirkung erkundigt:
+  sie beide zusammen machen das unteilbare Phänomen.
+  Wer das zu erkennen weiß, ist auf dem rechten Wege zum Tun, zur Tat.
+
+
+1235. Goethe, Maximen und Reflexionen 1235
+  Das genetische Verfahren leitet uns schon auf bessere Wege,
+  ob man gleich damit auch nicht ausreicht.
+
+
+1236. Goethe, Maximen und Reflexionen 1236
+  Der eingeborenste Begriff, der notwendigste, von Ursache und Wirkung
+  wird in der Anwendung die Veranlassung zu unzähligen,
+  sich immer wiederholenden Irrtümern.
+
+
+1237. Goethe, Maximen und Reflexionen 1237
+  Ein großer Fehler, den wir begehen, ist, die Ursache der Wirkung
+  immer nahe zu denken wie die Sehne dem Pfeil, den sie fortschnellt,
+  und doch können wir ihn nicht vermeiden, weil Ursache und Wirkung
+  immer zusammengedacht und also im Geiste angenähert werden.
+
+
+1238. Goethe, Maximen und Reflexionen 1238
+  Die nächsten fasslichen Ursachen sind greiflich
+  und eben deshalb am begreiflichsten;
+  weswegen wir uns gern als mechanisch denken, was höherer Art ist.
+
+
+1239. Goethe, Maximen und Reflexionen 1239
+  Indem wir der Einbildungskraft zumuten,
+  das Entstehen statt des Entstandenen,
+  der Vernunft, die Ursache statt der Wirkung
+  zu reproduzieren und auszusprechen,
+  so haben wir zwar beinahe nichts getan,
+  weil es nur ein Umsetzen der Anschauung/Vorstellung ist,
+  aber genug für den Menschen, der vielleicht im Verhältnis
+  zur/gegen die Außenwelt nicht mehr leisten kann.
+
+
+1240. Goethe, Maximen und Reflexionen 1240
+  Es gibt jetzt eine böse Art, in den Wissenschaften abstrus zu sein:
+  man entfernt sich vom gemeinen Sinne, ohne einen höhern aufzuschließen,
+  transzendiert, phantasiert, fürchtet lebendiges Anschauen,
+  und wenn man zuletzt ins Praktische will und muss,
+  wird man auf einmal atomistisch und mechanisch.
+
+
+1241. Goethe, Maximen und Reflexionen 1241
+  Der Granit verwittert auch sehr gern in Kugel- und Eiform;
+  man hat daher keineswegs nötig, die in Norddeutschland häufig gefundenen
+  Blöcke solcher Gestalten wegen als im Wasser hin- und hergeschoben
+  und durch Stoßen und Wälzen enteckt und entkantet zu denken.
+
+
+1242. Goethe, Maximen und Reflexionen 1242
+  Fall und Stoß:
+  dadurch die Bewegung der Weltkörper erklären zu wollen,
+  ist eigentlich ein versteckter Anthropomorphismus;
+  es ist des Wanderers Gang über Feld.
+  Der aufgehobene Fuß sinkt nieder,
+  der zurückgebliebene strebt vorwärts und fällt,
+  und immer so fort vom Ausgehen bis zum Ankommen.
+
+
+1243. Goethe, Maximen und Reflexionen 1243
+  Wie wäre es, wenn man auf demselben Wege den Vergleich
+  von dem Schrittschuhfahren hernähme,
+  wo das Vorwärtsdringen dem zurückbleibenden Fuße obliegt,
+  indem er zugleich die Obliegenheit übernimmt,
+  noch eine solche Anregung zu geben,
+  dass sein nunmehriger Hintermann auch wieder eine Zeitlang
+  sich vorwärts zu bewegen die Bestimmung erhält?
+
+
+1244. Goethe, Maximen und Reflexionen 1244
+  Das Zurückführen der Wirkung auf die Ursache
+  ist bloß ein historisches Verfahren, zum Beispiel die Wirkung,
+  dass ein Mensch getötet, auf die Ursache der losgefeuerten Büchse.
+
+
+1245. Goethe, Maximen und Reflexionen 1245
+  Induktion habe ich zu stillen Forschungen bei mir selbst nie gebraucht,
+  weil ich zeitig genug deren Gefahr empfand.
+
+
+1246. Goethe, Maximen und Reflexionen 1246
+  Dagegen aber ist mir's unerträglich, wenn ein anderer sie gegen mich
+  brauchen, mich durch eine Art Treibejagen mürbe machen
+  und in die Enge schließen will.
+
+
+1247. Goethe, Maximen und Reflexionen 1247
+  Mitteilung durch Analogien halt ich für so nützlich als angenehm:
+  der analoge Fall will sich nicht aufdringen, nichts beweisen;
+  er stellt sich einem andern entgegen, ohne sich mit ihm zu verbinden.
+  Mehrere analoge Fälle vereinigen sich nicht zu geschlossenen Reihen,
+  sie sind wie gute Gesellschaft, die immer mehr anregt als gibt.
+
+1248. Goethe, Maximen und Reflexionen 1248
+  Irren heißt, sich in einem Zustande befinden,
+  als wenn das Wahre gar nicht wäre;
+  den Irrtum sich und andern entdecken, heißt rückwärts erfinden.
+
+
+1249. Goethe, Maximen und Reflexionen 1249
+  Die Kreise des Wahren berühren sich unmittelbar;
+  aber in den Intermundien hat der Irrtum Raum genug,
+  sich zu ergehen und zu walten.
+
+
+1250. Goethe, Maximen und Reflexionen 1250
+  Die Natur bekümmert sich nicht um irgendeinen Irrtum;
+  sie selbst kann nicht anders als ewig recht handeln,
   unbekümmert, was daraus erfolgen möge.
 
 
-174. Goethe, Maximen und Reflexionen
-  Lehrbücher sollen anlockend sein; das werden sie nur, wenn sie die heiterste,
-  zugänglichste Seite des Wissens und der Wissenschaft hinbieten.
+1251. Goethe, Maximen und Reflexionen 1251
+  Die Natur füllt mit ihrer grenzenlosen Produktivität alle Räume.
+  Betrachten wir nur bloß unsre Erde:
+  Alles, was wir bös, unglücklich nennen, kommt daher,
+  dass sie nicht allem Entstehenden Raum geben,
+  noch weniger ihm Dauer verleihen kann.
 
 
-175. Goethe, Maximen und Reflexionen
-  Alle Männer vom Fach sind darin sehr übel dran, dass ihnen nicht erlaubt ist,
-  das Unnütze zu ignorieren.
+1252. Goethe, Maximen und Reflexionen 1252
+  Alles, was entsteht, sucht sich Raum und will Dauer;
+  deswegen verdrängt es ein anderes vom Platz und verkürzt seine Dauer.
 
 
-176. Goethe, Maximen und Reflexionen
-  Tycho de Brahe, ein großer Mathematiker, 
-  vermochte sich nur halb von dem alten System loszulösen, 
-  das wenigstens den Sinnen gemäß war, 
-  das er aber aus Rechthaberei durch ein kompliziertes Uhrwerk ersetzen wollte, 
+1253. Goethe, Maximen und Reflexionen 1253
+  Das Lebendige hat die Gabe,
+  sich nach den vielfältigsten Bedingungen
+  äußerer Einflüsse zu bequemen
+  und doch eine gewisse errungene entschiedene Selbständigkeit
+  nicht aufzugeben.
+
+
+1254. Goethe, Maximen und Reflexionen 1254
+  Man gedenke der leichten Erregbarkeit aller Wesen,
+  wie der mindeste Wechsel einer Bedingung,
+  jeder Hauch gleich in den Körpern Polarität manifestiert,
+  die eigentlich in ihnen allen schlummert.
+  Spannung ist der indifferent scheinende Zustand eines energischen
+  Wesens in völliger Bereitschaft, sich zu manifestieren,
+  zu differenzieren, zu polarisieren.
+
+
+1255. Goethe, Maximen und Reflexionen 1255
+  S p a n n u n g  ist der indifferent scheinende Zustand eines
+  energischen Wesens in völliger Bereitschaft,
+  sich zu manifestieren, zu differenzieren, zu polarisieren.
+
+
+1256. Goethe, Maximen und Reflexionen 1256
+  Die Vögel sind ganz späte Erzeugnisse der Natur.
+
+
+1257. Goethe, Maximen und Reflexionen 1257
+  Natur hat zu nichts gesetzmäßige Fähigkeit,
+  was sie nicht gelegentlich ausführte und zutage brächte.
+
+
+1258. Goethe, Maximen und Reflexionen 1258
+  Nicht allein der freie Stoff, 
+  sondern auch das Derbe und Dichte drängt sich zur Gestalt:
+  ganze Massen sind von Natur und Grund aus kristallinisch;
+  in einer gleichgültigen, formlosen Masse entsteht durch
+  stöchiometrische Annäherung und Übereinandergreifen
+  die porphyrartige Erscheinung, welche durch alle Formationen durchgeht.
+
+
+1259. Goethe, Maximen und Reflexionen 1259
+  Die schönste Metamorphose des unorganischen Reiches ist,
+  wenn beim Entstehen das Amorphe sich ins Gestaltete verwandelt.
+  Jede Masse hat hierzu Trieb und Recht.
+  Der Glimmerschiefer verwandelt sich in Granaten
+  und bildet oft Gebirgsmassen, in denen der Glimmer beinahe
+  ganz aufgehoben ist und nur als geringes Bindungsmittel
+  sich zwischen jenen Kristallen befindet.
+
+
+1260. Goethe, Maximen und Reflexionen 1260
+  Die Mineralienhändler beklagen sich, dass sich Liebhaberei zu ihrer
+  Ware in Deutschland vermindere, und geben der eindringlichen
+  Kristallographie die Schuld. Es mag sein; jedoch in einiger Zeit wird
+  gerade das Bestreben, die Gestalt genauer zu erkennen,
+  auch den Handel wieder beleben, ja gewisse Exemplare kostbarer machen.
+
+1261. Goethe, Maximen und Reflexionen 1261
+  Kristallographie sowie Stöchiometrie vollendet auch den Oryktognosten;
+  ich aber finde, dass man seit einiger Zeit in der Lehrmethode geirrt hat.
+  Lehrbücher zu Vorlesungen und zugleich zum Selbstgebrauch,
+  vielleicht gar als Teile zu einer wissenschaftlichen
+  Enzyklopädie sind nicht zu billigen;
+  der Verleger kann sie bestellen, der Schüler nicht wünschen.
+
+
+1262. Goethe, Maximen und Reflexionen 1262
+  Lehrbücher sollen anlockend sein; das werden sie nur,
+  wenn sie die heiterste, zugänglichste Seite
+  des Wissens und der Wissenschaft hinbieten.
+
+
+1263. Goethe, Maximen und Reflexionen 1263
+  Alle Männer vom Fach sind darin sehr übel dran,
+  dass ihnen nicht erlaubt ist, das Unnütze zu ignorieren.
+
+
+1264. Goethe, Maximen und Reflexionen 1264
+  Wir gestehen lieber unsre moralischen Irrtümer,
+  Fehler und Gebrechen als unsre wissenschaftlichen.
+
+
+1265. Goethe, Maximen und Reflexionen 1265
+  Das kommt daher, weil das Gewissen demütig ist
+  und sich sogar in der Beschämung gefällt;
+  der Verstand aber ist hochmütig,
+  und ein abgenötigter Widerruf bringt ihn in Verzweiflung.
+
+
+1266. Goethe, Maximen und Reflexionen 1266
+  Daher kommt, dass offenbarte Wahrheiten erst im stillen zugestanden werden,
+  sich nach und nach verbreiten, bis dasjenige,
+  was man hartnäckig geleugnet hat,
+  endlich als etwas ganz Natürliches erscheinen mag.
+
+
+1267. Goethe, Maximen und Reflexionen 1267
+  Unwissende werfen Fragen auf,
+  welche von Wissenden vor tausend Jahren schon beantwortet sind.
+
+
+1268. Goethe, Maximen und Reflexionen 1268
+  Bei Erweitung des Wissens macht sich von Zeit zu Zeit eine Umordnung nötig;
+  sie geschieht meistens nach neueren Maximen, bleibt aber immer provisorisch.
+
+
+1269. Goethe, Maximen und Reflexionen 1269
+  Männer vom Fach bleiben im Zusammenhange;
+  dem Liebhaber dagegen wird es schwerer,
+  wenn er die Notwendigkeit fühlt nachzufolgen.
+
+
+1270. Goethe, Maximen und Reflexionen 1270
+  Deswegen sind Bücher willkommen,
+  die uns sowohl das neu empirisch Aufgefundene
+  als die neu beliebten Methoden darlegen.
+
+
+1271. Goethe, Maximen und Reflexionen 1271
+  In der Mineralogie ist dies höchst nötig, wo die Kristallographie so
+  große Forderungen macht und wo die Chemie das Einzelne näher zu bestimmen
+  und das Ganze zu ordnen unternimmt. Zwei willkommene:
+  Leonhard und Cleaveland.
+
+
+1272. Goethe, Maximen und Reflexionen 1272
+  Wenn wir das, was wir wissen, nach anderer Methode
+  oder wohl gar in fremder Sprache dargelegt finden,
+  so erhält es einen sonderbaren Reiz der Neuheit und frischen Ansehens.
+
+
+1273. Goethe, Maximen und Reflexionen 1273
+  Wenn zwei Meister derselben Kunst in ihrem Vortrag voneinander differieren,
+  so liegt wahrscheinlich das unauflösliche Problem
+  in der Mitte zwischen beiden.
+
+
+1274. Goethe, Maximen und Reflexionen 1274
+  Die "Geognosie" des Herren d'Aubuisson de Voisins,
+  übersetzt vom Herrn Wiemann, wie sie mir zu Händen kommt,
+  fördert mich in diesem Augenblicke auf vielfache Weise,
+  ob sie mich gleich im Hauptsinne betrübt, denn hier ist die Geognosie,
+  welche doch eigentlich auf der lebendigen Ansicht
+  der Weltoberfläche ruhen sollte,
+  aller Anschauung beraubt und nicht einmal in Begriffe verwandelt,
+  sondern auf Nomenklatur zurückgeführt, in welcher letzten Rücksicht
+  sie freilich einem jeden und auch mir förderlich und nützlich ist.
+
+
+1275. Goethe, Maximen und Reflexionen 1275
+  Das Große, Überkolossale der Natur eignet man so leicht sich nicht an;
+  denn wir haben nicht reine Verkleinerungsgläser, wie wir Linsenhaben,
+  um das unendlich Kleine zu gewahren.
+  Und da muss man doch noch Augen haben wie Carus und Nees,
+  wenn dem Geiste Vorteil entstehen soll.
+  Da jedoch die Natur im Größten wie im Kleinsten sich immer gleich ist
+  und eine jede trübe Scheibe so gut die schöne Bläue darstellt
+  wie die ganze weltüberwölkende Atmosphäre, so find ich es geraten,
+  auf Musterstücke aufmerksam zu sein und sie vor mir zusammenzulegen.
+  Hier nun ist das Ungeheuere nicht verkleinert, sondern im Kleinen,
+  und ebenso unbegreiflich als im Unendlichen.
+
+
+1276. Goethe, Maximen und Reflexionen 1276
+  Wenn in der Mathematik der menschliche Geist
+  seine Selbständigkeit und unabhängige Tätigkeit gewahr wird
+  und dieser ohne weitere Rücksicht ins Unendliche zu folgen
+  sich geneigt fühlt, so flößt er zugleich der Erfahrungswelt
+  ein solches Zutrauen ein, dass sie es an gelegentlichen Aufforderungen
+  nicht fehlen lässt. Astronomie, Mechanik, Schiffsbau, Festungsbau,
+  Artillerie, Spiel, Wasserleitung, Schnitt der Bausteine,
+  Verbesserung der Fernröhre riefen in der zweiten Hälfte
+  des siebzehnten Jahrhunderts die Mathematik wechselweise zu Hilfe.
+
+
+1277. Goethe, Maximen und Reflexionen 1277
+  Die Mathematiker sind wunderliche Leute; 
+  durch das Große, was sie leisteten,
+  haben sie sich zur Universalgilde aufgeworfen
+  und wollen nichts anerkennen,
+  als was in ihren Kreis passt, was ihr Organ behandeln kann.
+  Einer der ersten Mathematiker sagte bei Gelegenheit,
+  da man ihm ein physisches Kapitel andringlich empfehlen wollte:
+  "Aber lässt sich denn gar nichts auf den Kalkül reduzieren?"
+
+
+1278. Goethe, Maximen und Reflexionen 1278
+  Falsche Vorstellung, dass man ein Phänomen durch Kalkül
+  oder durch Worte abtun und beseitigen könne.
+
+
+1279. Goethe, Maximen und Reflexionen 1279
+  Die Mathematiker sind eine Art Franzosen:
+  redet man zu ihnen, so übersetzen sie es in ihre Sprache,
+  und dann ist es alsobald ganz etwas anders.
+
+
+1280. Goethe, Maximen und Reflexionen 1280
+  Es folgt eben gar nicht, dass der Jäger, der das Wild erlegt,
+  auch zugleich der Koch sein müsse, der es zubereitet.
+  Zufälligerweise kann ein Koch mit auf die Jagd gehen
+  und gut schießen; er würde aber einen bösen Fehlschluss tun,
+  wenn er behauptete, um gut zu schießen, müsse man Koch sein.
+  So kommen mir die Mathematiker vor, die behaupten,
+  dass man in physischen Dingen nichts sehen, nichts finden könne,
+  ohne Mathematiker zu sein, da sie doch immer zufrieden sein könnten,
+  wenn man ihnen in die Küche bringt,
+  das sie mit Formeln spicken und nach Belieben zurichten können.
+
+1281. Goethe, Maximen und Reflexionen 1281
+  Wir müssen erkennen und bekennen, was Mathematik sei,
+  wozu sie der Naturforschung wesentlich dienen könne,
+  wo hingegen sie nicht hingehöre
+  und in welche klägliche Abirrung Wissenschaft und Kunst
+  durch falsche Anwendung seit ihrer Regeneration geraten sei.
+
+
+1282. Goethe, Maximen und Reflexionen 1282
+  Die große Aufgabe wäre, die mathematisch-philosophischen Theorien
+  aus den Teilen der Physik zu verbannen,
+  in welchen sie Erkenntnis, anstatt sie zu fördern,
+  nur verhindern und in welchen die mathematische Behandlung
+  durch Einseitigkeit der Entwicklung
+  der neuern wissenschaftlichen Bildung
+  eine so verkehrte Anwendung gefunden hat.
+
+
+1283. Goethe, Maximen und Reflexionen 1283
+  Darzutun wäre, welches der wahre Weg der Naturforschung sei:
+  wie derselbe auf dem einfachsten Fortgange der Beobachtung beruhe,
+  die Beobachtung zum Versuch zu steigern sei
+  und wie dieser endlich zum Resultat führe.
+
+
+1284. Goethe, Maximen und Reflexionen 1284
+  Tycho de Brahe, ein großer Mathematiker,
+  vermochte sich nur halb von dem alten System loszulösen,
+  das wenigstens den Sinnen gemäß war, das er aber aus Rechthaberei 
+  durch ein kompliziertes Uhrwerk ersetzen wollte,
   das weder den Sinnen zu schauen noch den Gedanken zu erreichen war.
 
 
-177. Goethe, Maximen und Reflexionen
-  Wer sich an eine falsche Vorstellung gewöhnt, 
-  dem wird jeder Irrtum willkommen sein. 
-  Deswegen sagte man ganz richtig: 
-  "Wer die Menschen betrügen will, 
+1285. Goethe, Maximen und Reflexionen 1285
+  Newton als Mathematiker steht in so hohem Ruf,
+  dass der ungeschickteste Irrtum,
+  nämlich das klare, reine, ewig ungetrübte Licht
+  sei aus dunklen Lichtern zusammengesetzt,
+  bis auf den heutigen Tag sich erhalten hat,
+  und sind es nicht Mathematiker, die dieses Absurde noch immer verteidigen
+  und gleich dem gemeinsten Hörer in Worten wiederholen,
+  bei denen man nichts denken kann?
+
+
+1286. Goethe, Maximen und Reflexionen 1286
+  Der Mathematiker ist angewiesen aufs Quantitative, auf alles,
+  was sich durch Zahl und Maß bestimmen lässt,
+  und also gewissermaßen auf das äußerlich erkennbare Universum.
+  Betrachten wir aber dieses, insofern uns Fähigkeit gegeben ist,
+  mit vollem Geiste und aus allen Kräften, so erkennen wir,
+  dass Quantität und Qualität als die zwei Pole
+  des erscheinenden Daseins gelten müssen;
+  daher denn auch der Mathematiker seine Formelsprache so hoch steigert,
+  um, insofern es möglich, in der messbaren und zählbaren Welt
+  die unmessbare mitzubegreifen.
+  Nun erscheint ihm alles greifbar, fasslich und mechanisch,
+  und er kommt in den Verdacht eines heimlichen Atheismus,
+  indem er ja das Unmessbarste, welches wir Gott nennen,
+  zugleich mitzuerfassen glaubt
+  und daher dessen besonderes oder vorzügliches Dasein aufzugeben scheint.
+
+
+1287. Goethe, Maximen und Reflexionen 1287
+  Der Sprache liegt zwar die Verstandes- und Vernunftsfähigkeit
+  des Menschen zum Grunde, aber sie setzt bei dem, der sich ihrer bedient,
+  nicht eben reinen Verstand, ausgebildete Vernunft, redlichen Willen voraus.
+  Sie ist ein Werkzeug, zweckmäßig und willkürlich zu gebrauchen;
+  man kann sie ebenso gut zu einer spitzfindig-verwirrenden Dialektik
+  wie zu einer verworren-verdüsternden Mystik verwenden,
+  man missbraucht sie bequem zu hohlen und nichtigen prosaischen
+  und poetischen Phrasen, ja man versucht,
+  prosodisch untadelhafte und doch nonsensikalische Verse zu machen.
+  Unser Freund, der Ritter Ciccolini, sagt:
+  "Ich wünschte wohl, dass alle Mathematiker in ihren Schriften
+  des Genies und der Klarheit eines La Grange sich bedienten",
+  das heißt: möchten doch alle den gründlich-klaren Sinn eines La Grange
+  besitzen und mit solchem Wissen und Wissenschaft behandeln!
+
+
+1288. Goethe, Maximen und Reflexionen 1288
+  Der Newtonische Versuch, auf dem die herkömmliche Farbenlehre beruht,
+  ist von der vielfachsten Komplikation; er verknüpft folgende Bedingungen.
+  Damit das Gespenst erscheine, ist nötig:
+   1. ein gläsern Prisma;
+   2. dieses dreiseitig,
+   3. klein;
+   4. ein Fensterladen;
+   5. eine Öffnung darin;
+   6. diese sehr klein;
+   7. Sonnenbild, das hereinfällt;
+   8. in einer gewissen Entfernung, in einer
+   9. gewissen Richtung aufs Prisma fällt;
+  10. sich auf einer Tafel abbildet,
+  11. die in einer gewissen Entfernung hinter das Prisma gestellt ist.
+  Nehme man von diesen Bedingungen 3., 6. und 11. weg:
+  man mache die Öffnung groß, man nehme ein großes Prisma,
+  man stelle die Tafel nah heran,
+  und das beliebte Spektrum kann und wird nicht zum Vorschein kommen.
+
+
+1289. Goethe, Maximen und Reflexionen 1289
+  Man spricht geheimnisvoll von einem wichtigen Experimente,
+  womit man die Lehre erst recht befestigen will;
+  ich kenn es recht gut und kann es auch darstellen:
+  Das ganze Kunststück ist, dass zu obigen Bedingungen
+  noch ein paar hinzugefügt werden,
+  wodurch das Hokuspokus sich noch mehr verwickelt.
+
+
+1290. Goethe, Maximen und Reflexionen 1290
+  Der Fraunhoferische Versuch, wo Querlinien im Spektrum erscheinen,
+  ist von derselben Art, so wie auch die Versuche,
+  wodurch eine neue Eigenschaft des Lichts entdeckt werden soll.
+  Sie sind doppelt und dreifach kompliziert;
+  wenn sie was nützen sollten, müssten sie in ihre Elemente zerlegt werden,
+  welches dem Wissenden nicht schwer fällt,
+  welches aber zu fassen und zu begreifen
+  kein Laie weder Vorkenntnis noch Geduld,
+  kein Gegner weder Intention noch Redlichkeit genug mitbringt:
+  Man nimmt lieber überhaupt an, was man sieht,
+  und zieht die alte Schlussfolge daraus.
+
+
+1291. Goethe, Maximen und Reflexionen 1291
+  Ich weiß wohl, dass diese Worte vergebens dastehen;
+  aber sie mögen als offenbares Geheimnis der Zukunft bewahrt bleiben.
+  Vielleicht interessiert sich auch noch einmal ein La Grange
+  für diese Angelegenheit.
+
+
+1292. Goethe, Maximen und Reflexionen 1292
+  Da seit einiger Zeit meiner "Farbenlehre" mehr nachgefragt wird,
+  machen sich frisch illuminierte Tafeln nötig.
+  Indem ich nun dieses kleine Geschäft besorge,
+  muss ich lächeln, welche unsägliche Mühe ich mir gegeben,
+  das Vernünftige sowohl als das Absurde palpabel zu machen.
+  Nach und nach wird man beides erfassen und anerkennen.
+
+
+1293. Goethe, Maximen und Reflexionen 1293
+  Der Newtonische Irrtum steht so nett im Konversationslexikon,
+  dass man die Oktavseite nur auswendig lernen darf,
+  um die Farbe fürs ganze Leben los zu sein.
+
+
+1294. Goethe, Maximen und Reflexionen 1294
+  Der Kampf mit Newton geht eigentlich in einer sehr niedern Region
+  vor. Man bestreitet ein schlecht gesehnes, schlecht entwickeltes,
+  schlecht angewendetes, schlecht theoretisiertes Phänomen.
+  Man beschuldigt ihn in den früheren Versuchen einer Unvorsichtigkeit,
+  in den folgenden einer Absichtlichkeit,
+  beim Theoretisieren der Übereilung,
+  beim Verteidigen der Hartnäckigkeit
+  und im ganzen einer halb bewusstlosen,
+  halb bewussten Unredlichkeit.
+
+
+1295. Goethe, Maximen und Reflexionen 1295
+  Hundert graue Pferde machen nicht einen einzigen Schimmel.
+
+
+1296. Goethe, Maximen und Reflexionen 1296
+  Diejenigen, die das einzige grundklare Licht
+  aus farbigen Lichtern zusammensetzen, sind die eigentlichen Obskuranten.
+
+
+1297. Goethe, Maximen und Reflexionen 1297
+  Wer sich an eine falsche Vorstellung gewöhnt,
+  dem wird jeder Irrtum willkommen sein.
+
+
+1298. Goethe, Maximen und Reflexionen 1298
+  Deswegen sagte man ganz richtig:
+  "Wer die Menschen betrügen will,
    muss vor allen Dingen das Absurde plausibel machen."
 
 
-178. Goethe, Maximen und Reflexionen
-  Die Natur ist immer Jehovah. Was sie ist, was sie war, und was sie sein wird.
+1299. Goethe, Maximen und Reflexionen 1299
+  Licht und Geist,
+  jenes im Physischen, dieser im Sittlichen herrschend,
+  sind die höchsten denkbaren unteilbaren Energien.
 
 
-179. Goethe, Maximen und Reflexionen
+1300. Goethe, Maximen und Reflexionen 1300
+  Ich habe nichts dagegen, wenn man die Farbe sogar zu fühlen glaubt;
+  ihr eigenes Eigenschaftliche würde nur dadurch noch mehr betätigt.
+
+
+1301. Goethe, Maximen und Reflexionen 1301
+  Auch zu schmecken ist sie.
+  Blau wird alkalisch, Gelbrot sauer schmecken.
+  Alle Manifestationen der Wesenheiten sind verwandt.
+
+
+1302. Goethe, Maximen und Reflexionen 1302
+  Und gehört die Farbe nicht ganz eigentlich dem Gesicht an?
+
+
+1303. Johann Wolfgang Goethe, Maximen und Reflexionen 1303
+AUS DEM NACHLASS (Skizziertes, Zweifelhaftes, Unvollständiges)
+  Religion: Alte;
+  Poesie: Religion der Jugend.
+
+
+1304. Goethe, Maximen und Reflexionen 1304
+AUS DEM NACHLASS (Skizziertes, Zweifelhaftes, Unvollständiges)
+  Die Natur ist immer Jehovah.
+  Was sie ist, was sie war, und was sie sein wird.
+
+
+1305. Goethe, Maximen und Reflexionen 1305
+AUS DEM NACHLASS (Skizziertes, Zweifelhaftes, Unvollständiges)
+  Dass Christus auf eine Hamletische Weise zugrunde ging,
+  und schlimmer, weil er Menschen um sich berief, die er fallen ließ,
+  da Hamlet bloß als Individuum perierte.
+
+
+1306. Goethe, Maximen und Reflexionen 1306
+  Anthropomorphism, Erotomorphism.
+  Dass er alles, was auch vorgeht,
+  in sittlich-sinnlich Gefühl auflöst und verwandelt.
+
+
+1307. Goethe, Maximen und Reflexionen 1307
+  Reine Naturgesinnung in fremdem Zustande.
+  Je reiner die Gesinnung, desto weniger Bedürfnis des Zustandes.
+  Je komplizierter, interessanter für sich selbst der Zustand ist,
+  so gibt er unsern Gesinnungen das Gesetz.
+
+
+1308. Goethe, Maximen und Reflexionen 1308
+  Der grenzenlose Verstand, dem jeder Verstand zusagt,
+  dem die Vernunft nichts anhaben kann,
+  wenn auch das Gefühl nicht immer beistimmt.
+
+
+1309. Goethe, Maximen und Reflexionen 1309
+  Stetigkeit
+    (als) mit (und doch)
+        Gegensatz.
+
+
+1310. Goethe, Maximen und Reflexionen 1310
+  Es ist nicht wahr, dass das Leben ein Traum sei;
+  nur dem scheint es so,
+  der auf eine alberne Weise ruhet,
+  auf die ungeschickteste Weise verletzt.
+
+
+1311. Goethe, Maximen und Reflexionen 1311
+  Man hat den Epikur, der ein armer Hund war wie ich,
+  sehr missverstanden, wenn er das Höchste in die Schmerzlosigkeit legte.
+
+
+1312. Goethe, Maximen und Reflexionen 1312
+  Besonderes Vergnügen, sich mit Personen, die man liebt,
+  über Dinge zu erklären und weitläufig zu sein,
+  Empfinden rege zu machen, wenn man gleich weiß,
+  dass, was man sagt, nicht wahr ist.
+
+
+1313. Goethe, Maximen und Reflexionen 1313
+  Die Menschen wundern sich, dass ich es besser weiß wie sie,
+  und es ist kein Wunder:
+  sie halten sehr oft für falsch, was ich denke.
+
+
+1314. Goethe, Maximen und Reflexionen 1314
+  Man muss nicht fürchten, überstimmt zu werden,
+  wenn uns widersprochen wird.
+
+
+1315. Goethe, Maximen und Reflexionen 1315
+  Menschen, die ihre Kenntnisse an die Stelle der Einsicht setzen.
+  (Junge Leute)
+
+
+1316. Goethe, Maximen und Reflexionen 1316
+  Das Falsche (der Irrtum) ist meistens der Schwäche bequemer.
+
+1317. Goethe, Maximen und Reflexionen 1317
+  Wenn sie wüssten, wo das liegt, was sie suchen, so suchten sie ja nicht.
+
+
+1318. Goethe, Maximen und Reflexionen 1318
+  Die Güte des Herzens nimmt einen weiteren Raum ein
+  als der Gerechtigkeit geräumiges Feld.
+
+
+1319. Goethe, Maximen und Reflexionen 1319
+  Je uneigennütziger der Mensch ist,
+  desto mehr ist der... unterworfen den Eigennützigen.
+
+
+1320. Goethe, Maximen und Reflexionen 1320
+  Das, was man für sie tut, ist nicht genug,
+  das, was man für sie getan hat, ist nichts:
+  die ganze Existenz, die man ihnen geschaffen hat,
+  nehmen sie von Gottes Gnaden, und so ist man,
+  als wenn man nicht wäre, nicht gewesen wäre.
+
+
+1321. Goethe, Maximen und Reflexionen 1321
+  In weltlichen Dingen sind nur zu betrachten die Mittel und der Gebrauch.
+
+
+1322. Goethe, Maximen und Reflexionen 1322
+  Rasches Vorschreiten zum Zweck, ohne die Mittel zu bedenken.
+
+
+1323. Goethe, Maximen und Reflexionen 1323
+  Als wenn man, um dem Sohn, der in der Wiege liegt,
+  beizeiten Vorteil zu bringen, den Vater totschlagen wollte.
+
+
+1324. Goethe, Maximen und Reflexionen 1324
   Gedankenlosigkeit, die uns den Wert des Augenblicks verkennen lässt.
 
 
-180. Goethe, Maximen und Reflexionen
-  Niederträchtigkeit der mittlern Zeit bis ins sechzehnte Jahrhundert, 
-  treffliche Menschen wie Aristoteles, Hippokrates 
+1325. Goethe, Maximen und Reflexionen 1325
+  Charakter, der, dargestellt, kein Bild, pragmatisiert, kein Resultat gibt.
+
+
+1326. Goethe, Maximen und Reflexionen 1326
+  Drei Dinge werden nicht eher erkannt als zu gewisser Zeit:
+    ein Held im Kriege,
+    ein weiser Mann im Zorn,
+    ein Freund in der Not.
+
+
+1327. Goethe, Maximen und Reflexionen 1327
+  Drei Klassen von Narren:
+    die Männer aus Hochmut,
+    die Mädchen aus Liebe,
+    die Frauen aus Eifersucht.
+
+
+1328. Goethe, Maximen und Reflexionen 1328
+  Toll ist:
+    wer Toren belehrt,
+    Weisen widerredet,
+    von hohlen Reden bewegt wird,
+    Huren glaubt,
+    Geheimnisse Unsichern vertraut.
+
+
+1329. Goethe, Maximen und Reflexionen 1329
+  Wer muss Langmut üben?
+    Der große Tat vorhat,
+    bergan steigt,
+    Fische speist.
+
+
+1330. Goethe, Maximen und Reflexionen 1330
+  Jüdisches Wesen:
+    Energie der Grund von allem.
+    Unmittelbare Zwecke.
+    Keiner, auch nur der kleinste, geringste Jude,
+      der nicht entschiedenes Bestreben verriete,
+      und zwar ein irdisches, zeitliches, augenblickliches.
+    Judensprache hat etwas Pathetisches.
+
+
+1331. Goethe, Maximen und Reflexionen 1331
+  Ein Deutscher war schon absurd, solang er hoffte;
+  da er nun überwunden war, so war gar nicht mehr mit ihm zu leben.
+
+
+1332. Goethe, Maximen und Reflexionen 1332
+  Vorschlag zu einem polemischen Purism in Schulen.
+
+
+1333. Goethe, Maximen und Reflexionen 1333
+  Stoffartige Hilfe, die sich die Poesie der letzten Zeit
+  gibt durch bedeutende Motive, Religion und Ritterwesen.
+
+
+1334. Goethe, Maximen und Reflexionen 1334
+  Beispiele, wie sich die Menschen über das Unerwartete,
+  ja Unerträgliche durch poetische Formen begütigen:
+  empirisch erscheinende absolute Gewalt
+        O b e r o n,  B l a u b a r t.
+
+
+1335. Goethe, Maximen und Reflexionen 1335
+  Identität rasenden Enthusiasmus' und unbarmherziger Kritik
+  schwer in sich zu erzielen.
+
+
+1336. Goethe, Maximen und Reflexionen 1336
+  Wirkung namhafter, gründlich arbeitender Autoren.
+  Gegenwirkung journalistisch anonymer.
+
+
+1337. Goethe, Maximen und Reflexionen 1337
+  Ein geistreicher Humorist als quasi Poet, der,
+  der Fülle seines Wissens und Empfindens gedenkend,
+  sich in Tropen auszusprechen genötigt fühlt.
+
+
+1338. Goethe, Maximen und Reflexionen 1338
+  Trübe Stellen, wo die Intention des Dichters uns nicht klar entgegentritt,
+  die man sich, weil man ihn liebt, erst auslegt
+  und auf die man zurückkehrend immer eine gewisse Unbehaglichkeit empfindet.
+
+
+1339. Goethe, Maximen und Reflexionen 1339
+  Es kommt mir wunderbar vor, eine so tragische Schuld zu sehen,
+  dass eine Tragödie gar nicht darauf zu folgen brauchte.
+
+
+1340. Goethe, Maximen und Reflexionen 1340
+  Abstumpfen des Geistes durchs Geistreiche.
+
+
+1341. Goethe, Maximen und Reflexionen 1341
+  Englische Stücke.
+  Das Verruchte des Stoffs,
+  das Absurde der Form,
+  verwerfliche Handlungen.
+  Vermaledeites englisches Theater!
+
+
+1342. Goethe, Maximen und Reflexionen 1342
+  Hersilie sagte von der Pilgernden Törin:
+  "Wenn ich närrisch werden möchte,
+   wie mir manchmal die Lust ankommt,
+   so wäre es auf diese Weise."
+
+
+1343. Goethe, Maximen und Reflexionen 1343
+  Das Erhabene, für uns Übererhabene, höchst Verehrungswerte,
+  doch, genau besehen, mit einem absurden, ja infamen Empirischen
+  Verbundene macht uns stutzig, und man entschließt sich schwer.
+
+
+1344. Goethe, Maximen und Reflexionen 1344
+  Es ist etwas unbekanntes Gesetzliches im Objekt,
+  welches dem unbekannten Gesetzlichen im Subjekt entspricht.
+
+
+1345. Goethe, Maximen und Reflexionen 1345
+  Zum Schönen wird erfordert ein Gesetz, das in die Erscheinung tritt.
+  Beispiel von der Rose.
+  In den Blüten tritt das vegetabilische Gesetz in seine höchste Erscheinung,
+  und die Rose wäre nun wieder der Gipfel dieser Erscheinung.
+  Perikarpien können noch schön sein.
+  Die Frucht kann nie schön sein;
+  denn da tritt das vegetabilische Gesetz in sich (ins bloße Gesetz) zurück.
+
+
+1346. Goethe, Maximen und Reflexionen 1346
+  Das Gesetz, das in die Erscheinung tritt, in der größten Freiheit,
+  nach seinen eigensten Bedingungen, bringt das objektiv Schöne hervor,
+  welches freilich würdige Subjekte finden muss, von denen es aufgefasst wird.
+
+
+1347. Goethe, Maximen und Reflexionen 1347
+  Die Unmöglichkeit, Rechenschaft zu geben von dem Natur- und Kunstschönen;
+  denn
+  ad 1. müssten wir die Gesetze kennen, nach welchen die allgemeine Natur 
+        handeln will und handelt, wenn sie kann, und
+  ad 2. die Gesetze kennen, nach denen die allgemeine Natur
+        unter der besondern Form der menschlichen Natur
+        produktiv handeln will und handelt, wenn sie kann.
+
+
+1348. Goethe, Maximen und Reflexionen 1348
+  Schönheit der Jugend aus obigem abzuleiten.
+  Alter: stufenweises Zurücktreten aus der Erscheinung.
+  Inwiefern das Alternde schön genannt werden kann.
+  Ewige Jugend der griechischen Götter.
+
+
+1349. Goethe, Maximen und Reflexionen 1349
+  Beharren eines jeden im Charakter, 
+  bis zum Gipfel des menschlichen Daseins,
+  ohne an die Rückkehr zu denken.
+
+
+1350. Goethe, Maximen und Reflexionen 1350
+  Die Schönheit: jede[?] milde, hohe Übereinstimmung alles dessen,
+  was unmittelbar, ohne Überlegen und Nachdenken zu erfordern, gefällt.
+
+
+1351. Goethe, Maximen und Reflexionen 1351
+  Vollkommne Künstler haben mehr dem Unterricht als der Natur zu danken.
+
+
+1352. Goethe, Maximen und Reflexionen 1352
+  Die höchste Absicht der Kunst ist, menschliche Formen zu zeigen,
+  so sinnlich bedeutend und so schön, als es möglich ist.
+
+
+1353. Goethe, Maximen und Reflexionen 1353
+  Friedrich der Zweite zu Pferd nach Chodowiecki ist, in Zinn gemalt,
+  in Nürnberg zu haben; gewöhnlich führt er die Soldaten der Kinder an
+  und ist auch da noch ehrwürdig.
+  Ich möchte ihn aber doch auf ähnliche Weise weder in Lebensgröße,
+  noch weniger kolossal mit Augen sehen.
+
+
+1354. Goethe, Maximen und Reflexionen 1354
+  Zeichnet doch euere patriotischen Gegenstände!
+  Einen König, der auf einer Brunnenröhre sitzt und denkt!
+  Ja, wenn ihr seine Gedanken zeichnen könntet!
+  Ein solcher König hat mit eurer bildenden Kunst [nichts] zu tun;
+  er soll nur im Geist und der Wahrheit verehrt werden.
+
+
+1355. Goethe, Maximen und Reflexionen 1355
+  Zeichnet, stecht in Kupfer, bezahlt, verkauft,
+  belohnt immer in offenbarer Stille,
+  und wenn euch ein tadelnd Wort trifft,
+  so lasst's ja hingehen;
+  aber reizt nur niemanden,
+  diese Armseligkeiten immer lauter und lauter
+  vor den Ohren der Welt auszulachen!
+
+
+1356. Goethe, Maximen und Reflexionen 1356
+  Wenn ihr sagt: "Wir machen's so", da hat kein Mensch was dagegen;
+  sagt ihr aber: "Ihr sollt's auch so machen, euch nach unserer
+  Beschränkung beschränken", da kommt ihr um vieles zu spät.
+
+
+1357. Goethe, Maximen und Reflexionen 1357
+  Paris ist offen, Italien wird's auch werden;
+  solange uns der Atem bleibt,
+  werden wir den Künstler in das Weite der Welt
+  und Kunst und in die Beschränktheit seiner selbst weisen.
+
+
+1358. Goethe, Maximen und Reflexionen 1358
+  Beschränkt doch den Künstler nicht durch solche ..;
+  fühlt sich doch ohnehin jeder in dem weitesten
+  Welt-und Kunstgenuss beschränkt genug!
+
+
+1359. Goethe, Maximen und Reflexionen 1359
+  Sich in seiner Beschränktheit gefallen ist ein elender Zustand;
+  in Gegenwart des Besten seine Beschränktheit fühlen ist freilich ängstlich,
+  aber diese Angst erhebt.
+
+
+1360. Goethe, Maximen und Reflexionen 1360
+  Bei Betrachtung von Kunstwerken, sowohl dichterischen als bildnerischen,
+  des dritten und vierten Jahrhunderts lässt sich bemerken,
+  wie lange die Künstler noch am alten guten Sinne festgehalten haben,
+  da schon alles um sie her dafür erstorben war.
+  Erklärungsart der Kunstwerke auf diesem Wege.
+  Sie sind keineswegs abstrus, sondern plastisch zu nennen.
+  Siehe das Kapitolinische Basrelief mit dem Prometheus pp.
+
+
+1361. Goethe, Maximen und Reflexionen 1361
+  Das Menschliche, Liebenswürdige, Zarte
+  unter der Form einer imaginierten bildenden Kunst.
+  "Klosterbruder", "Sternbald".
+
+
+1362. Goethe, Maximen und Reflexionen 1362
+  Organische Natur: ins Kleinste lebendig;
+  Kunst: ins Kleinste empfunden.
+
+
+1363. Goethe, Maximen und Reflexionen 1363
+  Konflikte.
+    Sprünge der Natur und Kunst.
+    Eintretender Genius zur rechten Zeit.
+    Element genugsam vorbereitet.
+    Nicht roh und starr.
+    Auch nicht schon verbraucht.
+    Ebenso mit der Organisation.
+  Hier springt die Natur auch nur, insofern alles vorbereitet ist,
+  als ein Höheres, in die Wirklichkeit Tretendes
+  zur eminenten Erscheinung gelangen kann.
+
+
+1364. Goethe, Maximen und Reflexionen 1364
+  Dass die Natur, die uns zu schaffen macht, gar keine Natur mehr ist,
+  sondern ein ganz anderes Wesen als dasjenige,
+  womit sich die Griechen beschäftigten.
+
+
+1365. Goethe, Maximen und Reflexionen 1365
+  Die Griechen nannten Entelecheia ein Wesen, das immer in Funktion ist.
+
+
+1366. Goethe, Maximen und Reflexionen 1366
+  Die Griechen, wenn sie beschrieben oder erzählten,
+  sprachen weder von Ursache noch von Resultat,
+  sondern trugen die äußere Erscheinung vor.
+  Auch in der Naturwissenschaft machten sie keine Versuche wie wir,
+  sondern hielten sich an den einzelnen Erfahrungsfällen.
+
+
+1367. Goethe, Maximen und Reflexionen 1367
+  Die Funktion ist das Dasein, in Tätigkeit gedacht.
+
+
+1368. Goethe, Maximen und Reflexionen 1368
+  Alle Wirksamkeit ist stärker am Mittelpunkt als gegen die Peripherie zu.
+  Raum zwischen Mars und Jupiter.
+
+
+1369. Goethe, Maximen und Reflexionen 1369
+  Urphänomene: ideal, real, symbolisch, identisch.
+  Empirie: unbegrenzte Vermehrung derselben, Hoffnung der Hilfe daher,
+  Verzweiflung an Vollständigkeit.
+  Urphänomen
+    ideal als das letzte Erkennbare,
+    real als erkannt,
+    symbolisch, weil es alle Fälle begreift,
+    identisch mit allen Fällen.
+
+
+1370. Goethe, Maximen und Reflexionen 1370
+  Ersparnis der Erfahrung,
+  Sündflut der Erfahrung,
+  Dinge, wovon man nicht reden würde, wenn man wüsste, wovon die Rede ist.
+
+
+1371. Goethe, Maximen und Reflexionen 1371
+  Wie das Unbedingte sich selbst bedingen
+  und so das Bedingte zu seinesgleichen machen kann.
+
+
+1372. Goethe, Maximen und Reflexionen 1372
+  Dass das Bedingte zugleich unbedingt sei.
+  Welches unbegreiflich ist,
+  ob wir es gleich alle Tage erfahren.
+
+
+1373. Goethe, Maximen und Reflexionen 1373
+  Der Empirismus, zur Unbedingtheit erhöht/erweitert,
+  ist ja Naturphilosophie. (Schelling)
+
+
+1374. Goethe, Maximen und Reflexionen 1374
+  Dass es dem Menschen selten gegeben ist,
+  in dem einzelnen Falle das Gesetz zu erkennen.
+  Und doch, wenn er es immer [?] in tausenden erkennt,
+  muss er es ja wieder in jedem einzelnen finden.
+  Die großen Umwege [?] erspart sich der Geist.
+
+
+1375. Goethe, Maximen und Reflexionen 1375
+  Bei Naturforschung auf Anordnung, auf System auszugehen,
+  hinderlich und förderlich.
+
+1376. Goethe, Maximen und Reflexionen 1376
+  Alles, was im Subjekt ist, ist im Objekt und noch etwas mehr.
+  Alles, was im Objekt ist, ist im Subjekt und noch etwas mehr.
+  Wir sind auf doppelte Weise verloren oder geborgen:
+  Gestehen wir dem Objekt sein Mehr zu,
+  Pochen wir auf unser Subjekt.
+
+1377. Goethe, Maximen und Reflexionen 1377
+  Jede [Erscheinung] ist zugänglich wie ein planum inclinatum,
+  das bequem zu ersteigen ist,
+  wenn der hintere Teil des Keiles schroff und unerreichbar dasteht.
+
+
+1378. Goethe, Maximen und Reflexionen 1378
+  Perspektivische Gesetze: die mit so großem Sinn als Richtigkeit
+  die Welt auf das Auge des Menschen und seinen Standpunkt beziehen
+  und dadurch möglich machen, dass jedes sonderbare, verworrne Gedränge
+  von Gegenständen in ein reines, ruhiges Bild verwandelt werden kann.
+
+
+1379. Goethe, Maximen und Reflexionen 1379
+  Alle Verhältnisse der Dinge wahr. Irrtum allein in dem Menschen.
+  An ihm nichts wahr, als dass er irrt, sein Verhältnis zu sich,
+  zu andern, zu den Dingen nicht finden kann.
+
+
+1380. Goethe, Maximen und Reflexionen 1380
+  Wissen: das Bedeutende der Erfahrung, das immer ins Allgemeine hinweist.
+
+
+1381. Goethe, Maximen und Reflexionen 1381
+  Geschichte der Wissenschaft:
+  Was muss zu allen Zeiten den Menschen von Haus aus interessieren?
+  Wie hat man nach und nach gesucht,
+  sich davon Rechenschaft zu geben oder sich zu beruhigen?
+  Geschichte des Wissens:
+  Was ist dem Menschen nach und nach bekannt geworden?
+  Wie hat er sich dabei und damit benommen?
+
+
+1382. Goethe, Maximen und Reflexionen 1382
+  Niederträchtigkeit der mittlern Zeit bis ins sechzehnte Jahrhundert,
+  treffliche Menschen wie Aristoteles, Hippokrates
   durch dumme Märchen lächerlich und verhasst zu machen.
 
 
+1383. Goethe, Maximen und Reflexionen 1383
+  Unglücklich ist immer derjenige, der sich in Korporationen einlässt.
+  Von Humboldt darf von allem nichts melden, als was in Paris gilt.
+  Was soll denn da aus dem werden, was wir Wissen und Wissenschaft
+  nennen? In hundert Jahren wird es ganz anders aussehen.
+
+
+1384. Goethe, Maximen und Reflexionen 1384
+  Redensarten, wodurch das, was das Genie in einer Folge
+  und aus einer Folge entdeckt,
+  als etwas Einzelnes und wo nicht Zufälliges,
+  doch Unzusammenhangendes angesprochen wird.
+
+
+1385. Goethe, Maximen und Reflexionen 1385
+  Nicht bloß Barbaren mit Feuer und Schwert,
+  nicht bloß Pfaffenobskurantismus:
+  die Gelehrten selbst sind solche barbarische Obskuranten,
+  die etwas, das pp.
+
+
+1386. Goethe, Maximen und Reflexionen 1386
+  Bei den Kontroversen darauf zu sehen, wer das Punctum saliens getroffen.
+
+
+1387. Goethe, Maximen und Reflexionen 1387
+  Mathematik sich immer mit dem... und Würdigen beschäftigend.
+  Verglichen mit dem Wollen und Dichten.
+
+
+1388. Goethe, Maximen und Reflexionen 1388
+  Mathematik, die auf Konviktion, Überführung ausgeht,
+  weshalb gute Köpfe sich an ihr ärgern.
+
+
+1389. Goethe, Maximen und Reflexionen 1389
+  Man hört, nur die Mathematik sei gewiss;
+  sie ist es nicht mehr als jedes andere Wissen und Tun.
+  Sie ist gewiss, wenn sie sich klüglich nur mit  Dingen abgibt,
+  über die man gewiss werden und insofern man darüber gewiss werden kann.
+
+
+1390. Goethe, Maximen und Reflexionen 1390
+  Das ist eben das Hohe der Mathematik,
+  dass ihre Methode gleich zeigt, wo ein Anstoß ist.
+  Fanden sie doch dem Gang der himmlischen Körper
+  nicht ihre Rechnungen gemäß und wendeten sich daher auf die
+  Annahme [?] der Störungen,
+  und diese Störungen noch immer zu viel oder zu wenig.
+
+
+1391. Goethe, Maximen und Reflexionen 1391
+  In diesem Sinne kann man die Mathematik
+  als die höchste und sicherste Wissenschaft ansprechen.
+  Aber wahr kann sie nichts machen, als was wahr ist.
+
+
+1392. Goethe, Maximen und Reflexionen 1392
+  Was hat denn der Mathematiker für ein Verhältnis zum Gewissen,
+  was doch das höchste, das würdigste Erbteil der Menschen ist,
+  eine inkommensurable, bis ins feinste wirkende, sich selber spaltende
+  und wieder verbindende Tätigkeit? 
+  Und Gewissen ist's vom Höchsten bis ins Geringste.
+  Gewissen ist's, wer das kleinste Gedicht gut und vortrefflich macht.
+
+
+1393. Goethe, Maximen und Reflexionen 1393
+  Wenn diese Hoffnungen sich verwirklichen, dass die Menschen
+  sich mit allen ihren Kräften, mit Herz und Geist, mit Verstand und Liebe
+  vereinigen und voneinander Kenntnis nehmen, so wird sich ereignen,
+  woran jetzt noch kein Mensch denken kann.
+  Die Mathematiker werden sich gefallen lassen,
+  in diesen allgemeinen sittlichen Weltbund
+  als Bürger eines bedeutenden Staates aufgenommen zu werden,
+  und nach und nach sich des Dünkels entäußern,
+  als Universalmonarchen über alles zu herrschen;
+  sie werden sich nicht mehr beigehen lassen,
+  alles für nichtig, für unexakt, für unzulänglich zu erklären,
+  was sich nicht dem Kalkül unterwerfen lässt.
+
+
+1394. Goethe, Maximen und Reflexionen 1394
+  Alle Kristallisationen sind ein realisiertes Kaleidoskop.
+
+
+1395. Goethe, Maximen und Reflexionen 1395
+  Von denen selbst, die sich mit meiner Vorstellungsart befreundeten,
+  ist keiner über mich .. [bricht ab]
+
+
+1396. Goethe, Maximen und Reflexionen 1396
+  Es war schon bei den Römern, wenn sie was Tüchtiges sagen wollten,
+  sagten sie's griechisch. Warum wir nicht französisch?
+  Wie's kommt, dass eine fremde Sprache
+  uns zum Ausdruck einer seltnen Empfindung mehr .. [bricht ab]
+
+
+1397. Goethe, Maximen und Reflexionen 1397
+  Die Frage über die Instinkte der Tiere lässt sich nur durch den Begriff
+  von Monaden und Entelechien auflösen.
+  Jede Monas ist eine Entelechie, die unter gewissen Bedingungen
+  zur Erscheinung kommt. Ein gründliches Studium des Organismus
+  lässt in die Geheimnisse .. [bricht ab]
+
+
+1398. Goethe, Maximen und Reflexionen 1398
+  Bescheidenheit gehört in gute geschlossene Gesellschaft.
+  Schon in größerer Sozietät steht das Unbescheidne immer im Vorteil,
+  aber Derbheit, ja Grobheit gehört in eine Volksversammlung,
+  wo der Pöbel mitreden will und den man überschreien
+  oder selbst schweigen und sich nach Hause drücken muss.
+  Übrigens kann ich die Newtonische Turba,
+  sie bestehe aus Volk, Pharisäern oder Schriftgelehrten,
+  welche das .. [bricht ab]
+
+
+1399. Goethe, Maximen und Reflexionen 1399
+  Das Wahre, Anerkannte sowie das Falsche, Angenommne
+  werden nebeneinander aufgef.. [bricht ab]
+
+
+1400. Goethe, Maximen und Reflexionen 1400
+  ... Das unheilbare Übel dieser religiösen Streitigkeiten besteht darin,
+  dass der eine Teil auf Märchen und leere Worte
+  das höchste Interesse der Menschheit zurückführen will,
+  der andere aber es da zu begründen denkt, wo sich niemand beruhigt.
+
+
+1401. Goethe, Maximen und Reflexionen 1401
+  ... Ich erwarte wohl, dass mir mancher Leser widerspricht;
+  aber er muss doch stehen lassen, was er schwarz auf weiß vor sich hat.
+  Ein anderer stimmt vielleicht mir bei, eben dasselbe Exemplar in der Hand.
+
+
+1402. Goethe, Maximen und Reflexionen 1402
+  ... Denn eben, wenn man Probleme,
+  die nur dynamisch erklärt werden können, beiseite schiebt,
+  dann kommen mechanische Erklärungsarten wieder zur Tagesordnung.
+
+
+1403. Goethe, Maximen und Reflexionen 1403
+  ... Was hat man sich nicht mit dem Granit beschäftigt!
+  Man hat ihn mit in die neuern Epochen herangezogen,
+  und doch entsteht keiner mehr vor unsern Augen.
+  Geschähe es im tiefsten Meeresgrunde, so hätten wir keine Kenntnis davon.
+
+
+1404. Goethe, Maximen und Reflexionen 1404
+  ... Es ist daher das beste, wenn wir bei Beobachtungen
+  soviel als möglich uns der Gegenstände und beim Denken darüber
+  soviel als möglich uns unsrer selbst bewusst sind.
+
+
+1405. Johann Wolfgang Goethe, Maximen und Reflexionen 1405
+NACHLESE AUS DEM NACHLASS (Nachlese)
+  Der Mensch kann nur mit seinesgleichen leben, und auch mit denen nicht;
+  denn er kann auf die Länge nicht leiden, dass ihm jemand gleich sei.
+
+
+1406. Goethe, Maximen und Reflexionen 1406
+NACHLESE AUS DEM NACHLASS (Nachlese)
+  Der mittelmäßigste Roman ist immer noch besser
+  als die mittelmäßigen Leser,
+  ja der schlechteste partizipiert
+  etwas von der Vortrefflichkeit des ganzen Genres.
+
+
+1407. Goethe, Maximen und Reflexionen 1407
+NACHLESE AUS DEM NACHLASS (Nachlese)
+  Schauspieler gewinnen die Herzen und geben die ihrigen nicht hin;
+  sie hintergehen aber mit Anmut.
+
+
+1408. Goethe, Maximen und Reflexionen 1408
+  Zu berichtigen verstehen die Deutschen, nicht nachzuhelfen.
+
+
+1409. Goethe, Maximen und Reflexionen 1409
+  Aus der Natur, nach welcher Seite hin man schaue,
+  entspringt Unendliches.
+
+
+1410. Goethe, Maximen und Reflexionen 1410
+  Man muss eine Sache gefunden haben, wenn man wissen will, wo sie liegt.
+
+
+1411. Goethe, Maximen und Reflexionen 1411
+  Wer freudig tut und sich des Getanen freut, ist glücklich.
+
+
+1412. Goethe, Maximen und Reflexionen 1412
+  Mit Ungeduld bestraft sich zehnfach Ungeduld;
+  man will das Ziel heranziehen und entfernt es nur.
+
+
+1413. Goethe, Maximen und Reflexionen 1413
+  Die jungen Leute sind neue Aperçus der Natur.
+
+
+1414. Johann Wolfgang Goethe, Maximen und Reflexionen
+ZITATEN-NACHWEIS
+  ---------------------------------
+  Schriften der Goethe-Gesellschaft
+  Herausgegeben von
+  Erich Schmidt und Bernhard Suphan
+  "Goethes Maximen und Reflexionen"
+  21. Band
+  Verlag der Goethe-Gesellschaft
+  Weimar 1907
+  ---------------------------------
+  https://ia601303.us.archive.org/20/items/
+  goethemaximenun00goetgoog/goethemaximenun00goetgoog.pdf
