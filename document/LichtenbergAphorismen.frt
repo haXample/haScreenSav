@@ -20,7 +20,7 @@ SUDELBÜCHER vid. p.XXVI
   in einem ordentlichen Ausdruck enthalten.
 
 
-2. Georg Christoph Lichtenberg, Aphorismen A19 (1765-70)
+2. Georg Christoph Lichtenberg, Aphorismen A1 (1765-70)
   Der große Kunstgriff
   kleine Abweichungen von der Wahrheit für die Wahrheit selbst zu halten, 
   worauf die ganze Differential-Rechnung gebaut ist,
@@ -100,7 +100,7 @@ SUDELBÜCHER vid. p.XXVI
 
 17. Georg Christoph Lichtenberg, Aphorismen B251 (1768-71) 
   Wenn ich einmal sein Leben herausgebe,
-  so suchen Sie gleich im Index die Wörter Bouteille und SelbstGenuß auf,
+  so suchen Sie gleich im Index die Wörter Bouteille und Selbstgenuss auf,
   sie enthalten das Wichtigste von ihm. 
 
 
@@ -133,7 +133,8 @@ SUDELBÜCHER vid. p.XXVI
   Sage mir ob dieser nicht seltsam gekleidet ist
   und du sollst alle die meinigen nackend sehen
   ehe sie noch meine Sinne mit ihrer Livree bedecken.
-  Es ist eine Schande, die meisten unserer Wörter sind missbrauchte Werkzeuge,
+  Es ist eine Schande,
+  die meisten unserer Wörter sind missbrauchte Werkzeuge,
   die oft noch nach dem Schmutz riechen,
   in dem sie die vorigen Besitzer entweihten.
   Ich will mit neuen arbeiten oder,
@@ -166,23 +167,24 @@ SUDELBÜCHER vid. p.XXVI
   In saufbrüderlicher und kaffeeschwesterlicher Eintracht.  
 
 
-27. Georg Christoph Lichtenberg, Aphorismen B6 Anh. (1768-71)
+27. Georg Christoph Lichtenberg, Aphorismen B6Anh(KA6). (1768-71)
   Alles gelernt, nicht um es zu sagen, sondern um es zu nutzen.
 
-28. Georg Christoph Lichtenberg, Aphorismen B13 Anh. (1768-71) 
+28. Georg Christoph Lichtenberg, Aphorismen B13Anh(KA13) (1768-71) 
   Man soll öfters dasjenige untersuchen,
   was von dem Menschen meist vergessen wird,
   wo sie nicht hinsehen und was so sehr als bekannt angenommen wird,
   dass es keiner Untersuchung mehr wert geachtet wird.
 
 
-29. Georg Christoph Lichtenberg, Aphorismen B18 Anh. (1768-71)
+29. Georg Christoph Lichtenberg, Aphorismen B18Anh(KA18). (1768-71)
   Die Kunst alle Dinge recht tief unten anzufangen
-  und eine Frage in tausend untergeordnete zu zerfällen. 
+  und eine Frage in tausend untergeordnete zu zerfallen. 
 
-30. Georg Christoph Lichtenberg, Aphorismen C19 (1772-73) 
+30. Georg Christoph Lichtenberg, Aphorismen C26 (1772-73) 
   Die Sanduhren erinnern nicht bloß an die schnelle Flucht der Zeit, 
-  sondern auch zugleich an den Staub in welchen wir einst verfallen werden. 
+  sondern auch zugleich an den Staub,
+  in welchen wir einst verfallen werden. 
 
 
 31. Georg Christoph Lichtenberg, Aphorismen C156 (1772-73) 
@@ -496,9 +498,8 @@ SUDELBÜCHER vid. p.XXVI
   man weiß die Bedeutung, aber man fühlt sie nicht mehr.
 
 88. Georg Christoph Lichtenberg, Aphorismen E283 (1775-76)
-  Es gibt Leute die nicht sowohl Genie als ein gewisses Talent besitzen 
-  dem Jahrhundert oder wohl gar dem Dezennium seine Wünsche abzumerken, 
-  noch ehe es sie tut. 
+  Es gibt Leute, die glauben, alles wäre vernünftig,
+  was man mit einem ernsthaften Gesicht tut.
 
 89. Georg Christoph Lichtenberg, Aphorismen E292 (1775-76)
   Ich möchte nur einen einzigen Tag König von Preußen sein;
@@ -562,7 +563,7 @@ SUDELBÜCHER vid. p.XXVI
 
 103. Georg Christoph Lichtenberg, Aphorismen E490 (1775-76) 
   Wenn Leute ihre Träume aufrichtig erzählen wollten,
-  da ließe sich der Character eher daraus erraten als aus dem Gesicht.
+  da ließe sich der Charakter eher daraus erraten als aus dem Gesicht.
 
 104. Georg Christoph Lichtenberg, Aphorismen E506 (1775-76)
   Was muss es auf ein Volk für einen Einfluss haben,
@@ -634,7 +635,7 @@ SUDELBÜCHER vid. p.XXVI
   sondern auch auf die Feinheit und spezifische Schwere an.
 
 120. Georg Christoph Lichtenberg, Aphorismen F160 (1776-79) 
-  Die lebendige Sprachen sind größenteils für die Ausländer tot,
+  Die lebendige Sprachen sind größtenteils für die Ausländer tot,
   wenn sie nicht unter dem Volk gelebt haben.
   Wie schwer ist es alle die kleinen Beziehungen zu erlernen,
   fast unmöglich, wenn man einmale bei Jahren ist.
@@ -696,7 +697,8 @@ SUDELBÜCHER vid. p.XXVI
   an einer großen Entdeckung hin streichen mögen?
 
 133. Georg Christoph Lichtenberg, Aphorismen F423 (1776-79)
-  So sagt man jemand bekleide ein Amt, wenn er von dem Amt bekleidet wird. 
+  So sagt man jemand bekleide ein Amt,
+  wenn er von dem Amt bekleidet wird. 
 
 134. Georg Christoph Lichtenberg, Aphorismen F436 (1776-79)
   Die größten Denker, die mir vorgekommen sind,
@@ -838,81 +840,82 @@ SUDELBÜCHER vid. p.XXVI
   und ohne Vereinigung mit seinem Meinungssystem.
 
 164. Georg Christoph Lichtenberg, Aphorismen RA4 (1776-79)
-  Wie gut wäre es, wenn man die Stimmen, anstatt sie zu zählen, wägen könnte.
+  Wie gut wäre es, wenn man die Stimmen,
+  anstatt sie zu zählen, wägen könnte.
 
 165. Georg Christoph Lichtenberg, Aphorismen RA20 (1776-79)
   Durch das entsetzliche Durcheinander wird unsere Jugend verdorben,
   und gewiss durch nichts in der Welt mehr, als durch unsere Dichter,
   die so sehr von Empfindung überfließen. 
 
-166. Georg Christoph Lichtenberg, Aphorismen I/10 (1779-83)
+166. Georg Christoph Lichtenberg, Aphorismen I/10(GH) (1779-83)
   Die Augen eines Frauenzimmers sind bei mir ein so wesentliches Stück, 
   ich sehe oft danach, denke mir so vielerlei dabei,
   dass, wenn ich nur ein bloßer Kopf wäre,
   die Mädchen meinetwegen nichts als Auge sein könnten. 
 
-167. Georg Christoph Lichtenberg, Aphorismen I/21 (1779-83)
+167. Georg Christoph Lichtenberg, Aphorismen I/21(GH) (1779-83)
   Weil ich eine gewisse Selbstbeobachtung über mich ausgeübt habe,
   so kann ich vielleicht in der kurzen Zeit, die ich noch zu leben habe,
   dadurch nützlich werden,
   dass ich lebhaft und mit Kraft andern sage, was sie nicht tun müssen.
 
-168. Georg Christoph Lichtenberg, Aphorismen I/105 (1779-83)
+168. Georg Christoph Lichtenberg, Aphorismen I/105(GH) (1779-83)
   Die gefährlichsten Unwahrheiten sind Wahrheiten mäßig entstellt. 
 
-169. Georg Christoph Lichtenberg, Aphorismen I/120 (1779-83)
+169. Georg Christoph Lichtenberg, Aphorismen I/120(GH) (1779-83)
   Vieles Lesen macht.
 
-170. Georg Christoph Lichtenberg, Aphorismen I/127 (1779-83)
+170. Georg Christoph Lichtenberg, Aphorismen I/127(GH) (1779-83)
   Die sichere Überzeugung, dass man könnte, wenn man wollte,
   ist Ursache an manches guten Kopfes Untätigkeit,
   und das nicht ohne Grund. 
 
-171. Georg Christoph Lichtenberg, Aphorismen I/129 (1779-83)
+171. Georg Christoph Lichtenberg, Aphorismen I/129(GH) (1779-83)
   Wer in sich selbst verliebt ist,
   hat wenigstens bei seiner Liebe den Vorteil, 
   dass er nicht viele Nebenbuhler erhalten wird. 
 
-172. Georg Christoph Lichtenberg, Aphorismen I/166 (1779-83)
+172. Georg Christoph Lichtenberg, Aphorismen I/166,2(GH) (1779-83)
   In jedes Menschen Charakter sitzt etwas, das sich nicht brechen lässt
   - das Knochengebäude des Charakters -;
   und dieses ändern wollen, heißt immer, ein Schaf das Apportieren lehren. 
 
-173. Georg Christoph Lichtenberg, Aphorismen I/166 (1779-83)
+173. Georg Christoph Lichtenberg, Aphorismen I/166(GH) (1779-83)
   Ich kenne die Miene der affektierten Aufmerksamkeit,
   es ist der niedrigste Grad von Zerstreuung. 
 
-174. Georg Christoph Lichtenberg, Aphorismen I/169(1779-83)
+174. Georg Christoph Lichtenberg, Aphorismen I/169(GH) (1779-83)
   Wenn die Menschen sagen, sie wollen nichts geschenkt haben,
   so ist es gemeiniglich ein Zeichen, dass sie etwas geschenkt haben wollen. 
 
-175. Georg Christoph Lichtenberg, Aphorismen I/169 (1779-83)
+175. Georg Christoph Lichtenberg, Aphorismen I/169(GH) (1779-83)
   Der Mensch liebt die Gesellschaft,
   und sollte es auch nur die von einem brennenden Rauchkerzchen sein. 
 
-176. Georg Christoph Lichtenberg, Aphorismen I/169 (1779-83)
+176. Georg Christoph Lichtenberg, Aphorismen I/169(GH) (1779-83)
   Man muss keinem Menschen trauen,
   der bei seinen Versicherungen die Hand auf das Herz legt. 
 
-177. Georg Christoph Lichtenberg, Aphorismen I/169 (1779-83)
+177. Georg Christoph Lichtenberg, Aphorismen I/169(GH) (1779-83)
   Wie glücklich würde mancher leben,
   wenn er sich um anderer Leute Sachen so wenig bekümmerte,
   als um seine eigenen. 
 
-178. Georg Christoph Lichtenberg, Aphorismen I/190 (1779-83)
+178. Georg Christoph Lichtenberg, Aphorismen I/190(GH) (1779-83)
   Es ist ja doch nun einmal nicht anders:
   die meisten Menschen leben mehr nach der Mode als nach der Vernunft. 
 
-179. Georg Christoph Lichtenberg, Aphorismen I/171 (1779-83)
+179. Georg Christoph Lichtenberg, Aphorismen I/171(GH) (1779-83)
   Es gibt wirklich sehr viele Menschen,
   die bloß lesen, damit sie nicht denken dürfen. 
 
-180. Georg Christoph Lichtenberg, Aphorismen I/208 (1779-83)
+180. Georg Christoph Lichtenberg, Aphorismen I/208(GH) (1779-83)
   Es ist eine alte Regel:
   Ein Unverschämter kann bescheiden aussehen, wenn er will,
   aber kein Bescheidener unverschämt. 
 
-180. Georg Christoph Lichtenberg, Aphorismen I/218 (1779-83)
+180. Georg Christoph Lichtenberg, Aphorismen I/218(GH) (1779-83)
   Ich wünschte ein Kind zu haben, das ich mir ganz eigen machen könnte; 
   ich wollte es zu allem anhalten,
   wovon ich jetzt zu spät einsehe, dass ich es versäumt habe.
@@ -939,76 +942,87 @@ SUDELBÜCHER vid. p.XXVI
   die freilich auch oft noch durch eine dritte veränderliche Größe nämlich:
   die Miene bestimmt wird.
 
-182. Georg Christoph Lichtenberg, Aphorismen I/278 (1779-83)
+182. Georg Christoph Lichtenberg, Aphorismen I/278(GH) (1779-83)
   Homer hat gewiss nicht gewusst, dass er gut schrieb,
   sowenig wie Shakespeare.
   Unsre heutigen guten Schriftsteller müssen alle die fatale Kunst lernen,
   zu wissen, dass sie gut schreiben,
 
-183. Georg Christoph Lichtenberg, Aphorismen I/324 (1779-83)
+183. Georg Christoph Lichtenberg, Aphorismen I/324(GH) (1779-83)
   Ist es nicht sonderbar, dass eine wörtliche Übersetzung
   fast immer eine schlechte ist?
   Und doch lässt sich alles gut übersetzen.
   Man sieht hieraus, wie viel es sagen will, eine Sprache ganz verstehen;
   es heißt, das Volk ganz kennen, das sie spricht. 
 
-184. Georg Christoph Lichtenberg, Aphorismen II/40 (1784-88)
+184. Georg Christoph Lichtenberg, Aphorismen II/40(GH) (1784-88)
   Die Briefe eines klugen Mannes enthalten immer den Charakter der Leute, 
   an die er schreibt.
   Dieses kann in einem Roman in Briefen sehr schön gezeigt werden. 
 
-185. Georg Christoph Lichtenberg, Aphorismen II/69 (1784-88)
+185. Georg Christoph Lichtenberg, Aphorismen II/69,3(GH) (1784-88)
   Das Buch, das in der Welt am ersten verboten zu werden verdiente,
   wäre ein Catalogus von verbotenen Büchern. 
 
-186. Georg Christoph Lichtenberg, Aphorismen II/70 (1784-88)
+186. Georg Christoph Lichtenberg, Aphorismen II/70(GH) (1784-88)
   Weil er seine eigenen Pflichten immer vernachlässigte,
   so behielt er Zeit genug übrig, zu sehen,
   wer von seinen Mitbürgern seine Pflichten vernachlässigte,
   und es der Obrigkeit anzuzeigen. 
 
-187. Georg Christoph Lichtenberg, Aphorismen II/71 (1784-88)
+187. Georg Christoph Lichtenberg, Aphorismen II/71(GH) (1784-88)
   Dieser Mann arbeitete	an einem System der Naturgeschichte,
   worin er die Tiere nach der Form der Exkremente geordnet hatte.
   Er hatte drei Klassen gemacht:
   die zylindrischen, sphärischen und kuchenförmigen.
 
-188. Georg Christoph Lichtenberg, Aphorismen II/73 (1784-88)
+188. Georg Christoph Lichtenberg, Aphorismen II/73(GH) (1784-88)
   Unter die größten Entdeckungen,
   auf die der menschliche Verstand in den neuesten Zeiten gefallen ist,
   gehört meiner Meinung nach wohl die Kunst,
   Bücher zu beurteilen, ohne sie gelesen zu haben.
 
-189. Georg Christoph Lichtenberg, Aphorismen II/83 (1784-88)
+189. Georg Christoph Lichtenberg, Aphorismen II/83(GH) (1784-88)
   Er excerpierte beständig, und alles, was er las,
   ging aus einem Buche neben dem Kopf vorbei in ein anderes.
 
-190. Georg Christoph Lichtenberg, Aphorismen II/84 (1784-88)
+190. Georg Christoph Lichtenberg, Aphorismen II/84(GH) (1784-88)
   Unter allen den Kuriositäten, die er in seinem Hause aufgehäuft hatte, 
   war er selbst am Ende immer die größte. 
 
-191. Georg Christoph Lichtenberg, Aphorismen II/84 (1784-88)
-  Er las immer Agamemnon statt angenommen, so sehr hatte er den Homer gelesen.
+191. Georg Christoph Lichtenberg, Aphorismen II/84(GH) (1784-88)
+  Er las immer Agamemnon statt angenommen,
+  so sehr hatte er den Homer gelesen.
 
-192. Georg Christoph Lichtenberg, Aphorismen II/86 (1784-88)
+192. Georg Christoph Lichtenberg, Aphorismen II/86(GH) (1784-88)
   Er hatte sich wenigstens seit 6 Wochen nur in Gedanken gewaschen. 
 
-193. Georg Christoph Lichtenberg, Aphorismen II/86 (1784-88)
-  Er konnte das Wort 'sukkulent' so aussprechen, dass, wenn man es hörte,
-  man glaubte, man bisse in einen reifen Pfirsich.
+193. Georg Christoph Lichtenberg, Aphorismen II/86(GH) (1784-88)
+  Er konnte das Wort 'sukkulent' so aussprechen,
+  dass, wenn man es hörte, man glaubte,
+  man bisse in einen reifen Pfirsich.
 
-194. Georg Christoph Lichtenberg, Aphorismen II/131 (1784-88)
+194. Georg Christoph Lichtenberg, Aphorismen II/131(GH) (1784-88)
   Lass dich deine Lektüre nicht beherrschen, sondern herrsche über sie. 
 
-195. Georg Christoph Lichtenberg, Aphorismen II/131 (1784-88)
+195. Georg Christoph Lichtenberg, Aphorismen II/131(GH) (1784-88)
   Ängstlich zu sinnen und zu denken, was man hätte tun können,
   ist das Übelste, was man tun kann. 
 
-196. Georg Christoph Lichtenberg, Aphorismen II/163 (1784-88)
-Es ist reizend
+196. Georg Christoph Lichtenberg, Aphorismen II/163(GH) (1784-88)
+  Es ist reizend
+  ein ausländisches Frauenzimmer unsere Sprache sprechen
+  und mit schönen Lippen Fehler machen zu hören.
+  Bei Männern ist es nicht so.
 
-197. Georg Christoph Lichtenberg, Aphorismen II/165 (1784-88)
-Mit wenigen Worten
+197. Georg Christoph Lichtenberg, Aphorismen II/165(GH) (1784-88)
+  Mit wenigen Worten viel sagen heißt nicht,
+  erst einen Aufsatz machen und dann die Perioden abkürzen,
+  sondern vielmehr, die Sache erst überdenken,
+  und aus den überdachten das Beste so zu sagen,
+  dass der vernünftige Leser wohl merkt, was man weggelassen hat.
+  Eigentlich heißt es, mit den wenigsten Worten zu erkennen geben,
+  dass man viel gedacht habe.
 
 198. Georg Christoph Lichtenberg, Aphorismen J79 (1789-93)
   Verhunzdeutschen. Er hat es verhunzdeutscht. 
@@ -1046,8 +1060,9 @@ Mit wenigen Worten
 205. Georg Christoph Lichtenberg, Aphorismen J279 (1789-93)
   Man gibt über lyrischen Gedanken oft die Versart an
     /-~~/----/-~~~/ pp.
-  Wenn man die Gedanken darin mit eins und den Nonsens mit Null
-  anzeigte, so würde es zuweilen so aussehen:
+  Wenn man die Gedanken darin mit eins
+  und den Nonsens mit Null anzeigte,
+  so würde es zuweilen so aussehen:
     000/000/00
   oder so.
 
@@ -1122,7 +1137,8 @@ Mit wenigen Worten
   Neuseeländer: Und ihr seid Gottfresser, ihr Pfaffen.
 
 221. Georg Christoph Lichtenberg, Aphorismen J943 (1789-93)
-  Eine goldene Regel: man muss Menschen nicht nach ihren Meinungen beurteilen,
+  Eine goldene Regel:
+  man muss Menschen nicht nach ihren Meinungen beurteilen,
   sondern was die Meinungen aus ihnen machen...
 
 222. Georg Christoph Lichtenberg, Aphorismen J1075 (1789-93)
@@ -1181,62 +1197,64 @@ Mit wenigen Worten
   Gute Regenten respektiert man, fürchtet man und liebt man. 
   Was für mächtige Quellen von Glück für ein Volk! 
 
-232. Georg Christoph Lichtenberg, Aphorismen I/30 (1779-83)
+232. Georg Christoph Lichtenberg, Aphorismen I/30(GH) (1779-83)
   Wenn ich zuweilen in einem meiner alten Gedankenbücher
   einen guten Gedanken von mir lese, so wundere ich mich,
   wie er mir und meinem System so fremd hat werden können,
   und freue mich nun so darüber,
   wie über einen Gedanken eines meiner Vorfahren. 
 
-233. Georg Christoph Lichtenberg, Aphorismen I/89 (1779-83)
-Was sehr seltsam ist
+233. Georg Christoph Lichtenberg, Aphorismen I/89(GH) (1779-83)
+  Was sehr seltsam ist, bleibt selten lange unerklärt.
+  Das Unerklärliche ist gewöhnlich nicht mehr seltsam,
+  und ist es vielleicht nie gewesen.
 
-234. Georg Christoph Lichtenberg, Aphorismen I/130 (1779-83)
+234. Georg Christoph Lichtenberg, Aphorismen I/130(GH) (1779-83)
   Um vergnügt oder vielmehr lustig in der Welt zu sein,
   wird nur erfordert, dass man alles nur flüchtig ansieht;
   so wie man nachdenkender wird, wird man auch ernsthafter. 
 
-235. Georg Christoph Lichtenberg, Aphorismen I/131 (1779-83)
+235. Georg Christoph Lichtenberg, Aphorismen I/131(GH) (1779-83)
   Dass man manchen außerordentlichen Mann, von dem man gehört hat,
   geringer zu finden glaubt, wenn man ihn sieht,
   rührt gemeiniglich, oder gewiss allemal daher,
   dass man jetzt sieht, dass er das gewöhnliche Gesicht eines Menschen hat. 
 
-236. Georg Christoph Lichtenberg, Aphorismen I/131 (1779-83)
+236. Georg Christoph Lichtenberg, Aphorismen I/131(GH) (1779-83)
   Wovon das Herz nicht voll ist, davon geht der Mund über,
   habe ich öfters wahr gefunden als den entgegengesetzten Satz.
 
-237. Georg Christoph Lichtenberg, Aphorismen I/135 (1779-83)
+237. Georg Christoph Lichtenberg, Aphorismen I/135(GH) (1779-83)
   Es ist gewiss besser, eine Sache gar nicht studiert zu haben,
   als oberflächlich.
   Denn der bloße gesunde Menschenverstand, wenn er eine Sache beurteilen will,
   schießt nicht so sehr fehl als die halbe Gelehrsamkeit. 
 
-238. Georg Christoph Lichtenberg, Aphorismen I/148 (1779-83)
+238. Georg Christoph Lichtenberg, Aphorismen I/148(GH) (1779-83)
   Es gibt eine Menge kleiner moralischer Falschheiten,
   die man übt, ohne zu glauben, dass es schädlich sei;
   so wie man etwa aus ähnlicher Gleichgültigkeit
   gegen seine Gesundheit Tabak raucht. 
 
-238. Georg Christoph Lichtenberg, Aphorismen I/148 (1779-83)
+238. Georg Christoph Lichtenberg, Aphorismen I/148(GH) (1779-83)
   Der Stolz, eine edle Leidenschaft,
   ist nicht blind gegen eigene Fehler,
   aber der Hochmut ist es. 
 
-239. Georg Christoph Lichtenberg, Aphorismen I/149 (1779-83)
+239. Georg Christoph Lichtenberg, Aphorismen I/149(GH) (1779-83)
   Ein Gelübde zu tun ist eine größere Sünde, als es zu brechen. 
 
-240. Georg Christoph Lichtenberg, Aphorismen I/152 (1779-83)
+240. Georg Christoph Lichtenberg, Aphorismen I/152(GH) (1779-83)
   Ehe man tadelt, sollte man immer erst versuchen,
   ob man nicht entschuldigen kann. 
 
-241. Georg Christoph Lichtenberg, Aphorismen I/176 (1779-83)
+241. Georg Christoph Lichtenberg, Aphorismen I/176(GH) (1779-83)
   Auch muss ich gestehen, dass von allen den Gelehrten,
   die ich in meinem Leben habe kennen gelernt, 
   und die ich eigentlich Genies nennen möchte, kein einziger geraucht hat. 
   - Hat wohl Lessing geraucht?
 
-242. Georg Christoph Lichtenberg, Aphorismen I/177 (1779-83)
+242. Georg Christoph Lichtenberg, Aphorismen I/177(GH) (1779-83)
   Einer der größten und zugleich gemeinsten Fehler der Menschen ist,
   dass sie glauben, andere Menschen kennten ihre Schwächen nicht,
   weil sie nicht davon plaudern hören oder nichts davon gedruckt lesen.
@@ -1244,35 +1262,35 @@ Was sehr seltsam ist
   dass die meisten Menschen besser von anderen gekannt werden,
   als sie sich selbst kennen.
 
-243. Georg Christoph Lichtenberg, Aphorismen I/178 (1779-83)
+243. Georg Christoph Lichtenberg, Aphorismen I/178(GH) (1779-83)
   Die Frage, ob Frauenzimmer im Dunkeln rot werden,
   ist eine sehr schwere Frage; 
   wenigstens eine, die sich nicht bei Licht ausmachen lässt.
 
-244. Georg Christoph Lichtenberg, Aphorismen I/197 (1779-83)
+244. Georg Christoph Lichtenberg, Aphorismen I/197(GH) (1779-83)
   Die Leute, die niemals Zeit haben, tun am wenigsten. 
 
-245. Georg Christoph Lichtenberg, Aphorismen I/197 (1779-83)
+245. Georg Christoph Lichtenberg, Aphorismen I/197(GH) (1779-83)
   Man wird grämlich, wenn man alt wird,
   oder wenn Liebe, oder auch oft, wenn Freundschaft alt wird.
   Es können Dinge bei einem alt werden, obgleich man selbst jung bleibt.
   Manche Leute glauben,
   Sommer und Winter schieden sich immer mit einem Donnerwetter. 
 
-246. Georg Christoph Lichtenberg, Aphorismen I/200 (1779-83)
+246. Georg Christoph Lichtenberg, Aphorismen I/200(GH) (1779-83)
   Die Könige glauben oft, das was ihre Generale und Admirale tun, 
   sei Patriotismus und Eifer für ihre eigene Ehre.
   Öfters ist die ganze Triebfeder großer Taten ein Mädchen,
   welches die Zeitung liest.
 
-247. Georg Christoph Lichtenberg, Aphorismen I/221 (1779-83)
+247. Georg Christoph Lichtenberg, Aphorismen I/221(GH) (1779-83)
   Ja, einmal recht gründlich zu untersuchen,
   warum das Blühen ohne Früchte zu tragen, so sehr gemein ist -
   nicht bloß an den Obstbäumen.
   Bei unseren gelehrten Kindern ist es ebenso.
   Sie blühen vortrefflich und tragen keine Früchte.
 
-248. Georg Christoph Lichtenberg, Aphorismen I/283 (1779-83)
+248. Georg Christoph Lichtenberg, Aphorismen I/283(GH) (1779-83)
   Eine seltsamere Ware, als Bücher, gibt es wohl schwerlich in der Welt.
   Von Leuten gedruckt, die sie nicht verstehen;
   von Leuten verkauft, die sie nicht verstehen;
@@ -1280,12 +1298,12 @@ Was sehr seltsam ist
   und nun gar geschrieben von Leuten, die sie nicht verstehen. 
 
 
-249. Georg Christoph Lichtenberg, Aphorismen I/300 (1779-83)
+249. Georg Christoph Lichtenberg, Aphorismen I/300(GH) (1779-83)
   Es ist schade,
   dass man bei Schriftstellern die gelehrten Eingeweide nicht sehen kann,
   um zu erforschen, was sie gegessen haben. 
 
-250. Georg Christoph Lichtenberg, Aphorismen I/311 (1779-83)
+250. Georg Christoph Lichtenberg, Aphorismen I/311(GH) (1779-83)
   Viele sogenannte berühmte Schriftsteller, in Deutschland wenigstens,
   sind sehr wenig bedeutende Menschen in Gesellschaft.
   Es sind bloß ihre Bücher, die Achtung verdienen, nicht sie selbst.
@@ -1294,25 +1312,28 @@ Was sehr seltsam ist
   und dann ist es immer wieder das Papier, das sie geschrieben haben.
   Sie sind elende Ratgeber und seichte Lehrer dem, der sie befragt.
 
-251. Georg Christoph Lichtenberg, Aphorismen II/95 (1784-88)
+251. Georg Christoph Lichtenberg, Aphorismen II/95(GH) (1784-88)
   Es gibt heutzutage so viele Genies,
   dass man recht froh sein soll,
   wenn einem einmal der Himmel ein Kind beschert, das keines ist. 
 
-252. Georg Christoph Lichtenberg, Aphorismen II/117 (1784-88)
+252. Georg Christoph Lichtenberg, Aphorismen II/117(GH) (1784-88)
   Ein Mädchen, kaum zwölf Moden alt. 
 
-253. Georg Christoph Lichtenberg, Aphorismen II/145 (1784-88)
-In jeder Fakultät
+253. Georg Christoph Lichtenberg, Aphorismen II/145(GH) (1784-88)
+  In jeder Fakultät sollte wenigstens ein recht tüchtiger Mann sein.
+  Wenn die Scharniere von gutem Metall sind,
+  so kann das übrige von Holz sein.
 
-254. Georg Christoph Lichtenberg, Aphorismen II/177 (1784-88)
+254. Georg Christoph Lichtenberg, Aphorismen II/177(GH) (1784-88)
   Wir leben in einer Welt,
-  worin ein Narr viele Narren, aber ein weiser Mann nur wenige Weise macht. 
+  worin ein Narr viele Narren,
+  aber ein weiser Mann nur wenige Weise macht. 
 
-255. Georg Christoph Lichtenberg, Aphorismen II/190 (1784-88)
+255. Georg Christoph Lichtenberg, Aphorismen II/190(GH) (1784-88)
 Wer eine Wissenschaft
 
-256. Georg Christoph Lichtenberg, Aphorismen II/191 (1784-88)
+256. Georg Christoph Lichtenberg, Aphorismen II/191,3(GH) (1784-88)
   Die Neigung der Menschen, kleine Dinge für wichtig zu halten, 
   hat sehr Großes hervorgebracht. 
 
@@ -1416,7 +1437,7 @@ Wer eine Wissenschaft
   die er hatte drucken lassen, betrachtete,
   wie die kleinen Kleckschen die ein geliebtes Rotkehlchen,
   das bei ihm herumflog, auf seine Bücher Papiere und Möbel gedruckt hatte,
-  jetzt nachdem ihm eine Katze das Tierchen geholt habe dem er sie verzieh. 
+  jetzt nachdem ihm eine Katze das Tierchen geholt habe, dem er sie verzieh. 
 
 274. Georg Christoph Lichtenberg, Aphorismen L733 (1796-99)
   Sollte nicht manches von dem, was Herr Kant lehrt,
@@ -1567,23 +1588,23 @@ BRIEF-KULTUR IM 18TEN JAHRHUNDERT
 305. Georg Christoph Lichtenberg, Aphorismen F1191 (1765-70)
   Es unterscheidet sich wie Taktschlagen und Trommeln.
 
-306. Georg Christoph Lichtenberg, Aphorismen I/74 (1765-70)
+306. Georg Christoph Lichtenberg, Aphorismen I/74(GH) (1765-70)
   Man irrt sich, wenn man glaubt,
   dass alles unser Neues bloß der Mode zugehörte,
   es ist etwas Festes darunter.
   Fortgang der Menschheit muss nicht verkannt werden.
 
-307. Georg Christoph Lichtenberg, Aphorismen I/78 (1765-70)
+307. Georg Christoph Lichtenberg, Aphorismen I/78(GH) (1765-70)
   Wenn die Welt noch eine unzählbare Zahl von Jahren steht,
   so wird die Universalreligion geläuterter Spinozismus sein.
   Sich selbst überlassene Vernunft führt auf nichts anderes hinaus,
   und es ist unmöglich, dass sie auf etwas anderes hinausführe.
 
-308. Georg Christoph Lichtenberg, Aphorismen I/142 (1765-70)
+308. Georg Christoph Lichtenberg, Aphorismen I/142(GH) (1765-70)
   Man sollte niemanden in seiner Profession lächerlich machen,
   er kann dadurch unglücklich werden.
 
-309. Georg Christoph Lichtenberg, Aphorismen I/218 (1765-70)
+309. Georg Christoph Lichtenberg, Aphorismen I/218(GH) (1765-70)
   Es ist in der Tat verkehrt,
   wenn man unsern Kindern alles mit Liebe beibringen will,
   da in dem höheren Leben, wenn wir älter werden,
@@ -1592,17 +1613,17 @@ BRIEF-KULTUR IM 18TEN JAHRHUNDERT
   den wir nicht übersehen.
   Also je eher je lieber zu jenem künftigen Leben gewöhnt! 
 
-310. Georg Christoph Lichtenberg, Aphorismen II/71 (1765-70)
+310. Georg Christoph Lichtenberg, Aphorismen II/71(GH) (1765-70)
   Man sollte Katarr schreiben, wenn er bloß im Halse,
   und Katarrh, wenn er auf der Brust sitzt. 
 
-311. Georg Christoph Lichtenberg, Aphorismen II/129 (1765-70)
+311. Georg Christoph Lichtenberg, Aphorismen II/129(GH) (1765-70)
   Nicht alle Reichen sind es durch Glück geworden,
   sondern viele durch Sparsamkeit.
   So kann Aufmerksamkeit Ökonomie der Gedanken und Übung
   den Mangel am Genie erstzen.
 
-312. Georg Christoph Lichtenberg, Aphorismen II/164 (1765-70)
+312. Georg Christoph Lichtenberg, Aphorismen II/164(GH) (1765-70)
   Sie sprechen für ihre Religion nicht mit der Mäßigung und Verträglichkeit,
   die ihnen ihr großer Meister mit Tat und Worten predigte,
   sondern mit dem zweckwidrigen Eifer philosophischer Sektierer
@@ -1849,7 +1870,398 @@ BRIEF-KULTUR IM 18TEN JAHRHUNDERT
   der nicht, wenn er um tausend Taler zum Spitzbuben wird,
   lieber um das halbe Geld ein ehrlicher Mann geblieben wäre.
 
-350. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
+350. Georg Christoph Lichtenberg, Aphorismen A45 (1765-70)
+  Heftigen Ehrgeiz und Misstrauen habe ich noch allemal beisammen gesehen.
+
+351. Georg Christoph Lichtenberg, Aphorismen A55 (1765-70)
+  Die Vorurteile sind so zu reden die Kunsttriebe der Menschen,
+  sie tun dadurch vieles, das ihnen zu schwer werden würde
+  bis zum Entschluss durchzudenken, ohne alle Mühe.
+
+352. Georg Christoph Lichtenberg, Aphorismen A128 (1765-70)
+  Weiser werden heißt immer mehr und mehr die Fehler kennen lernen,
+  denen dieses Instrument, womit wir empfinden und urteilen,
+  unterworfen sein kann.
+  Vorsichtigkeit im Urteilen
+  ist was heutzutage allen und jeden zu empfehlen ist,
+  gewönnen wir alle 10 Jahre nur eine unstreitige Wahrheit
+  von jedem philosophischen Schriftsteller,
+  so wäre unsere Ernte immer reich genug.
+
+353. Georg Christoph Lichtenberg, Aphorismen B15 (1768-71)
+  Es gibt eine gewisse Art von Büchern,
+  und wir haben in Deutschland eine große Menge,
+  die nicht vom Lesen abschrecken, nicht plötzlich einschläfern,
+  oder mürrisch machen,
+  aber in Zeit von einer Stunde den Geist in eine gewisse Mattigkeit versetzen,
+  die zu allen Zeiten einige Ähnlichkeit mit derjenigen hat,
+  die man einige Stunden vor einem Gewitter verspürt.
+  Legt man das Buch weg, so fühlt man sich zu nichts aufgelegt,
+  fängt man an zu schreiben, so schreibt man eben so,
+  selbst gute Schriften scheinen diese laue Geschmacklosigkeit anzunehmen,
+  wenn man sie zu lesen anfängt.
+  Ich weiß aus eigener Erfahrung,
+  dass gegen diesen traurigen Zustand nichts geschwinder hilft
+  als eine Tasse Kaffee mit einer Pfeife Varinas.
+
+354. Georg Christoph Lichtenberg, Aphorismen B75 (1768-71)
+  In dem Hause, wo ich wohnte,
+  hatte ich den Klang und die Stimmung jeder Stufe
+  einer alten hölzernen Treppe gelernt,
+  und zugleich den Takt, in welchem sie jeder meiner Freunde,
+  der zu mir wollte, schlug,
+  und, ich muss gestehen, ich bebte allemal,
+  wenn sie von einem Paar Füßen
+  in einem mir unbekannten Ton heraufgespielt wurden.
+
+355. Georg Christoph Lichtenberg, Aphorismen B116 (1768-71)
+  Dieses ist gewiss, als (a-x) * (a+x) = a²-x²
+
+356. Georg Christoph Lichtenberg, Aphorismen B138 (1768-71) 
+DEN 3 TEN MAI 1769. 
+  Alle Leute, welche Sachen von uns kaufen, die wir nicht mehr brauchen, 
+  und eben aus dieser einzigen Ursache weggeben,
+  stehen nicht in dem besten Kredit bei der Welt,
+  die Antiquarii, die geringen Juden, alle Trödler, die Dungkärrner,
+  die ihre Grade haben und endlich sich gar in das Unehrliche verlieren.
+
+357. Georg Christoph Lichtenberg, Aphorismen B236 (1768-71)
+  Wer ist da? Nur ich. Oh das ist überflüssig genug.
+
+358. Georg Christoph Lichtenberg, Aphorismen B259 (1768-71)
+  Mein Verstand folgte heute den Gedanken des großen Newton
+  durch das Weltgebäude nach, nicht ohne den Kützel eines gewissen Stolzes,
+  also bin ich doch auch von dem nämlichen Stoff,
+  wie jener große Mann, weil mir seine Gedanken nicht unbegreiflich sind,
+  und mein Gehirn Fibern hat die jenen Gedanken korrespondieren,
+  und was Gott durch diesen Mann der Nachwelt zurufen ließ
+  wird von mir gehört,
+  da es über die Ohren von Millionen unvernommen hinschlüpft.
+
+359. Georg Christoph Lichtenberg, Aphorismen B260 (1768-71)
+  Bei unsrem frühzeitigen und oft gar zu häufigen Lesen,
+  wodurch wir so viele Materialien erhalten ohne sie zu verbauen,
+  wodurch unser Gedächtnis gewöhnt wird
+  die Haushaltung für Empfindung und Geschmack zu führen,
+  da bedarf es oft einer tiefen Philosophie
+  unserm Gefühl den ersten Stand der Unschuld wiederzugeben,
+  sich aus dem Schutt fremder Dinge herauszufinden,
+  selbst anfangen zu fühlen, und selbst zu sprechen
+  und ich möchte fast sagen auch einmal selbst zu existieren.
+
+360. Georg Christoph Lichtenberg, Aphorismen B329 (1768-71) 
+  Weg mit dieser verfluchten Demokratie, wo alles das Wort führen will.
+  .. So - hier steh ich fest, und dieses bin ich.
+  Seid was ihr wollt, wohlan.
+
+361. Georg Christoph Lichtenberg, Aphorismen B2Anh(KA2) (1768-71)
+  Man muss sich die Menschen nach ihrer Art verbindlich machen,
+  nicht nach der unsrigen.
+
+362. Georg Christoph Lichtenberg, Aphorismen B10Anh(KA10) (1768-71) 
+  Erst die natürlichen Betrachtungen gemacht ehe die subtilen kommen,
+  und immer vor allen Dingen erst versucht
+  ob etwas ganz simpel und natürlich erklärt werden könne.
+
+
+363. Georg Christoph Lichtenberg, Aphorismen C231 (1772-73)
+  Ein Mann, der sich in einem engen Felde
+  mit Aufmerksamkeit und Nachdenken beschäftigt hat,
+  wird, wo es nicht auf Geschmack sondern auf Verstand ankommt,
+  gewiss außer diesem Feld gut urteilen,
+  wenn ihm der Fall gehörig vorgestellt wird,
+  da der andere der vielerlei weiß nirgends recht zu Hause ist.
+  Wenn sich eine mannigfaltige Kenntnis heutzutage
+  nicht so leicht aus Büchern erwerben ließe,
+  ohne andere Anstrengung, als allein des Gedächtnisses,
+  so ließe sich noch eher etwas dafür sagen, 
+  da aber dieses gewiss immer der Fall ist,
+  so ziehe ich schon aus diesem Grund eine geringe aber deutliche Kenntnis vor.
+
+364. Georg Christoph Lichtenberg, Aphorismen C265 (1772-73) 
+  Wie leicht Eigenliebe, ohne dass wir es merken, die Triebfeder
+  mancher uns von derselben ganz independent scheinenden Handlung sei,
+  können wir daraus sehen,
+  dass Leute das Geld lieben können als Geld
+  ob sie gleich nie Gebrauch davon machen.
+
+365. Georg Christoph Lichtenberg, Aphorismen D80 (1773-75)
+  Die Komödie bessert nicht unmittelbar, vielleicht auch die Satire nicht, 
+  ich meine, man legt die Laster nicht ab, die sie lächerlich macht.
+  Aber das können sie tun, sie vergrößern unsern Gesichtskreis,
+  vermehren die Anzahl der festen Punkte
+  aus denen wir uns in allen Vorfällen des Lebens
+  geschwinder orientieren können. 
+
+366. Georg Christoph Lichtenberg, Aphorismen D459 (1773-75)
+  Zum Superklugen:
+  Durch das häufige Beobachten nach Regeln in der Absicht,
+  etwas erfinden zu wollen, bekommt die Seele endlich unvermerkt
+  eine Leichtigkeit, das Natürliche zu übersehen.
+
+367. Georg Christoph Lichtenberg, Aphorismen D483 (1773-75)
+  Alles verfeinert sich, Musik war ehemals Lärm, Satire war Pasquill,
+  und da, wo man heutzutage sagt, erlauben Sie gütigst,
+  schlug man einem vor alters hinter die Ohren.
+
+368. Georg Christoph Lichtenberg, Aphorismen D567 (1773-75)
+  Dinge für wesentlich unterscheiden, die es nur durch plus und minus sind.
+
+369. Georg Christoph Lichtenberg, Aphorismen E39 (1775-76)
+  Alles verfeinert sich.
+  Musik war in der ersten Zeit Lärm, Satire war Pasquille.
+  Und da, wo man heutzutage sagt "Erlauben Sie gütigst",
+  schlug man einem vor alters hinter die Ohren.
+
+370. Georg Christoph Lichtenberg, Aphorismen E194 (1775-76)
+ Die Beweiser, da nichts zu beweisen ist.
+ Es gibt eine Art von leerem Geschwätz,
+ dem man durch Neuigkeit des Ausdrucks,
+ unerwartete Metaphern das Ansehen von Fülle gibt.
+
+371. Georg Christoph Lichtenberg, Aphorismen E345 (1775-76)
+  Das Land, wo man Shakespeare eher kennen lernt als den Pontius Pilatus.
+
+372. Georg Christoph Lichtenberg, Aphorismen E356 (1775-76)
+  Das dunkel Gefühl seiner Perfektibilität macht,
+  dass der Mensch sich alsdann noch von Ziel entfernt dünkt,
+  wenn er es erreicht hat, und die Vernunft leuchtet ihm nicht genug.
+
+373. Georg Christoph Lichtenberg, Aphorismen E359 (1775-76)
+  Er wäre besser solche Leute legten sich ins Bett,
+  als dass sie solches Zeug schwätzen.
+
+374. Georg Christoph Lichtenberg, Aphorismen F126 (1776-79)
+  Es muss unstreitig zur Vollkommenheit der Gesetze beitragen,
+  wenn es Spitzbuben gibt, die sie studieren,
+  um ihnen mit heiler Haut auszuweichen.
+
+375. Georg Christoph Lichtenberg, Aphorismen F149 (1776-79)
+  Der Umgang mit vernünftigen Leuten
+  ist deswegen jedermann so sehr anzuraten,
+  weil ein Dummkopf auf diese Art durch Nachahmen klug handeln lernen kann;
+  denn die größten Dummköpfe können nachahmen, 
+  selbst die Affen, Pudelhunde und Elefanten können es. 
+
+376. Georg Christoph Lichtenberg, Aphorismen F362 (1776-79)
+  Ich glaube, daß die Quelle des meisten menschlichen Elends
+  in Indolenz und Weichlichkeit liegt.
+  Die Nation, die die meiste Spannkraft hatte, 
+  war auch allezeit die freiste und glücklichste.
+  Die Indolenz rächt nichts,
+  sondern lässt sich den größten Schimpf und die größte Unterdrückung abkaufen.
+
+377. Georg Christoph Lichtenberg, Aphorismen F523 (1776-79)
+  Liscow sagt,
+  die gräuliche Menge elender Schriftsteller ist ebenso geschickt,
+  eine Barbarei einzuführen,
+  als ein Schwarm von Ost- und Westgoten. (vortrefflich)
+
+378. Georg Christoph Lichtenberg, Aphorismen F808 (1776-79)
+  Dieses unbegreifliche Wesen, das wir selbst sind,
+  und das uns noch weit unbegreiflicher vorkommen würde,
+  wenn wir ihm noch näher kommen könnten als wir selbst sind,
+  muss man nicht auf einer Stirne finden wollen. 
+
+379. Georg Christoph Lichtenberg, Aphorismen F972 (1776-79)
+  Sogar aus den Hunden lässt sich etwas machen,
+  wenn man sie recht erzieht,
+  man muss sie nur nicht mit vernünftigen Leuten,
+  sondern mit Kindern umgehen lassen, so werden sie menschlich.
+  Dieses ist eine Bestätigung von meinem Satz,
+  dass man Kinder immer zu Leuten halten müsse,
+  die nur um ein weniges weiser sind, als sie selbst. 
+
+
+380. Georg Christoph Lichtenberg, Aphorismen I/104(GH) (1779-83)
+  So wie das höchste Recht das höchste Unrecht ist,
+  so ist auch umgekehrt nicht selten das höchste Unrecht das höchste Recht. 
+
+381. Georg Christoph Lichtenberg, Aphorismen I/167(GH) (1779-83)
+  Den Menschen so zu machen, wie ihn die Religion haben will,
+  gleicht dem Unternehmen der Stoiker;
+  es ist nur eine andere Stufe des Unmöglichen. 
+
+382. Georg Christoph Lichtenberg, Aphorismen I/190(GH) (1779-83)
+  Die edle Einfalt in den Werken der Natur
+  hat nur gar zu oft ihren Grund in der edlen Kurzsichtigkeit dessen,
+  der sie beobachtet. 
+
+383. Georg Christoph Lichtenberg, Aphorismen I/171(GH) (1779-83)
+  Er hat bloß Feinheit genug, sich verhasst zu machen,
+  aber nicht genug, sich zu empfehlen. 
+
+384. Georg Christoph Lichtenberg, Aphorismen I/192(GH) (1779-83)
+  Es ist zum Erstaunen, wie wenig dasjenige oft, was wir für nützlich halten, 
+  und was auch leicht zu tun wäre, doch von uns getan wird.
+  Die Begierde, geschwind viel wissen zu wollen,
+  hindert oft an genauen Untersuchungen,
+  allein es ist selbst dem Menschen, der dieses weiß
+  sehr schwer etwas genau zu prüfen, da er doch weiß,
+  er kommt auch nicht zu seinem Endzwecke viel zu lernen, wenn er nicht prüft. 
+
+385. Georg Christoph Lichtenberg, Aphorismen I/327(GH) (1779-83)
+  Die bilderreichste Sprache muss mit der Zeit das Bildliche verlieren
+  und bloß zu Zeichen erkalten, die den willkürlichen nahe kommen.
+  So kann Sprachkenntnis sehr nützlich werden.
+
+386. Georg Christoph Lichtenberg, Aphorismen II/24(GH) (1784-88)
+  Es ist ein großer Rednerkunstgriff, die Leute zuweilen bloß zu überreden, 
+  wo man sie überzeugen könnte;
+  sie halten sich alsdann oft da für überzeugt,
+  wo man sie bloß überreden kann. 
+
+387. Georg Christoph Lichtenberg, Aphorismen II/107(GH) (1784-88)
+  Die Schulen - gelehrte Raspelhäuser.
+  Er raspelte die Auctores classicos seine ganze Lebenszeit durch.
+
+388. Georg Christoph Lichtenberg, Aphorismen II/122(GH) (1784-88)
+  Der deutsche Gelehrte hält die Bücher zu lange offen,
+  und der Engländer macht sie zu früh zu.
+  Beides hat indessen in der Welt seinen Nutzen. 
+
+389. Georg Christoph Lichtenberg, Aphorismen II/135(GH) (1784-88)
+  Nicht eher an die Ausarbeitung zu gehen,
+  als bis man mit der ganzen Anlage zufrieden ist,
+  das gibt Mut und erleichtert die Arbeit.
+
+390. Georg Christoph Lichtenberg, Aphorismen J14 (1789-93)
+  Zu Aufweckung des in jedem Menschen schlafenden Systems
+  ist das Schreiben vortrefflich, und jeder der je geschrieben hat,
+  wird gefunden haben, dass Schreiben immer etwas erweckt
+  was man vorher nicht deutlich erkannte, ob es gleich in uns lag. 
+
+391. Georg Christoph Lichtenberg, Aphorismen J23 (1789-93)
+  Die Kantische Philosophie mag ein Reich aufrichten,
+  was für eines sie will, so wird sie doch, wenn sie nicht zu alten,
+  bekannten Lappereien herabsinken will, zugeben müssen,
+  dass unseren Vorstellungen etwas in der Welt korrespondiert.
+
+392. Georg Christoph Lichtenberg, Aphorismen J61 (1789-93)
+  Ein Schullehrer und Professor kann keine Individuen erziehen,
+  er erzieht bloß Gattungen.
+  Ein Gedanke, der sehr viel Beherzigung und Auseinandersetzung verdient. 
+
+393. Georg Christoph Lichtenberg, Aphorismen J187 (1789-93)
+  Eine desultorische Lektüre ist jederzeit mein größtes Vergnügen gewesen.
+
+394. Georg Christoph Lichtenberg, Aphorismen J255 (1789-93)
+  Es ist wenigstens von Herrn Kant
+  nicht freundschaftlich gegen seine Leser gehandelt,
+  dass er sein Werk so geschrieben hat, dass man es studieren muss
+  wie ein Werk der Natur.
+  Bei Werken der Natur wird der Fleiß und der Eifer 
+  bei der Untersuchung durch die Übersetzung unterhalten,
+  dass das ganze der Unterhaltung wert ist
+  und dass man etwas seines Fleißes Würdiges finden würde,
+  wenn man etwas fände.
+  Allein bei menschlichen Werken ist dieses nicht zu erwarten,
+  denn da kann es sein, dass der Verfasser sich geirrt hat.
+
+395. Georg Christoph Lichtenberg, Aphorismen J277 (1789-93)
+  Wenn nur der Scheidepunkt erst überschritten wäre.
+  Mein Gott wie verlangt mich nach dem Augenblick,
+  wenn die Zeit für mich aufhören wird Zeit zu sein,
+  in dem Schoß des mütterlichen Alles und Nichts,
+  worin ich damals schlief als der Hainberg angespült wurde,
+  als Epikur, Cäsar, Lukrez lebten und schrieben
+  und Spinoza den größten Gedanken dachte, 
+  der noch in eines Menschen Kopf gekommen ist. 
+
+396. Georg Christoph Lichtenberg, Aphorismen J322 (1789-93)
+  Übe, übe deine Kräfte,
+  was dich jetzt Mühe kostet wird endlich maschinenmäßig werden.
+
+397. Georg Christoph Lichtenberg, Aphorismen J327 (1789-93)
+  Eine ganze Milchstraße von Einfällen. 
+
+398. Georg Christoph Lichtenberg, Aphorismen J361 (1789-93)
+  Diese ganze Lehre taugt zu nichts als darüber zu disputieren. 
+
+399. Georg Christoph Lichtenberg, Aphorismen J453 (1789-93)
+  Ich glaube, so wie die Anhänger des Herrn Kant
+  ihren Gegnern immer vorwerfen, sie verstünden ihn nicht,
+  so glauben auch manche Herr Kant habe recht, weil sie ihn verstehen.
+
+400. Georg Christoph Lichtenberg, Aphorismen J876 (1789-93)
+  Die Welt ist nicht da um von uns erkannt zu werden,
+  sondern uns in ihr zu bilden. Das ist eine Kantische Idee. 
+
+401. Georg Christoph Lichtenberg, Aphorismen J921 (1789-93)
+  Es ist doch fürwahr zum Erstaunen,
+  dass man auf die dunkeln Vorstellungen von Ursachen
+  den Glauben an einen Gott gebaut hat,
+  von dem wir nichts wissen, und nichts wissen können,
+  denn alles Schließen auf einen Urheber der Welt
+  ist immer Anthropomorphismus. 
+
+402. Georg Christoph Lichtenberg, Aphorismen J1130 (1789-93)
+  Eine alle Denkkräfte schmelzende Beschäftigung
+  ist bei den meisten Menschen das Kompilieren und Exzerptensammeln.
+
+403. Georg Christoph Lichtenberg, Aphorismen J1200 (1789-93)
+  Die Dogmatik ist die fruchtbare und gütige Mutter der Polemik.
+
+404. Georg Christoph Lichtenberg, Aphorismen J1248 (1789-93)
+  An jeder Sache etwas zu sehen suchen, was noch niemand gesehen
+  und woran noch niemand gedacht hat.
+
+405. Georg Christoph Lichtenberg, Aphorismen J1340 (1789-93)
+  Wenn du ein Buch oder eine Abhandlung gelesen hast,
+  so sorge dafür, dass du es nicht umsonst gelesen haben magst;
+  abstrahiere dir immer etwas daraus zu deiner Besserung,
+  zu deinem Unterricht oder für deine Schriftstellerökonomie.
+
+406. Georg Christoph Lichtenberg, Aphorismen I/177(GH) (1779-83)
+  Es gibt Leute, die zu keinem Entschluss kommen können,
+  sie müssen sich denn erst über die Sache beschlafen haben.
+  Das ist ganz gut, nur kann es Fälle geben,
+  wo man riskiert mitsamt der Bettlade gefangen zu werden.
+
+407. Georg Christoph Lichtenberg, Aphorismen I/179(GH) (1779-83)
+  Wer ist unter uns allen, der nicht einmal im Jahre närrisch ist,
+  das ist, wenn er sich allein befindet,
+  sich eine andere Welt, andere Glücksumstände denkt, als die wirklichen?
+  Die Vernunft besteht nur darin, sich sogleich wieder zu finden,
+  sobald die Szene vorüber ist, und aus der Komödie nach Hause zu gehen. 
+
+408. Georg Christoph Lichtenberg, Aphorismen I/221(GH) (1779-83)
+  Ich bin überzeugt, dass die vermeinte Gründlichkeit
+  beim Vortrage	der Anfangsgründe sehr schadet.
+  Es ist gar nicht nötig,
+  dass ein Lehrer dem Anfänger die Sache gründlich vorträgt,
+  aber der Lehrer, der diesen Vortrag wählt, muss sie gründlich verstehen;
+  alsdann ist gewiss für den Anfänger gesorgt
+
+409. Georg Christoph Lichtenberg, Aphorismen K2 (1793)
+VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
+  Ich habe jemanden gekannt, der schrieb:
+  sich in 8 nehmen und Hoch8ung,
+  einen ver8en und er br8e anstatt er brachte. Ver9en (falsch).
+
+410. Georg Christoph Lichtenberg, Aphorismen L76 (1796-99)
+  Die Griechen verdarben, möchte ich fast sagen,
+  nicht die schönste Zeit ihrer Jugend
+  mit Erlernung von toten Sprachen und sie lernten die Sprachen,
+  die sie nötig hatten, durch die Sachen und nicht wie wir 
+  umgekehrt in unzähligen Dingen die Sachen durch die Wörter.
+  Plutarch war schon ziemlich bei Jahren, als er Latein lernte. 
+
+411. Georg Christoph Lichtenberg, Aphorismen L102 (1796-99)
+  Benvenuto Cellini macht die vortreffliche Bemerkung:
+  Schaden mache nicht klug,
+  weil der neue sich immer unter einer verschiedenen Form ankündige.
+  Dieses kenne ich recht aus eigner Erfahrung.
+
+412. Georg Christoph Lichtenberg, Aphorismen L433 (1796-99)
+  Kein Wort im Evangelio ist mehr in unsern Tagen befolgt worden, als das: 
+  Werdet wie die Kindlein. 
+
+413. Georg Christoph Lichtenberg, Aphorismen L646 (1796-99)
+  Man will wissen,
+  dass im ganzen Lande seit 500 Jahren niemand vor Freuden gestorben wäre. 
+
+414. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
 QUELLEN-NACHWEIS
   --------------------- 
   Insel Taschenbuch 165
@@ -1864,4 +2276,5 @@ QUELLEN-NACHWEIS
   Aphorismen H** (1784-88)  Aphorismen II/.. (1784-88)
   Aphorismen J.. (1789-93) 
   Aphorismen K** (1793-96) 
-  Aphorismen L.. (1796-99) 
+  Aphorismen L.. (1796-99)
+
