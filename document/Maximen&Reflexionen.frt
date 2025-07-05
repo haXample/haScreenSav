@@ -1268,7 +1268,7 @@ AUS KUNST UND ALTERTUM IV (1823 Eigenes und Angeeignetes)
 217. Goethe, Maximen und Reflexionen 217
 Wo man die Liberalität aber suchen muss, das ist in den Gesinnungen,
   und diese sind das lebendige Gemüt.
-  
+
 
 218. Goethe, Maximen und Reflexionen 218
   Gesinnungen aber sind selten liberal, weil die Gesinnung unmittelbar
@@ -1903,7 +1903,7 @@ AUS KUNST UND ALTERTUM V (1826 Einzelnes)
 306. Goethe, Maximen und Reflexionen 306
   Es gibt im Menschen auch ein Dienenwollendes;
   daher die chevalerie der Franzosen eine servage.
-  
+
 
 307. Goethe, Maximen und Reflexionen 307
   Im Theater wird durch die Belustigung des Gesichts und Gehörs
@@ -2523,7 +2523,7 @@ AUS DEN HEFTEN ZUR MORPHOLOGIE I (1822)
   obgleich Anlage, Aufmerksamkeit und Glück dazu gehört,
   in uns selbst klar werden;
   andern bleibt aber auch dies immer ein Geheimnis.
-  
+
 
 393. Goethe, Maximen und Reflexionen 393
 AUS DEN HEFTEN ZUR MORPHOLOGIE I (1822)
@@ -2695,7 +2695,7 @@ AUS DEN HEFTEN ZUR MORPHOLOGIE I (1822)
   Die sinnlichen Menschen retten sich ins Erstaunen;
   geschwind aber kommt der tätige Kuppler Verstand
   und will auf seine Weise das Edelste mit dem Gemeinsten vermitteln.
-  
+
 
 413. Goethe, Maximen und Reflexionen 413
   Die wahre Vermittlerin ist die Kunst.
@@ -6514,7 +6514,7 @@ Zum Tun gehört Talent, zum Wohltun Vermögen.
   Haben wir's nicht, so tappen und tolpen wir unsern eignen Weg hin;
   haben wir's, so sind wir auch, eh wir's uns versehen,
   auf das schlechteste geführt.
-  
+
 
 928. Goethe, Maximen und Reflexionen 928
   Die ungeheuerste Kultur, die der Mensch sich geben kann,

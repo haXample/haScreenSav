@@ -5,7 +5,7 @@
   und wieder:
   "Solche Werke sind Spiegel, 
    wenn ein Affe hineinguckt, kann kein Apostel hinaussehen."
-   
+
 2. Schopenhauer, Aphorismen zur Lebensweisheit
   Vater Gellert's gar schöne und rührende Klage darüber 
   verdient wohl einmal, wieder in Erinnerung gebracht zu werden:
@@ -36,9 +36,8 @@
   und zwar als Neid auftretend. Durch den Ruhm nämlich, den einer erwirbt,
   wird abermals einer mehr über alle seiner Art erhoben:
   diese werden also um ebenso viel herabgesetzt,
-  so dass jedes ausgezeichnete Verdienst seinen Ruhm auf Kosten derer erlangt,
-  die keines haben.
-
+  so dass jedes ausgezeichnete Verdienst
+  seinen Ruhm auf Kosten derer erlangt, die keines haben.
 
 4. Schopenhauer, Aphorismen zur Lebensweisheit
   Während also die Ehre, in der Regel, gerechte Richter findet 
@@ -47,14 +46,12 @@
   muss der Ruhm, dem Neid zum Trotz, erkämpft werden, 
   und den Lorbeer teilt ein Tribunal entschieden ungünstiger Richter aus.
 
-
 5. Schopenhauer, Aphorismen zur Lebensweisheit
   So schwer es demnach ist, den Ruhm zu erlangen,
   so leicht ist es, ihn zu behalten.
   Auch hierin steht er im Gegensatz mit der Ehre.
   Diese wird jedem, sogar auf Kredit, verliehen:
   er hat sie nur zu bewahren.
-
 
 6. Schopenhauer, Aphorismen zur Lebensweisheit
   Wie unser Leib in die Gewänder, so ist unser Geist in Lügen verhüllt.
@@ -63,7 +60,6 @@
   unsere wahre Gesinnung erraten, 
   wie durch die Gewänder hindurch die Gestalt des Leibes.
 
-
 7. Schopenhauer, Aphorismen zur Lebensweisheit
   Was nun andrerseits die Menschen gesellig macht, ist ihre Unfähigkeit, 
   die Einsamkeit, und in dieser sich selbst, zu ertragen.
@@ -71,20 +67,18 @@
   von denen sie sowohl in die Gesellschaft,
   wie in die Fremde und auf Reisen getrieben werden.
 
-
 8. Schopenhauer, Aphorismen zur Lebensweisheit
   Bekanntlich werden Übel dadurch erleichtert,
   dass man sie gemeinschaftlich erträgt:
   zu diesen scheinen die Leute die Langeweile zu zählen. 
-
 
 9. Schopenhauer, Aphorismen zur Lebensweisheit
   Übrigens kann man die Geselligkeit auch betrachten
   als ein geistiges Erwärmen der Menschen an einander,
   gleich jenem körperlichen, welches sie, bei großer Kälte,
   durch Zusammendrängen hervorbringen.
-  Allein wer selbst viel geistige Wärme hat, bedarf solcher Gruppierung nicht. 
-  
+  Allein wer selbst viel geistige Wärme hat,
+  bedarf solcher Gruppierung nicht. 
 
 10. Schopenhauer, Aphorismen zur Lebensweisheit
   Diesem allen zufolge steht die Geselligkeit eines jeden
@@ -92,23 +86,20 @@
   "er ist sehr ungesellig" sagt beinahe schon
   "er ist ein Mann von großen Eigenschaften."
 
-  
 11. Schopenhauer, Aphorismen zur Lebensweisheit
-  Dem intellektuell hoch stehenden Menschen gewährt nämlich die Einsamkeit 
-  einen zwiefachen Vorteil:
+  Dem intellektuell hoch stehenden Menschen 
+  gewährt nämlich die Einsamkeit einen zwiefachen Vorteil:
   erstens den, mit sich selber zu sein, und
   zweitens den, nicht mit andern zu sein.
   Diesen letzteren wird man hoch anschlagen, wenn man bedenkt,
   wie viel Zwang, Beschwerde und selbst Gefahr jeder Umgang mit sich bringt.
-  
-  
+
 12. Schopenhauer, Aphorismen zur Lebensweisheit
   Einsamkeit ist das Los aller hervorragenden Geister:
   sie werden solche bisweilen beseufzen;
   aber stets sie als das kleinere von zwei Übeln erwählen.
   Mit zunehmendem Alter wird jedoch das "sapere aude" in diesem Stücke 
   immer leichter und natürlicher
-
 
 13. Schopenhauer, Aphorismen zur Lebensweisheit
   Neid ist dem Menschen natürlich:
@@ -148,7 +139,6 @@
   soll man nicht Bilder der Phantasie nehmen,
   sondern deutlich gedachte Begriffe.
   Meistens aber geschieht das Umgekehrte.
-  
 
 18. Schopenhauer, Aphorismen zur Lebensweisheit
   Wir sollten das, was wir besitzen, bisweilen so anzusehen uns bemühen, 
@@ -199,7 +189,7 @@
 24. Schopenhauer, Aphorismen zur Lebensweisheit
   Der Muskel wird durch starken Gebrauch gestärkt; 
   der Nerv hingegen dadurch geschwächt.
-  
+
 25. Schopenhauer, Aphorismen zur Lebensweisheit
   Der Schlaf ist ein Stück Tod,
   welches wir anticipando borgen 
@@ -693,10 +683,11 @@
   zumal in seinem Verhältnis zur Welt, zu den andern.
 
 88. Schopenhauer, Aphorismen zur Lebensweisheit
-  Man pflegt die Jugend die glücklichste Zeit des Lebens zu nennen, und das 
-  Alter die traurige. Das wäre wahr, wenn die Leidenschaften glücklich 
-  machten. Von diesen wird die Jugend hin und her gerissen, mit wenig Freude 
-  und vieler Pein.
+  Man pflegt die Jugend die glücklichste Zeit des Lebens zu nennen,
+  und das Alter die traurige. 
+  Das wäre wahr, wenn die Leidenschaften glücklich machten.
+  Von diesen wird die Jugend hin und her gerissen, 
+  mit wenig Freude und vieler Pein.
 
 89. Schopenhauer, Aphorismen zur Lebensweisheit
   Dem kühlen Alter lassen sie Ruhe,
@@ -758,7 +749,7 @@
 96. Schopenhauer, Aphorismen zur Lebensweisheit
   Erst zwischen 90 und 100 Jahren sterben die Menschen,
   dann aber in der Regel vor Alter,
-  ohne Krankheit, ohne Todeskampf, ohne Röcheln, ohne Zuckung,
+  ohne Krankheit, ohne Todeskampf, ohne
   bisweilen ohne zu erblassen, welches die Euthanasie heißt.
   Daher hat auch hier der Upanischad recht,
   welcher die natürliche Lebensdauer auf 100 Jahre setzt.
@@ -781,41 +772,12 @@
   Ein sehr langes Leben zu begehren, ist jedenfalls ein verwegener Wunsch.
 
 99. Schopenhauer, Aphorismen zur Lebensweisheit
-  Daher also, daher, aus dem Orkus, kommt alles, und dort ist schon jedes 
-  gewesen, das jetzt Leben hat: - wären wir nur fähig, den 
-  Taschenspielerstreich zu begreifen, vermöge dessen das geschieht; dann 
-  wäre alles klar.
+  Daher also, daher, aus dem Orkus, kommt alles,
+  und dort ist schon jedes gewesen, das jetzt Leben hat:
+  - wären wir nur fähig, den Taschenspielerstreich zu begreifen,
+  vermöge dessen das geschieht; dann wäre alles klar.
 
 100. Schopenhauer, Aphorismen zur Lebensweisheit
 ZITATE UND REFERENZ
   https://www.gutenberg.org/files/47406/47406-h/47406-h.htm
   Ende.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
