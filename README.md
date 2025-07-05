@@ -16,7 +16,7 @@ All files `*.frt` must reside *outside* the `c:\windows\system32` folder.
 
 Last Update July 2025: *haScreensav.scr*   
 Additions: `document/LudwigHohl.frt` `./Vergleichende.frt` `./Maxims&Reflections.frt`  
-`./SchopenhauerAphorismen.frt`, `./LichtenbergAphorismen.frt`
+`./SchopenhauerAphorismen.frt`, `./LichtenbergAphorismen.frt`  
 Changes: `source/haScreensav.cpp` prolonging reading time by pressing `<SPACE>`        
 Changes: `source/haScrTxtFile.cpp` improved checking wrong *.FRT File Format 
 
