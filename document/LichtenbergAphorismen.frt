@@ -1,6 +1,6 @@
 1. Georg Christoph Lichtenberg, Aphorismen E46 (1755-76)
 SUDELBÜCHER vid. p.XXVI
-  Die Kaufleute haben ihr Waste Book		
+  Die Kaufleute haben ihr Waste Book            
   (Sudelbuch, Klitterbuch glaube ich im Deutschen),
   darin tragen sie von Tag zu Tag alles ein was sie verkaufen und kaufen,
   alles durcheinander ohne Ordnung, 
@@ -277,7 +277,7 @@ SUDELBÜCHER vid. p.XXVI
   wie Geschwätz zur zweckmäßigen vernünftigen Unterredung.
   So fehlt es uns an einem solchen Wort für rechnen. 
 
-							   
+                                                           
 44. Georg Christoph Lichtenberg, Aphorismen D106 (1773-75)
   Die Zeitungsschreiber haben sich ein hölzernes Kapellchen erbaut, 
   das sie auch den Tempel des Ruhmes nennen,
@@ -673,7 +673,7 @@ SUDELBÜCHER vid. p.XXVI
 
 127. Georg Christoph Lichtenberg, Aphorismen F332 (1776-79) 
   Der völlige Idiot, der vernünftige gangbare Mann und der Rasende
-  haben überhaupt ihre Zeichen,	woran man sie leicht erkennt,
+  haben überhaupt ihre Zeichen, woran man sie leicht erkennt,
   aber die Gradationen und Nuancen hierin zu bestimmen
   (das eigentlich Fach der Physiognomik) ist sehr schwer.
 
@@ -971,7 +971,7 @@ SUDELBÜCHER vid. p.XXVI
   und es der Obrigkeit anzuzeigen. 
 
 187. Georg Christoph Lichtenberg, Aphorismen II/71(GH) (1784-88)
-  Dieser Mann arbeitete	an einem System der Naturgeschichte,
+  Dieser Mann arbeitete an einem System der Naturgeschichte,
   worin er die Tiere nach der Form der Exkremente geordnet hatte.
   Er hatte drei Klassen gemacht:
   die zylindrischen, sphärischen und kuchenförmigen.
@@ -2227,7 +2227,7 @@ DEN 3 TEN MAI 1769.
 
 408. Georg Christoph Lichtenberg, Aphorismen I/221(GH) (1779-83)
   Ich bin überzeugt, dass die vermeinte Gründlichkeit
-  beim Vortrage	der Anfangsgründe sehr schadet.
+  beim Vortrage der Anfangsgründe sehr schadet.
   Es ist gar nicht nötig,
   dass ein Lehrer dem Anfänger die Sache gründlich vorträgt,
   aber der Lehrer, der diesen Vortrag wählt, muss sie gründlich verstehen;

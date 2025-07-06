@@ -515,7 +515,7 @@
   Ist sonach der Charakter der ersten Lebenshälfte
   unbefriedigte Sehnsucht nach Glück;
   so ist der der zweiten Besorgnis vor Unglück.
-  Denn mit ihr ist, mehr oder weniger deutlich,	die Erkenntnis eingetreten,
+  Denn mit ihr ist, mehr oder weniger deutlich, die Erkenntnis eingetreten,
   dass alles Glück chimärisch, hingegen das Leiden real sei.
 
 71. Schopenhauer, Aphorismen zur Lebensweisheit

@@ -261,7 +261,7 @@ AUS DEN WAHLVERWANDTSCHAFTEN (1809 Ottiliens Tagebuch)
 47. Goethe, Maximen und Reflexionen 47
   Es gibt, sagt man, für den Kammerdiener keinen Helden.
   Das kommt aber bloß daher,
-  weil der Held	nur vom Helden anerkannt werden kann.
+  weil der Held nur vom Helden anerkannt werden kann.
   Der Kammerdiener wird aber wahrscheinlich seinesgleichen zu schätzen wissen.
 
 48. Goethe, Maximen und Reflexionen 48
@@ -2984,7 +2984,7 @@ AUS DEN HEFTEN ZUR NATURWISSENSCAFT II (1823 Älteres, beinahe Veraltetes)
   Dieses Mikromegische gestehen wir auch in einigen andern Fällen zu,
   bald aber verlässt uns der reine Naturgeist,
   und der Dämon der Künstelei bemächtigt sich unser
-  und weiß sich überall	geltend zu machen.
+  und weiß sich überall geltend zu machen.
 
 
 439. Goethe, Maximen und Reflexionen 439
@@ -3030,7 +3030,7 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Betrachtungen im Sinne der Wanderer)
   der eigentlich auf seiner höchsten Stelle da ist,
   um der Natur zu gebieten,
   um sich und die Seinigen von der gewalttätigen Notwendigkeit zu befreien,
-  wenn ich sehe, wie er aus irgendeinem	vorgefassten falschen Begriff
+  wenn ich sehe, wie er aus irgendeinem vorgefassten falschen Begriff
   gerade das Gegenteil tut von dem, was er will,
   und sich alsdann, weil die Anlage im ganzen verdorben ist,
   im einzelnen kümmerlich herumpfuschet.
@@ -3809,7 +3809,7 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Betrachtungen im Sinne der Wanderer)
   Und so glaubte man den ganzen Kreis des Erkennens, Wollens und Müssens
   abgeschlossen zu haben.
   Aber im Durchschnitt bestimmt die Erkenntnis des Menschen,
-  von welcher Art sie auch sei,	sein Tun und Lassen;
+  von welcher Art sie auch sei, sein Tun und Lassen;
   deswegen auch nichts schrecklicher ist,
   als die Unwissenheit handeln zu sehen.
 
@@ -4231,7 +4231,7 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Betrachtungen im Sinne der Wanderer)
 597. Goethe, Maximen und Reflexionen 597
   Der Mensch findet sich mitten unter Wirkungen
   und kann sich nicht enthalten, nach den Ursachen zu fragen;
-  als ein bequemes Wesen greift	er nach der nächsten als der besten
+  als ein bequemes Wesen greift er nach der nächsten als der besten
   und beruhigt sich dabei;
   besonders ist dies die Art des allgemeinen Menschenverstandes.
 
@@ -4264,7 +4264,7 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Betrachtungen im Sinne der Wanderer)
   Der allgemeine neuere Vulkanismus
   ist eigentlich ein kühner Versuch,
   die gegenwärtige unbegreifliche Welt
-  an eine vergangene unbekannte	zu knüpfen.
+  an eine vergangene unbekannte zu knüpfen.
 
 
 603. Goethe, Maximen und Reflexionen 603
@@ -4534,7 +4534,7 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Aus Makariens Archiv)
 
 
 639. Goethe, Maximen und Reflexionen 639
-  Denn indem die Form, in die Materie hervorschreitend,	schon ausgedehnt wird,
+  Denn indem die Form, in die Materie hervorschreitend, schon ausgedehnt wird,
   so wird sie schwächer als jene, welche in einem verharret.
   Denn was in sich eine Entfernung erduldet, tritt von sich selbst weg:
   Stärke von Stärke, Wärme von Wärme, Kraft von Kraft,
@@ -4713,7 +4713,7 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Aus Makariens Archiv)
 
 658. Goethe, Maximen und Reflexionen 658
   Man denke sich das Große der Alten, vorzüglich der Sokratischen Schule,
-  dass sie Quelle und Richtschnur alles Lebens und Tuns	vor Augen stellt,
+  dass sie Quelle und Richtschnur alles Lebens und Tuns vor Augen stellt,
   nicht zu leerer Spekulation, sondern zu Leben und Tat auffordert.
 
 
@@ -4875,8 +4875,8 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Aus Makariens Archiv)
   Zensur fordert und übt der Mächtige,
   Pressfreiheit verlangt der Mindere.
   Jener will weder in seinen Planen noch seiner Tätigkeit
-  durch	vorlautes, widersprechendes Wesen gehindert, sondern gehorcht sein;
-  diese wollen ihre Gründe aussprechen,	den Ungehorsam zu legitimieren.
+  durch vorlautes, widersprechendes Wesen gehindert, sondern gehorcht sein;
+  diese wollen ihre Gründe aussprechen, den Ungehorsam zu legitimieren.
   Dieses wird man überall geltend finden.
 
 
@@ -5171,7 +5171,7 @@ AUS WILHELM MEISTERS WANDERJAHREN (1829 Aus Makariens Archiv)
   der Gießbach unwegsam für Schiffahrt.
   Finden auch seine Zwergherden notdürftige Nahrung,
   oder sammelt er sie ihnen kärglich:
-  entweder die Elemente	entreißen sie ihm oder wilde Bestien.
+  entweder die Elemente entreißen sie ihm oder wilde Bestien.
   Er führt ein einsam-kümmerlich Pflanzenleben
   wie das Moos auf einem Grabstein, ohne Bequemlichkeit und ohne Gesellschaft.
   Und diese Zickzackkämme, diese widerwärtigen Felsenwände,
@@ -5792,7 +5792,7 @@ AUS DEM NACHLASS (Über Literatur und Leben)
   hat der Mann alle Ursache; er tut wohl, zu zweifeln, ob das Mittel,
   das er zum Zwecke gewählt hat, auch das rechte sei. Vor dem Handeln,
   im Handeln hat er alle Ursache, den Verstand beweglich zu erhalten,
-  damit er nicht nachher sich über eine falsche Wahl zu	betrüben habe.
+  damit er nicht nachher sich über eine falsche Wahl zu betrüben habe.
   Der Greis jedoch wird sich immer zum Mystizismus bekennen.
   Er sieht, dass so vieles vom Zufall abzuhängen scheint:
   das Unvernünftige gelingt, das Vernünftige schlägt fehl,
@@ -6790,7 +6790,7 @@ Zum Tun gehört Talent, zum Wohltun Vermögen.
   wieviel Zeit man mit diesen Papieren verdirbt.
   Die Welt war immer in Parteien geteilt, besonders ist sie es jetzt,
   und während jedes zweifelhaften Zustandes kirrt der Zeitungsschreiber
-  eine oder die andere Partei mehr oder	weniger
+  eine oder die andere Partei mehr oder weniger
   und nährt die innere Neigung und Abneigung von Tag zu Tag,
   bis zuletzt Entscheidung eintritt
   und das Geschehene wie eine Gottheit angestaunt wird.
@@ -7127,7 +7127,7 @@ Zum Tun gehört Talent, zum Wohltun Vermögen.
   Bei den Griechen, deren Poesie und Rhetorik einfach und positiv war,
   erscheint die Billigung öfter als die Missbilligung;
   bei den Lateinern hingegen ist es umgekehrt,
-  und je mehr sich Poesie und Redekunst	verdirbt,
+  und je mehr sich Poesie und Redekunst verdirbt,
   desto mehr wird der Tadel wachsen und das Lob sich zusammenziehen.
 
 
@@ -7780,9 +7780,9 @@ AUS DEM NACHLASS (Über Kunst und Kunstgeschichte)
   den geräumigen Marktplatz um sich her bildete.
   Die von kräftig gebietenden, freundlich lockenden Tönen schnell ergriffenen,
   aus ihrer massenhaften Ganzheit gerissenen Felssteine mussten,
-  indem sie sich enthusiastisch	herbeibewegten,
+  indem sie sich enthusiastisch herbeibewegten,
   sich kunst- und handwerksgemäß gestalten,
-  um sich sodann in rhythmischen Schichten und Wänden gebührend	hinzuordnen.
+  um sich sodann in rhythmischen Schichten und Wänden gebührend hinzuordnen.
   Und so mag sich Straße zu Straßen anfügen!
   An wohlschützenden Mauern wird's auch nicht fehlen.
   Die Töne verhallen, aber die Harmonie bleibt.
