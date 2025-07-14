@@ -131,7 +131,7 @@ IM GEBIRGE
   Große Intelligenz, vereinigt mit irgendeinem Talent,
   mit Willen appliziert, führt IMMER zu Leistungen und Entdeckungen.
   (Große Intelligenz ist selten, Talent häufig,
-   dass die beiden mit Willen appliziert werden ist das Seltenste.)
+   dass die beiden mit Willen appliziert werden ist das Seltenste).
 
 
 22. Ludwig Hohl, Die Notizen II.91
@@ -149,7 +149,7 @@ IM GEBIRGE
   1. durch Überproduktion,
   2. durch Unproduktion,
   3. durch nicht legitime Ernährung.
-  (und alles kann sich in einem Knoten übel vermischen.)
+  (und alles kann sich in einem Knoten übel vermischen).
 
 
 25. Ludwig Hohl, Die Notizen II.124
@@ -187,7 +187,7 @@ IM GEBIRGE
   keinen Freund haben.
   (die Begrenzung eines menschlichen Lebenskreises
    macht es jedenfalls unwahrscheinlich:
-   nur Ähnliches verbindet sich.)
+   nur Ähnliches verbindet sich).
 
 
 31. Ludwig Hohl, Die Notizen II.154
@@ -234,7 +234,7 @@ VERHÄLTNIS DES GEISTIGEN ARBEITERS ZUM VOLK
 36. Ludwig Hohl, Die Notizen II.182
   Man muss immer misstrauisch sein gegen eine Lehre,
   die einen früheren Zustand zu wiederholen trachtet
-  (auch wenn man sonst gar nichts von ihr wüsste.)
+  (auch wenn man sonst gar nichts von ihr wüsste).
 
 
 37. Ludwig Hohl, Die Notizen II.183
@@ -262,7 +262,7 @@ IM FORTSCHREITEN
   (Was hindert ihn, wenn er zurückgeglitten ist,
    sich wieder mit denen hinter ihm zu vergleichen,
    und so fort bis zum Nullpunkt?
-   So wird es vielmehr notwendigerweise geschehen.)
+   So wird es vielmehr notwendigerweise geschehen).
 
 
 41. Ludwig Hohl, Die Notizen II.197
@@ -325,7 +325,7 @@ UNTERRICHT
   sondern Sache des Glaubens.
   (Es soll so viel wie möglich gesprochen und gelesen,
    so wenig wie möglich überlegt, vorbereitet werden, und,
-   die höchstmögliche Quantität von Wörtern am besten laut sprechen.)
+   die höchstmögliche Quantität von Wörtern am besten laut sprechen).
   Es gibt drei Dinge, die man ganz leicht lernt
   und aus denselben Gründen nicht lernen kann:
   Schwimmen, Radfahren und fremde Sprachen.
@@ -450,7 +450,7 @@ FRAGMENTE UND VARIANTEN ZUM ZENTRALEN
 DISKRETION UND UNWAHRHAFTIGKEIT
   Diskretion ist bauend. Unwahrhaftigkeit ist negativ.
   (Es ist leicht möglich, dass man Diskretion
-   erst mit dreißig Jahren zu verstehen beginnt.)
+   erst mit dreißig Jahren zu verstehen beginnt).
 
 
 69. Ludwig Hohl, Die Notizen II.330
@@ -578,7 +578,7 @@ MENSCHENWÜRDE UND BÜCHERWÜRDE
   oder doch, wenigstens zum Wiederlesen des eben Gelesenen
   - nicht zum Weiterlesen.
   (Welches dann natürlich auch geschieht,
-   aber wieder einen Anfang darstellt, einen neuen Spieleinsatz.)
+   aber wieder einen Anfang darstellt, einen neuen Spieleinsatz).
 
 
 85. Ludwig Hohl, Die Notizen V.1
@@ -628,7 +628,7 @@ DAS RÄTSEL DES SCHÖNEN
 91. Ludwig Hohl, Die Notizen VI.2
 VOM SCHREIBEN
   Die neue Kunstform wird nie und nimmer von der Masse geschaffen
-  - ebensowenig wie die wissenschaftlichen Eindrücke
+  - ebenso wenig wie die wissenschaftlichen Eindrücke
     von der Masse geschaffen werden -,
     sondern von Gide, Proust, Karl Kraus,
     jedem wirklich Experimentierenden, Substanz Tragenden (was dasselbe ist).
@@ -741,7 +741,7 @@ BEOBACHTUNGEN
 106. Ludwig Hohl, Die Notizen VII.37
   Die Menschen mit hervorragender praktischer Veranlagung
   sind meistens diejenigen, die den Ruf haben, sehr unpraktisch zu sein.
-  (Sie können eben mit den andern nicht zusammenarbeiten.)
+  (Sie können eben mit den andern nicht zusammenarbeiten).
 
 
 107. Ludwig Hohl, Die Notizen VII.48
@@ -753,7 +753,7 @@ BEOBACHTUNGEN
   (unnütz solange sie sich nicht auf das Historische beschränkt hat)
   nur jemals eine Katze angeschaut hätte, schauend angeschaut ...,
   es hätte auch ihm aufgehen müssen, dass sie ein gleiches Wesen ist wie wir.
-  (was die Dichter, die eben schauende sind, immer gewusst haben.)
+  (was die Dichter, die eben schauende sind, immer gewusst haben).
 
 
 109. Ludwig Hohl, Die Notizen VII.57
@@ -788,7 +788,7 @@ PRÜFUNG DER INTELLIGENZ
   oder was wenigstens der beste Maßstab ist:
   Wenn der Mensch in eine extreme (unmittelbar bedrohende) Notlage versetzt ist
   in welchem Maße er JETZT auf den Verstand sich verlässt,
-  statt nach andern Auswegen zu drängen (instinktiv, nach Hilfe schreiend, etc.)
+  statt nach andern Auswegen zu drängen (instinktiv, nach Hilfe schreiend, etc).
 
 
 115. Ludwig Hohl, Die Notizen VII.112
@@ -797,7 +797,7 @@ PRÜFUNG DER INTELLIGENZ
   die Einheit kann gegeben werden allein durch die Bedeutung der PERSON,
   die alles ihr Begegnende auf ihre Art durchleuchtet, belebt;
   andernfalls sei im Außen (im Nennbaren) konstruierter Plan da.
-  (Ein Studium; das und das erreichen wollen; einem Bestimmten dienen.)
+  (Ein Studium; das und das erreichen wollen; einem Bestimmten dienen).
 
 
 116. Ludwig Hohl, Die Notizen VII.136
@@ -831,7 +831,7 @@ APOTHEKER
   Die "wohlmeinenden" Bürger schreiben mir
   Ich solle mich anpassen; "wir ändern ja die Welt doch nicht;"
   "wohl aber können wir ihr bis zu einem gewissen Grade das zu fressen geben,"
-  "was sie verlangt" (wörtlich aus einem Brief kopiert.)
+  "was sie verlangt" (wörtlich aus einem Brief kopiert).
   Aber dennoch meine ich, nein, bin ich überzeugt,
   dass jeder gerade nur dadurch lebt, wie er die Welt doch verändert,
   und sollte diese durch ihn geschehene Veränderung noch so gering sein.
@@ -1004,7 +1004,7 @@ DIALEKT
 
 146. Ludwig Hohl, Die Notizen IX.20
   Montaigne, Lichtenberg, Spinoza - Drei große Leseereignisse
-  (wenn man noch Proust dazuzählt ...)
+  (wenn man noch Proust dazuzählt ... ).
 
 
 147. Ludwig Hohl, Die Notizen IX.28
@@ -1017,7 +1017,7 @@ DIALEKT
   führt notwendig zum Nichts.
   (denn es ist nicht zu beweisen, wird nie zu beweisen sein,
    dass Nichtsein ebenso gut ist wie das Sein - und somit
-   das Böse ebensowohl wie das Gute - angenommen werden kann),
+   das Böse ebenso wohl wie das Gute - angenommen werden kann),
   und ich finde es richtig so.
 
 
@@ -1069,9 +1069,11 @@ GOTTFRIED KELLER
   Und da hätte ich beinahe Lichtenberg zu nennen vergessen,
   der Wunderbarsten einen unter allen.
 
+
 155. Ludwig Hohl, Die Notizen IX.70
   Zu untersuchen ist bei allem Geschriebenen,
   ob etwas erkauften Glanz hat oder jene HÄRTE, die glänzt.
+
 
 156. Ludwig Hohl, Die Notizen IX.71
   Wer, durch die Jahrtausende hin, hat je klar gesehen, wenn nicht Lichtenberg?
@@ -1340,7 +1342,7 @@ GNADE
   bleibt die Welt jung. Wehe nur der Zeit,
   da die Kinder wie die Erwachsenen sein werden!
   (wie die jetzigen Erwachsenen,
-   diese dürren, die nicht mehr zu Verändernden, an denen der Geist stirbt.)
+   diese dürren, die nicht mehr zu Verändernden, an denen der Geist stirbt).
 
 
 196. Ludwig Hohl, Die Notizen XII.71
@@ -1402,7 +1404,7 @@ VOM JENSEITS
   einen der größten Schritte tat:
   - als ich nämlich, in meinem dreißigsten Jahr, in dem Zimmer,
   an das ich mich immer erinnern werde, Goethes "Maximen und Reflexionen"
-  zum erstenmal in die Hände bekam;
+  zum ersten mal in die Hände bekam;
   nach der langen Dunkelheit;
   nach dem ununterbrochenen Arbeiten im Dunkeln,
   von nichts unterstützt;
@@ -1434,7 +1436,7 @@ ARBEIT
 
 210. Ludwig Hohl, Nuancen und Details I.5
   Wie viele Male schon - und, wie mir scheint, auf wie viel verschiedenen Wegen
-  auch - habe ich wiederfinden müssen, dass jeder etwas leisten muss
+  auch - habe ich wieder finden müssen, dass jeder etwas leisten muss
   durchaus NICHT NUR aus sozialen Gründen,
   sondern vor allem auch seiner selbst wegen.
 
@@ -1447,6 +1449,7 @@ ARBEIT
 DER SCHWIERIGE WEG
   Überall Gefahren und haardünn ist der Ort, wo es gelingt,
   etwas wirklich zu ergreifen; und ringsherum, um ihn alles sind Wege.
+
 
 213. Ludwig Hohl, Nuancen und Details I.17
 VERWUNDERLICHES
@@ -1528,7 +1531,7 @@ EIN ÜBLES TUN
 
 225. Ludwig Hohl, Nuancen und Details II.5
 GEFAHR
-  Furchtsam achtzugeben gilt es auf die erweichende, tröstende,
+  Furchtsam acht zugeben gilt es auf die erweichende, tröstende,
   einschläfernde Wirkung des Vordergrundes.
 
 
@@ -1536,7 +1539,7 @@ GEFAHR
 DIE DEPRESSIONEN
   Die Depression - ewige Begleiterin der Entstehung eines jeden Kunstwerks.
   (Und Kunstwerk ist ein umfassender Begriff!
-   Und Künstler ist eine umfassende Formel menschlichen Daseins.)
+   Und Künstler ist eine umfassende Formel menschlichen Daseins).
 
 
 227. Ludwig Hohl, Nuancen und Details II.20
@@ -1647,7 +1650,7 @@ KINDERERZIEHUNG
   würde auch der Missbrauch aufhören,
   der besonders bei Frauen wohlhabender Stände häufig ist,
   sich Kinder aus Langeweile zu halten
-  (auf schöne Art nennen sie das "die Sehnsucht nach den Kinde".)
+  (auf schöne Art nennen sie das "die Sehnsucht nach den Kinde").
 
 
 240. Ludwig Hohl, Nuancen und Details III.11
@@ -1682,6 +1685,7 @@ ARBEITSFRAGE
 
 
 243. Ludwig Hohl, Alles ist Werk
+FRIEDRICH DÜRRENMATT BEURTEILT LUDWIG HOHL
   "Hohl ist ein Denker,
    wir anderen, fassen wir das Denken genau, sind es nicht,
    wir weichen dem genauen Denken ins Gleichnis aus.
@@ -1695,7 +1699,6 @@ ARBEITSFRAGE
    Ludwig Hohl ist der einzige, dem gegenüber ich ein schlechtes Gewissen habe.
    Ich bin ihm nicht gewachsen.
    Darum schreibe ich keine Sätze, darum schreibe ich Theaterstücke."
-  (Zitat: Friedrich Dürrenmatt, © Diogenes Verlag AG, Zürich)
 
 
 244. Ludwig Hohl, Von den hereinbrechenden Rändern, Anmerkungen 141
@@ -1720,8 +1723,1304 @@ VON DEN HEREINBRECHENDEN RÄNDERN
   Um nicht Erfolg zu haben, 
   muss man entweder sehr gut oder sehr schlecht schreiben.
 
+246. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 1
+  Geheimnisse sind schwer zu behalten.
+  Aber es gibt viele geheime Dinge,
+  die ohne die geringste Mühe immer Geheimnis bleiben,
+  obgleich sie sehr einfach sind.
 
-246. ZITIERTE TEXTE UND TEXTNACHWEISE
+247. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 2
+VERHÄLTNIS DER ARBEITSSCHWIERIGKEIT IN SCHREIBEN UND MALEN
+  Zu behaupten, dass höchste Leistungen erzielen
+  in der einen Kunst leichter sei als in der anderen, wäre Dummheit;
+  aber das Arbeiten - das äußere, aber doch wichtige, verbindende -
+  ist ganz bestimmt beim Malen viel leichter als beim Schreiben,
+  welches entschieden dem Bildhauen gleicht,
+  das unmittelbar in Stein ausgeführt wird.  
+
+248. LUDWIG HOHL, VON DEN HEREINBRECHENDEN RÄNDERN, NACHNOTIZEN 3
+  Die Größe eines Menschen ist proportional der Größe
+  der Vergangenheit, die er zu beleben vermag.
+
+249. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 5
+  Die Menschen sollen weniger von Liebe reden;
+  womit wir uns befassen müssen, ist Freundschaft.
+
+250. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 6
+SCHREIBEN
+  Es gibt drei Arten - Stufen - des Schreibens:
+    Plagiat
+    Zitieren (oder halbe Kunst)
+    Kunst.
+
+251. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 7
+  Pascal fand in der Welt keine Konsistenz.
+  Aber eine ungeheure Konsistenz fand er in seinem Geiste.
+  Er wollte dies aber nicht bekannt geben, schon darum nicht,
+  dass es nicht aufhöre zu dauern.
+  Darum ließ er es ungeheuerlich erglänzen in einem Spiegel ...
+
+252. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 10
+  Die echte Polemik ist nicht Streit, sondern eine Kunstgattung.
+
+253. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 11
+ORIGINALITÄT
+  Wenn er wirklich was gewesen wäre, hätte er sich nicht darum gekümmert,
+  ob Schopenhauer dasselbe wie er schon erkannt hatte oder nicht,
+  sondern um das, was ER erkannt hatte.
+
+254. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 14
+  Es gibt auch noch ein Kokettieren mit Schuld.
+
+255. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 17
+VON ARBEITSBEDINGUNGEN
+  Das Leben ist eben nicht so leicht: Man kann nicht ALLES haben.
+  (Frage nur Marcel Proust, der weiß es.)
+  Was schon da ist kann man nicht konstruieren.
+
+256. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 19
+OB DER MENSCH FREI SEI.
+  Ich glaube, die Frage der Willensfreiheit
+  ist je und je nur entschieden worden durch Mut.
+  Marx hat sie verneint.
+  Spinoza hat sie halb verneint und halb bejaht
+  Rilke hat sie nicht ganz bejaht.
+  Alle diese drei Beantwortungen waren Mut - nicht Ratio -, Löwenmut.
+
+257. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 22
+  Sanktionierung was das sei?
+  Wenn ein Kind mich so fragen würde, würde ich antworten:
+  Sanktionierung ist ein Amortisierungsverfahren gegenüber den Dingen. -
+  Nachdem es lange Zeit den herrlichen Dingen gegenüber angewendet worden war,
+  die also durch es gelähmt, getötet wurden,
+  kamen einige geniale Männer, darunter Pasteur, auf den Gedanken:
+  Soll man es nicht einmal den üblen Dingen gegenüber anwenden;
+  und vielleicht zuerst gerade DEN üblen Dingen gegenüber,
+  die wegzubringen bisher nichts geholfen hat?
+  Man tat es, es gelang.
+  Eine der glänzendsten Entdeckungen der Menschheit war geschehen,
+  die der vorteilhaften Sanktionierung, oder Impfung.
+  - Aber Impfung ist gefährlich.
+  Preisgegeben, nicht von einem höheren Geist geleitet,
+  kann sie zur Auflösung führen des Wesens derjenigen,
+  die sie blindlings anwenden.
+
+258. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 23
+  Dr. Lelilolà.
+  Er tut recht seinen akademischen Titel neben seinen Namen zu schreiben,
+  um damit zu sagen, dass er schreiben gelernt hat;
+  dem Text kann man's nämlich nicht entnehmen. 
+
+259. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 24
+  Der dauernd begangene Fehler der Menschen besteht darin,
+  dass sie durch Gaffen zu besserem Verstehen zu kommen meinen:
+  durch rationale Überlegungen, welche hier gleich Gaffen sind;
+  statt dadurch, dass sie sich weiter entwickeln.
+  Genau wie einige durch stundenlanges Glotzen
+  den Gipfel wahrzunehmen meinen, den man von den Punkte aus,
+  an dem sie sich befinden, nicht sehen kann;
+  statt durch Steigen, durch Wandern ihren Punkt zu verändern,. 
+
+260. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 25
+VERSUCH EINER EINTEILUNG  
+  Man könnte unterscheiden:
+  1) Bücher aus einer vollen Ursache ("Faust", "Zauberberg", Prousts Werk),
+  2) Bücher mit einer Viertelursache
+     (Hamsun, Malraux; die meisten Bücher von den noch "sehr Bedeutenden"),
+  3) Repetitionsbücher (der größte Teil dessen,
+     was von Schriftstellern, die noch diesen Namen haben, geliefert wird),
+  4) das Ursachenlose (Kommentar überflüssig).   
+
+261. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 30
+  Kaum etwas ist mir lieber als die Sätze,
+  die ernste Geister mit Bewusstsein wiederholen.
+
+262. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 33
+  Bach und Proust (und einige andere),
+  das sind die eigentlichen Gipfel der Menschheit.
+  Man muss nicht mehr verlangen. Die eigentlichen Gipfel waren schon da. -
+  Die Menschheit ist wie ein Kind, das nicht will, dass es Abend werde.
+  So weit ich mich zurückerinnern kann,
+  schreien die Menschen immer nach Wundern ...;
+  inzwischen GESCHAHEN die Wunder
+  - Balzac und die Flugmaschine, die Phonographie, Proust und das Telefon -
+  Und Proust schaute in seine Kindheit ... 
+  Ach, die Wunder sehen nur die Wunderbaren.
+
+263. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 34
+  Das Englische hat etwas von der Französischen Schlankheit
+  und Geschwindigkeit des Ausdrucks,
+  zugleich des Deutschen weichen, weiten Raum;
+  und überdies eine Sinnlichkeit, die in beiden Sprachen nicht ist.
+
+264. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 37
+  Ob ein Mensch schwimmen kann, halte ich für sehr wichtig. -
+  Von der Bedeutung des Schwimmens scheint Hölderlin gewusst zu haben:
+  "Wie auf... Wassertiefe der leichte / Schwimmer wandelt, so sind auch wir."
+
+265. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 41
+  Ob man das, was ich schreibe, Prosa, Lyrik, Epik oder Philosophie nenne,
+  ist mir ganz gleich. Du kannst es meinetwegen nennen Isabella oder Victoria;
+  wenn du nur etwas davon verstehst.
+
+266. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 49
+  Die Menschen müssen kürzer schreiben. Thomas Mann ist das Gegenteil.
+  Ihn rettet jedoch sein unendlicher Geschmack,
+  seine kaum zu gefährdende sprachliche Sicherheit.
+  Wehe aber seinen Nachahmern!
+  Wer unter den Einfluss von Thomas Mann gerät - ich spreche vom Stil -,
+  fällt notwendigerweise ins Lallen.
+
+267. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 52
+  Methode, die Kraft eines Geistes
+  (die Bedeutung des Geistigen in einer Person) zu messen:
+  Man stelle den Mann
+  der großen wirklichen Leistung eines anderen Mannes gegenüber
+  (die er muss wahrnehmen können, was nicht eigentlich Sache des Geistes,
+   sondern der besonderen Entwicklung ist),
+  den er nicht ausstehen kann.
+  Dass er nun durch seine menschliche Antipathie nicht gehindert sei,
+  vor der Leistung Hochachtung zu haben: der erste Grad.
+  Dass er aber gar vor dem Anblick dieser Leistung
+  die menschliche Antipathie vergisst: der höchste Grad.
+
+268. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 55
+  Das Äußere kann man nachahmen, das Innere nicht:
+  darum hat das Innere unendlich viel höhere Bedeutung,
+  es it das eigentliche Reale.
+  Weil du Töne setzt bist du noch nicht Beethoven,
+  weil du denkst, bist du noch nicht Pascal;
+  denn viele setzen Töne, jonglieren Gedanken, und haben das Reale dabei nicht:
+  aber wenn du nicht einmal komponierst, dann bist du sicher nicht Beethoven.
+
+269. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 58
+  Bei wenigen wird es klarer als bei Stendhal,
+  dass höchste Prosa ist, wo Unmelodisches im Leser Melodie erweckt.
+
+270. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 61
+EMIGRATION (HÖHERE ART)
+  Wie wohl ist dem, der über die schweizerische Grenze reist!
+  Aber in der guten Richtung natürlich.
+
+271. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 66
+  Stimmung ist dasjenige, was in dem Maße, wie der Geist größer wird,
+  zu existieren aufhört und nicht mehr existier vor voller Geistesgröße.
+  ("Stimmung" ist eine Ausflucht. Nur nicht denken!)
+
+272. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 71
+ARBEITSBEDINGUNGEN
+  Der hauptsächliche Vorteil der Schreimaschine
+  ist bis jetzt immer übersehen worden.
+  Er besteht darin, dass sie jenes 'Hand vor die Augen Legen',
+  von dem Karl Kraus redet, überflüssig macht.
+
+273. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 77
+  Eine Literaturgeschichte der Gegenwart sollte in diese zwei Teile zerfallen:
+   I) Proust
+  II) Die Kleineren
+
+274. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 79
+  Dass die Beziehung mit andern schöpferisch ist,
+  schöpferisch sein muss, wenn sie Beziehung sein will,
+  das hat fast niemand begriffen.
+
+275. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 83
+VON DEN DECKEN
+  "Unnütz wie ein Tischtuch" sollte sprichwörtlich werden.
+  Nachdem Gott ihnen die schöne Erfindung des Tisches verliehen hatte,
+  regte sich das Satanische im Menschen und erfand das Tischtuch ...
+  Nun kann man die Platten der Tische
+  mit einem feuchten Lappen und drei Bewegungen jederzeit rein machen;
+  die Tischtücher geben freilich der Wäscherin mehr zu verdienen
+  und darauf kommt es an;
+  und noch mehr der Stickerin, darauf kommt es mehr an;
+  am meisten helfen sie der Frau Meyer,
+  die inmitten ihrer vierundzwanzig Krankheiten ihre faustisch Natur zeigt,
+  indem sie plötzlich kleine Decken zu häkeln beginnt,
+  von denen man mehrere übereinander legen kann ...
+  Was, wenn die Tische keine Gehänge mehr tragen sollten,
+  kahl bleiben müssten, gebrauchsbereit, geeignet zum Arbeiten und zu Essen?
+
+276. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 88
+BEOBACHTUNG
+  Warum erscheinen uns jene, die kauen, während sie zuhören, als Idioten?
+  Weil man zum Denken den gesamten Kopf braucht.
+
+277. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 90
+ENTWURF EINER APOLOGIE
+  Warum ich den Dialekt nicht spreche,
+  kann ich in drei Worten nicht erklären.
+  Wenn die andern, wie ich sehe, ihre Gründe haben müssen,
+  den Dialekt zu verteidigen, so habe ich auch meine Gründe für das Gegenteil.
+
+278. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 96
+  Es gibt keinen, der mein spezielles Leiden an der Schweiz im mindesten kennt;
+  aber, was ärger ist, auch nur ganz wenige, die es zu kennen VERMÖCHTEN.
+
+279. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 97
+  Die wirklichen Schweizer sind hart, eingebildet und bösartig.
+
+280. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 98
+  Der richtige Schweizer ist jederzeit bereit,
+  einzuspringen um Institutionen zu verteidigen,
+  ohne im mindesten gefragt zu haben, ob diese Institutionen einen Sinn 
+  oder noch einen Sinn haben; ein wirklicher Automat.
+  Das entgegengesetzte vom MENSCHLICHEN.
+  (Man denke an Gide, wenn man das Menschliche sehen will.)
+
+281. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 99
+DIALEKT
+  Wenn sie reden, so reden sie nicht; sie HEULEN oder SINGEN.
+  Schweizerisch sind die von oben nach unten zusammengedrückten Gesichter,
+  als ob eine Berglast auf ihrem Haupte säße.
+  (ob groß, ob klein, ob breit, ob lang.)
+
+282. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 102
+VERSUCH
+  Die Komödie gibt ein untypische Geschehen, untypisch in dem Sinne,
+  dass es untief gegriffen, nicht bis zum Entscheidenden getrieben ist,
+  Die Tragödie gibt ein typisches, nämlich ein vollendetes Geschehen
+  und löst die frohe Wirkung dadurch aus, dass wir sehen können, was bleibt.
+
+283. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 105
+  Die hässlichste Musik ist doch die der Blech-Blasinstrumente,
+  weshalb diese auch in der Schweiz so beliebt sind.
+
+284. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 107
+  Die zärtlichen Gelenke der Sprache, die Konjunktionen!
+
+285. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 110
+  Beispiele aus der Geschichte, die man gibt,
+  um einen heutigen Zustand zu beleuchten, sind in 99 Fällen von 100 falsch.
+  Man kann ein früheres Stück der Geschichte
+  nicht einem jetzigen Stück gleichsetzen.
+  Wenn man die Geschichte sich nutzbar machen will
+  - und warum sollte man sie nicht nutzbar machen,
+    sie, die höchste aller Wissenschaften! -
+  gibt es keinen so einfachen Weg;
+  sondern erst muss man die Geschichte VERSTEHEN.
+  Und dann mag man auch das Heutige eher verstehen.
+
+286. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 111
+SOLIDITÄT
+  Mein Partner sagte nur ganz selten etwas. Aber wenn er dann einmal,
+  nachdem ich vielleicht eine Stunde geredet hatte, etwas sagte
+  - nur ein kleines Sätzchen -,
+  vermochte er damit jede Fortsetzung des Gespräches für ein paar Stunden
+  unmöglich zu machen.
+
+287. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 113
+EIN WEITERES BEISPIEL VON DEN WIRKUNGEN DES DIALEKTS
+  "Ihr Rauchwarenlieferant schenkt Ihnen diese Pyros-Zünder. 
+   Er ist ja dazu  n i c h t  verpflichtet.
+   Seien Sie ihm dadurch dankbar, indem Sie ... " etc.
+  Das Wort "nicht" in dem wundervoll feinen Satz, der sagt,
+  dass der Händler Geschenke zu machen nicht verpflichtet sei,
+  ist nicht von mir, sondern dort im gedruckten Text gesperrt.
+  Ich meinerseits hätte Lust,
+  das "dadurch-indem" durch Sperrung oder Fettdruck hervorzuheben.
+
+288. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 120
+SPRACHE, STIL
+  Ich stelle mir vor, Thomas Mann schreibt in großer Ruhe;
+  Proust dagegen musste sich immer fürchterlich beeilen
+  und doch ging viel verloren.
+
+289. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 122
+DIE ZWEI ARTEN VON NOT
+  Die seelische Not ist, solange sie besteht,
+  ebensolches Leiden wie die materielle Not.
+  "solange sie besteht", sage ich: denn
+  - und das ist der gewaltige Unterschied -
+  sie kann aufhören, OHNE dass anderes (Äußeres) dazu tritt,
+  aufhören durch Umschlagen (Sublimierung, Schöpferischwerden).
+
+290. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 123
+THEOLOGIE, DISKUTIEREN
+  Zwischen einem Gläubigen und einem Atheisten besteht ein solcher Abgrund,
+  dass sie einander ein ganzes Leben lang bekämpfen könnten,
+  ohne einander zu verstehen.
+
+291. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 127
+  Noch einmal: Das Entsetzlichste am schweizerische Dialekt
+  ist nicht das Misstönende
+  (obwohl schon das einem übel lassen werden kann),
+  sondern: dass die Wörter vorwiegend nicht Wörter (Begriffe) sind,
+  sondern nur eine Basis, auf der sich lang gedehntes Singen oder Aufbegehren
+  (SINGEN oder AUFBEGEHREN) abspielt.
+  (Wodurch außerordentliche Langsamkeit der Rede entsteht;
+   könnte man nur sagen "Rede"!)
+  Man beobachte genau. Kein Schweizer redet Dialekt, ohne entweder zu singen
+  - sei es klagend, sei es malend - oder dann aufzubegehren
+  (auf jedem der betonten Vokale, sie dadurch sehr dehnend).
+
+292. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 129
+  Alle großen Leistungen sind aus der Heimatlosigkeit entstanden.
+
+293. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 132
+TON UND KLANG IN DER WORTKUNST
+  Wenn du dich nicht zum Fluge erheben kannst,
+  wenn du dich nicht in die Weite fortbewegen kannst,
+  so klopfe wenigstens auf die Erde, dass es dröhnt.
+
+294. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 138
+  Das Motorrad: Vielmal dynamischer und moderner als das Auto.
+  Die Automobile sind anspruchsvolle Kästen; Fahrsärge;
+  sehr gut indessen für Krankentransporte.
+
+295. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 141
+VON DEN HEREINBRECHENDEN RÄNDERN
+  Wenn für irgend etwas, so gilt für sie, die Gesetze der besondern,
+  der subtilen, der scheinbar nebensächichen
+  (und von unserem Alltag aus gesehen wirklich nebensächlichen) Erscheinungen,
+  das Wort: "Die Letzten werden die Ersten sein."
+
+296. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 143
+  Rilke über Proust, ungefähr
+  (d.h. auswendig zitiert; die Stelle muss sich in einem Biefe finden):
+  "Keiner besaß so viel innere Erfahrung wie er";
+  und er hatte gewiss recht.
+
+297. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 149
+  Bach ist gekennzeichnet
+  durch die DICHTHEIT UND die MÜHELOSIGKEIT dei Einfälle.
+  - Bach und somit alle höchste Kunst.
+  Als ich fand "Dichtheit und Mühelosigkeit",
+  dachte ich indessen nicht an Bach, sondern an Proust;
+  dann erst, dass es für Bach ebenso stimmte;
+  wie es stimmt für Hölderlin. Sonst aber nur noch ganz Wenige.
+
+298. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 152
+SCHWEIZER DIALEKT
+  ... gewisse Ausdrücke - sagt einer -, Ausdrucksfähigkeiten
+  fänden sich eben nur im Dialekt; und jeder ("jeder"!) müsse eben immer,
+  wenn er sehr intensiv - zärtlich oder grob - sein wolle,
+  zum Dialekt zurückgreifen.
+  Er meint dann etwas FÜR den Dialekt zu sagen und spricht nur dagegen.
+  Wenn er intensiv sein will, muss er zum Dialekt zurückgreifen
+  - was ich nicht bezweifle -; aber das liegt nicht an der deutschen Sprache
+  (Goethe und Hölderlin und Thomas Mann
+   sind in der deutschen Sprache schon so heftig gewesen,
+   dass man sie nicht überbieten, selten einmal erreichen kann),
+  sondern daran, dass er sie nicht kann.
+
+299. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 154
+LICHTENBERG
+  Lichtenberg ist der neben (dem späten) Goethe größte deutsche Prosaist.
+  Der erhabene Neutralisator. Der Mann mit dem unbestochenen Auge;
+  mit dem weitesten Blickkreis: von den Grundgegebenheiten
+  wesentlicher moderner Wissenschaften (denen er ein Vorläufer gewesen ist)
+  bis zu dem Ort, wo man die Nuancen (also das Wesentlichste)
+  der Kunst, des Stile, sieht, reichte er.
+  - Er war ein ungeheurer Schriftsteller; er besaß SCHÄRFE und TIEFE:
+  zwei Eigenschaften, die fast nie beisammen sind.
+
+300. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 159
+  Wenn man den Schweizern klarmachen könnte,
+  dass Literatur und Heimatschutz nicht identisch sind,
+  so wäre schon viel geleistet.
+
+301. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 160
+  Man stammt körperlich sehr unmittelbar ab, geistig unberechenbar fern.
+
+302. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 167
+  Lange Sätze gelten in der Schweiz als Geschwätz:
+  weil der Schweizer ja nicht imstande ist,
+  das einzelne Wort anzuschauen, zu erfassen;
+  weil die Wörter für ihn nur dumpfe Bausteine sind eines Satzes,
+  der einen UNGEFÄHREN Sinn und vor allem eine tonale Figur haben muss:
+  nun ist aber die tonale Figur eines kompliziert gebauten Satzes unklar,
+  zu schwer überblickbar, und daher meint der Deutschschweizer,
+  lange Sätze seien Geschwätz. 
+
+303. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 169
+DAS GEISTIGE
+  Das Geistige ist erst eine Begabung, aber nachher will sie unterhalten sein.
+  (Wenn ich an all die Mädchen denke, die mir einstmals geistig schienen,
+   nein, die es waren; und die nachher nichts geworden sind ...)
+
+304. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 183
+ÜBER DAS EINSCHLÄFERNDE DER REISEN
+  Die Kunst des Reisens besteht vor allem im Reduzierenkönnen,
+  darin, dass man sich hindert, da- und dorthin zu schauen.
+
+305. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 184
+  Wer SCHEIDEN kann der bleibt.
+
+306. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 189
+TAGES-DETAIL
+  An diesem klaren Morgen ... schlage ich in dem Buch,
+  in dem ich etwas suche, dieses auf:
+    "Dein Engel lautet jetzt noch und betont
+     denselben Wortlaut anders"
+
+307. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 192
+LEKTÜRE 
+  "Ein Dummkopf hat nicht das Zeug dazu, gut zu sein"
+  "Jedermann beklagt sich über sein Gedächtnis,
+   niemand über seinen Verstand" (La Rochefoucauld)
+
+308. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 195
+  Das sind eben die Leute, die Ehrerbietung hatten dem Leben gegenüber;
+  die nicht widerstanden haben, überall eingegangen sind auf "das Leben"
+  ("wahrhaft Sensationelles" - "Aus dem Leben Gegriffenes"),
+  nirgends widerstanden haben mit einer anderen Idee,
+  mit einer besseren, der ihrigen; die nichts Tragisches hatten;
+  und darum wurden sie traurig für immer.
+  Das Tragische macht fröhlich.
+
+309. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 198
+ARBEITEN UND BESEN
+  Denn im Stillstehen sammelt sich (unter gewissen Umständen wenigstens)
+  der Druck, der zum Tun führt. Aber nein, er fuhr mit dem Fuße hin und her;
+  und dadurch drohte das Stationieren sich zur Ewigkeit zu verlängern.
+
+310. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 199
+  Was macht der, der immer Recht hat? Verzweifelte Lage!
+  Zum tausendsten Mal dieselbe Idee wiederholen, von der man weiß,
+  dass sie die heilende, die allein entscheidende ist,
+  und sie von keinem unter denen, die sie angeht, verstanden sehen:
+  das nenne ich Leiden, Einsamkeit;
+  und dass dieses Leiden, gegen das es kein Mittel gibt,
+  so wenig bekannt ist, verstehe ich wohl ...
+
+311. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 202
+DIE WIRKLICHKEIT UND DAS REALE
+  Wenn ein Mensch unvoreilig zur Versöhnung gelangt, unvoreilig:
+  das heißt offenen Auges, bei voller Kenntnis unserer Bedingungen
+  und der grauenerregenden Tatsachen der WIRKLICHKEIT
+  - des gewaltigen Gesetzes von der Vergeudung zum Beispiel -,
+  dann sieht er das REALE.
+  Wenn die Ränder hereinbrechen, dann erlebt der Mensch das Reale.
+
+312. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 204
+MENSCHLICHE ENTWICKLUNG
+  Es gibt zwei Arten von Menschen: die Lebendigen und die Toten.
+  Die Kinder in der überwiegenden Zahl gehören zu den Lebendigen,
+  und zwar bis zur Pubertät
+  (die ganz kleinen Kinder sind in noch höherem Maße lebendig);
+  dann trennt sich bald eine sehr große Gruppe ab, klanglos;
+  aber von der Altersstufe von etwa 30 Jahren an
+  bleiben nur noch ganz wenige, die wahrhaft Bedeutenden,
+  deren Bedeutung vor allem darin besteht,
+  dass sie dem Absterben, dem Übertreten zu den Toten,
+  einen beständigen Kampf liefern. 
+
+313. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 205
+DER SCHWEIZERISCHE STIL
+  Es bleibt ei unverdaulicher Rest bei den großen Schweizern;
+  das ist charakteristisch für sie.
+  Aber nicht nur bei den großen Schweizern, sondern im Stil von fast allen,
+  sobald sie die kuhmistartige Dialektsprache verlassen haben,
+  findet man dasselbe. Sobald sie "gehoben" reden wollen.
+
+314. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 209
+  Eine Katze mit Ergriffenheit anstarren können viele,
+  - die Bewunderungswürdigen unter ihnen aber sind nur jene, die begreifen,
+  dass man des Rätsels einer Katze
+  nicht durch eine Liebkosung Schluss machen kann. 
+
+
+315. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 211
+  In den Jahrhunderten und Jahrtausenden vorher hatte man behauptet,
+  die Welt bestehe aus Ruhe und Bewegung:
+  siehe sie besteht nur aus Bewegung!
+  Und ich werde zeigen, oder ich habe schon gezeigt,
+  dass der Mensch nicht durch Ruhe ausruht
+  (oder nicht durch Gnade selig wird), sondern durch Tat.
+
+316. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 216
+  Der alte Todfeind aber, dem ich immer wieder begegne,
+  das ist die Geschäftigkeit.
+  Hindern dich die Umstände an der Entfaltung deiner Tätigkeit?
+  Dann wirke auf die Änderung der Umstände hin
+  und du hast darin deine Tätigkeit.
+  (Du kannst die Nebensachen noch so sehr summieren,
+   sie ergeben doch nie den geringsten Teil der Hauptsache.)
+
+317. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 217
+PORTRÄT
+  Er wird bald so modern sein, dass er zu keiner Zeit mehr gehört.
+  (Weder zu der vergangenen, noch zu der gegenwärtigen,
+   noch zu der zukünftigen.)
+
+318. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 219
+  Es war eine Frau, hässlich und ungeheuer,
+  die Blechmusik liebte und das Militärische.
+  ("Das Militärische": nicht das Soldatische,
+    wie wir es durch Valentin im "Faust"
+    und Joachim Ziemßen im "Zauberberg" kennen,
+    und auch nicht das Strategische.)
+
+319. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 220
+  "Wo der hinschaut, wächst kein Gras mehr" ist ein gewaltiges Wort,
+  weil es das hat, was "den Nagel auf den Kopf treffen" nicht hat,
+  das Transzendente.
+
+320. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 221
+  Ich habe nie eingesehen, was Erniedrigendes damit verbunden sein könnte,
+  dass ein Autor äußere Mittel zur Propaganda für sein Werk anwendet.
+  Selbst wenn ein Schriftsteller von Tür zu Tür
+  mit seinen Büchern hausieren ginge,
+  so wäre das noch nicht der hundertste Teil an Entwürdigung,
+  wie wenn er EIN Wort seines Buches mit Rücksicht auf die Leser ändert.
+
+321. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 222
+  Ein gutes Wort von Albin Zollinger: ... wenn etwas so geschrieben sei,
+  dass man VOM STARKSTROM BERÜHRT werde, wenn man nur zu lesen beginne ... 
+
+322. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 223
+DIE ÜBERSCHÄTZUNG MÖRIKES
+  Es kommt nicht darauf an, ob ein Künstler viel Gefühl hat,
+  sondern, ob er in mir viel zu erwecken vermag.
+
+323. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 225
+WORTE ZUR ZEIT
+  Carossa fand das große Wort: "Es muss wieder alles mühsam werden"
+  - Und siehe, schon ist es mühsam geworden, aufs äußerste.
+  Aber nun? Nun sage ich euch:
+  "Wer jetzt nicht zaubern kann, der ist verloren"
+  Erklärend: "Zaubern = Tätigkeit der Phantasie, höchste Arbeit.
+  Dasselbe lag schon in dem erstaunlichen Wort dieses
+  immer neu zu bewundernden Georges Sorel:
+  "In einiger Zeit werden die einzigen noch brauchbaren Menschen
+   die Künstler sein". 
+
+324. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 235
+HEIMATLIEBE
+  Wer vollkommen von Heimatliebe erfüllt ist,
+  ist vollkommen unschöpferisch, und umgekehrt:
+  der vollständig Schöpferische kennt keine Heimatliebe.
+
+325. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 243
+  Nun aber ist Literatur eine Auseinandersetzung zwischen Geist und LEBEN.
+  Den meisten muss man den Geist betonen.
+  Ihnen muss man das LEBEN vorhalten, die Gegenwart.
+
+326. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 245
+  Voltaire sagte, dass man nicht auf die Verrücktheiten,
+  die Übertreibungen der großen Männer achten solle,
+  aber auf das Positive, das sie geleistet haben.
+
+327. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 246
+FORTSCRITT
+  Damit in der Weisheit dieselbe Stufe sich immer ermögliche,
+  muss man in der Wissenschaft fortwährend neue erreichen.
+
+328. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 247
+  Das wir durch Akzeptieren das Leiden besiegen:
+  die berühmte Entdeckung der Katherine Mansfield.
+
+329. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 253
+PROUST
+  Bei einem gewöhnlichen (oder gewöhnlicheren) Schriftsteller,
+  etwa einem Hesse, gibt es Höhepunkte, poetische Orte,
+  um derentwillen das andere da ist: man liest 20, 30 Seiten
+  zu einem solchen Höhepunkt hin, oder mehr. Man ist es gewohnt so.
+  Das eben, dass man so gewohnt ist, ist der Grund,
+  dass die meisten Leute Proust nicht lesen können.
+
+330. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 262
+  Jugend im Alter beweist sich nicht
+  durch feuriges ("jugendliches") Kämpfen für das, was man für richtig hält
+  - wie so viele Greise und andere Leute wähnen -,
+  sondern durch die Fähigkeit, das, was man für richtig hält,
+  in Frage ziehen zu können.
+
+331. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 264
+CULTURE PSYCHIQUE
+  Eine gute Übung der culture psychique für den Geist,
+  also der culture psychique (etwa geistige Gymnastik), ist diese:
+  Längere Zeit stark den Takt betonende Musik (in Kaffeehäusern z.B.),
+  aufdringlich den Takt betonende, oft sich ändernde, scharf eingreifende,
+  hören und nie diesen Takt durch irgendeine Körperbewegung,
+  sei es auch die allergeringste,
+  die einer Hand, einer Zehe, eines Gesichtsmuskels, ebenfalls ausdrücken;
+  ich sage, NIE, auch nicht andeutungsweise.
+  - Eine Stunde täglich.
+  Wenn jeder das täte, - was würden wir dann doch bald für andere Menschen,
+  eine andere Menschheit haben!
+
+332. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 266
+DIALEKT
+  Dialekt anerkenne ich nicht als Sprache.
+
+333. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 269
+PORTRÄT
+  wenn einer Streichhölzer und Kohlen hat, noch so viele Kohlen hat,
+   kann er doch erfrieren, nicht wahr?
+
+334. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 275
+ZEITUNGSLEKTÜRE
+  Bei dem was man heute sonst zu lesen bekommt, versteht man sofort alles,
+  und meistens beim Anschauen des ersten Satzes schon voraus.
+
+335. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 276
+  Das höchste Lobende, das man einem Künstler sagen kann, ist:
+  ER HAT IDENTITÄT ERREICHT.
+
+336. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 279
+  .. So eine richtige Frau hat weder Ironie noch Humor noch Geist,
+  ist folglich genötigt
+  (vorausgesetzt, dass sie eine gewisse Vitalität besitzt),
+  mit jedermann früher oder später Streit zu machen.
+
+337. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 280
+  Das Wort "Prätention" kehrt immer häufiger in meinem Reden,
+  meinem Denken wieder; die Fragen, eine Unzahl von Fragen,
+  gruppieren sich allmählich um dieses Wort herum.
+
+338. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 285
+  Die höhere Problemstellung
+  (d.h. die Fähigkeit, das höhere Problem zu stellen)
+  schließt in sich die Lösung des unteren Problems.
+  (Dasselbe ließe sich wohl ebenso gut an der Mathematik zeigen.)
+
+339. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 287
+DAS REVOLUTIONÄRE
+  Das Verhältnis von Destruktion und Aufbau ist fast jedermann völlig unklar.
+
+340. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 292
+  Was ist denn Geist?
+  Geist ist nicht ein Gemisch von allerlei Erreichtem und Gewesenem;
+  sondern ein ZUSTAND DES ÜBERGANGES.
+
+341. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 299
+  All unsere (wesentlichen) Leiden kommen daher,
+  dass wir nicht in die Zeit hineinpassen.
+
+342. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 312
+  Wehe dem, der Menschen betrübt ohne Notwendigkeit.
+  Aber wehe dem, der das Notwendige nicht tut, um Menschen nicht zu betrüben!
+
+343. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 317
+  Es ist wohl meistens übersehen worden, dass zu großen geistigen Werken
+  auch eine beträchtliche KÖRPERKRAFT erforderlich ist
+  (was zuerst komisch anmuten mag).
+  Man denke an Rodin, Michelangelo, Goethe, Leonardo, u.a.
+  - Aber nun Rilke, Spinoza, Pascal. Proust?! 
+  Eben die beweisen es nicht minder:
+  das Wenige, das sie an Körperkraft besaßen, wurde rasch verzehrt.
+
+344. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 323
+  Das Schrecklichste: wo eine große Intelligenz am Werke ist,
+  ohne Spuren zu hinterlassen.
+
+345. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 325
+KATZE
+  Man sagt dass die Katze grausam sei. Davon glaube ich kein Wort.
+  Denn mit einer Feder, einem fliegenden Papier macht eine Katze
+  genau dieselben Bewegungen, vergnügt sich ebenso damit
+  wie mit einer lebenden Maus, ist ebenso leidenschaftlich. Ich bin sicher,
+  dass Katzen vom Leiden der andern gar kein Bewusstsein haben,
+  und somit fällt jede Möglichkeit der Grausamkeit weg.
+  Die Katze freut sich nur an ihres Opfers Bewegungen,
+  nicht an seinem Leiden.
+
+346. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 332
+WASSERMANN ZITAT AUS "Olivia"
+  S.174 "Denn der Mensch ist doch am Ende das,
+         wozu ihn die formen, denen seine Liebe gilt."
+
+347. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 336
+STIMMUNG ... (28.9.1938)
+  Die sanfte Umnebelung der Leute beginnt schon.
+  Schon hat der Geist zu FAHREN begonnen;
+  sie sind nicht mehr da, wo sie waren; eine Kluft ist geweitet;
+  ein gleiches Wort kann sie nicht mehr erreichen.
+  Sie schlagen einen Weg ein zwischen den beiden Dingen:
+  Weinen und süßem Erglühen.
+  Und die Kraft, die sie auf diesen Weg treibt,
+  ist sie, die ich gefürchtet habe über alles, meine Todfeindin,
+  ihre jahrzehntelange Faulheit.
+
+348. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 340
+DAS GLEICHNIS VON DEN BLINDEN
+  (zum Bild von Breughel.) - Ein Blinder fühlt sich unsicher.
+  Aber viel Blinde zusammen! "Eintracht macht stark", sagen sie,
+  und fallen miteinander in die Grube. 
+
+349. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 341
+  Phantasie hat die Vernichtungsmöglichkeit alles Irdischen in sich.
+  Sie ist mächtiger als das Irdische
+  - ist das uns bekannte Mächtigste überhaupt. -
+  Kann somit auch ungemein gefährlich sein, unter bestimmten Unständen.
+  Doch kommt es darauf an, wo man, solchem Geschehen gegenüber sich aufstellt.
+
+350. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 342
+  Wenn man jemandem die Wahrheit sagen will,
+  muss man etwas Schmeichelndes voraus senden.
+
+351. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 352
+POLITIK UND KUNST
+  Denn ein Mensch kann nur tätig leben; das Höchste ist die Erkenntnis,
+  aber die Erkenntnis lässt sich nicht BEWAHREN.
+  Man muss immer misstrauisch sein gegen vor langer Zeit erworbene
+  und nicht unaufhörlich durch Tätigkeit ERNÄHRTE Erkenntnisse;
+  sie sind meistens tot.
+
+352. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 363
+  Wer die Geschichte nicht versteht, wer kein Verhältnis zur Geschichte hat,
+  keine Teil liebt und als den seinigen auserkor,
+  - der wird auch keine Geschichte haben.
+  - der ist auch niemals ein wirklicher Revolutionär, niemals schöpferisch;
+  er kann nur ein Opportunist sein.
+
+353. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 379
+THOMAS MANN "Joseph in Ägypten"
+  Dass überaus großartige Dinge da sind, wird nie zu bestreiten sein.
+  Die Durchdachtheit ist ungeheuer.
+  Die Sphinxe - ein Abzeichen über diesem Buch; die Pyramiden auch,
+  wenn man an die ungeheure Arbeit denkt.
+  (Während ich von den Sphinxen las, hörte ich immer,
+   ohne loskommen zu können, die Verse des zweiten "FAUST":
+    "Sitzen vor den Pyramiden, / zu der Völker Hochgericht; /
+    Überschwemmung, Krieg und Frieden - / und verziehen kein Gesicht")
+
+354. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 385
+  Vorschlag zu Erwägendes.
+  Es wäre noch einmal ein Buch zu schreiben unter dem Titel
+    DIE FAULHEIT,
+  als größte Macht im "Leben" sie zeigend.
+
+355. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 390
+LYRIK
+  "INNERER LEIB" und "INNERES Gehör": das ist, was es hier braucht.
+  (Dies hier nur als Andeutung;
+   man kann es übrigens da kaum viel weiter bringen)
+
+356. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 392
+KUNST DES ERZÄHLENS
+  Die Hauptsache des Erzählens besteht darin,
+  das Interesse des Zuhörers durch logische Darlegungen abzulenken,
+  ihn zu beschäftigen, um ihn dann mit dem Realen,
+  dem, worauf es ankommt (dem "Poetischen" hätte man früher gesagt)
+  zu ÜBERRASCHEN.
+  Es wirkt nämlich, wenn man direkt darauf zuschreitet in der Regel nicht.
+
+357. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 397
+  Es ist unmöglich zu diskutieren,
+  wenn man fortlaufend schöpferisch tätig ist;
+  es ist unumgänglich,
+  dass man zum Diskutieren mehr oder weniger Schlagwörter verwendet.
+  Wer Schlagwörter verabscheut kann niemals diskutieren.
+
+358. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 399
+  Glauben kann nur durch Glauben besiegt werden.
+  Es wird aber immer (zuletzt) der SCHWERERE (schwierigere) Glauben sein,
+  welcher siegt.
+
+359. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 401
+  Absoluten Altruismus gibt es nicht, oder nur momentweise.
+  Denn in kürzester Zeit würde er zur Auflösung, zum Tode führen.
+
+360. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 402
+  Zwischen den zwei Ewigkeiten:
+  dem Meditieren und dem Korrigieren (dem Eliminieren),
+  ist für mich der winzige Teil, der für die meisten fast alles ist:
+  das Niederschreiben des Textes.
+
+361. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 416
+WORTE ZUR ZEIT (März 1940)
+  Zu nichts mehr dienend als zum kalten Tod.
+  Denn aus der Verzweiflung kann nur ein Umsturz,
+  die große Veränderung kommen. Die Menschen sind faul, verheerend faul.
+  - Wie sollte ohne totale Veränderung aus diesen Weltumtrieben
+    etwas Gutes hervorgehen? -
+
+362. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 424
+ Die wahren Schriften:
+ Sie geben dem Leben nicht recht, aber das Leben wird ihnen recht geben.
+
+363. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 427
+  Das meiste Unglück kommt davon: dass die Menschen nur handeln wollen,
+  ohne zu denken; oder nur denken ohne zu handeln.
+
+364. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 432
+  Das Wort Heraklits: psyches ästi logos äôyton ayksôn
+  ("Die Seele, die das Wort gastlich (gastfreundlich) aufnimmt, bedingt,
+    dass es sich selbst vermehrt")
+  sagt dasselbe wie
+  "Wer wirklich arbeitet, kann nicht mehr aufhören zu arbeiten".
+
+365. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 440
+  Ein Irrtum ist die Meinung, der Geist habe ein besonderes GEBIET,
+  während in de anderen Bereichen, daneben in den gewöhnlichen Bereichen,
+  die Gewöhnlichkeit genüge.
+  Eine geistige Natur kann sich eben gerade nicht vom Geiste trennen;
+  und die Gewöhnlichkeit wirkt auf sie tödlich auch in den untersten Regionen
+  (und dort ist sie, infolge des allgemein verbreiteten Irrtums,
+  am meisten preisgegeben, am schutzlosesten).
+
+366. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 441
+  "Es ist so schwer, einer bedeutenden Persönlichkeit zu begegnen."
+  Dazu braucht es nämlich zwei.
+
+367. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 442
+AUSJUNFT
+  Jeder Mensch, der eine Zeitlang tätig im Leben gestanden hat,
+  ist immer bedrängt von vielen Dingen, die durch ihn erledigt werden sollen;
+  immer von zu vielen: er wird nie der Erledigung Herr werden;
+  mit welcher soll er beginnen?
+  Die Antwort gibt Auskunft über seinen Charakter und seine Berufung.
+  Der faule und nichtige Mensch wird das Leichteste zuerst vornehmen;
+  der geschäftliche und weltliche das äußerlich Dringlichste;
+  der asketische das Schwerste;
+  der bedeutende und allein Großes erreichende das Wichtigste
+  (welches sehr wohl auch das Schwerste sein kann).
+
+368. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 445
+VON DER LIEBE
+  Einige , immer "verliebt", treiben immer herum, werden herumgetrieben,
+  ... immer neuen Verführungen ausgesetzt, und immer neuer öde.
+  Das "Liebesleben" scheint bei ihnen alles zu sein;
+  in Wirklichkeit sind sie impotent. Impotent in der Liebe.
+  Unproduktiv: Liebe ist Leistung. Es fehlt die wahre Kraft
+  und vor allem fehlt der Mut. Es braucht Mut, in den klaren Tag hineinzugehen;
+  Mut und Stärke den SOMMER zu ertragen.
+  Jene sind nur fähig den Frühling zu ertragen und höchstenfalls den Herbst.
+  Darum, weil sie selbst, innerlich also, nicht produktiv sind.
+  Dass überall Veränderung sein muss, ist Grundgesetz;
+  wer nun die Veränderung nicht durch Leistung herbeiführt, braucht äußere;
+  wie wollte er den Sommer ertragen,
+  seine Unbeweglichkeit, seine unbewegliche Größe?
+    Gar manches Herz verschwebt im Allgemeinen;
+    Doch widmet sich das edelste dem Einen. (Goethe)
+
+369. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 446
+  Bevor man das Richtige findet,
+  sucht man es immer wieder durch etwas anderes zu ersetzen.
+  Darüber, dass nichts das Richtige ersetzen kann,
+  täuscht man sich immer wieder.
+
+370. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 447
+  Nichts ist schwierig. Schwierig ist, herauszufinden
+  dass es nicht schwierig ist.
+
+371. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 454
+ECKERMANNS GESPRÄCHE MIT GOETHE
+  Bei Eckermann hören wir wirklich Goethe,
+  selbst seine Stimme glauben wir zu hören.
+  - Der Fall dürfet einzigartig sein.
+    Das Außerordentliche, durch das er zustande gekommen ist -
+  (S.87 Inselausgabe Leipzig 1921):
+  "Wer .. sich nicht mit Gewalt isoliert, ist verloren."
+
+372. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 460
+  Weit ist es ins gelobte Land.
+  Und wenn man endlich ankommt - und man kommt an -,
+  dann hat man nicht mehr die Kraft, zu sehen und zu greifen,
+  denn die Augen sind erloschen, die Hände und Beine sind lahm geworden,
+  und bald stirbt man ganz.
+  Das ist traurig, aber ist es nicht; oder ist es nur für die Unverständigen;
+  für die, die nichts wissen von dem Gesetz alles Seins.
+
+373. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 461
+  Es gelingt jedem Menschen das, was er WIRKLICH will.
+  (Man kann aber nicht vieles - vielerlei Dinge - wirklich wollen.)
+
+374. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 463
+FREIHEIT UND SICHERHEIT
+  "Das Grundphänomen des Faschismus war,
+   dass die Menschen ihre entwertete Freiheit für die Sicherheit hergaben
+   - und dass sie bei diesem Tausch um beides betrogen wurden.
+   DENN ES GIBT DIESE WAHL ZWISCHEN FREIHEIT UND SICHERHEIT GAR NICHT,
+   weder so noch so; es gibt nur entweder die Unordnung,
+   in der beide verloren sind, oder die Ordnung, die beide vereinigt;
+   AUF DER SUCHE NACH DIESER ORDNUNG ABER GÄRT UND BRODELT DIE WELT."
+   (Zitat: Herbert Lüthy, 'Schweizer Annalen', Nr.4 1945)
+    Dieser Mann ist unersetzbar.
+
+375. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 467
+VOM GEIST DER PRAKTISCHEN HAUSFRAU
+  Sie hat einen Tisch - damit er diene.
+  Sie lässt ihn mit Lack überziehen - damit er schöner sei.
+  Sie legt ein Tuch darauf - um die Schönheit zu schonen.
+  Ein Plateau darauf - um das Tuch zu schonen.
+  Ein Linoleum darauf - um das Plateau zu schonen.
+  Ein Papier darauf - um das Linoleum zu schonen.
+  Nun kann der Tisch dienen, aber höchstenfalls in dem Maße,
+  wie er anfangs auch gekonnt hätte.
+
+376. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 472
+  Übermächtige Ähnlichkeit
+  in den Bedingungen des Militärs und der Geistlichkeit:
+  In ihrem beruflichen Dasein und Dasein überhaupt das VERANTWORTUNGSLOSE.
+  Verantwortungsloses nicht im Sinne eines Charaktermangels,
+  sondern, indem die Verantwortung, die von ihnen gefordert wird,
+  äußerst reduziert ist; sie ist sehr präzis, reicht aber in der Hierarchie,
+  in der sie eingefügt sind, nur ein oder zwei Glieder weit
+  - und ist vollkommen zu Ende.
+  Daher die Ruhe, die Gesundheit, lange Lebensdauer
+  (abgesehen vom Tod durch Krieg bei der ersten Kategorie).
+  Sie sind von der Verantwortung losgesprochen,
+  aber auch - von der Weltentwicklung.  
+
+377. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 473
+  "Es ist höchst verwerflich, die Gesetze über das, was ich tun soll,
+   von demjenigen herzunehmen oder dadurch einschränken zu wollen,
+   was getan wird." (Kant)
+
+378. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 480
+  Wie wenig LENKEND der Mensch ist; wie das politische (das allgemeine)
+   Geschehen nicht nur ohne seine Bestimmung,
+   sondern oft sogar ohne sein Wissen geschieht.
+   Nicht nur wichtig, sondern "tief" (das heißt sehr wichtig)
+   scheinen mir die folgenden Sätze, von DUMMEN Menschen gesprochen:
+   - Krieg gegen wen? Ist es möglich, dass wir im Krieg sind,
+     ohne es zu wissen? ...
+     Ein Krieg? Ach ein Krieg ist eine komplizierte Sache,
+     dass niemals ein CAFONE sie verstehen wird ...
+     Ein CAFONE sieht einen winzigen Teil des Krieges,
+     beispielsweise die Einführung der Karte, und das macht Eindruck.
+     'Der aus der Stadt' sieht einen viel größeren Teil,
+     nämlich die Kanone und die Waffenfabriken.
+     Der König (Regent) überblickt ein ganzes Land.
+     Gott allein sieht alles.
+
+379. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 482
+  "C'est la vie!" Das ist das Leben!
+  (mit dem genaueren Sinn: So ist das Leben.)
+  Am Ende: Bist du ganz sicher, dass dies das Leben ist? 
+  - Da sehe ich: er ist gar nicht sicher, Was denkt er überhaupt,
+    während er so spricht? -
+    Nein, das ist nicht das Leben.
+
+380. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 487
+CONRAD FRERDINAND MEYER
+  Man "erweist" ihm, dem Größten der Schweiz aus jener Zeit, "Ehre",
+  aber er wirkt nicht; man liest ihn nicht oder nur aus äußerlicher Pflicht.
+  Die Gedichte. Nun es gibt Au8snahmen.
+  In seiner am wenigsten beachteten Versdichtung, "Egelberg",
+  findet sich etwas so Wunderbares:
+
+    Es ging ein Himmelskind verloren
+    Und blieb dem Himmel doch getreu,
+    Es ward von einem Weib geboren
+    Und wusste doch, woher es sei.
+
+  Der letzte Vers: "UND WUSSTE DOCH, WOHER ES SEI",
+  er ist für mich etwas vom Schönsten und Großartigsten, was mir begegnet ist.
+  Im Zusammenhang stehend mit dem unvergleichlichen Ende
+  des 'Sterbenden Menschen', wo Gott redet:
+    "Du bliebst am Ursprung. Ursprung ist das Ziel
+     Du, unverloren an das Lebensspiel,
+     Nun musst, mein Mensch, du länger nicht mehr warten."
+
+381. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 490
+  Gerettet ist nur, der keine Rettung mehr braucht.
+
+382. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 491
+  Der einzige Gedanke, der einem beim Anblick des Feuerwerks kommen kann:
+  Wie viel das kosten mag?
+
+383. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 493
+ZU DER UNVOREILIGEN VERSÖHNUNG
+  Aus einem Buch über Cook (den Weltumsegler):
+  "In seiner Bestimmung und in seinem Genie lag es nicht,
+   den Hoffnungen der Menschen zu schmeicheln,
+   sondern sie einer strengen Wirklichkeit gegenüber zustellen
+   und sie in ihre Schranken zu weisen zwischen zwei Meeren aus Eis."
+
+384. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 494
+  In einem Sinne ist das Ärgste, was es auf der Welt gibt, das Gefängnis:
+  unter allen Übeln dieser Erde. Jede Art von Gefängnis:
+  DIE VERHINDERUNG DER TÄTIGKEIT.
+
+385. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 504
+DIE ZAHLEN
+  Es gibt nur zwei VOLLE Zahlen: Die EINS und die Zwei.
+  Schon die Drei ist nur noch eine Hilfszahl, eine halbe Zahl.
+  WEITER ABER ALS BIS DREI KANN NIEMAND ZÄHLEN. (Anm.: vgl. F.H.B.)
+
+386. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 509,553
+DEM KÄUZLEIN ZU EHREN
+  Wie war es froh und lebhaft, wild und toll,
+  in jenen Frühlingstagen, vor mehr als zehn Jahren im fernen Holland.
+  Es kam die schreckliche Reise, die es machen musste, kaum ein Jahr alt,
+  allein in einem engen Korb, in Frachtbahnhöfen, Güterwagen,
+  wohl mindestens 24 Stunden lang, von der Nordsee bis nach Zürich,
+  wo es entsetzt ankam, unter Menschen, die ihm fremd waren,
+  und das einzige Mal, in zehn Jahren, krank.
+  Das Käuzlein fand sich wieder zurecht
+  und lebte in vollster Gesundheit weitere neun Jahre:
+  Kenner schätzten es, als es zehnjährig war, auf drei oder vier.
+  Sein Tod war friedlich,
+  und seine Auferstehung ging ohne einen Fehler vonstatten.
+  ...
+  Details, eventuell noch zu verdeutlichende:
+  Das unsäglich dünne Stimmchen, in den letzten Monaten, wenn es schnurrte,
+  - und es schnurrte häufig, wenn ich in die Nähe kam,
+  obgleich meistens auf der Flanke liegend,
+  bebend und nur mit großer Mühe den Kopf aufrichten könnend.
+  Dann aber unvorhergesehenst, langgezogener schauerlich tiefer und rauer Ton.
+  Denn im elften Jahr, von dem Moment an,
+  da es in den Jura transportiert wurde,
+  - denn es war ein weit gereistes Tier - ging es ihm auf einmal nicht mehr gut
+  und es holte in kurzer Zeit die Hälfte seines Alters nach und verdoppelte es
+  (es hatte nicht fünf Jahre alt geschienen, nun war es zwanzig).
+  Dies war im Moment, da sein Besitzer in schwierigste Lebensumstände geraten,
+  in diesem Exil zu leben beginnen musste.
+  Weil er auf halber Höhe des Jura, in Schnee und nahe unendlichen Wäldern
+  in einem Exil, das auch eine Hölle war:
+  Geschah die gleichzeitige, vollständige Veränderung des Käuzleins deshalb
+  (oder war ihm einfach die Landschaft unangenehm)? 
+  - Wer ergründet die Tiefe einer solchen
+  uns und vielleicht auch ihr selber nie bekannten SEELE?
+  Das Käuzchen, das gestorben ist,
+  - nun kommt es in Träumen immer wieder, nun bleibt es immer da.
+  Es redet dann freundlich und aus ganz großer Nähe. Es war ja immer da!
+
+387. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 514
+DER UNTERSUCHUNGSGEFANGENE
+  Ein Gefangener in Untersuchungshaft, in einer Zelle,
+  was hat er? Nur eins: ZEIT.
+  (Nicht einmal einen Bleistift hat er; keine Luft;
+   kein Nachschlagewerk; kein Gesetzbuch; kein Telefon;
+   keine Auskünfte über das Geringste von draußen,
+   auch nicht, was ihn betreffend dort vorgeht.)
+  Der Gefangene vor dem Untersuchungsrichter - wenn er endlich dasteht -
+  was hat er? Nur eins: KEINE ZEIT.
+  Keine zwei Dinge können sich in höherem Maße unterscheiden!
+  Er sieht, dass er seinen Fall nicht gekannt hat -
+  vielleicht ist es ein anderer Fall.
+  Des Richters Fragen fallen wie Schüsse.
+  Alle seine Arbeit - trübes Gespinst dort in der Zelle ...
+  Hier ist's hell. Schon ist er erschossen.
+
+388. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 520
+DAS MENSCHLICHE UNGLÜCK
+  Entweder überlegt er und handelt nicht,
+  oder handelt ohne überlegt, organisiert zu haben, und ohne mehr zu SEHEN.
+  (Es gilt übrigens immer neu zu organisieren.) Oder beides nicht.
+
+389. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 522
+  Die größten Geheimnisse liegen offen da.
+
+390. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 525
+  "Ein Tag oder ein Leben ist vielleicht nicht genug, 
+   um Goethe zu feiern, aber ein ganzes Jahr ist bestimmt zuviel."
+   (Erich Kästner)
+
+391. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 526
+  Das Tiefste Wort aber von Goethe
+  - wenn ich eins als "das tiefste" bezeichnen müsste -,
+  "Die Weisheit ist nur in der Wahrheit."
+  Da gehe der Herr Professor hin und erkläre!
+  Aber dies ist es: "Alles Lebendige strebt nach dem Gericht."
+
+392. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 529
+GESCWINDIGKEITEN
+  Oder welches ist die größte Geschwindigkeit?
+  Dazu muss aber vorerst bemerkt werden, dass es sich bei dieser Betrachtung
+  nicht um Geschwindigkeiten im physikalischen Sinne handelt,
+  sondern nur um solche, mit denen der Mensch eine unmittelbare Beziehung hat,
+  um von uns wahrnehmbare, sinnlich erfahrbare Geschwindigkeiten.
+  Du suchst in deinem Gedächtnis nach etwas,
+  nach einem Wort, im besonderen nach einem Namen.
+  Dieses Wort - du hast er mehr als einmal schon beinahe erwischt;
+  es streicht an deinem Kopf vorbei, oder kreist um deinen Kopf,
+  wie in der Dunkelheit ein Falter ...
+  Plötzlich hast du's. Aber ebenso plötzlich ist es schal und leer geworden;
+  keine, auch nicht die allergeringste Spannung besteht zwischen dir und ihm;
+  keine Freude, keine, auch nicht die allergeringste Genugtuung
+  über den Fund ist in dir.
+  - Diese Geschwindigkeit nun, mit der jener Reiz, jenes prickelnde Gefühl,
+  SICH VERFLÜCHTIGT HAT, ist die größte Geschwindigkeit, die ich kenne.
+
+393. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 530
+APAISE-TOI
+  Was ist seit langem das Finsterste?
+
+394. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 537
+  Der Treueste aber wird der Stärkste sein.
+
+395. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 539
+  ... aber das LEBEN SELBST ist eine Tortur.
+
+396. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 540
+GOLGATHA
+  ... Und ich frage mich, ob nicht vielleicht Kafka
+  das größte Wissen hatte unter den Heutigen. - Und den größten Glauben.
+
+
+397. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 542
+QUANTENTHEORIE
+  Und plötzlich fasst mich die Erinnerung: Planck!
+  Etwas später las ich eine summarische Darstellung der Quantentheorie:
+  und nun, in EINEM Augenblick, war alles klar!
+  Sollte ein derartiges Gesetz nicht in den verschiedenen Bereichen
+  alles Existierenden wirksam sein?
+  Anderer Versuch: (Nachzuprüfen.)
+  Die Energie, die ein Ding besitzt, sei 100
+  und die Wirkung, genau entsprechend, sei 5.
+  Um die Wirkung 6 zu erzeugen, sei - nehmen wir an - die Energie 120 nötig.
+  Wenn nun aber dem Ding die Energie 110 oder 119 verliehen wird,
+  also 10 oder 19 Energiemengen mehr, als es vorher hatte,
+  - zu der Wirkung 6 reicht dies nicht, die Wirkung bleibt nach wie vor 5 -,
+  wo geht die Energiemenge von 10 oder 19 hin? Sie ist verschwunden.
+
+398. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 543
+DAS GESETZ DES PARADOXEN
+  "Die Duplizität von Ereignissen ist vor allem den Erfindern bekannt.
+   Die größten Erfindungen aller Zeiten
+   wurden meist gleichzeitig von zwei oder drei Erfindern gemacht.
+   Warum das so ist, vermögen wir kaum zu ahnen.
+   Liegt etwas, das sich ereignen wird,
+   schon jetzt gewissermaßen 'in der Luft',
+   so dass es besonders Feinfühlige erahnen?
+   Aber wie ist es mit dem Gesetz der Serie?
+   Verläuft unser Leben wirklich periodisch,
+   gewissermaßen IN QUANTENSPRÜNGEN?"
+   (Zeitung-Zitat: Nürnberger Nachrichten "Das seltsame Gesetz der Serie") 
+
+399. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 545
+  Die Physik (die neue) ist das Entsprechenste.
+
+400. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 546
+  Die Lehre von den Quanten (das Planksche "Wirkungsquantum"):
+  das ist es, was Apotheker 'Herr Meyer' niemals, bis in alle Zeiten nicht
+  (sonst wäre er nicht mehr 'Herr Meyer), begreifen kann.
+  - Denn ER ist es, der das Richtige immer durch etwas anderes ersetzen will.
+
+401. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 547
+  Dämmerung im Einschlafen
+  - oder zwischen Denken und Entstehen des Traumbilds:
+  Der Mensch steht der Vergangenheit gegenüber,
+  wie er bis in die letzten Jahre dem Atom gegenüber stand.
+  Weh ihm, wenn auf einmal die Vergangenheit,
+  indem der Damm bricht, hereinstürzt!
+
+402. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 548
+  GESUNDER MENSCHEVERSTAND! Der Begriff ist wohl völlig eindeutig;
+  jeder weiß, was damit gemeint ist? Ich nicht.
+  Die Mensche sind zu gesund und haben zu wenig Verstand.
+
+403. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 549
+  Warum man immer Texte veröffentlichen muss von Leuten,
+  die nichts zu sagen haben und nicht schreiben können?
+  Aber wer nicht schreiben kann, sollte doch wenigstens etwas zu sagen haben:
+  Dies kann nichts anderes sein als wissenschaftliche Übermittlung.
+
+404. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 550
+LEISTUNG, MUT
+  Du kannst ja überhaupt nicht anderswo wirklichen Mut
+  und wirkliche Kraft zeigen, als in der Nacht und wenn du verlassen bist.
+  Das heißt:
+  Wo immer wirklicher Mut und wirkliche Kraft gezeigt worden sind,
+  - war es überaus schwer.
+
+405. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 551
+  Geschlechtliche LIEBE ist sicher zu messen unmittelbar nach Beischlaf.
+
+406. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 554
+DIE ZWEI ARTEN VON NEID
+  Der eine Neid ist immer auf bestimmte Personen gerichtet,
+  gegen die er Hassgefühle erzeugt;
+  der andere Neid bezieht sich viel weniger auf Personen
+  - und im Grunde wohl überhaupt nicht auf Personen - als auf Umstände.
+  Der Neid der ersten Art entspringt ausschließlich starken Trieben
+  - wie Ehrgeiz, Habgier, Geiz -;
+  der zweite dagegen beruht auf Überlegungen
+  über das Verhältnis zwischen objektiven Bedingungen und Leistungsfähigkeit
+  - zwischen äußeren Umständen und eigenem Wert.
+
+407. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 557
+  Wer nicht fähig ist zu hassen,
+  wahrlich, dies scheint mir ohne Ausnahme zu gelten,
+  dessen sogenannte Liebe ist nicht viel wert.
+
+408. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 558
+  "An ihren Früchten sollt ihr sie erkennen":
+  Ein im höchsten Grade antibürgerliches Wort.
+  Der geistige Mensch misst den Menschen an seiner Leistung;
+  der bürgerliche an seinem Benehmen, seinem Stand (z.B. Wohlstand). -
+  Der eine schaut auf das,
+  was ein Mensch, alle Bedingungen einberechnet, HERVORBRINGT;
+  der andere darauf, was ein Mensch VERMEIDET.
+
+409. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 562
+  Schön ist dieser französische Ausdruck: LIBERTÉ PROVISOIRE.
+  Stellt das Leben dar.
+
+410. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 565
+  Ich schreibe drei Sätze:
+  1) Überall geht es in Endlose.
+  2) Man kann von den Bergen in der Ebene nicht ausruhen
+     und von der Ebene nicht in den Bergen.
+  3) Kraft erreicht man nicht durch Zurückhaltung,
+     sondern durch Hinwendung.
+  - und stelle fest: alle drei tönen so lapidar,
+  dass sie den meisten Menschen nichts sagen werden; sie werden abgleiten.
+
+411. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 566
+  Denn ich selber habe bei Goethe und anderen
+  immer noch und noch einmal "das tiefste Wort" finden müssen
+  - wobei es aber immer ein anderes war.
+
+412. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 571
+PRÉSENCE
+  "Ich komme nicht nach beim Arbeiten" klagte ein Schüler dem Rabbi X,
+  "wie ich auch renne, ich ereile die Dinge nicht."
+  "So schreite langsamer", erwiderte der Rabbi, "und du ereilst sie."  
+
+413. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 572
+  Das Nichtverstehen und die Sterblichkeit sind die Könige (Regenten).
+
+414. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 574
+KARL KRAUS
+  Kein Glück kann mir dieses Glück ersetzen, das mir nie widerfahren wird:
+  dass ich bestünde vor dem Angesicht des Meisters;
+  dass ich von ihm nicht verworfen würde.
+  was soll noch der Tod mich schrecken? Nun bleibt nur Eines:
+  dass ich bestehen kann vor meinem Angesicht.
+
+415. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 575
+  Wer getröstet werden kann, wer getröstet werden will,
+  ist noch bei weitem nicht auf der letzten Stufe des inneren Leides.
+  "Er hat sein unaussprechliches Leid mit stolzer Ruhe ertragen,
+   als aber jemand kam, der ihn trösten wollte, da empörte er sich"
+   (Ebner-Eschenbach)
+
+416. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 576
+FRAGMENT
+  ... sah den Tod und die Hoffnungen, die Entscheidung und die Größe
+  - das Ende des Menschen, seine Größe und seine Güte,
+    das Gesetz von den Hereinbrechenden Rändern
+    und das äußerlich kolossale Gesetz "von der Vergeudung" -
+  die HIFFNUNG sah er und die EINZIGARTIGKEIT des Menschen,
+  dieses ungeheuren Wesens, das die Sterne WIEDERberührt,
+  das das Weltall, das es einst verlassen hat ("du bleibst am Ursprung"),
+  wiedergewinnt auf seine besondere, seine durch Sterblichkeit gekennzeichnete
+  und ausgezeichnete Art wiedergewinnt,
+  - sah all dies in IHM, dem Atom,
+  das keiner noch mit Leibesaugen gesehen hat, ..
+
+417. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 577
+  Doch wo er einmal war, da wird er immer wohnen.
+
+418. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 584
+MONDWALD
+  Eine Aufgabe fallen zu lassen hilft nicht dazu eine andere zu erledigen.
+  Sondern umgekehrt:
+  das Erledigen einer Aufgabe hilft dazu, eine andere zu erledigen.
+
+419. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 586
+MÜHSAL
+  Wenn man über den See schwimmt, allein, ist das Schwierigste,
+  jedenfalls das Mühsamste, die Monotonie zu ertragen, die dadurch entsteht,
+  dass man lange Zeit nicht im geringsten sieht, ob man vorwärts kommt;
+  das Wasser ist überall dermaßen gleich
+  (höchstens etwa ein Kork, ein Stück schwimmender Algen oder ein Blase
+   spenden manchmal ein wenig Trost).
+  Das jenseitige Ufer scheint nicht näher zu kommen,
+  die dort fahrenden Autos, winzige Punkte, werden nicht größer;
+  die Dinge auf dem verlassenen Ufer dagegen, 
+  wenn man einmal die ersten paar hundert Meter zurückgelegt hat,
+  bleiben immer unverändert. ...
+
+
+420. ZITIERTE TEXTE UND TEXTNACHWEISE
   -----------------------------------
   Friedrich Dürrenmatt
   ÜBER LUDWIG HOHL
@@ -1761,6 +3060,3 @@ VON DEN HEREINBRECHENDEN RÄNDERN
   Suhrkamp Taschenbuch 1000 erste Auflage 1984
   © Suhrkamp Verlag Frankfurt am Main 1981
   ----------------------------------------
-
-
-
