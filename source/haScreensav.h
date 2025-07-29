@@ -40,6 +40,7 @@
 #define ID_TIMEDISPLAY   113 
 #define ID_FILENAME      114 
 #define ID_RESOLUTION    115
+#define ID_TEXTSTEP      116
 
 #define ID_BE_SEEING_YOU  120  // BMP image instead of ICON
 #define IDI_BE_SEEING_YOU 121  // ICON image 32x32

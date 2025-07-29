@@ -265,10 +265,10 @@ void ScrSavSetupDrawFont(HWND _hDlg)
   SetTextColor(hdc, rgbColor);
 
   GetClientRect(_hDlg, &rc);
-  // create a black box 
-  SetRect(&rc, rc.left+78+19, rc.top+85, rc.right-85, rc.bottom-16);
+  // Create a black box for a text example
+  SetRect(&rc, rc.left+(7+55+32), rc.top+(54+32), rc.right-(200-6-106), rc.bottom-(100-76-14)-6);
   FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
-  // place text in black box
+  // Place the text example into black box
   SetRect(&rc, rc.left, rc.top+5, rc.right, rc.bottom);
   DrawText(hdc, textSizeExample, strlen(textSizeExample), &rc, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
   DeleteObject(SelectObject(hdc, hFontTmp));

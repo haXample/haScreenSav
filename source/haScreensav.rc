@@ -17,10 +17,15 @@
 // the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
 // Boston, MA 02111-1307, USA.
 
-// Supporting the configuration dialog box
-// Most screen savers provide a configuration dialog box to let the user specify customization data
+////////////////////////////////////////////////////////////////////////////////
+//
+//               Screensaver Configuration Setup Dialog Menu
+//
+// Most screen savers provide a configuration dialog box 
+//  to let the user specify customization data
 //  such as unique colors, drawing speeds, line thickness, fonts, and so on.
-//  To support the configuration dialog box, the application must provide a dialog box template
+//  To support the configuration dialog box, 
+//  the application must provide a dialog box template
 //  and must also support the ScreenSaverConfigureDialog function.
 //  Following is the dialog box template for the sample application.
 //
@@ -39,8 +44,8 @@ BEGIN
   IDS_INIFILE, "haScrSav.ini"   // Phantom ini-file (.SCR handles it obscurely)
 END
 
-//DLG_SCRNSAVECONFIGURE DIALOG 6, 18, 164+32+15, 61 // Window position & SIze on screen (X,Y,Wdth,Hght)
-DLG_SCRNSAVECONFIGURE DIALOG 200, 200, 164+32+20+10, 100 // Window position & SIze on screen (X,Y,Wdth,Hght)
+// Window position & SIze on screen (X, Y, Wdth, Hght)
+DLG_SCRNSAVECONFIGURE DIALOG 200, 200, 7+55+164, 100 
 LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
 STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
 CAPTION "  haScreenSaver Setup"
@@ -51,17 +56,18 @@ BEGIN
                     SS_BITMAP | SS_CENTERIMAGE | SS_REALSIZEIMAGE,
                     7, 9, 38, 36
     // Define the dialog menu     ID              X              Y   Wdth Hght
-    GROUPBOX      "Redraw Speed", ID_GRPBOX,       0+32+20+10,    6, 106, 40
-    SCROLLBAR                     ID_SPEED,        5+32+20+10+1, 31,  96, 10
-    LTEXT         "Fast",         ID_TXTFAST,      6+32+20+10,   21,  20,  8
-    LTEXT         "Slow",         ID_TXTSLOW,     78+32+20+12+6, 21,  20,  8
-    PUSHBUTTON    "OK",           ID_OK,         117+32+20+10,   54,  40, 14
-    PUSHBUTTON    "Cancel",       ID_CANCEL,     117+32+20+10,   76,  40, 14
-    PUSHBUTTON    "Font Color",   ID_FONTCOLOR,  117+32+20+10,   10,  40, 14
-    PUSHBUTTON    "Font Type",    ID_FONTSIZE,   117+32+20+10,   32,  40, 14
-    RADIOBUTTON   "Time display", ID_TIMEDISPLAY   7,            50,  52, 14
+    GROUPBOX      "Redraw Speed", ID_GRPBOX,       7+55,          6, 106, 40
+    LTEXT         "Fast",         ID_TXTFAST,      7+55+6,       21,  20,  8
+    LTEXT         "Slow",         ID_TXTSLOW,      7+55+6+78,    21,  20,  8
+    SCROLLBAR                     ID_SPEED,        7+55+6,       31,  96, 10
+    PUSHBUTTON    "Font Color",   ID_FONTCOLOR,    7+172,        10,  40, 14
+    PUSHBUTTON    "Font Type",    ID_FONTSIZE,     7+172,        32,  40, 14
+    RADIOBUTTON   "Time display", ID_TIMEDISPLAY,  7,            50,  52, 14
+    LTEXT         "",             ID_RESOLUTION,   7+55+6,       53, 106, 14  // optional
+    PUSHBUTTON    "OK",           ID_OK,           7+172,        54,  40, 14
+    PUSHBUTTON    "Cancel",       ID_CANCEL,       7+172,        76,  40, 14
     PUSHBUTTON    "Text File",    ID_TEXTFILE,     7,            76,  40, 14
-    LTEXT         "",             ID_RESOLUTION ,  6+32+20+10,   53, 106, 14  // optional
+    PUSHBUTTON    "Text Step",    ID_TEXTSTEP,     7+55,         76,  40, 14
 END
 
 ////////////////////////////////////////////////////////////////////////////////

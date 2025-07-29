@@ -96,7 +96,10 @@ char* pszhaScrFontType = szhaScrFontType;      // selected character font
 COLORREF acrCustClr[16];       // array of custom colors 
 CHOOSECOLOR cc;                // color palette dialog box structure 
                                
-int _i, _j, _k; 
+int _i, _j, _k;
+int _stepFlag = FALSE; // Flag: Stepping through text file 
+int _stepFlagCursor = FALSE; // Flag1: Stepping through text file 
+  
 UINT bufsizeF, bufsizeT;
 
 HRESULT hr;
@@ -105,6 +108,8 @@ HFONT hFont, hFontTmp;
 
 POINT cact, csav, pt;  // Mouse
 
+HWND hDesktop;				 // Desktop window
+HWND hTextStepButton;  // TextStep Button window
 HWND hChooseColor;
 HWND hwnd;             // owner window
 HWND hSpeed;           // handle to speed scroll bar 
@@ -119,6 +124,7 @@ HDC  hdc;              // device-context handle
 //   LONG bottom;
 // } RECT, *PRECT, *NPRECT, *LPRECT;
 RECT rc;         
+RECT rcTextStep;         
 
 HMONITOR monitor;                      // Monitor geometrics
 MONITORINFO info;
@@ -475,7 +481,6 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
   return DefScreenSaverProc(hWnd, message, wParam, lParam);
   } // ScreenSaverProc
 
-
 //-----------------------------------------------------------------------------
 //
 //                        ScreenSaverConfigureDialog
@@ -624,7 +629,29 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
       if ((int)lSpeed >= _MAXVEL) lSpeed = _MAXVEL;
       SetScrollPos((HWND)lParam, SB_CTL, lSpeed, TRUE); 
       break; 
-                 
+
+    case WM_LBUTTONDOWN:
+     break;
+
+    case WM_MOUSEHOVER:
+    case WM_MOUSEMOVE:
+      // If Mouse has been moved, close and end the setup dialog
+      GetCursorPos(&cact);
+      if (_stepFlag && _stepFlagCursor>10 && (cact.x != csav.x || cact.y != csav.y))
+        {
+        SendMessage(hDlg, WM_COMMAND, (WPARAM)ID_CANCEL, MAKELPARAM(FALSE, 0));
+       }
+      _stepFlagCursor++;
+      break;
+
+    case WM_SYSKEYDOWN:
+      if ((GetAsyncKeyState(VK_LMENU) & 0x01) && _stepFlag)
+        {
+        _stepFlag = FALSE;
+        SendMessage(hDlg, WM_COMMAND, (WPARAM)ID_CANCEL, MAKELPARAM(FALSE, 0));
+        }
+      break;
+    
     case WM_COMMAND:
       switch(LOWORD(wParam))
         {
@@ -756,7 +783,41 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           DestroyWindow(hwndTT);      
           CreateToolTip(hButtonTextFile, pszhaScrFilename, NULL);  //, TTS_BALLOON); (ugly)
           break;
- 
+
+        case ID_TEXTSTEP:
+          _stepFlag = TRUE;								 // Activate mouse move monitoring
+          GetCursorPos(&csav);						 // Save current cursor position at [Step] button.
+          
+          if (_stepFlagCursor == FALSE)
+            {
+            hTextStepButton = GetDlgItem(hDlg, ID_TEXTSTEP);
+            GetClientRect(hTextStepButton, &rcTextStep); // The desktop window GetClientRect(hDesktop, &rc);
+            rcTextStep.left   += csav.x;
+            rcTextStep.top    += csav.y;
+            rcTextStep.right  += csav.x;//+2;
+            rcTextStep.bottom += csav.y;
+            ClipCursor(&rcTextStep);
+            _stepFlagCursor = TRUE;
+            ShowCursor(FALSE);
+            //while(ShowCursor(FALSE)>=0);
+            }
+
+          // Clear the previous text and paint screen background appropriately. 
+          hDesktop = GetDesktopWindow();   // Get handle to desktop
+          ::GetClientRect(hDesktop, &rcTextStep); // The desktop window GetClientRect(hDesktop, &rc);
+          hdc = GetDC(hDesktop);
+          // Format the text and paint screen background as defined. 
+          FillRect(hdc, &rcTextStep, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+
+          GetDate();
+          // Provide the text resource:
+          // if no external file.FRT selected take the internal buffer (haScrFaust.cpp)
+          if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0) OpenTxtBuf();       
+          else OpenTxtFile(pszhaScrFilename);
+          GetText();
+          ScrSavDrawText(hDesktop);
+          break;
+
         case ID_TIMEDISPLAY:
           timeFlag ^= TRUE;                                                    // Toggle time display
           SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK, timeFlag, 0);  // hDlg = (HWND)lParam
@@ -821,7 +882,7 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
 //
 //  However, applications that do not require special windows or custom controls
 //  in the configuration dialog box can simply return TRUE.
-//  Applications requiring special windows or custom controlsn
+//  Applications requiring special windows or custom controls
 //  should use this function to register the corresponding window classes.
 // 
 BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
