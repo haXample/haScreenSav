@@ -52,7 +52,7 @@ IM GEBIRGE
 8. Ludwig Hohl, Die Notizen II.21
   Alles Gute geschieht nur durch die Not,
   das heißt die Freiwilligkeit,
-  nicht durch den Zwang
+  nicht durch den Zwang,
   das heißt die Nötigung.
 
 
@@ -1661,8 +1661,10 @@ VERHÄLTNIS ZU DEN ANDERN
   wurde ich bei einer Zeitwende darauf aufmerksam gemacht,
   dass dieses Dominierenwollen ein Irrtum sei.
   Ich ließ es, aber nur um in einen noch größeren Irrtum zu fallen:
-  Ich wollte geliebt werden; ich erwartete also, völlig passiv, mich hütend,
-  in irgendeine Richtung zu wirken, die Zuneigung der andern.
+  Ich wollte geliebt werden;
+  ich erwartete also, völlig passiv, mich hütend,
+  in irgendeine Richtung zu wirken,
+  die Zuneigung der andern.
 
 
 241. Ludwig Hohl, Nuancen und Details III.14
@@ -1711,7 +1713,8 @@ VON DEN HEREINBRECHENDEN RÄNDERN
   und seltenen Erscheinung - gegenüber dem "gesunden Alltag",
   der Beschäftigung mit dem Pflug und dem Brot?
   Dann wurden nach und nach die weltbeherrschenden Apparate konstruiert,
-  wie Telefon; im Lichte, das man mit dem Phänomen erzeugte,
+  wie Telefon; 
+  im Lichte, das man mit dem Phänomen erzeugte,
   sitzen heute alle Leute, alle Städte.
   Aber nicht genug!
   Die heutige Wissenschaft eröffnet uns noch ganz andere Aussichten.
@@ -1819,7 +1822,7 @@ OB DER MENSCH FREI SEI.
   Genau wie einige durch stundenlanges Glotzen
   den Gipfel wahrzunehmen meinen, den man von den Punkte aus,
   an dem sie sich befinden, nicht sehen kann;
-  statt durch Steigen, durch Wandern ihren Punkt zu verändern,. 
+  statt durch Steigen, durch Wandern ihren Punkt zu verändern. 
 
 260. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 25
 VERSUCH EINER EINTEILUNG  
@@ -1887,7 +1890,7 @@ VERSUCH EINER EINTEILUNG
 268. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 55
   Das Äußere kann man nachahmen, das Innere nicht:
   darum hat das Innere unendlich viel höhere Bedeutung,
-  es it das eigentliche Reale.
+  es ist das eigentliche Reale.
   Weil du Töne setzt bist du noch nicht Beethoven,
   weil du denkst, bist du noch nicht Pascal;
   denn viele setzen Töne, jonglieren Gedanken, und haben das Reale dabei nicht:
@@ -1904,7 +1907,7 @@ EMIGRATION (HÖHERE ART)
 
 271. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 66
   Stimmung ist dasjenige, was in dem Maße, wie der Geist größer wird,
-  zu existieren aufhört und nicht mehr existier vor voller Geistesgröße.
+  zu existieren aufhört und nicht mehr existiert vor voller Geistesgröße.
   ("Stimmung" ist eine Ausflucht. Nur nicht denken!)
 
 272. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 71
@@ -1977,7 +1980,7 @@ DIALEKT
 
 282. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 102
 VERSUCH
-  Die Komödie gibt ein untypische Geschehen, untypisch in dem Sinne,
+  Die Komödie gibt ein untypisches Geschehen, untypisch in dem Sinne,
   dass es untief gegriffen, nicht bis zum Entscheidenden getrieben ist,
   Die Tragödie gibt ein typisches, nämlich ein vollendetes Geschehen
   und löst die frohe Wirkung dadurch aus, dass wir sehen können, was bleibt.
@@ -2070,20 +2073,20 @@ TON UND KLANG IN DER WORTKUNST
 
 295. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 141
 VON DEN HEREINBRECHENDEN RÄNDERN
-  Wenn für irgend etwas, so gilt für sie, die Gesetze der besondern,
-  der subtilen, der scheinbar nebensächichen
+  Wenn für irgendetwas, so gilt für sie, die Gesetze der besondern,
+  der subtilen, der scheinbar nebensächlichen
   (und von unserem Alltag aus gesehen wirklich nebensächlichen) Erscheinungen,
   das Wort: "Die Letzten werden die Ersten sein."
 
 296. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 143
   Rilke über Proust, ungefähr
-  (d.h. auswendig zitiert; die Stelle muss sich in einem Biefe finden):
+  (d.h. auswendig zitiert; die Stelle muss sich in einem Briefe finden):
   "Keiner besaß so viel innere Erfahrung wie er";
   und er hatte gewiss recht.
 
 297. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 149
   Bach ist gekennzeichnet
-  durch die DICHTHEIT UND die MÜHELOSIGKEIT dei Einfälle.
+  durch die DICHTHEIT UND die MÜHELOSIGKEIT der Einfälle.
   - Bach und somit alle höchste Kunst.
   Als ich fand "Dichtheit und Mühelosigkeit",
   dachte ich indessen nicht an Bach, sondern an Proust;
@@ -2208,7 +2211,7 @@ MENSCHLICHE ENTWICKLUNG
 
 313. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 205
 DER SCHWEIZERISCHE STIL
-  Es bleibt ei unverdaulicher Rest bei den großen Schweizern;
+  Es bleibt ein unverdaulicher Rest bei den großen Schweizern;
   das ist charakteristisch für sie.
   Aber nicht nur bei den großen Schweizern, sondern im Stil von fast allen,
   sobald sie die kuhmistartige Dialektsprache verlassen haben,
@@ -2348,7 +2351,7 @@ DIALEKT
 333. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 269
 PORTRÄT
   wenn einer Streichhölzer und Kohlen hat, noch so viele Kohlen hat,
-   kann er doch erfrieren, nicht wahr?
+  kann er doch erfrieren, nicht wahr?
 
 334. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 275
 ZEITUNGSLEKTÜRE
@@ -2437,14 +2440,14 @@ STIMMUNG ... (28.9.1938)
 348. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 340
 DAS GLEICHNIS VON DEN BLINDEN
   (zum Bild von Breughel.) - Ein Blinder fühlt sich unsicher.
-  Aber viel Blinde zusammen! "Eintracht macht stark", sagen sie,
+  Aber viele Blinde zusammen! "Eintracht macht stark", sagen sie,
   und fallen miteinander in die Grube. 
 
 349. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 341
   Phantasie hat die Vernichtungsmöglichkeit alles Irdischen in sich.
   Sie ist mächtiger als das Irdische
   - ist das uns bekannte Mächtigste überhaupt. -
-  Kann somit auch ungemein gefährlich sein, unter bestimmten Unständen.
+  Kann somit auch ungemein gefährlich sein, unter bestimmten Umständen.
   Doch kommt es darauf an, wo man, solchem Geschehen gegenüber sich aufstellt.
 
 350. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 342
@@ -2601,7 +2604,7 @@ VON DER LIEBE
 ECKERMANNS GESPRÄCHE MIT GOETHE
   Bei Eckermann hören wir wirklich Goethe,
   selbst seine Stimme glauben wir zu hören.
-  - Der Fall dürfet einzigartig sein.
+  - Der Fall dürfte einzigartig sein.
     Das Außerordentliche, durch das er zustande gekommen ist -
   (S.87 Inselausgabe Leipzig 1921):
   "Wer .. sich nicht mit Gewalt isoliert, ist verloren."
@@ -2629,7 +2632,7 @@ FREIHEIT UND SICHERHEIT
    in der beide verloren sind, oder die Ordnung, die beide vereinigt;
    AUF DER SUCHE NACH DIESER ORDNUNG ABER GÄRT UND BRODELT DIE WELT."
    (Zitat: Herbert Lüthy, 'Schweizer Annalen', Nr.4 1945)
-    Dieser Mann ist unersetzbar.
+   Dieser Mann ist unersetzbar.
 
 375. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 467
 VOM GEIST DER PRAKTISCHEN HAUSFRAU
@@ -2872,7 +2875,7 @@ DAS GESETZ DES PARADOXEN
    Aber wie ist es mit dem Gesetz der Serie?
    Verläuft unser Leben wirklich periodisch,
    gewissermaßen IN QUANTENSPRÜNGEN?"
-   (Zeitung-Zitat: Nürnberger Nachrichten "Das seltsame Gesetz der Serie") 
+   (Zeitungs-Zitat: Nürnberger Nachrichten "Das seltsame Gesetz der Serie") 
 
 399. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 545
   Die Physik (die neue) ist das Entsprechenste.
@@ -2880,7 +2883,7 @@ DAS GESETZ DES PARADOXEN
 400. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 546
   Die Lehre von den Quanten (das Planksche "Wirkungsquantum"):
   das ist es, was Apotheker 'Herr Meyer' niemals, bis in alle Zeiten nicht
-  (sonst wäre er nicht mehr 'Herr Meyer), begreifen kann.
+  (sonst wäre er nicht mehr Apotheker), begreifen kann.
   - Denn ER ist es, der das Richtige immer durch etwas anderes ersetzen will.
 
 401. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 547
@@ -2892,9 +2895,10 @@ DAS GESETZ DES PARADOXEN
   indem der Damm bricht, hereinstürzt!
 
 402. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 548
-  GESUNDER MENSCHEVERSTAND! Der Begriff ist wohl völlig eindeutig;
+  GESUNDER MENSCHEVERSTAND!
+  Der Begriff ist wohl völlig eindeutig;
   jeder weiß, was damit gemeint ist? Ich nicht.
-  Die Mensche sind zu gesund und haben zu wenig Verstand.
+  Die Menschen sind zu gesund und haben zu wenig Verstand.
 
 403. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 549
   Warum man immer Texte veröffentlichen muss von Leuten,
@@ -2988,7 +2992,7 @@ FRAGMENT
   - das Ende des Menschen, seine Größe und seine Güte,
     das Gesetz von den Hereinbrechenden Rändern
     und das äußerlich kolossale Gesetz "von der Vergeudung" -
-  die HIFFNUNG sah er und die EINZIGARTIGKEIT des Menschen,
+  die HOFFNUNG sah er und die EINZIGARTIGKEIT des Menschen,
   dieses ungeheuren Wesens, das die Sterne WIEDERberührt,
   das das Weltall, das es einst verlassen hat ("du bleibst am Ursprung"),
   wiedergewinnt auf seine besondere, seine durch Sterblichkeit gekennzeichnete
@@ -3011,7 +3015,7 @@ MÜHSAL
   jedenfalls das Mühsamste, die Monotonie zu ertragen, die dadurch entsteht,
   dass man lange Zeit nicht im geringsten sieht, ob man vorwärts kommt;
   das Wasser ist überall dermaßen gleich
-  (höchstens etwa ein Kork, ein Stück schwimmender Algen oder ein Blase
+  (höchstens etwa ein Kork, ein Stück schwimmender Algen oder eine Blase
    spenden manchmal ein wenig Trost).
   Das jenseitige Ufer scheint nicht näher zu kommen,
   die dort fahrenden Autos, winzige Punkte, werden nicht größer;

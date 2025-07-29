@@ -1,8 +1,8 @@
 1. Vergleichende, VG1.1-4
 DER VERGLEICHENDE UND DIE ZWECKBESTIMMUNG DER VERGLEICHENDEN
-  Vergleichende SchöLoMo'Hs
-  (des) Sohnes DaWi'Ds,
-  (des) Regenten JiSsRaE'Ls,
+  Vergleichende SchöLoMo´Hs
+  (des) Sohnes DaWi´Ds,
+  (des) Regenten JiSsRaE´Ls,
 
   zu erkennen
   Weisheit und Erzüchtigen,
@@ -45,12 +45,12 @@ DAS NICHT-EINWILLIGEN DES SOHNES
   nich(t) willige ein.
 
   Wenn sie sprechen:
-  »Gehe mit uns!
+  "Gehe mit uns! 
   Wir wollen lauern zu Blut (hin),
   wollen umspähen (dem) Schuldlosen zu
   unbegründet;
 
-  wir verschlingen sie wie (der) Schö°O'L
+  wir verschlingen sie wie (der) Schö°O´L
   (als) Lebende
   und (als) Unversehrte,
   wie (zur) Zisterne Hinabge(stürz)te;
@@ -59,7 +59,7 @@ DAS NICHT-EINWILLIGEN DES SOHNES
   wir füllen unsere Häuser (mit) Beute.
 
   Dein Los lässt du fallen in unserer Mitte,
-  e i n Beutel wird für uns alle.«
+  e i n Beutel wird für uns alle." 
 
 
 4. Vergleichende, VG1.15,16
@@ -119,7 +119,7 @@ DAS NICHT-MITGEHEN DES SOHNES
 
   die Verlassende
   (den) Altvertrauten ihrer Jugend(zeit)en,
-  und (die) ' (den) Bund ihres ÄLoHI'M
+  und (die) ` (den) Bund ihres ÄLoHI´M
   vergessen (hat),
 
   denn zum Tod herabgeworfen
@@ -163,13 +163,13 @@ ZIELGEBUNG FÜR DEN SOHN
   auf (die) Tafel deines Herzens,
 
   und finde Gnade und Klugheit (des) Guten
-  in (den) Augen ÄLoHI'Ms und (der) Menschen.
+  in (den) Augen ÄLoHI´Ms und (der) Menschen.
 
 
 12. Vergleichende, VG3.7
   Nich(t) werde
   (als) (ein) in deinen Augen Weiser (befunden);
-  fürchte ' JHWH
+  fürchte ` JHWH
   und kehre dich ab vom Bösen.
 
 
@@ -353,7 +353,7 @@ WARNUNG VOR HUREREI
 24. Vergleichende, VG7.4
   Sprich zur Weisheit:
   Meine Brüderin (bist) du,
-  und »Verwandter«
+  und "Verwandter" 
   rufst du zum Verstehen,
 
 
@@ -473,12 +473,12 @@ DIE MÄNNIN DER NARRUNG
 
   Und nicht erkennt er,
   dass Tod-Erschlaffte dort,
-  (dass) in (den) Tiefen (des) Schö°O'L
+  (dass) in (den) Tiefen (des) Schö°O´L
   ihre Gerufenen.
 
 
 32. Vergleichende, VG10.1,4,5
-  Vergleichende SchöLoMo'Hs.
+  Vergleichende SchöLoMo´Hs.
   (Ein) weiser Sohn erfreut (den) Vater,
   aber (ein) Sohn, (der) (ein) Narr,
   (ist) (die) Kümmernis seiner Mutter.
@@ -530,7 +530,7 @@ DIE MÄNNIN DER NARRUNG
   für äonisch,
   aber (die) Frevler
   (werden) (das) Erdland nicht bewohnen.
- 
+
 
 38. Vergleichende, VG11.7
   Im Tod (des) frevler(ischen) Menschen
@@ -617,7 +617,7 @@ DIE MÄNNIN DER NARRUNG
 
 
 50. Vergleichende, VG12.11
-  (Der) seine ADaMa'H Bedienende
+  (Der) seine ADaMa´H Bedienende
   ersattet (des) Brotes,
   aber (der) Verfolger (der) Leer(seiend)en
   (ist) ermangelnden Herzens.
@@ -730,7 +730,7 @@ DIE MÄNNIN DER NARRUNG
   (Das) Weisheitsvolle (der) Weiber
   erbaut sein Haus,
   aber (die) Torheit zerstört es
-  mit ihren Händen .
+  mit ihren Händen.
 
 
 67. Vergleichende, VG14.6
@@ -878,10 +878,10 @@ DIE MÄNNIN DER NARRUNG
 
 
 88. Vergleichende, VG15.11
-  Schö°O'L und ABhaDO'N*               [*e: Herrscher und Ort der Verlorenheit]
+  Schö°O´L und ABhaDO´N*               [*e: Herrscher und Ort der Verlorenheit]
   (sind) JHWH gegenwärtig,
   gar denn (die) Herz(gesinn)ungen
-  (der) Söhne ADa'Ms.
+  (der) Söhne ADa´Ms.
 
 
 89. Vergleichende, VG15.12
@@ -1626,8 +1626,8 @@ DIE MÄNNIN DER NARRUNG
 
   denn ihr Erlöser
   (ist) (ein) Halt(emächt)iger;
-  er, er (wird) ' ihren Hader
-  (mit) ' dir hadern.
+  er, er (wird) ` ihren Hader
+  (mit) ` dir hadern.
 
 
 194. Vergleichende, VG23.4
@@ -1773,12 +1773,12 @@ DIE MÄNNIN DER NARRUNG
 
 209. Vergleichende, VG25.1,2
   Auch noch diese
-  (sind) Vergleichende SchöLoMo'Hs,
+  (sind) Vergleichende SchöLoMo´Hs,
   welche beiseite* getan*               [*e: bewahrend zur Seite gerückt haben]
-  (die) Mannhaften ChiSQiJa'Hs,
-  (des) Regenten JöHUDa'Hs.
+  (die) Mannhaften ChiSQiJa´Hs,
+  (des) Regenten JöHUDa´Hs.
 
-  Herrlichkeit ÄLoHI'Ms (ist's),
+  Herrlichkeit ÄLoHI´Ms (ist's),
   (eine)* Sache* (zu) verbergen,                               [*a: (ein) Wort]
   aber Herrlichkeit (der) Regenten,
   (eine)* Sache* (zu) untersuchen,                             [*a: (ein) Wort]
@@ -1793,7 +1793,7 @@ DIE MÄNNIN DER NARRUNG
 
 211. Vergleichende, VG25.9,10
   Deinen Hader hadere
-  (mit) ' deinem Beigesellten,
+  (mit) ` deinem Beigesellten,
   aber (das) Geheimnis (eines) anderen
   enthülle nich(t),
 
@@ -1932,7 +1932,7 @@ DIE MÄNNIN DER NARRUNG
   Pfeilen und Tod,
 
   also (ein) Mann,
-  (der) ' seinen Beigesellten betrügt
+  (der) ` seinen Beigesellten betrügt
   und spricht:
   Erheitere ich mich nicht (nur)?
 
@@ -2039,7 +2039,7 @@ DIE MÄNNIN DER NARRUNG
 
 
 242. Vergleichende, VG27.20
-  Schö°O'L und Verlus*             [*e: Ort des Verlustes und der Verlorenheit]
+  Schö°O´L und Verlus*             [*e: Ort des Verlustes und der Verlorenheit]
   ersatten nicht,
   und (die) Augen des Menschen
   ersatten nicht.
@@ -2152,7 +2152,7 @@ DIE MÄNNIN DER NARRUNG
 
 
 258. Vergleichende, VG28.19
-  (Der) seine ADaMa'H Bedienende
+  (Der) seine ADaMa´H Bedienende
   ersattet (des) Brotes,
   aber (der) Verfolger (der) Leer(seiend)en
   ersattet (der) Mittellosigkeit.
@@ -2333,10 +2333,10 @@ DIE MÄNNIN DER NARRUNG
 
 
 284. Vergleichende, VG30.1-4
-  Worte AGU'Rs, (des) Sohnes JaQä'Hs.
+  Worte AGU´Rs, (des) Sohnes JaQä´Hs.
   Die Traglast.
-  Treuewort des Ermächtigten zu °ITIE'L,
-  zu °ITIE'L und UKha'L.
+  Treuewort des Ermächtigten zu °ITIE´L,
+  zu °ITIE´L und UKha´L.
 
   Denn dumm (bin) ich,
   mehr als (irgend) (je)man(d),
@@ -2360,7 +2360,7 @@ DIE MÄNNIN DER NARRUNG
 
 
 285. Vergleichende, VG30.5,6
-  Alles Sprechende (des) ÄLO'aH
+  Alles Sprechende (des) ÄLO´aH
   (ist) Ausgeschmolzenes.
   Umschützer (ist) er
   den sich Bergenden in ihm.
@@ -2386,7 +2386,7 @@ DIE MÄNNIN DER NARRUNG
   Wer (ist) JHWH?,
   und dass ich nicht entrechtet werde
   und stehle
-  und ergreife* (den) Namen meines ÄLoHI'M.     [*e: iSv vergreife mich an dem]
+  und ergreife* (den) Namen meines ÄLoHI´M.     [*e: iSv vergreife mich an dem]
 
 
 287. Vergleichende, VG30.10
@@ -2401,7 +2401,7 @@ WARNUNGEN
 WARNUNGEN
   (Da) (ist) (eine) Generation,
   (die) ihren Vater verflucht
-  und ' ihre Mutter nicht segnet;
+  und ` ihre Mutter nicht segnet;
 
   (eine) Generation,
   rein in ihren Augen,
@@ -2531,7 +2531,7 @@ KLEINE UND WEISE
 
 
 296. Vergleichende, VG31.1-3
-  Worte LöMUE'Ls, (des) Regenten.
+  Worte LöMUE´Ls, (des) Regenten.
   Traglast,
   (mit) der ihn seine Mutter erzüchtigte.
 
@@ -2545,7 +2545,7 @@ KLEINE UND WEISE
 
 
 297. Vergleichende, VG31.4,6,7
-  Nich(t) den Regenten, LöMOE'L,
+  Nich(t) den Regenten, LöMOE´L,
   nich(t) den Regenten (ist's), Wein (zu) trinken,
   noch den Erlauchten
   (das) Verlangen (nach) Berauschendem.
@@ -2563,7 +2563,7 @@ FÜR WEN BERAUSCHENDES IST
 RECHTES REDEN
   Öffne deinen Mund für (den) Stummen,
   zum Rechtswalten
-  (für) alle Söhne (des)* Wechselns*. v               [*e: der Vergänglichkeit]
+  (für) alle Söhne (des)* Wechselns*.                 [*e: der Vergänglichkeit]
 
   Öffne deinen Mund,
   richtige (mit) Gerechtigkeit,
