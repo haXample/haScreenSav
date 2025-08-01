@@ -74,17 +74,17 @@ _all:   $(FOLDER)$(PROJ).exe
 # -----------------------------------------------------------------------------
 #        $(PROJ).EXE: LIST OF DEPENDENCIES FOR EVERY OBJECT FILE
 #
-$(FOLDER)$(PROJ).res:   $(FOLDER)$(@B).rc
+$(FOLDER)$(PROJ).res:       $(FOLDER)$(@B).rc $(FOLDER)$(PROJ).h $(FOLDER)*.ico
 
-$(FOLDER)$(PROJ).obj:   $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+$(FOLDER)$(PROJ).obj:       $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
-$(FOLDER)$(PROJ).obj:   $(FOLDER)haScrFaust.cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+$(FOLDER)haScrFaust.obj:    $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
-$(FOLDER)$(PROJ).obj:   $(FOLDER)haScrTxtFile.cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+$(FOLDER)haScrTxtFile.obj:  $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
-$(FOLDER)$(PROJ).obj:   $(FOLDER)haScrDraw.cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+$(FOLDER)haScrDraw.obj:     $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
-$(FOLDER)$(PROJ).obj:   $(FOLDER)haScrBrowse.cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+$(FOLDER)haScrBrowse.obj:   $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
 #------------------------------------------------------------------------------
 #       $(PROJ).EXE TARGET BUILD
