@@ -1152,12 +1152,6 @@ SUDELBÜCHER vid. p.XXVI
   A: Sie sind sehr alt geworden.
   B: Ja, das ist gewöhnlich der Fall wenn man lange lebt. 
 
-224. Georg Christoph Lichtenberg, Aphorismen J1196 (1789-93)
-  Für den Verlust von Personen, die uns lieb waren,
-  gibt es keine Linderung als die Zeit,
-  und sorgfältig und mit Vernunft gewählte Zerstreuungen, 
-  wobei uns unser Herz keine Vorwürfe machen kann. 
-
 225. Georg Christoph Lichtenberg, Aphorismen J1266 (1789-93)
   Ein Meisterstück der Schöpfung ist der Mensch auch schon deswegen,
   dass er bei allem Determinismus glaubt, er agiere als freies Wesen.
@@ -1331,7 +1325,10 @@ SUDELBÜCHER vid. p.XXVI
   aber ein weiser Mann nur wenige Weise macht. 
 
 255. Georg Christoph Lichtenberg, Aphorismen II/190(GH) (1784-88)
-Wer eine Wissenschaft
+  Wer eine Wissenschaft noch nicht so innehat,
+  dass er jeden Verstoß dagegen fühlt
+  wie einen grammatikalischen Fehler in seiner Muttersprache,
+  der hat noch viel zu lernen.
 
 256. Georg Christoph Lichtenberg, Aphorismen II/191,3(GH) (1784-88)
   Die Neigung der Menschen, kleine Dinge für wichtig zu halten, 
@@ -2883,8 +2880,13 @@ MENSCH, WELT, GOTT
   Ist denn wohl unser Begriff von Gott
   etwas weiter als personifizierte Unbegreiflichkeit?
 
+512. Georg Christoph Lichtenberg, Aphorismen J1196 (1789-93)
+  Für den Verlust von Personen, die uns lieb waren,
+  gibt es keine Linderung als die Zeit,
+  und sorgfältig und mit Vernunft gewählte Zerstreuungen, 
+  wobei uns unser Herz keine Vorwürfe machen kann. 
 
-512. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
+513. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
 QUELLEN-NACHWEIS
   --------------------- 
   Insel Taschenbuch 165
