@@ -14,7 +14,7 @@ The Faust Breviary is the intrinsic default (no additional file required).
 All files `*.frt` must reside *outside* the `c:\windows\system32` folder.  
 (As an Example of the *FRT-File Format*, the file `document/haFaust.frt` is provided.)  
 
-Last Update July 2025: *haScreensav.scr*   
+Last Update August 2025: *haScreensav.scr*   
 Additions: `document/LudwigHohl.frt` `./Vergleichende.frt` `./Maxims&Reflections.frt`  
 `./SchopenhauerAphorismen.frt`, `./LichtenbergAphorismen.frt`  
 Changes: `source/haScreensav.cpp` prolonging reading time by pressing `<SPACE>`        
