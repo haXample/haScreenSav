@@ -90,7 +90,7 @@ SUDELBÜCHER vid. p.XXVI
 
 15. Georg Christoph Lichtenberg, Aphorismen B244 (1768-71) 
   Nimm dich in acht,
-  daß meine Geduld nicht über deiner Langsamkeit ablauft.
+  daß meine Geduld nicht über deiner Langsamkeit abläuft.
   Auf meine Ehre, ich ziehe sie deinetwegen nicht noch einmal auf. 
 
 
@@ -805,7 +805,7 @@ SUDELBÜCHER vid. p.XXVI
   Gott, der unsere Sonnen-Uhren aufzieht. 
 
 157. Georg Christoph Lichtenberg, Aphorismen F1017 (1776-79) 
-  Alles Tun in -eln ist nicht viel wert, weder witzeln noch schwärmeln.
+  Alles Tun in '-eln' ist nicht viel wert, weder witzeln noch schwärmeln.
 
 158. Georg Christoph Lichtenberg, Aphorismen F1152 (1776-79) 
   In die Welt zu gehen ist deswegen für einen Schriftsteller nötig,
@@ -1930,7 +1930,7 @@ DEN 3 TEN MAI 1769.
 
 358. Georg Christoph Lichtenberg, Aphorismen B259 (1768-71)
   Mein Verstand folgte heute den Gedanken des großen Newton
-  durch das Weltgebäude nach, nicht ohne den Kützel eines gewissen Stolzes,
+  durch das Weltgebäude nach, nicht ohne den Kitzel eines gewissen Stolzes,
   also bin ich doch auch von dem nämlichen Stoff,
   wie jener große Mann, weil mir seine Gedanken nicht unbegreiflich sind,
   und mein Gehirn Fibern hat die jenen Gedanken korrespondieren,
@@ -2001,7 +2001,7 @@ DEN 3 TEN MAI 1769.
 
 367. Georg Christoph Lichtenberg, Aphorismen D483 (1773-75)
   Alles verfeinert sich, Musik war ehemals Lärm, Satire war Pasquill,
-  und da, wo man heutzutage sagt, erlauben Sie gütigst,
+  und da, wo man heutzutage sagt, "erlauben Sie gütigst",
   schlug man einem vor alters hinter die Ohren.
 
 368. Georg Christoph Lichtenberg, Aphorismen D567 (1773-75)
@@ -2044,7 +2044,7 @@ DEN 3 TEN MAI 1769.
   selbst die Affen, Pudelhunde und Elefanten können es. 
 
 376. Georg Christoph Lichtenberg, Aphorismen F362 (1776-79)
-  Ich glaube, daß die Quelle des meisten menschlichen Elends
+  Ich glaube, dass die Quelle des meisten menschlichen Elends
   in Indolenz und Weichlichkeit liegt.
   Die Nation, die die meiste Spannkraft hatte, 
   war auch allezeit die freiste und glücklichste.
@@ -2261,13 +2261,643 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   Man will wissen,
   dass im ganzen Lande seit 500 Jahren niemand vor Freuden gestorben wäre. 
 
-414. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
+414. Georg Christoph Lichtenberg, Aphorismen D404 (1773-75)
+  Die Welt muß noch nicht sehr alt sein, 
+  weil die Menschen noch nicht fliegen können.
+
+415. Georg Christoph Lichtenberg, Aphorismen J1217 (1789-93)
+  Sie fühlen den Druck der Regierung so wenig als den Druck der Luft. 
+
+416. Georg Christoph Lichtenberg, Aphorismen J1231 (1789-93)
+  Dinge zu bezweifeln,
+  die ganz ohne weitere Untersuchung jetzt geglaubt werden,
+  das ist die Hauptsache überall.
+
+417. Georg Christoph Lichtenberg, Aphorismen E147 (1765-70)
+  Mut, Geschwätzigkeit und Menge ist auf unserer Seite. Was wollen wir weiter?
+
+418. Georg Christoph Lichtenberg, Aphorismen L638 (1796-99)
+  Von mirakulöser Schönheit.
+
+419. Georg Christoph Lichtenberg, Aphorismen I/186(GH) (1779-83)
+  Man muss nie den Menschen nach dem beurteilen, was er geschrieben hat,
+  sondern nach dem, was er in Gesellschaft von Männern,
+  die ihm gewachsen sind, spricht.
+
+420. Georg Christoph Lichtenberg, Aphorismen B.. (1768-71)
+  Wir werden nicht angehalten individua im Denken zu werden.
+  Wir lesen zu früh, gesetzt es seien auch die alten Schriftsteller,
+  wie soll man ein Kind verhindern, daß es nicht bloß lernt,
+  wie Herder sagt, denken was die Alten dachten,
+  sondern so denken wie sie dachten.
+
+421. Georg Christoph Lichtenberg, Aphorismen A.. (1765-70)
+  Die Esel haben die traurige Situation, worin sie jetzo in der Welt leben, 
+  vielleicht bloß dem witzigen Einfall eines losen Menschen zu danken, 
+  dieser ist Schuld, dass sie zum verächtlichsten Tier auf immer geworden 
+  sind und es auch bleiben werden, denn viele Eselstreiber gehen deswegen 
+  mit ihren Eleven so fürchterlich um, weil es Esel, nicht weil es träge und 
+  langsame Tiere sind.
+
+422. Georg Christoph Lichtenberg, Aphorismen B.. (1768-71)
+  Ich weiß nicht, der Mensch hatte wirklich die Miene,
+  die man ein In-sich-kehren der Augen des Geistes nennen könnte,
+  und allezeit ein Zeichen des Genies ist.
+
+423. Georg Christoph Lichtenberg, Aphorismen B.. (1768-71)
+  In saufbrüderlicher und kaffeeschwesterlicher Eintracht.
+
+424. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+  Willst du dich selber erkennen, so sieh wie die andern es treiben;
+  willst du die andern verstehen; blick in dein eigenes Herz -
+
+
+425. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+CHARAKTER EINER MIR BEKANNTEN PERSON
+  Ich habe den Weg zur Wissenschaft gemacht wie Hunde die mit ihren 
+  Herrn spazieren gehen, hundertmal dasselbe vorwärts und rückwärts, und 
+  als ich ankam war ich müde.
+
+426. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+CHARAKTER EINER MIR BEKANNTEN PERSON
+  Über nichts wünschte ich mehr die geheimen Stimmen denkender Köpfe 
+  gesammelt zu lesen, als über die Materie von der Seele.
+  Die lauten öffentlichen verlange ich nicht, die weiß ich schon.
+  Allein die gehören nicht sowohl in eine Psychologie
+  als in eine Statuten-Sammlung.
+  Was wird noch aus diesem Geschlecht werden ehe es vergeht?
+
+427. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+CHARAKTER EINER MIR BEKANNTEN PERSON
+  Seit der Mitte des Jahrs 1791
+  regt sich in meiner ganzen Gedanken-Ökonomie etwas,
+  das ich noch nicht recht beschreiben kann.
+  Ich will nur einiges anführen und künftig aufmerksamer darauf werden.
+  Nämlich ein außerordentliches fast zu schriftlichen Tätlichkeiten übergehendes 
+  Misstrauen gegen alles menschliche Wissen, Mathematik ausgenommen, 
+  und was mich noch an (das) Studium der Physik fesselt,
+  ist die Hoffnung etwas dem menschlichen Geschlecht Nützliches herauszufinden.
+
+428. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+CHARAKTER EINER MIR BEKANNTEN PERSON
+  Ich merkte zuerst mein eintretendes Alter an der Abnahme des Gedächtnisses,
+  die ich bald mit dem Mangel an Übung desselben entschuldigte,
+  bald als Folgen des eintretenden Alters beklagte.
+  Solche Wellen von Furcht und Hoffnung habe ich all mein Leben lang verspürt.
+
+429. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+CHARAKTER EINER MIR BEKANNTEN PERSON
+  Nichts macht schneller alt,
+  als der immer vorschwebende Gedanke,
+  dass man älter wird.
+  Ich verspüre dieses recht an mir;
+  es gehört mit zum Giftsaugen.
+
+430. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+CHARAKTER EINER MIR BEKANNTEN PERSON
+  Wenn zwei Personen, die sich jung gekannt haben, alt zusammen kommen,
+  so müssen tausend Gefühle entstehen.
+  Eines der unangenehmsten mag sein,
+  dass sie nun sich in so manchem betrogen finden,
+  was sie bei ihren Hoffnungsspielen ehemals als gewiss berechnet hatten.
+  (Ich verstehe mich.)
+
+431. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+CHARAKTER EINER MIR BEKANNTEN PERSON
+  Ach das waren gute Zeiten, da ich noch alles glaubte, was ich hörte.
+
+432. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCHENKENNTNIS
+  Wer sich selbst recht kennt,
+  kann sehr bald alle anderen Menschen kennen lernen.
+  Es ist alles Zurückstrahlung.
+
+433. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCHENKENNTNIS
+  Einen Menschen recht zu verstehen,
+  müsste man zuweilen der nämliche Mensch sein,
+  den man verstehen will.
+
+434. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCHENKENNTNIS
+
+435. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCHENKENNTNIS
+  Ich habe durch mein ganzes Leben gefunden,
+  dass sich der Charakter eines Menschen aus nichts so sicher erkennen lässt,
+  wenn alle Mittel fehlen, als aus einem Scherz, den er übel nimmt.
+
+436. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCHENKENNTNIS
+  Ich bin überzeugt, dass alle Verstellung nichts hilft
+  gegen einen Umgang von drei Wochen;
+  denn jede Befestigungskunst hat eine eigene Befestigungskunst für den,
+  der sehen kann.
+
+437. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCHENKENNTNIS
+  Woher mag wohl die entsetzliche Abneigung des Menschen herrühren,
+  sich zu zeigen, wie er ist, in seiner Schlafkammer,
+  wie in seinen geheimsten Gedanken?
+
+438. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ALLZUMENSCHLICHES
+  Es waren nur zwei Personen in der Welt, die er mit Wärme liebte:
+  die eine war jedes mal sein größter Schmeichler,
+  die andere war er selbst.
+
+439. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ALLZUMENSCHLICHES
+  Es ist für die Vervollkommnung unseres Geistes gefährlich,
+  Beifall durch Werke zu erhalten, die nicht unsere ganze Kraft erfordern.
+  Man steht alsdann gewöhnlich stille.
+  Rochefoucauld glaubt daher, es habe noch nie ein Mensch alles das getan,
+  was er habe tun können; ich halte dafür, dass dieses größtenteils wahr ist.
+  Jede menschliche Seele hat eine Portion Indolenz,
+  wodurch sie geneigt wird, das vorzüglich zu tun, was ihr leicht wird.
+
+440. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ALLZUMENSCHLICHES
+  Der liebe Nächste glaubt immer, man hätte seine Arbeit nicht selbst gemacht,
+  sobald sie besser ist, als er hätte sie machen können.
+
+441. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ALLZUMENSCHLICHES
+  Wenn jemand etwas schlecht macht, das man gut erwartete, so sagt man:
+  nun ja, so kann ich's auch.
+  Es gibt wenige Redensarten, die soviel Bescheidenheit verraten.
+
+442. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ALLZUMENSCHLICHES
+  Der Mann hatte vieles bei wachender Gelehrsamkeit
+  und schlafendem Verstande ausgeheckt.
+
+443. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ALLZUMENSCHLICHES
+  Ein großes Licht war der Mann eben nicht,
+  aber ein großer (bequemer) Leuchter.
+  Er handelt mit anderer Leute Meinungen.
+
+444. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ALLZUMENSCHLICHES
+  Die Indianer nennen das höchste Wesen Pananad oder den Unbeweglichen 
+  weil sie selbst gerne faulenzen.
+
+445. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+BITTERE ERKENNTNISSE
+  Dass der Mensch das edelste Geschöpf sei,
+  lässt sich auch schon daraus abnehmen,
+  dass es ihm noch kein anderes Geschöpf widersprochen hat.
+
+446. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+BITTERE ERKENNTNISSE
+  Der berühmte witzige Kopf Chamfort pflegte zu sagen:
+  "Ich habe drei Klassen von Freunden:
+   Freunde, die mich lieben,
+   Freunde, die sich um mich bekümmern,
+   und Freunde die mich verabscheuen"
+  Sehr wahr!
+
+447. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+BITTERE ERKENNTNISSE
+  Wie wenige Freunde würden Freunde bleiben,
+  wenn sie ihre Gesinnungen im ganzen sehen könnten.
+
+448. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+BITTERE ERKENNTNISSE
+  Es gibt einen Zustand, der wenigstens bei mir nicht sehr selten ist,
+  da man die Gegenwart und Abwesenheit einer geliebten Person
+  gleich wenig ertragen kann;
+  wenigstens bei der Gegenwart nicht das Vergnügen findet, 
+  welches man, aus der Unerträglichkeit der Abwesenheit zu schließen,
+  von ihr erwarten sollte.
+
+449. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+BITTERE ERKENNTNISSE
+ Die jungen Knaben muss man nicht anfallen, sondern die alten Knaben:
+ einen der ersten niederzuschlagen raubt der Welt einen Mann;
+ wer einen der letzten ausmerzt, vertilgt ein Unkraut.
+
+450. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+BITTERE ERKENNTNISSE
+  Nun weiß ich was das heißt sich ermannen, wenn man schon ermannt ist, 
+  so ist es gut andern anzuraten.
+  Was der Mensch elend ist, wenn er alles selbst tun soll!
+  Es heißt ein Wunder von ihm fordern,
+  wenn man seine Selbsterhaltung von ihm fordert. 
+
+451. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MORALISCHE KERNSÄTZE
+  Nicht bloß wissen,
+  sondern auch für die Nachwelt tun,
+  was die Vorwelt für uns getan hat,
+  heißt ein Mensch zu sein.
+
+452. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MORALISCHE KERNSÄTZE
+  Es ist für des Menschen Rechtfertigung hinreichend, wenn er so gelebt hat,
+  dass er seiner Tugenden wegen Vergebung für seine Fehler verdient. 
+
+453. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MORALISCHE KERNSÄTZE
+  Wo Mäßigung ein Fehler ist, da ist Gleichgültigkeit ein Verbrechen. 
+
+454. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MORALISCHE KERNSÄTZE
+  Der Stolz, eine edle Leidenschaft,
+  ist nicht blind gegen eigene Fehler, 
+  aber der Hochmut ist es.
+
+455. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MORALISCHE KERNSÄTZE
+  Um recht zu tun in der Welt,
+  braucht man nur sehr wenig zu wissen;
+  allein um mit Sicherheit Unrecht tun zu können,
+  muss man die Rechte studiert haben.
+
+456. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Man sollte sich nicht schlafen legen, ohne sagen zu können, 
+  dass man an dem Tage etwas gelernt hätte.
+  Was ich unter dem Lernen verstehe, ist Fortrücken der Grenzen 
+  unserer wissenschaftlichen oder sonst nützlichen Erkenntnis; 
+  Verbesserung eines Irrtums, in dem wir uns lange befunden haben; 
+  Gewissheit in manchen Dingen, worüber wir lange ungewiss waren; 
+  deutliche Begriffe von dem, was uns undeutlich war;
+  Erkenntnis von Wahrheiten, die sich sehr weit erstrecken, usw.
+
+457. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Wenn man einmal eine Arbeit vorhat, so ist es gut,
+  bei der Ausführung nicht das Ganze sich vorzustellen;
+  dieses hat mir wenigstens viel Niederschlagendes;
+  sondern man arbeite gerade an dem, was man vor sich hat, und das klar;
+  und dann gehe man an das nächste.
+
+458. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Ordnung führt zu allen Tugenden! Aber was führt zur Ordnung? 
+
+459. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Wo alles geht, da dünkt mich, muss man mitgehen.
+  Hat man etwas gegen den Weg einzuwenden,
+  den die Menge eingeschlagen hat,
+  so wird man sicherlich besser verstanden,
+  wenn man sich, etwas zur Gesellschaft hält,
+  als wenn man hinten stehen bleibt und bloß nachruft.
+
+460. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Gerade das Gegenteil tun heißt auch nachahmen,
+  es heißt nämlich das Gegenteil nachahmen.
+
+461. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Es gibt jetzt der Vorschriften, was man sein soll, so mancherlei Arten,
+  dass man am besten tut, wenn man bleibt was man ist,
+  dass es kein Wunder wäre,
+  wenn die Menge auf den Gedanken geriete zu bleiben was sie ist.
+
+462. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Der Weisheit erster Schritt ist: alles anzuklagen,
+  der letzte: sich mit allem zu vertragen.
+
+463. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PRAKTISCHE LEBENSWEISHEIT
+  Wer eine Scheibe an seine Gartentür malt,
+  dem wird gewiss hineingeschossen.
+
+464. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+IM UMGANG MIT MENSCHEN
+  Man hat viele Anweisungen, den Wein recht zu brauen,
+  und noch keine, ihn recht zu trinken.
+  Er wächst nur zu gut unter dem Schutz des sanften Himmels,
+  und ähnliche Seelen müssen diejenigen haben,
+  die ihn am besten trinken.
+
+465. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+IM UMGANG MIT MENSCHEN
+  Trinken heiße ich:
+  Mit offenen Sinnen und zur guten Stunde einen Zug tun,
+  der mit einer solchen Zauberkraft auf unser Inneres auffällt,
+  und alle Seelenkräfte zu einem Freudenfeste versammelt,
+  bei dem die strengste Vernunft Feierabend macht;
+  es geschehe nun dieser Zug aus der Bouteille oder beim Mondenlicht
+  aus einer mit Blütengerüchen geschwängerten Luft, ganz allein.
+
+466. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+VOM WEIBLICHEN GESCHLECHT
+  Selbst die sanftesten, bescheidensten und besten Mädchen sind immer sanfter,
+  wenn sie sich vor dem Spiegel schöner gefunden haben.
+
+467. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+VOM WEIBLICHEN GESCHLECHT
+  Der Vater: Mein Töchterchen, du weißt, Salomon sagt:
+  wenn dich die bösen Buben locken, so folge ihnen nicht.
+  Die Tochter: Aber, Papa,
+  was muss ich dann tun, wenn mich die guten Buben locken?
+
+468. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+VOM WEIBLICHEN GESCHLECHT
+  Aus der Mätresse eines Mannes lässt sich viel auf den Mann schließen;
+  man sieht in ihr seine Schwachheiten und Träume.
+
+469. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+VOM WEIBLICHEN GESCHLECHT
+ Es ist schade, dass die feurigen Mädchen
+ nicht von den schönen Jünglingen schreiben dürfen,
+ wie sie wohl könnten, wenn es erlaubt wäre.
+ So ist die männliche Schönheit
+ noch nicht von denjenigen Händen gezeichnet,
+ die sie allein recht mit Feuer zeichnen könnten.
+
+470. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+VOM WEIBLICHEN GESCHLECHT
+  Warum hat Gott soviel angenehmes in das Doppelte gelegt?
+  Mann und Frau. Das Zwei verdient Aufmerksamkeit.
+  Ist es vielleicht mit Leib und Seele ebenso?
+  (Anm. ha: 1-2, Aleph-Beth)
+
+471. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER ERZIEHUNG
+  Wenn wir die Mütter bilden, das heißt die Kinder in Mutterleibe erziehen. 
+
+472. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER ERZIEHUNG
+  Bewahre Gott, dass der Mensch, dessen Lehrmeisterin die ganze Natur ist, 
+  ein Wachsklumpen werden soll,
+  worin ein Professor sein erhabnes Bildnis abdruckt.
+
+473. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER ERZIEHUNG
+  Man liest jetzt so viele Abhandlungen über das Genie,
+  dass jeder glaubt er sei eines.
+  Der Mensch ist verloren, der sich früh für ein Genie hält.
+
+474. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Ich mag immer den Mann lieber, der so schreibt,
+  dass es Mode werden kann, als den der so schreibt wie es Mode ist.
+
+475. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Es wäre gewiss sehr nützlich, der Welt die Schriftsteller anzuzeigen,
+  die mit Kenntnis anderer, die vor ihnen gewesen sind,
+  aus sich selbst allein geschöpft haben.
+  Durch diese allein lernt man, und es sind ihrer gewiss sehr wenige,
+  die also jedermann leicht lesen könnte.
+  Die andern prägen nach und sind im eigentlichen Verstande Falschmünzer.
+
+476. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Es gibt kein sicheres Kriterium von einem großen Schriftsteller,
+  als wenn sich aus seinen Anmerkungen en passant Bücher machen lassen.
+
+477. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Kleine Fehler zu entdecken,
+  ist seit jeher die Eigenschaft solcher Köpfe gewesen,
+  die wenig oder gar nicht über die mittelmäßigen erhaben waren.
+  Die wirklich erhabenen schweigen stets oder sagen nur etwas gegen das Ganze,
+  und die großen Geister schaffen nur, ohne zu tadeln.
+
+478. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Ist es nicht sonderbar, dass man das Publikum, das uns lobt,
+  immer für einen kompetenten Richter hält;
+  aber sobald es uns tadelt, es für unfähig erklärt,
+  über Werke des Geistes zu urteilen?
+
+479. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Rousseau hat, glaube ich, gesagt:
+  ein Kind das nur seine Eltern kennen lernt,
+  das kennt auch diese nicht recht. Sehr schön und wahr.
+
+480. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Eine Regel beim Lesen ist:
+  die Absicht des Verfassers, und den Hauptgedanken
+  sich auf wenig Worte zu bringen
+  und sich unter dieser Gestalt eigen zu machen.
+  Wer so liest ist beschäftigt, und gewinnt.
+  Es gibt eine Art von Lektüre,
+  wobei der Geist gar nichts gewinnt, und viel mehr verliert,
+  es ist das Lesen ohne Vergleichung mit seinem eigenen Vorrat 
+  und ohne Vereinigung mit seinem Meinungssystem.
+
+481. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Die traurigste Art Schriften ist die,
+  die weder Räsonnement genug enthalten, um zu überzeugen,
+  noch Witz genug, um zu ergötzen.
+
+482. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Bei dem Würfelspiel saß eine lange, hagere Frau und strickte.
+  Ich fragte, was man da gewinnen könnte: sie sagte: NICHTS,
+  und als ich fragte, ob man was verlieren könne, 
+  sagte sie: NEIN!
+  Dieses hielt ich für ein wichtiges Spiel.
+
+483. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+ Es ist so etwas in unserem Gemüte wie Sonnenschein und Witterung,
+ das nicht von uns abhängt.
+ Wenn ich über etwas schreibe, so kommt mir das Beste immer so zu,
+ dass ich nicht sagen kann woher.
+
+484. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+ÜBER BÜCHER, LESEN, SCHREIBEN UND SPRACHE
+  Das Buch, das in der Welt am ersten verboten zu werden verdient,
+  wäre ein Katalogus von verbotenen Büchern.
+
+485. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  Eigentlicher ruhiger Genuss des Lebens kann nur bei Wahrheit bestehen.
+
+486. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  Wären die Nationen ganz voneinander getrennt, so würden vielleicht alle,
+  obgleich auf verschiedenen Stufen der Vollkommenheit,
+  zu dem chinesischen Stillstand gelangt sein.
+
+487. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  Man kann die Fehler eines großen Mannes tadeln,
+  aber man muss nur nicht den Mann deswegen tadeln.
+
+488. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  Mit dem Fortschreiten der Menschheit zu größerer Vollkommenheit
+  sieht es traurig aus,
+  wenn man die Analogie alles dessen, was lebt, zu Rate zieht.
+
+489. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  Ich kann nicht sagen, ob es besser werden wird, wenn es anders wird;
+  aber so viel kann ich sagen:
+  Es muss anders werden, wenn es gut werden soll.
+
+490. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  In älteren Jahren nichts mehr lernen KÖNNEN,
+  hängt mit dem in älteren Jahren
+  sich nicht mehr befehlen lassen wollen zusammen,
+  und zwar sehr genau.
+
+491. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  Wenn man einem vernünftigen Manne einen Hieb geben kann,
+  dass er toll wird, so sehe ich nicht ein,
+  warum man einem tollen nicht sollte einen geben können,
+  dass er klug wird.
+
+492. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  In dem sogenannten lebendigen Disput in seiner höchsten Vollkommenheit
+  dürfen BEIDE Parteien nichts von der Sache verstehen,
+  ja sie müssen nicht einmal wissen, was sie SELBST sagen.
+
+493. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+LAUF DER WELT
+  Wenn die Hunde, die Wespen und die Hornisse
+  mit menschlicher Vernunft begabt wären, 
+  so könnten sie sich vielleicht der Welt bemächtigen.
+
+494. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Es ist zum Erstaunen, wie weit ein gesunder Menschenverstand reicht.
+  Es ist auch hier, wie im gemeinen Leben, der gemeine Mann geht hin,
+  wohin der Vornehme mit Sechsen fährt.
+
+495. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Ich glaube, dass es keine größere Verstandesstärkung gibt
+  als Misstrauen gegen alle Meinungen der Menge.
+
+496. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Zweifel muss nichts weiter sein als Wachsamkeit,
+  sonst kann er gefährlich werden.
+
+497. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+ Um etwas für recht tief zu halten, muss man nie erfahren, WIE tief es ist.
+
+498. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Man muss nie denken, dieser Satz ist mir zu schwer,
+  der gehört für große Gelehrte,
+  ich will mich mit den andern hier beschäftigen;
+  das ist eine Schwachheit, die leicht in eine Untätigkeit ausarten kann.
+  Man muss sich für nichts zu gering halten.
+
+499. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Man kann nicht vorsichtig genug sein in Bekanntmachung eigener Meinungen,
+  die auf Leben und Glückseligkeit hinauslaufen,
+  hingegen nicht emsig genug, Menschenverstand und Zweifel einzuschärfen.
+
+500. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Ein großes Genie wird selten seine Entdeckungen auf der Bahn anderer machen.
+  Wenn es Sachen entdeckt, so entdeckt es auch gewöhnlich die Mittel dazu.
+
+501. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Bei den meisten Menschen gründet sich der Unglaube in einer Sache 
+  auf blinden Glauben in einer andern.
+
+502. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Die Naturkundigen der vorigen Zeit wussten weniger als wir,
+  und glaubten sich sehr nahe am Ziel:
+  wir haben sehr große Schritte darauf zu getan
+  und finden nun, dass wir noch sehr weit ab sind.
+  Bei den vernünftigsten Weltweisen
+  nimmt die Überzeugung von ihrer Unwissenheit 
+  zugleich mit ihrem Wachstum an Erkenntnis zu.
+
+
+503. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
+  Ich wollte einen Teil meines Lebens hingeben,
+  wenn ich wüsste was der mittlere Barometerstand im Paradiese gewesen ist.
+
+504. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Wir wissen mit weit mehr Deutlichkeit, dass unser Wille frei ist, 
+  als dass alles, was geschieht, eine Ursache haben müsse.
+  Könnte man also nicht einmal das Argument umkehren und sagen:
+  Unsre Begriffe von Ursache und Wirkung müssen sehr unrichtig sein,
+  weil unser Wille nicht frei sein könnte,
+  wenn die Vorstellung richtig wäre?
+
+505. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Mit eben dem Grade von Gewissheit,
+  mit dem wir überzeugt sind, dass etwas in uns vorgeht,
+  sind wir auch überzeugt, dass etwas außer uns vorgeht.
+  Wir verstehen die Worte innerhalb und außerhalb sehr wohl.
+  Es wird wohl niemand in der Welt sein, 
+  auch wohl schwerlich je geboren werden,
+  der nicht diesen Unterschied empfände,
+  und das ist für die Philosophie hinreichend:
+  hierüber sollte sie nicht hinausgehen;
+  es ist doch alles unnütze Mühe und verlorene Zeit.
+
+506. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Vorstellungen sind auch ein Leben und eine Welt.
+
+507. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Sind wir nicht schon einmal auferstanden? Gewiss aus einem Zustand
+  in welchem wir weniger von dem gegenwärtigen wussten,
+  als wir in dem gegenwärtigen von dem künftigen wissen.
+  Wie sich verhält unser voriger Zustand zu unserm jetzigen,
+  so der jetzige zum künftigen.
+
+508. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Es ist immer wieder sonderbar,
+  dass man so viel von unserer Fortdauer nach dem Tode spricht
+  und so wenig von unserer VOR-Dauer vor der Geburt.
+
+509. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Die Dinge außer uns sind nichts anderes als wir sie sehen,
+  für uns wenigstens nicht, denn wir können bloß Relationen bemerken,
+  weil die beobachtende Substanz ja beständig in das Mittel tritt.
+  Gott selbst sieht in den Dingen nur sich.
+
+510. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Es könnte ein Ohr geben für welches alle Völker nur eine Sprache redeten. 
+
+511. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+MENSCH, WELT, GOTT
+  Ist denn wohl unser Begriff von Gott
+  etwas weiter als personifizierte Unbegreiflichkeit?
+
+
+512. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
 QUELLEN-NACHWEIS
   --------------------- 
   Insel Taschenbuch 165
   Suhrkamp Verlag
   Dritte Auflage 1979
+
+  Die Schatulle
+  Vom Baum der Erkenntnis
+  Deutsche Buchgemeinschaft GmbH, Berlin
+  Hans W. Fischer
   ---------------------
+  Aphorismen A.. (1765-70) 
+  Aphorismen B.. (1768-71) 
   Aphorismen C.. (1772-73) 
   Aphorismen D.. (1773-75) 
   Aphorismen E.. (1775-76) 
@@ -2278,3 +2908,10 @@ QUELLEN-NACHWEIS
   Aphorismen K** (1793-96) 
   Aphorismen L.. (1796-99)
 
+  ** Die Bücher G und H (Februar 1779 bis Dezember 1788)
+     und der größte Teil von K (Mai 1793 bis September 1796)
+     sind nicht erhalten, und vielleicht aus Familien-Rücksichten
+     vernichtet worden, da sie den Zeitraum der Beziehungen Lichtenbergs
+     zu Dorothea Stechard und zu seiner späteren Frau behandeln.
+     Für ihre Ausgabe der 'Vermischten Schriften' von 1884
+     haben Lichtenbergs Söhne die verlorenen Bücher noch benutzt.
