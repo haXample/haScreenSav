@@ -41,20 +41,20 @@ Examples:
 
 ![screenshot2a](document/image/haScrSav04.jpg)  
 
-![screenshot3](document/image/haScrSav05.jpg)  
+[Lichtenberg](document/image/haScrSav05.jpg)  
 
-![screenshot4](document/image/haScrSav06.jpg)  
+[Vergleichende](document/image/haScrSav06.jpg)  
 
-![screenshot5a](document/image/haScrSav07.jpg)  
+[Im Anfang 1M6.3-4](document/image/haScrSav07.jpg)  
 
-![screenshot5b](document/image/haScrSav08.jpg)  
+[Schopenhauer](document/image/haScrSav08.jpg)  
 
-![screenshot5c](document/image/haScrSav09.jpg)  
+[Ludwig Hohl](document/image/haScrSav09.jpg)  
 
-![screenshot5d](document/image/haScrSav10.jpg)  
+[Goethe - Maximen&Reflexionen](document/image/haScrSav10.jpg)  
 
-![screenshot5e](document/image/haScrSav11.jpg)  
+[Miscellaneous](document/image/haScrSav11.jpg)  
 
-![screenshot5f](document/image/haScrSav12.jpg)  
+[TagLines](document/image/haScrSav12.jpg)  
 
-![screenshot5e](document/image/haScrSav13.jpg)  
+[Goethe - Maxims&Reflexions](document/image/haScrSav13.jpg)  
