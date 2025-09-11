@@ -1601,14 +1601,9 @@ We repair what your husband fixed.
 
 419. Sign outside a Hong Kong tailor shop:
 "Ladies may have a fit upstairs."
+
 420. Sign in a Bangkok dry cleaner's:
 "Drop your trousers here for best results."
-
-420. A sign posted in Germany's Black forest:
-"It is strictly forbidden on our black forest camping site 
-that people of different sex, for instance, men and women, 
-live together in one tent 
-unless they are married with each other for that purpose."
 
 421. Sign in a Bangkok temple:
 "It is forbidden to enter a woman even a foreigner if dressed as a man."
@@ -1635,22 +1630,29 @@ the lifeguards are under the seats in the center of the vessel.
 "We make photocopies in all languages."
 
 431. Sign in the window of a travel agency in Barcelona: "Go away."
+
 432. Sign on a Tesco's Tiramisu desert:
 Do not turn upside down. (Printed on the bottom of the box.)
 
-432. Sign on the box of a clockwork toy made in Hong Kong:
+433. Sign on the box of a clockwork toy made in Hong Kong:
 Guaranteed to work throughout it's useful life.
 
-433. Sign in a Rhodes tailor shop:
+434. Sign in a Rhodes tailor shop:
 Order your summers suit. 
 Because is big rush we will execute customers in strict rotation.
 
-434. On the menu of a Swiss restaurant:
+435. On the menu of a Swiss restaurant:
 "Our wines leave you nothing to hope for."
 
-435. Sign in a hotel in Athens:
+436. Sign in a hotel in Athens:
 "Visitors are expected to complain at the office
  between the hours of 9 and 11 A.M. daily."
+
+437. A sign posted in Germany's Black forest:
+"It is strictly forbidden on our black forest camping site 
+that people of different sex, for instance, men and women, 
+live together in one tent 
+unless they are married with each other for that purpose."
 
 
 

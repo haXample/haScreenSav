@@ -113,6 +113,7 @@ SUDELBÜCHER vid. p.XXVI
   Wie hat es Ihnen in dieser Gesellschaft gefallen? 
   Antwort: Sehr wohl, beinah so sehr als auf meiner Kammer.
 
+
 20. Georg Christoph Lichtenberg, Aphorismen B280 (1768-71) 
   Man lese nicht viel und nur das Beste, langsam, 
   und befrage sich alle Schritte, warum glaube ich dieses?
@@ -910,11 +911,6 @@ SUDELBÜCHER vid. p.XXVI
   Es gibt wirklich sehr viele Menschen,
   die bloß lesen, damit sie nicht denken dürfen. 
 
-180. Georg Christoph Lichtenberg, Aphorismen I/208(GH) (1779-83)
-  Es ist eine alte Regel:
-  Ein Unverschämter kann bescheiden aussehen, wenn er will,
-  aber kein Bescheidener unverschämt. 
-
 180. Georg Christoph Lichtenberg, Aphorismen I/218(GH) (1779-83)
   Ich wünschte ein Kind zu haben, das ich mir ganz eigen machen könnte; 
   ich wollte es zu allem anhalten,
@@ -1215,6 +1211,7 @@ SUDELBÜCHER vid. p.XXVI
   dass man jetzt sieht, dass er das gewöhnliche Gesicht eines Menschen hat. 
 
 236. Georg Christoph Lichtenberg, Aphorismen I/131(GH) (1779-83)
+MENSCHENKENNTNIS
   Wovon das Herz nicht voll ist, davon geht der Mund über,
   habe ich öfters wahr gefunden als den entgegengesetzten Satz.
 
@@ -1229,11 +1226,6 @@ SUDELBÜCHER vid. p.XXVI
   die man übt, ohne zu glauben, dass es schädlich sei;
   so wie man etwa aus ähnlicher Gleichgültigkeit
   gegen seine Gesundheit Tabak raucht. 
-
-238. Georg Christoph Lichtenberg, Aphorismen I/148(GH) (1779-83)
-  Der Stolz, eine edle Leidenschaft,
-  ist nicht blind gegen eigene Fehler,
-  aber der Hochmut ist es. 
 
 239. Georg Christoph Lichtenberg, Aphorismen I/149(GH) (1779-83)
   Ein Gelübde zu tun ist eine größere Sünde, als es zu brechen. 
@@ -1391,11 +1383,6 @@ SUDELBÜCHER vid. p.XXVI
   Ich fürchte, unsere allzu sorgfältige Erziehung liefert uns Zwergobst. 
   (cum grano salis ad besser zu werden)
 
-266. Georg Christoph Lichtenberg, Aphorismen L372 (1796-99)
-  Wie herrlich würde es nicht um die Welt stehen,
-  wenn die großen Herrn den Frieden wie eine Maitresse liebten,
-  sie haben für ihre Person zu wenig vom Kriege zu fürchten. 
-
 266. Georg Christoph Lichtenberg, Aphorismen L398 (1796-99)
   Dieses ist einer von den sogenannten geflügelten Sprüchen,
   die sich aber leider, anstatt umher zu fliegen,
@@ -1421,8 +1408,8 @@ SUDELBÜCHER vid. p.XXVI
 
 271. Georg Christoph Lichtenberg, Aphorismen L596 (1796-99)
   Er hustete so hohl,
-  dass man in jedem Laut den doppelten Resonanzboden Brust
-  und Sarg mitzuhören glaubte. 
+  dass man in jedem Laut den doppelten Resonanzboden
+  Brust und Sarg mitzuhören glaubte. 
 
 272. Georg Christoph Lichtenberg, Aphorismen L597 (1796-99)
   Er schien eher Tischler-Arbeit zu sein
@@ -1459,17 +1446,19 @@ SUDELBÜCHER vid. p.XXVI
 
 277. Georg Christoph Lichtenberg (1742-99)
 BRIEF-KULTUR IM 18TEN JAHRHUNDERT 
-  "Außer dem Vergnügen Briefe von meinen guten Freunden zu erhalten,
-   kenne ich beinahe kein größeres als das,
-   in müßigen und guten Stunden wieder an dieselben zu schreiben."
+  Außer dem Vergnügen Briefe von meinen guten Freunden zu erhalten,
+  kenne ich beinahe kein größeres als das,
+  in müßigen und guten Stunden wieder an dieselben zu schreiben.
 
 
 278. Georg Christoph Lichtenberg, Aphorismen B356 (1768-71)
+ALLZUMENSCHLICHES
   Sie glauben oft, um ein schöner Geist zu sein,
   müsse man etwas liederlich leben
   und gleichsam das Genie mit verdorbenen Sitten fett machen.
 
 279. Georg Christoph Lichtenberg, Aphorismen B15 (1768-71) 
+ALLZUMENSCHLICHES
   Wenn er seinen Verstand gebrauchen sollte,
   so war es ihm als wenn jemand,
   der beständig seine rechte Hand gebraucht hat, 
@@ -2377,6 +2366,8 @@ MENSCHENKENNTNIS
 
 434. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
 MENSCHENKENNTNIS
+  Die Menschen denken über die Vorfälle des Lebens
+  nicht so verschieden, als sie darüber sprechen.
 
 435. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
 MENSCHENKENNTNIS
@@ -2886,7 +2877,22 @@ MENSCH, WELT, GOTT
   und sorgfältig und mit Vernunft gewählte Zerstreuungen, 
   wobei uns unser Herz keine Vorwürfe machen kann. 
 
-513. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
+513. Georg Christoph Lichtenberg, Aphorismen I/148(GH) (1779-83)
+  Der Stolz, eine edle Leidenschaft,
+  ist nicht blind gegen eigene Fehler,
+  aber der Hochmut ist es. 
+
+514. Georg Christoph Lichtenberg, Aphorismen I/208(GH) (1779-83)
+  Es ist eine alte Regel:
+  Ein Unverschämter kann bescheiden aussehen, wenn er will,
+  aber kein Bescheidener unverschämt. 
+
+515. Georg Christoph Lichtenberg, Aphorismen L372 (1796-99)
+  Wie herrlich würde es nicht um die Welt stehen,
+  wenn die großen Herrn den Frieden wie eine Maitresse liebten,
+  sie haben für ihre Person zu wenig vom Kriege zu fürchten. 
+
+516. Georg Christoph Lichtenberg (*1.7.1742  +24.2.1799)
 QUELLEN-NACHWEIS
   --------------------- 
   Insel Taschenbuch 165

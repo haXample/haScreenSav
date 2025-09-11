@@ -2904,7 +2904,7 @@ NATURE: APHORISMS
   Unasked and unwarned shetakes us up into the whirl of her dance,
   and hurries on with us till we are weary and fall from her arms.
 
-591. Goethe, Maxims and Reflections
+592. Goethe, Maxims and Reflections
 NATURE: APHORISMS
   Nature creates new forms without end: what exists now, never was before;
   what was, comes not again; all is new and yet always the old.
@@ -2913,7 +2913,7 @@ NATURE: APHORISMS
   She speaks to us unceasingly and betrays not her secret.
   We are always influencing her and yet can do her no VIIolence.
 
-592. Goethe, Maxims and Reflections
+593. Goethe, Maxims and Reflections
 COPYRIGHT AND REFERENCE - THE FULL PROJECT GUTENBERG LICENSE
 -----------------------------------------------------------------------------
 "Project Gutenberg" is a registered trademark.
