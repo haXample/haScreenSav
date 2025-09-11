@@ -46,7 +46,8 @@ LIBS= KERNEL32.LIB USER32.LIB GDI32.LIB WINSPOOL.LIB COMDLG32.LIB ADVAPI32.LIB \
 #       MACRO DEFINITIONS OF THE PROJEC OBJECT MODULE DEPEDENCIES
 #
 OBJECTS = $(FOLDER)$(PROJ).obj $(FOLDER)haScrFaust.obj $(FOLDER)haScrTxTFile.obj \
-          $(FOLDER)haScrDraw.obj $(FOLDER)haScrBrowse.obj $(FOLDER)$(PROJ).res
+          $(FOLDER)haScrDraw.obj $(FOLDER)haScrBrowse.obj $(FOLDER)haScrMenu.obj \
+          $(FOLDER)$(PROJ).res
 
 CLEAN =  $(FOLDER)*.ilk
 
@@ -85,6 +86,8 @@ $(FOLDER)haScrTxtFile.obj:  $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PRO
 $(FOLDER)haScrDraw.obj:     $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
 $(FOLDER)haScrBrowse.obj:   $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+
+$(FOLDER)haScrMenu.obj:     $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
 #------------------------------------------------------------------------------
 #       $(PROJ).EXE TARGET BUILD

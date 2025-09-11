@@ -48,8 +48,6 @@
 using namespace std;
 
 // Global variables
-//ha//char* pszStringTest = "422. I. 3037\r\n  Sancta Simplicitas! darum ist's nicht zu tun.\n";
-
 char* pszTxtFilebuf  = NULL;       // Total text size
 char* pszString      = NULL;       // Text-block  to be displayed
 
@@ -95,13 +93,14 @@ extern int haFaust_frt02size;
 extern int haFaust_frt03size;
 
 extern int haFaust_frtsize;
-extern int timeFlag;
+extern int timeFlag, _stepFlag;
 
-extern HDC  hdc;                 // device-context handle  
+extern HDC  hdc;                    // device-context handle  
 
 // Centered Messagebox within parent window
 extern int CBTMessageBox(HWND, char*, char*, UINT);  
 extern int CBTCustomMessageBox(HWND, char*, char*, UINT, UINT);
+extern int AlgoTextSearch(char* textPattern, char* textBuf, ULONG bufOffset);
 
 // Forward declaration of functions included in this code module:
 void GetDate();
@@ -187,76 +186,39 @@ void errchk(char* _filename, int _lastErr)
     } // end if
   } // errchk
 
+
 //-----------------------------------------------------------------------------
 //
 //                        GetLastindex
 //
 int GetLastindex()
   {
+  char tmpBuf[10];      
+  char* tmpPtr = NULL;
   long _i;
+  int _j;
 
+  textMaxIndex = 0;
   for (_i=bytesrd; _i>0; _i--)
     {
-    if (pszTxtFilebuf[_i] == '\x0A')
-      {       
-      if (pszTxtFilebuf[_i+1] >= '0'  &&        //1-9
-          pszTxtFilebuf[_i+1] <= '9'  &&
-          pszTxtFilebuf[_i+2] == '.'  && 
-          pszTxtFilebuf[_i+3] == ' ')
+    if (pszTxtFilebuf[_i] == '\x0A' && _i < bytesrd-sizeof(tmpBuf))
+      {
+      // textMaxIndex = [\n9999. ]
+      for (_j=0; _j<strlen("\n1234. "); _j++) tmpBuf[_j] = pszTxtFilebuf[_i+_j];
+          
+      if ((tmpPtr = strstr(tmpBuf, ". ")) != NULL     &&
+          (*(tmpPtr-1) >= '0' && *(tmpPtr-1) <= '9'))
         {
-        pszTxtFilebuf[_i+2] =0; 
-        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
-        pszTxtFilebuf[_i+2] ='.'; 
-        break;
-        }
-      else if (pszTxtFilebuf[_i+1] >= '0'  &&  //10-99
-               pszTxtFilebuf[_i+1] <= '9'  &&
-               pszTxtFilebuf[_i+2] >= '0'  &&  
-               pszTxtFilebuf[_i+2] <= '9'  &&
-               pszTxtFilebuf[_i+3] == '.'  && 
-               pszTxtFilebuf[_i+4] == ' ')
-        {
-        pszTxtFilebuf[_i+3] =0; 
-        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
-        pszTxtFilebuf[_i+3] ='.'; 
-        break;
-        } 
-      else if (pszTxtFilebuf[_i+1] >= '0'  &&   // 100-999
-               pszTxtFilebuf[_i+1] <= '9'  &&
-               pszTxtFilebuf[_i+2] >= '0'  &&
-               pszTxtFilebuf[_i+2] <= '9'  &&
-               pszTxtFilebuf[_i+3] >= '0'  &&     
-               pszTxtFilebuf[_i+3] <= '9'  &&
-               pszTxtFilebuf[_i+4] == '.'  &&
-               pszTxtFilebuf[_i+5] == ' ')
-           
-        {
-        pszTxtFilebuf[_i+4] =0; 
-        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
-        pszTxtFilebuf[_i+4] ='.'; 
-        break;
-        }                                     
-      else if (pszTxtFilebuf[_i+1] >= '0'  &&   //1000-9999
-               pszTxtFilebuf[_i+1] <= '9'  &&
-               pszTxtFilebuf[_i+2] >= '0'  &&
-               pszTxtFilebuf[_i+2] <= '9'  &&
-               pszTxtFilebuf[_i+3] >= '0'  &&
-               pszTxtFilebuf[_i+3] <= '9'  &&
-               pszTxtFilebuf[_i+4] >= '0'  &&     
-               pszTxtFilebuf[_i+4] <= '9'  &&
-               pszTxtFilebuf[_i+5] == '.'  &&
-               pszTxtFilebuf[_i+6] == ' ')
-        {
-        pszTxtFilebuf[_i+5] =0; 
-        textMaxIndex = atoi(&pszTxtFilebuf[_i+1]);
-        pszTxtFilebuf[_i+5] ='.'; 
+        *tmpPtr = 0;
+        textMaxIndex = atoi(&tmpBuf[1]);
         break;
         }
       } // end if ('\x0A')
-
     } // end for
+
   return(textMaxIndex);
   } // GetLastindex
+
 
 //-----------------------------------------------------------------------------
 //
@@ -349,7 +311,7 @@ void BuildTxtPtrArray()
   char ascDecNrStr[10];                        // "10000. \x0"
   char* tmpPtr = NULL;
   
-  GetLastindex();
+  GetLastindex();                              // =textMaxIndex
                                   
   _i=0; txtIndex = 1;                          // Text numbers start with 1
   while (_i < bytesrd)
@@ -358,6 +320,12 @@ void BuildTxtPtrArray()
     if ((tmpPtr=strstr(&pszTxtFilebuf[_i], ascDecNrStr)) != NULL)
       {
       if (txtIndex > 1) *(tmpPtr-1) = 0;       // 0-terminate previous text block
+
+      // Format index check
+      // Check if next index is same as previous (double indexes)
+      sprintf(ascDecNrStr, "\xA%d. ", txtIndex);  
+      if (strstr(tmpPtr, ascDecNrStr) != NULL) 
+        { errchk(pszhaScrFilename, ERROR_BAD_FORMAT); break; }
 
       // Find start of current text (skip txtIndex)
       tmpPtr = strstr(tmpPtr, ". ");
@@ -370,12 +338,15 @@ void BuildTxtPtrArray()
       if (txtIndex > textMaxIndex) break;      // stop if no more text
       
       // Format index check
+      // Check if next index is not increment of previous (illegal indexes)
       sprintf(ascDecNrStr, "\xA%d. ", txtIndex);  
       if (strstr(tmpPtr, ascDecNrStr) == NULL) 
         { errchk(pszhaScrFilename, ERROR_BAD_FORMAT); break; }
       }
     _i++;                                      // advance buffer index
     } // end while
+
+  txtIndex = 0;                                // Init-clear
   } // BuildTxtPtrArray
 
 //-----------------------------------------------------------------------------
@@ -384,28 +355,23 @@ void BuildTxtPtrArray()
 //
 // Get random text from selected formatted *.FRT text  
 //
-int _srandFlag = FALSE;     // Global: Inject the random seed only once
-                            // (otherwise it dependents too much on time stamps)
-void GetText()
+void GetText(int _txtIndex)
   {
   char ascDecNrStr[11];
   char* tmpPtr = NULL;
   ULONG _i;                 // must be local here
 
-  pszString = (char *)GlobalAlloc(GPTR, MAX_TEXTSIZE);  // Max size of a Textblock
+  // Max size of a Textblock
+  pszString = (char *)GlobalAlloc(GPTR, MAX_TEXTSIZE);  
 
-  // srand() initially seeds the random-number generator with the current time  
-  if (_srandFlag == FALSE) { srand((unsigned)time(NULL)); _srandFlag = TRUE; }
-  txtIndex = rand() % (textMaxIndex+1);
-//ha//txtIndex = rand() % 9;                       // DEBUG TEST
-//ha//txtIndex++;                                  // DEBUG TEST 
-//ha//txtIndex=(textMaxIndex) % (textMaxIndex+1);  // DEBUG TEST 
-//ha//txtIndex=textMaxIndex;                       // DEBUG TEST 
-//ha//txtIndex=369;                                // DEBUG TEST see misc1.frt "369. "
+//ha//_txtIndex=369;                    // DEBUG TEST see misc1.frt "369. "
+//ha//_txtIndex++;                      // DEBUG TEST 
+//ha//_txtIndex=textMaxIndex;           // DEBUG TEST 
+//ha//_txtIndex %= (textMaxIndex+1);    // DEBUG TEST 
+//ha//_txtIndex = rand() % 9;           // DEBUG TEST
 
-  if (txtIndex == 0) txtIndex++;             // Texts start with "1. "
-
-  tmpPtr = txtPtrArray[txtIndex].txtPtr;
+  if (_txtIndex <= 0 || _txtIndex > textMaxIndex) _txtIndex = 1;
+  tmpPtr = txtPtrArray[_txtIndex].txtPtr;
 
   // Discard any double CRLF and 0-terminate text
   if (tmpPtr[strlen(tmpPtr)-2] == '\x0A' &&

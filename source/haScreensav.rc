@@ -19,7 +19,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 //
-//               Screensaver Configuration Setup Dialog Menu
+//               Screensaver Configuration Setup Dialog
 //
 // Most screen savers provide a configuration dialog box 
 //  to let the user specify customization data
@@ -36,6 +36,8 @@ ID_BE_SEEING_YOU  BITMAP "haScrBeSeeingYou.bmp" // Image for haScreensav menu di
 IDI_BE_SEEING_YOU ICON   "beSeeingYou32x32.ico" // Program Symbol Icon (dialog boxes)
 IDI_HASCRABOUT    ICON   "beSeeingYou16x16.ico" // Program Symbol Icon (Title icon)
 
+beSeeingYou   ICON DISCARDABLE   "beSeeingYou32x32.ico" // Define Icon displayed in Help Menus
+
 // Provide the application name and the inifile name in the .rc file. 
 // So that these names can be retrieved by the LoadString(,IDS_..,) function.
 STRINGTABLE
@@ -44,6 +46,10 @@ BEGIN
   IDS_INIFILE, "haScrSav.ini"   // Phantom ini-file (.SCR handles it obscurely)
 END
 
+////////////////////////////////////////////////////////////////////////////////
+//
+//               Screensaver Configuration Setup Dialog Menu
+//
 // Window position & SIze on screen (X, Y, Wdth, Hght)
 DLG_SCRNSAVECONFIGURE DIALOG 200, 200, 7+55+164, 100 
 LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
@@ -61,44 +67,163 @@ BEGIN
     LTEXT         "Slow",         ID_TXTSLOW,      7+55+6+78,    21,  20,  8
     SCROLLBAR                     ID_SPEED,        7+55+6,       31,  96, 10
     PUSHBUTTON    "Font Color",   ID_FONTCOLOR,    7+172,        10,  40, 14
-    PUSHBUTTON    "Font Type",    ID_FONTSIZE,     7+172,        32,  40, 14
+    PUSHBUTTON    "Font Type",    ID_FONTTYPE,     7+172,        32,  40, 14
     RADIOBUTTON   "Time display", ID_TIMEDISPLAY,  7,            50,  52, 14
-    LTEXT         "",             ID_RESOLUTION,   7+55+6,       53, 106, 14  // optional
+    LTEXT         "",             ID_RESOLUTION,   7+55+6,       53, 106, 16  // optional
     PUSHBUTTON    "OK",           ID_OK,           7+172,        54,  40, 14
     PUSHBUTTON    "Cancel",       ID_CANCEL,       7+172,        76,  40, 14
     PUSHBUTTON    "Text File",    ID_TEXTFILE,     7,            76,  40, 14
-    PUSHBUTTON    "Text Step",    ID_TEXTSTEP,     7+55,         76,  40, 14
+    PUSHBUTTON    "Text Menu",    ID_TEXTMENU,     7+55,         76,  40, 14
 END
 
 ////////////////////////////////////////////////////////////////////////////////
 //
-//                   Character Font Dropdown Menu
+//                   Character FontType Dropdown (Popup) Menu
 //
-PopupMenu MENU 
+FontTypeDropDown MENU                 // "FontTypeDropDown"
 BEGIN 
-  POPUP "Dummy Popup" 
+  POPUP "Dummy Popup"                 // Separate Submenus "Font" "Size" "Style"
     BEGIN 
-      POPUP "Font" 
+      POPUP "Font"                    // "FontTypeDropDown"Submenu Pos[0]
         BEGIN 
-          MENUITEM "Default GUI",     IDM_FONT_DFLT
-          MENUITEM "Times New Roman", IDM_FONT_TIMESROMAN 
-          MENUITEM "Courier New",     IDM_FONT_COURIER 
+          MENUITEM "Default GUI",     IDM_FONT_DFLT        // "..."Submenu Pos[0] MenuItem0
+          MENUITEM "Times New Roman", IDM_FONT_TIMESROMAN  // "..."Submenu Pos[0] MenuItem1
+          MENUITEM "Courier New",     IDM_FONT_COURIER     // "..."Submenu Pos[0] MenuItem2
+          MENUITEM "Consolas",        IDM_FONT_CONSOLAS    // "..."Submenu Pos[0] MenuItem3
+          MENUITEM "Fixedsys",        IDM_FONT_FIXEDSYS    // "..."Submenu Pos[0] MenuItem4
         END 
-      POPUP "Size" 
+      POPUP "Size"                    // "FontTypeDropDown"Submenu Pos[1]
         BEGIN 
-          MENUITEM "10",  IDM_FONTSIZE_10 
-          MENUITEM "12",  IDM_FONTSIZE_12 
-          MENUITEM "14",  IDM_FONTSIZE_14 
-          MENUITEM "16",  IDM_FONTSIZE_16 
-          MENUITEM "18",  IDM_FONTSIZE_18 
+          MENUITEM "10",  IDM_FONTSIZE_10  // "..."Submenu Pos[1] MenuItem0
+          MENUITEM "12",  IDM_FONTSIZE_12  // "..."Submenu Pos[1] MenuItem1
+          MENUITEM "14",  IDM_FONTSIZE_14  // "..."Submenu Pos[1] MenuItem2
+          MENUITEM "16",  IDM_FONTSIZE_16  // "..."Submenu Pos[1] MenuItem3
+          MENUITEM "18",  IDM_FONTSIZE_18  // "..."Submenu Pos[1] MenuItem4
         END 
-      POPUP "Style" 
+      POPUP "Style"                   // "FontTypeDropDown"Submenu Pos[2]
         BEGIN 
-          MENUITEM "Standard",    IDM_FONTSTYLE_STANDARD 
-          MENUITEM "Italic",      IDM_FONTSTYLE_ITALIC 
-          MENUITEM "Bold",        IDM_FONTSTYLE_BOLD 
-        END 
-    END 
+          MENUITEM "Standard",    IDM_FONTSTYLE_STANDARD   // "..."Submenu Pos[2] MenuItem0
+          MENUITEM "Italic",      IDM_FONTSTYLE_ITALIC     // "..."Submenu Pos[2] MenuItem1
+          MENUITEM "Bold",        IDM_FONTSTYLE_BOLD       // "..."Submenu Pos[2] MenuItem2
+        END
+    END
+END
+
+////////////////////////////////////////////////////////////////////////////////
+//
+//               Screensaver Setup Dialog "Text Menu"
+//
+// Window position & SIze on screen (X, Y, Wdth, Hght)
+//
+// Definition of restricted button area
+//  rcTextMenuButtons.left   += 20;                // Left edge of buttons
+//  rcTextMenuButtons.top    += 68+50;             // Upper edge of first button [Random]
+//  rcTextMenuButtons.right  += 20;                // Right edge of buttons
+//  rcTextMenuButtons.bottom += 68+212+((8-1)*14); // Lower end of last button [Exit]
+//
+// Example for dialog menu buttons only (no text field)
+//  Calculation: 5, 5, 6+41+6, 52+180 
+//               180=9*(14+6)
+//ha//DLG_SCRNSAVE_TEXTMENU DIALOGEX DISCARDABLE 5, 5, 6+41+6, 52+180
+//
+// Example for rcDesktop.right=1480, rcDesktobottom=1050
+//  Calculation: choose 1458 x 999 Pixels
+//               =972*1.50 x 615*1.62 resource units
+//ha//DLG_SCRNSAVE_TEXTMENU DIALOGEX DISCARDABLE 5, 5, 972, 615
+//
+// Example for rcDesktop.right=1680, rcDesktobottom=1050
+//  Calculation: choose 1658 x 999 Pixels
+//               =1105*1.50 x 615*1.62 resource units
+//ha//DLG_SCRNSAVE_TEXTMENU DIALOGEX DISCARDABLE 5, 5, 1105, 615
+//
+// Example for rcDesktop.right=1920, rcDesktobottom=1080
+//  Calculation: choose 1900 x 1010 Pixels
+//               =1267*1.50 x 623*1.62 resource units
+//ha//DLG_SCRNSAVE_TEXTMENU DIALOGEX DISCARDABLE 5, 5, 1267, 623
+//
+// Example for rcDesktop.right=3840, rcDesktobottom=2160
+//  Calculation: choose 3820 x 2110 Pixels
+//               =2546*1.50 x 1302*1.62 resource units
+DLG_SCRNSAVE_TEXTMENU DIALOGEX DISCARDABLE 0, 0, 2546, 1302
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+STYLE DS_MODALFRAME | DS_ABSALIGN | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU // | DS_CENTER
+CAPTION "  haScreenSaver Text Menu - Step through text"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    // Show a BMP bitmap at left side within the dialog menu 
+    CONTROL         ID_BE_SEEING_YOU, ID_BE_SEEING_YOU, "Static",
+                    SS_BITMAP | SS_CENTERIMAGE | SS_REALSIZEIMAGE,
+                    7, 9, 38, 36                                       //  52=  9+36+6+(1)
+    // Define the dialog menu    ID                 X    Y    Wdth Hght
+    PUSHBUTTON    "Random",     _ID_TEXTRANDOM,     6,   52,  41,  14  //  52
+    PUSHBUTTON    "Next",       _ID_TEXTNEXT,       6,   72,  41,  14  //  72= 52+14+6    
+    PUSHBUTTON    "Previous",   _ID_TEXTPREVIOUS,   6,   92,  41,  14  //  92= 72+14+6
+    PUSHBUTTON    "Textindex",  _ID_TEXTINDEX,      6,  112,  41,  14  // 112= 92+14+6
+    PUSHBUTTON    "Search",     _ID_TEXTSEARCH,     6,  132,  41,  14  // 132=112+14+6
+    PUSHBUTTON    "Copy",       _ID_TEXTCOPY,       6,  152,  41,  14  // 152=132+14+6
+//ha//    PUSHBUTTON    "Import",     _ID_TEXTIMPORT,     6,  172,  41,  14
+    PUSHBUTTON    "Config",     _ID_TEXTCONFIG,     6,  172,  41,  14  // 172=152+14+6
+    PUSHBUTTON    "Help",       _ID_TEXTHELP,       6,  192,  41,  14  // 192=172+14+6
+    PUSHBUTTON    "Exit",       _ID_TEXTEXIT,       6,  212,  41,  14  // 212=192+14+6
+END
+
+/////////////////////////////////////////////////////////////////////////////
+//
+//               Screensaver Setup Dialog "Text Index"
+//
+// Window position & SIze on screen (X, Y, Wdth, Hght)
+DLG_SCRNSAVE_TEXTINDEX DIALOG DISCARDABLE  4, 112, 195, 80
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "  haScreenSaver Text Menu - Text index"
+FONT 8, "MS Shell Dlg"                  // "MS Sans Serif" "Courier New"
+BEGIN                                   // X,  Y, wdth,hght
+    ICON            "beSeeingYou",
+                    IDC_STATIC,            5, 10,  15, 15    // Icon position & size
+
+    LTEXT           "",
+                    IDC_TEXTFILE,         41,  8, 180,  8
+
+    LTEXT           "This is text item number = %d.",
+                    IDC_TEXTINDEX,        41, 17, 180,  8
+
+    LTEXT           "Enter a number between 1 .. %d.",
+                    IDC_MAXINDEX,         41, 31, 180,  8    // Must stay here in place (EM_SETSEL in haCryptDialog.cpp))
+
+    EDITTEXT        IDC_EDITINDEX,        41, 44,  25, 12, 0 // X, Y, wdth, hght, style=0 
+
+    PUSHBUTTON      "&OK", 
+                    IDC_OK,               71, 60,  50, 13    // Centered 71=(41+101)/2
+END
+
+/////////////////////////////////////////////////////////////////////////////
+//
+//               Screensaver Setup Dialog "Text Search"
+//
+// Window position & SIze on screen (X, Y, Wdth, Hght)
+DLG_SCRNSAVE_TEXTSEARCH DIALOG DISCARDABLE 4, 132, 190, 80
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "  haScreenSaver Text Menu - Text Search"
+FONT 8, "MS Shell Dlg"                  // "MS Sans Serif" "Courier New"
+BEGIN                                   // X,  Y, wdth,hght
+    ICON            "beSeeingYou",
+                    IDC_STATIC,            5, 10,  15, 15     // Icon position & size
+
+    LTEXT           "",
+                    IDC_TEXTFILE,         41,  8, 180,  8
+
+    LTEXT           "Enter a word or a phrase to search for.",
+                    IDC_STATIC,           41, 20, 180,  8
+
+    EDITTEXT        IDC_EDITSEARCH,       41, 30, 122, 12, 0  // X, Y, wdth, hght, style=0 
+
+    PUSHBUTTON      "&OK", 
+                    IDC_OK,               10, 55,  50, 13     // No default 
+
+    PUSHBUTTON      "Continue", 
+                    IDC_CONTINUE,         70, 55,  50, 13     // no default
+
+    PUSHBUTTON      "&Cancel", 
+                    IDC_CANCEL,          130, 55,  50, 13     // no default
 END
 
 //------------------------------------------------------------------------------

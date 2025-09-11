@@ -37,7 +37,8 @@
 using namespace std;
 
 // Global variables
-CHAR* textSizeExample = "ABC abc 123\r\nöäü ,:' !?.";
+//ha//CHAR* textSizeExample = "ABC abc 123\r\nöäü ,:' !?.";
+CHAR* textSizeExample = "ABC,öäü.123'";
 
 int textHeight=300;
 int textWidth =300;
@@ -58,10 +59,10 @@ RECT rcStr, rcDebug;
 int rcStrX, rcStrY; // The place where the text box actually pops up
 
 // Extern variables and functions
-extern LONG timeTxtHeight;
 extern char DebugBuf[];             // Temporary buffer for formatted text
-extern int DebugbufSize;
 extern char* psz_DebugBuf;
+extern int DebugbufSize;
+extern int txtIndex;
 
 extern CHAR* pszhaScrFontType;
 extern CHAR* pszString;
@@ -88,19 +89,23 @@ extern int fontSize;
 extern int fontStyle;
 extern DWORD fontItalic;
 
+extern LONG timeTxtHeight;
+
 extern int monitor_width;     // 1680
 extern int monitor_height;    // 1050
 
-extern int timeFlag;
+extern int timeFlag, _stepFlag;
+extern int textModeFlag; 
 
-extern void GetText();
+extern void GetDate();
+extern void GetText(int);
 
 //-----------------------------------------------------------------------------
 //
 //                        ScrSavDrawText
 //
 // BOOL SetRect(
-//   [out] LPRECT lprc,     // Pointer RECT structure containing the rectangle to be set.
+//   [out] LPRECT lprc,     // Pointer RECT structure of the rectangle to be set.
 //   [in]  int    xLeft,    // x-coordinate of the rectangle's upper-left corner.
 //   [in]  int    yTop,     // y-coordinate of the rectangle's upper-left corner.
 //   [in]  int    xRight,   // x-coordinate of the rectangle's lower-right corner.
@@ -116,9 +121,11 @@ extern void GetText();
 // } RECT, *PRECT, *NPRECT, *LPRECT;
 //
 // BOOL OffsetRect(         // OffsetRect moves the rectangle by the specified offsets.
-//   [in, out] LPRECT lprc, // Pointer RECT structure containing the rectangle to be moved.
-//   [in]      int    dx,   // Amount to move the rectangle left or right. Negative value moves to the left.
-//   [in]      int    dy    // Amount to move the rectangle up or down. Negative value moves up.
+//   [in, out] LPRECT lprc, // Pointer RECT structure of the rectangle to be moved.
+//   [in]      int    dx,   // Amount to move the rectangle left or right.
+//                          //  Negative value moves to the left.
+//   [in]      int    dy    // Amount to move the rectangle up or down.
+//                          //  Negative value moves up.
 // );
 //
 // The DrawText function draws formatted text in the specified rectangle.
@@ -133,19 +140,22 @@ extern void GetText();
 //   [in]      UINT    format
 // );
 // 
-void ScrSavDrawText(HWND _hwnd)
+void ScrSavDrawText(HWND _hwnd, int _txtIndex)
   {
+  // "Finetuning": Need to wait a little for FillRect(..) to be finished.
+  Sleep(100); 
+
   hdc = GetDC(_hwnd);
   // Format the text and paint screen background as appropriate. 
   SetBkColor(hdc, RGB(0,0,0));
   SetTextColor(hdc, rgbColor);
 
   // HFONT hFont = CreateFont(
-  //  int     cHeight,         // fontSize,   =22 27
+  //  int     cHeight,         // fontSize,  =22 27
   //  int     cWidth,          // 0,
   //  int     cEscapement,     // 0,
   //  int     cOrientation,    // 0,
-  //  int     cWeight,         // FW_NORMAL,  =500  FW_MEDIUM FW_SEMIBOLD FW_LIGHT FW_BOLD
+  //  int     cWeight,         // FW_NORMAL, =500  FW_MEDIUM FW_SEMIBOLD FW_LIGHT FW_BOLD
   //  DWORD   bItalic,         // FALSE,
   //  DWORD   bUnderline,      // FALSE,
   //  DWORD   bStrikeOut,      // FALSE,
@@ -156,13 +166,29 @@ void ScrSavDrawText(HWND _hwnd)
   //  DWORD   iPitchAndFamily, // DEFAULT_PITCH | FF_DONTCARE,
   //  LPCWSTR pszFaceName);    // "DEFAULT_GUI_FONT"
   //
-  hFont = CreateFont(fontSize, 0,0,0, fontWeight, fontItalic,0,0,0,0,0, PROOF_QUALITY, 0, pszhaScrFontType);
+  hFont = CreateFont(fontSize, 0,0,0, 
+                     fontWeight, 
+                     fontItalic, 
+                     0,0,0,0,0, 
+                     PROOF_QUALITY, 
+                     0, 
+                     pszhaScrFontType);
+
   hFontTmp = (HFONT)SelectObject(hdc, hFont);
 
-  randomX = rand();
-  randomY = rand();
+  if (textModeFlag != MODE_SEARCH)
+    {
+    randomX = rand(); // Default random text position
+    randomY = rand();
+    }
+  else
+    {
+    randomX = 400;    // Fix text position  for "Search-Continue"
+    randomY = 50;
+    }
   
-  GetText();   // Return text part in global pszString
+  GetDate();          // Update time stamp
+  GetText(_txtIndex); // Return text part in global pszString
   
   // Display a random text part of the formatted text resource
   // fontStyle:
@@ -193,32 +219,33 @@ void ScrSavDrawText(HWND _hwnd)
   // Init textbox at upper left corner (rcStr.right: see DT_CALCRECT)
   SetRect(&rcStr, 0, 0, 0, textHeight); 
 
-  // DT_CALCRECT Determines the width and height of the rectangle.
-  //             If there are multiple lines of text, 
-  //             DrawText uses the width of the rectangle pointed to by the lpRect parameter
-  //             and extends the base of the rectangle to bound the last line of text.
-  //             If the largest word is wider than the rectangle, the width is expanded.
-  //             If the text is less than the width of the rectangle,
-  //             the width is reduced. If there is only one line of text,
-  //             DrawText modifies the right side of the rectangle so that it bounds
-  //             the last character in the line.
-  //             In either case, DrawText returns the height of the formatted text
-  //             but does not draw the text. 
+  // DT_CALCRECT
+  //  Determines the width and height of the rectangle.
+  //  If there are multiple lines of text, 
+  //  DrawText uses the width of the rectangle pointed to by the lpRect parameter
+  //  and extends the base of the rectangle to bound the last line of text.
+  //  If the largest word is wider than the rectangle, the width is expanded.
+  //  If the text is less than the width of the rectangle,
+  //  the width is reduced. If there is only one line of text,
+  //  DrawText modifies the right side of the rectangle so that it bounds
+  //  the last character in the line.
+  //  In either case, DrawText returns the height of the formatted text
+  //  but does not draw the text. 
   // 
   textHeight = DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_CALCRECT);
-  if (timeFlag) textHeight += (3 * rcSize.cy);        // Adjust height for time display
+  if (timeFlag) textHeight += (3 * rcSize.cy);    // Adjust height for time display
 
-  SetRect(&rcStr, 0, 0, rcStr.right, textHeight);     // Update textbox height
+  SetRect(&rcStr, 0, 0, rcStr.right, textHeight); // Update textbox height
  
-  rcStrX = (randomX % monitor_width);           // Get random position {X,Y}
+  rcStrX = (randomX % monitor_width);             // Get random position {X,Y}
   rcStrY = (randomY % monitor_height);
 
-  if (rcStrX < 100) rcStrX = 100;                // Upper left {100,100}
+  if (rcStrX < 100) rcStrX = 100;                 // Upper left {100,100}
   if (rcStrY < 100) rcStrY = 100;
-  if (rcStrX > (monitor_width -rcStr.right))  rcStrX  = (monitor_width-rcStr.right-100);
-  if (rcStrY > (monitor_height-textHeight))   rcStrY  = 100; // Reset to top
+  if (rcStrX > (monitor_width -rcStr.right-20)) rcStrX  = (monitor_width-rcStr.right-100); // -20 for _textstep
+  if (rcStrY > (monitor_height-textHeight-50))  rcStrY  = 100; // Reset to top
   
-  OffsetRect(&rcStr, rcStrX, rcStrY);           // Move textbox randomly 
+  OffsetRect(&rcStr, rcStrX, rcStrY);             // Move textbox randomly 
   DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
   //DeleteObject(SelectObject(hdc, hFontTmp));
   ReleaseDC(_hwnd, hdc);
@@ -259,17 +286,27 @@ void ScrSavSetupDrawFont(HWND _hDlg)
 
   hdc = GetDC(_hDlg);
   // Format the text and paint screen background as defined. 
-  hFont = CreateFont(fontSize, 0,0,0, fontWeight, fontItalic,0,0,0,0,0, PROOF_QUALITY, 0, pszhaScrFontType);
+  hFont = CreateFont(fontSize, 0,0,0, 
+                     fontWeight, 
+                     fontItalic,
+                     0,0,0,0,0, 
+                     PROOF_QUALITY, 
+                     0, 
+                     pszhaScrFontType);
+
   hFontTmp = (HFONT)SelectObject(hdc, hFont);
   SetBkColor(hdc, RGB(0,0,0));
   SetTextColor(hdc, rgbColor);
 
+  // Create the black box for the text example
   GetClientRect(_hDlg, &rc);
-  // Create a black box for a text example
-  SetRect(&rc, rc.left+(7+55+32), rc.top+(54+32), rc.right-(200-6-106), rc.bottom-(100-76-14)-6);
+  rc.left   += 7+55+32; // =94
+  rc.top    =+ 86;      // =86
+  rc.right  -= 48+40;   // =226-138
+  rc.bottom -= 50;      // =100-50
   FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+
   // Place the text example into black box
-  SetRect(&rc, rc.left, rc.top+5, rc.right, rc.bottom);
   DrawText(hdc, textSizeExample, strlen(textSizeExample), &rc, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
   DeleteObject(SelectObject(hdc, hFontTmp));
   ReleaseDC(_hDlg, hdc);

@@ -117,7 +117,7 @@ int CustomMessageBox(HWND _hwnd, char* lpText,  char* lpCaption,
    mbp.dwLanguageId       = MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT);
    mbp.lpfnMsgBoxCallback = NULL;
    mbp.dwContextHelpId    = 0;
-   mbp.lpszIcon           = MAKEINTRESOURCE(uIconResID); // Custom icon ID (haCrypt.rc)
+   mbp.lpszIcon           = MAKEINTRESOURCE(uIconResID); // Custom icon ID (haScreensav.rc)
    
    return MessageBoxIndirect(&mbp); // Returns button choice (e.g. msgID = IDYES, IDNO)
    } // CustomMessageBox

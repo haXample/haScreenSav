@@ -65,6 +65,7 @@ TCHAR* psz_tDebugBuf = _tDebugBuf;
 // ..see haFaust.cpp
 //
 char* pszhaScrDfltFilename =        ".\\haFaust.frt";
+char* pszhaScrBibelFilename =       "Bibel";
 char  szhaScrFilename[MAX_PATH+1] = "";
 
 HWND hButtonTextFile;
@@ -72,6 +73,7 @@ HWND hwndTT;
 
 char* pszhaScrDfltFontType = "DEFAULT_GUI_FONT";   // selected character font
 char  szhaScrFontType[MAX_PATH+1];
+char  szTruncPath[MAX_PATH+1];
 
 CHAR szTemp[20];                               // temporary array of characters  
 
@@ -82,6 +84,8 @@ CHAR* pszIniFileKeyFSize   = "FONTSIZE";       // .ini: Name of the key belongin
 CHAR* pszIniFileKeyFStyle  = "FONTSTYLE";      // .ini: Name of the key belonging to section             
 CHAR* pszIniFileKeyTime    = "TIMEFLAG";       // .ini: Name of the key belonging to section             
 CHAR* pszIniFileKeyName    = "TEXTFILE";       // .ini: Name of the key belonging to section             
+
+char* TempPtr = NULL;
 
 LONG  lSpeed           = _DEFVEL;  
 int   fontSize         = _FONTSIZE16;
@@ -97,24 +101,31 @@ COLORREF acrCustClr[16];       // array of custom colors
 CHOOSECOLOR cc;                // color palette dialog box structure 
                                
 int _i, _j, _k;
-int _stepFlag = FALSE; // Flag: Stepping through text file 
-int _stepFlagCursor = FALSE; // Flag1: Stepping through text file 
   
 UINT bufsizeF, bufsizeT;
 
 HRESULT hr;
-HBRUSH hbrush;         // brush handle
+HBRUSH hbrush;            // brush handle
 HFONT hFont, hFontTmp;
 
-POINT cact, csav, pt;  // Mouse
+POINT cact, csav, pt;     // Mouse
 
-HWND hDesktop;				 // Desktop window
-HWND hTextStepButton;  // TextStep Button window
+HWND hDesktop;            // Desktop window
+HWND hTextRandomButton;   // Text Random Button window
+HWND hTextNextButton;     // Text Next Button window
+HWND hTextPreviousButton; // Text Previous Button window
+HWND hTextCurButton;      // Current Text Button window
 HWND hChooseColor;
-HWND hwnd;             // owner window
-HWND hSpeed;           // handle to speed scroll bar 
-HWND hOK;              // handle to OK push button  
-HDC  hdc;              // device-context handle  
+HWND hwnd;                // owner window
+HWND hSpeed;              // handle to speed scroll bar 
+HWND hOK;                 // handle to OK push button  
+HWND hDlgSetup;           // Copy of hDlg
+HWND hTextMenu;
+
+HDC  hdc;                 // device-context handle  
+HDC  hdcTextMenu;         // TextMenu-context handle  
+
+HGLOBAL hMem;             // Memory handle for clipboard
 
 // RECTANGLE structure
 // typedef struct tagRECT {
@@ -124,9 +135,11 @@ HDC  hdc;              // device-context handle
 //   LONG bottom;
 // } RECT, *PRECT, *NPRECT, *LPRECT;
 RECT rc;         
-RECT rcTextStep;         
+RECT rcTextMenu;         
+RECT rcTextMenuButtons;
+RECT DesktopRect;
 
-HMONITOR monitor;                      // Monitor geometrics
+HMONITOR monitor;                  // Monitor geometrics
 MONITORINFO info;
 int monitor_width; 
 int monitor_height;
@@ -134,27 +147,47 @@ int monitor_height;
 static UINT uTimer1, uTimer2, uTimer3; // timer identifiers  
  
 // Extern variables and functions
+// TEXTPR structure
+// typedef struct tagTEXTPR {      // Maximum number of text-blocks
+//    int txtNr;                   // TEXTPR structure for text-blocks
+//    char* txtPtr;                // The number of the Text block.
+// } TEXTPR, *PTEXTPR, *LPTEXTPR;  // The pointer to the text block.
+extern TEXTPR txtPtrArray[];
+
 extern char* pszString;
 extern char* pszTxtFilebuf;
 
+extern ULONG bytesrd;              // Textfile number of byte read
+
+extern int _stepRandom;
+extern int txtIndex;
+extern int textMaxIndex;
+extern int textModeFlag; 
+
 extern void OpenTxtBuf();
 extern void OpenTxtFile(char*);
-extern void GetText();
+extern void GetText(int);
 extern void GetDate();
 extern void errchk(char*, int);
 
-extern void ScrSavDrawText(HWND);
+extern void ScrSavDrawText(HWND, int);
 extern void ScrSavSetupDrawFont(HWND);
 extern BOOL OpenBrowserDialog();
 extern BOOL DoRootFolder(WCHAR*);
 
+extern void CreateToolTip(HWND, char*, const int);
+
+extern int CustomMessageBox(HWND, char*,  char*, UINT, UINT);
+extern INT_PTR CALLBACK TextMenuProc(HWND, UINT, WPARAM, LPARAM);
+extern INT_PTR CALLBACK DialogProcTextMenu(HWND, UINT, WPARAM, LPARAM);
+
 // The following globals are already defined in scrnsave.lib
-// extern HINSTANCE hMainInstance;              // screen saver instance handle
+// extern HINSTANCE hMainInstance;             // screen saver instance handle
 // extern HWND   hMainWindow;
 // extern BOOL   fChildPreview;
 // extern TCHAR  szName[TITLEBARNAMELEN];
-// extern TCHAR  szAppName[APPNAMEBUFFERLEN];   // .ini file section string
-// extern TCHAR  szIniFile[MAXFILELEN];         // .ini file name
+// extern TCHAR  szAppName[APPNAMEBUFFERLEN];  // .ini file section string
+// extern TCHAR  szIniFile[MAXFILELEN];        // .ini file name
 // extern TCHAR  szScreenSaver[22];
 // extern TCHAR  szHelpFile[MAXFILELEN];
 // extern TCHAR  szNoHelpMemory[BUFFLEN];
@@ -164,65 +197,55 @@ extern BOOL DoRootFolder(WCHAR*);
 
 //-----------------------------------------------------------------------------
 //
-//                       CreateToolTip
-//
-// Create a QuickInfo for any desired window
-//
-void CreateToolTip(HWND _hDesired, 
-                   char* _szTooltipTexthDesired, 
-                   const int _STYLE)
-  {
-  // Create "tooltip" quick information for Key Button. 
-  hwndTT = CreateWindowEx(WS_EX_TOPMOST, 
-                          TOOLTIPS_CLASS, 
-                          NULL,
-                          WS_POPUP | TTS_NOPREFIX | TTS_ALWAYSTIP | _STYLE,   
-                          CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, 
-                          _hDesired, 
-                          NULL, 
-                          hMainInstance, 
-                          NULL);
-
-  if (!hwndTT) MessageBox(NULL, "Failed: HWND hwndTT", "ERROR", MB_ICONERROR);
-
-  SetWindowPos(hwndTT, HWND_TOPMOST, 0, 0, 0, 0,
-               SWP_NOMOVE | SWP_NOSIZE | SWP_NOACTIVATE);
- 
-  TOOLINFO ti = {0};
-  ZeroMemory(&ti, sizeof(TOOLINFO));
-
-  ti.cbSize   = SIZE_TOOLINFO;     // TTTOOLINFOW_V2_SIZE or sizeof(TOOLINFO);
-  ti.uFlags   = TTF_IDISHWND | TTF_SUBCLASS;
-  ti.hwnd     = _hDesired;
-  ti.hinst    = hMainInstance;
-  ti.uId      = (UINT_PTR)_hDesired;
-  ti.lpszText = _szTooltipTexthDesired;
-
-  // Associate the tooltip with the "tool" window.
-  if (!SendMessage(hwndTT, TTM_ADDTOOL, 0, (LPARAM)(LPTOOLINFO)&ti))
-    MessageBox(NULL, "Failed: TTM_ADDTOOL", ERROR, MB_ICONERROR);
-  
-  // Allow long text strings: set display rectangle to 210 pixels. 
-  SendMessage(hwndTT, TTM_SETMAXTIPWIDTH, 0, MAX_PATH); // 210
-  }  // CreateToolTip
-
-//-----------------------------------------------------------------------------
-//
 //                        ScreenSaverConfigureDialog
 //
 void APIENTRY HandlePopupMenu(HWND _hwnd, POINT pt) 
   { 
   HMENU hmenu;            // menu template          
   HMENU hmenuTrackPopup;  // shortcut menu   
-
+  HMENU hmenuFont;        // shortcut submenu   
+  
   //  Load the menu template containing the shortcut menu from the 
   //  application's resources. 
-  hmenu = LoadMenu(hMainInstance, "PopupMenu"); 
+  hmenu = LoadMenu(hMainInstance, "FontTypeDropDown"); 
   if (hmenu == NULL) return; 
 
-  // Get the first shortcut menu in the menu template. This is the 
-  // menu that TrackPopupMenu displays. 
+  // Get the first shortcut menu in the menu template:
+  // "FontTypeDropDown"Submenu[0][0]. 
+  // This is the menu that TrackPopupMenu displays. 
   hmenuTrackPopup = GetSubMenu(hmenu, 0); 
+
+  // MF_BYPOSITION of 'Size' = "FontTypeDropDown"Submenu[0][1]
+  // The font "Fixedsys" cannot be scaled, 
+  //  so disable the 'Size' drop down menu.
+  // "FontTypeDropDown"Submenu Pos[0][1] 
+  if (StrCmpI(pszhaScrFontType, "Fixedsys") == 0)     
+    EnableMenuItem(hmenuTrackPopup, 1, MF_BYPOSITION | MF_GRAYED);
+  else
+    EnableMenuItem(hmenuTrackPopup, 1, MF_BYPOSITION | MF_ENABLED);
+
+  // Special handling for Bibel.frt:
+  // No proportional fonts allowed (looks ugly)
+  hmenuFont = GetSubMenu(hmenuTrackPopup, 0);
+  StrCpy(szTruncPath, pszhaScrFilename);      // Transfer file path
+  PathStripPath(szTruncPath);                 // Extract filename only
+  if (StrStrI(szTruncPath, pszhaScrBibelFilename) != NULL)
+    {
+    if (StrCmpI(pszhaScrFontType, "DEFAULT_GUI_FONT") == 0 ||
+        StrCmpI(pszhaScrFontType, "Times New Roman")  == 0)
+      {
+      pszhaScrFontType = "Fixedsys";          // Force item IDM_FONT_FIXEDSYS
+      ScrSavSetupDrawFont(hDlgSetup);         // Update font sample Box
+      }
+    EnableMenuItem(hmenuFont, IDM_FONT_DFLT      , MF_BYCOMMAND | MF_GRAYED); // Item of 'Font'
+    EnableMenuItem(hmenuFont, IDM_FONT_TIMESROMAN, MF_BYCOMMAND | MF_GRAYED); // Item of 'Font'
+    } // end if (bibel.frt)
+  
+  else // Allow all fonts
+    {
+    EnableMenuItem(hmenuFont, IDM_FONT_DFLT      , MF_BYCOMMAND | MF_ENABLED);  // Item of 'Font'
+    EnableMenuItem(hmenuFont, IDM_FONT_TIMESROMAN, MF_BYCOMMAND | MF_ENABLED);  // Item of 'Font'
+    }
 
   // TrackPopup uses screen coordinates, so convert the 
   // coordinates of the mouse click to screen coordinates, 
@@ -235,12 +258,18 @@ void APIENTRY HandlePopupMenu(HWND _hwnd, POINT pt)
   CheckMenuItem(hmenuTrackPopup, IDM_FONT_DFLT,       MF_BYCOMMAND | MF_UNCHECKED);
   CheckMenuItem(hmenuTrackPopup, IDM_FONT_TIMESROMAN, MF_BYCOMMAND | MF_UNCHECKED);
   CheckMenuItem(hmenuTrackPopup, IDM_FONT_COURIER,    MF_BYCOMMAND | MF_UNCHECKED);
+  CheckMenuItem(hmenuTrackPopup, IDM_FONT_CONSOLAS,   MF_BYCOMMAND | MF_UNCHECKED);
+  CheckMenuItem(hmenuTrackPopup, IDM_FONT_FIXEDSYS,   MF_BYCOMMAND | MF_UNCHECKED);
   if (StrCmpI(pszhaScrFontType, "DEFAULT_GUI_FONT") == 0)     
     CheckMenuItem(hmenuTrackPopup, IDM_FONT_DFLT,       MF_BYCOMMAND | MF_CHECKED);
   if (StrCmpI(pszhaScrFontType, "Times New Roman") == 0)     
     CheckMenuItem(hmenuTrackPopup, IDM_FONT_TIMESROMAN, MF_BYCOMMAND | MF_CHECKED);
   if (StrCmpI(pszhaScrFontType, "Courier New") == 0)     
     CheckMenuItem(hmenuTrackPopup, IDM_FONT_COURIER,    MF_BYCOMMAND | MF_CHECKED);
+  if (StrCmpI(pszhaScrFontType, "Consolas") == 0)     
+    CheckMenuItem(hmenuTrackPopup, IDM_FONT_CONSOLAS,   MF_BYCOMMAND | MF_CHECKED);
+  if (StrCmpI(pszhaScrFontType, "Fixedsys") == 0)     
+    CheckMenuItem(hmenuTrackPopup, IDM_FONT_FIXEDSYS,   MF_BYCOMMAND | MF_CHECKED);
 
   CheckMenuItem(hmenuTrackPopup, IDM_FONTSTYLE_STANDARD, MF_BYCOMMAND | MF_UNCHECKED);
   CheckMenuItem(hmenuTrackPopup, IDM_FONTSTYLE_ITALIC,   MF_BYCOMMAND | MF_UNCHECKED);
@@ -343,10 +372,26 @@ void APIENTRY HandlePopupMenu(HWND _hwnd, POINT pt)
 //   [in]  LPCTSTR lpFileName        The name of the initialization file.
 //);
 //
+// The screen saver library (scrnsave.lib) contains the WinMain function.
+// This function among the other things, registers a window class
+// that looks something as follows:
+// 
+// WNDCLASS cls; 
+// cls.hCursor       = NULL;
+// cls.hIcon         = LoadIcon(hInst, MAKEINTATOM(ID_APP));
+// cls.lpszMenuName  = NULL;
+// cls.lpszClassName = "WindowsScreenSaverClass";
+// cls.hbrBackground = GetStockObject(BLACK_BRUSH);
+// cls.hInstance     = hInst;
+// cls.style         = CS_VREDRAW | CS_HREDRAW | CS_SAVEBITS | CS_DBLCLKS;
+// cls.lpfnWndProc   = (WNDPROC)ScreenSaverProc;
+// cls.cbWndExtra    = 0;
+// cls.cbClsExtra    = 0;
+//
 LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
                                WPARAM wParam, LPARAM lParam)
   {
-  hdc = GetDC(hWnd);
+  hdc = GetDC(hWnd);  // 'hwnd' is the handle of the desktop window
    
   switch(message)
     {
@@ -402,13 +447,18 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       // Save current mouse position
       GetCursorPos(&csav);                           
       uTimer3 = SetTimer(hWnd, IDT_TIMER3, 300, NULL); 
+
+      // srand() initially seeds the random-nr generator with the current time  
+      // Global: Inject the random seed only once
+      // (otherwise it dependents too much on time stamps)
+      srand((unsigned)time(NULL));
       break;
 
     case WM_ERASEBKGND: 
       // The WM_ERASEBKGND message is issued (only once) 
       // before the WM_TIMER message, allowing the screen saver 
       // to paint the background as appropriate. 
-      GetClientRect(hWnd, &rc); 
+      GetClientRect(hWnd, &rc);                  // Get Desktop rectangle
       FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
       ReleaseDC(hWnd, hdc); 
       break;
@@ -424,9 +474,13 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           uTimer3 = FALSE;                       //  1st screen is displayed only once.
 
           // Clear the previous text and paint screen background as appropriate. 
-          GetClientRect(hWnd, &rc); 
+          GetClientRect(hWnd, &rc);              // Get Desktop rectangle
           FillRect(hdc, &rc, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
-          ScrSavDrawText(hWnd);  
+
+          textModeFlag = MODE_RANDOM;
+          txtIndex = rand() % (textMaxIndex+1);  // default txtIndex=random
+          if (txtIndex == 0) txtIndex++;         // Texts start with "1. "
+          ScrSavDrawText(hWnd, txtIndex);  
  
           // Provide enough time to read the text
           for (_i=0; _i < (strlen(pszString) * lSpeed); _i++)
@@ -448,11 +502,11 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
           break;
         } // end switch
 
-    // Allow an extra time of 30s to read, if SPACE-key has been pressed. 
-    // WM_KEYDOWN - Normally terminates the screen saver
-    // If SPACE-key had been pressed, simulating a return from WM_TIMER,
-    // will not terminate but continue the screen saver.
     case WM_KEYDOWN:
+      // Allow an extra time of 30s to read, if SPACE-key has been pressed. 
+      // WM_KEYDOWN - Normally terminates the screen saver
+      // If SPACE-key had been pressed, simulating a return from WM_TIMER,
+      // will not terminate but continue the screen saver.
       if (GetAsyncKeyState(VK_SPACE) != 0)
         {
         Sleep(30000);
@@ -516,6 +570,8 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
 BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
                                        WPARAM wParam, LPARAM lParam)
   {
+  hDlgSetup = hDlg; // Save hDlg
+
   // Get handle to the icon IDI_HASCRABOUT for the upper left corner of the title bar
   HICON hIcon16x16 = (HICON)LoadIcon(hMainInstance, MAKEINTRESOURCE(IDI_HASCRABOUT));
 
@@ -556,9 +612,12 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
                                           MAX_PATH, 
                                           szIniFile);
 
+      StrCpy(szTruncPath, pszhaScrFilename);      // Transfer current file path
+      PathStripPath(szTruncPath);                 // Extract current filename only
+
       // Create a Quick-Info (ToolTip) of the current filepath in use
       hButtonTextFile = GetDlgItem(hDlg, ID_TEXTFILE);
-      CreateToolTip(hButtonTextFile,  pszhaScrFilename,  NULL);    //, TTS_BALLOON (ugly)
+      CreateToolTip(hButtonTextFile,  pszhaScrFilename,  NULL);  //, TTS_BALLOON (ugly)
 
       // If the initialization file does not contain an entry 
       // for this screen saver, use the default value. 
@@ -572,19 +631,34 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
       // Initialize the radio button time display control.
       SendDlgItemMessage(hDlg, ID_TIMEDISPLAY, BM_SETCHECK, timeFlag, 0);
 
-      // Get monitor geometrics and display info in setup dialog
+      // Get Monitor/Desktop geometrics and display info in setup dialog
       monitor = MonitorFromWindow(hDlg, MONITOR_DEFAULTTONEAREST);
       info.cbSize = sizeof(MONITORINFO);
       GetMonitorInfo(monitor, &info);
       //sprintf(DebugBuf, "Resolution: %d x %d", info.rcMonitor.right, info.rcMonitor.bottom);
       monitor_width  = info.rcMonitor.right  - info.rcMonitor.left;
       monitor_height = info.rcMonitor.bottom - info.rcMonitor.top;
-      sprintf(DebugBuf, "Resolution: %d x %d", monitor_width, monitor_height);
-      SetDlgItemText(hDlg, ID_RESOLUTION, DebugBuf);   // Set monitor resolution
+      hDesktop = GetDesktopWindow();            // Get handle to desktop
+      ::GetWindowRect(hDesktop, &DesktopRect);  // The desktop window rectangle
+      if (monitor_width == DesktopRect.right && monitor_height == DesktopRect.bottom) 
+        sprintf(DebugBuf, "Resolution: %d x %d", monitor_width, monitor_height);
+      else
+        sprintf(DebugBuf, "Resolution: %d x %d\nDesktop: %d x %d",
+                          monitor_width, monitor_height, 
+                          DesktopRect.right, DesktopRect.bottom);
+      SetDlgItemText(hDlg, ID_RESOLUTION, DebugBuf);   // Set screen resolution
 
       // Retrieve a handle to the OK push button control.  
-      hOK = GetDlgItem(hDlg, ID_OK); 
+      hOK = GetDlgItem(hDlg, ID_OK);
+
+      // Provide the text resource:
+      // if no external file.FRT selected take the internal buffer (haScrFaust.cpp)
+      if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0) OpenTxtBuf();       
+      else OpenTxtFile(pszhaScrFilename);
       return TRUE;
+
+    case WM_SIZE:
+      break;
 
     case WM_HSCROLL: 
       // Process scroll bar input, adjusting the lSpeed 
@@ -630,28 +704,6 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
       SetScrollPos((HWND)lParam, SB_CTL, lSpeed, TRUE); 
       break; 
 
-    case WM_LBUTTONDOWN:
-     break;
-
-    case WM_MOUSEHOVER:
-    case WM_MOUSEMOVE:
-      // If Mouse has been moved, close and end the setup dialog
-      GetCursorPos(&cact);
-      if (_stepFlag && _stepFlagCursor>10 && (cact.x != csav.x || cact.y != csav.y))
-        {
-        SendMessage(hDlg, WM_COMMAND, (WPARAM)ID_CANCEL, MAKELPARAM(FALSE, 0));
-       }
-      _stepFlagCursor++;
-      break;
-
-    case WM_SYSKEYDOWN:
-      if ((GetAsyncKeyState(VK_LMENU) & 0x01) && _stepFlag)
-        {
-        _stepFlag = FALSE;
-        SendMessage(hDlg, WM_COMMAND, (WPARAM)ID_CANCEL, MAKELPARAM(FALSE, 0));
-        }
-      break;
-    
     case WM_COMMAND:
       switch(LOWORD(wParam))
         {
@@ -721,6 +773,14 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           pszhaScrFontType = "Courier New";
           ScrSavSetupDrawFont(hDlg);  
           break;
+        case IDM_FONT_CONSOLAS:
+          pszhaScrFontType = "Consolas";
+          ScrSavSetupDrawFont(hDlg);  
+          break;
+        case IDM_FONT_FIXEDSYS:
+          pszhaScrFontType = "Fixedsys";
+          ScrSavSetupDrawFont(hDlg);  
+          break;
 
         case IDM_FONTSIZE_10:
           fontSize = _FONTSIZE10;    // =17 intern 
@@ -769,7 +829,7 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           ScrSavSetupDrawFont(hDlg);  
           break;
 
-        case ID_FONTSIZE:
+        case ID_FONTTYPE:
           ScrSavSetupDrawFont(hDlg);  // Display font window
           HandlePopupMenu(hDlg, pt);  // Dropdown menu
           break;
@@ -782,40 +842,30 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           // with the currently valid filepath in use
           DestroyWindow(hwndTT);      
           CreateToolTip(hButtonTextFile, pszhaScrFilename, NULL);  //, TTS_BALLOON); (ugly)
-          break;
 
-        case ID_TEXTSTEP:
-          _stepFlag = TRUE;								 // Activate mouse move monitoring
-          GetCursorPos(&csav);						 // Save current cursor position at [Step] button.
-          
-          if (_stepFlagCursor == FALSE)
+          // Special handling for Bibel.frt:
+          // Bibel.frt dont't allow proportional (looks ugly)
+          StrCpy(szTruncPath, pszhaScrFilename);      // Transfer file path
+          PathStripPath(szTruncPath);                 // Extract filename only
+          if (StrStrI(szTruncPath, pszhaScrBibelFilename) != NULL)
             {
-            hTextStepButton = GetDlgItem(hDlg, ID_TEXTSTEP);
-            GetClientRect(hTextStepButton, &rcTextStep); // The desktop window GetClientRect(hDesktop, &rc);
-            rcTextStep.left   += csav.x;
-            rcTextStep.top    += csav.y;
-            rcTextStep.right  += csav.x;//+2;
-            rcTextStep.bottom += csav.y;
-            ClipCursor(&rcTextStep);
-            _stepFlagCursor = TRUE;
-            ShowCursor(FALSE);
-            //while(ShowCursor(FALSE)>=0);
-            }
+            if (StrCmpI(pszhaScrFontType, "DEFAULT_GUI_FONT") == 0 ||
+                StrCmpI(pszhaScrFontType, "Times New Roman")  == 0)
+              {
+              pszhaScrFontType = "Fixedsys";          // Force font item
+              ScrSavSetupDrawFont(hDlg);              // Update font sample Box
+              }
+            } // end if(bibel.frt)
 
-          // Clear the previous text and paint screen background appropriately. 
-          hDesktop = GetDesktopWindow();   // Get handle to desktop
-          ::GetClientRect(hDesktop, &rcTextStep); // The desktop window GetClientRect(hDesktop, &rc);
-          hdc = GetDC(hDesktop);
-          // Format the text and paint screen background as defined. 
-          FillRect(hdc, &rcTextStep, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
-
-          GetDate();
-          // Provide the text resource:
-          // if no external file.FRT selected take the internal buffer (haScrFaust.cpp)
+          // Update filepath immediately (though not saved yet)
           if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0) OpenTxtBuf();       
           else OpenTxtFile(pszhaScrFilename);
-          GetText();
-          ScrSavDrawText(hDesktop);
+          break;
+
+        case ID_TEXTMENU:
+          //textModeFlag = MODE_MENU;
+          ShowWindow(hDlg, SW_HIDE);        // Disable setup window
+          ShowWindow(hTextMenu, SW_SHOW);   // Enable Text Menu window   
           break;
 
         case ID_TIMEDISPLAY:
@@ -848,6 +898,8 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           // No break - Fall thru into case ID_CANCEL ..
          
         case ID_CANCEL:
+          // Free mouse cursor clip
+          ClipCursor(FALSE);  
           EndDialog(hDlg, LOWORD(wParam) == ID_OK);
           // Close any possibly open ChooseColor Dialog
           hChooseColor = FindWindowA(NULL, "Farbe");    // Language=German
@@ -858,17 +910,21 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           break;
 
         case WM_CLOSE:
+          // Free mouse cursor clip
+          ClipCursor(FALSE);  
           EndDialog(hDlg, 0);
           GlobalFree(pszTxtFilebuf);
           GlobalFree(pszString);
           return TRUE;
           break;
-        } // end switch
+        } // end switch(LOWORD(wParam))
 
-    } // end switch
+    } // end switch(message)
 
   return FALSE;
   } // ScreenSaverConfigureDialog
+
+
 
 //-----------------------------------------------------------------------------
 //
@@ -884,9 +940,42 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
 //  in the configuration dialog box can simply return TRUE.
 //  Applications requiring special windows or custom controls
 //  should use this function to register the corresponding window classes.
-// 
+//
+//  HANDLE A handle to an object.
+//  This type is declared in WinNT.h as follows:
+//  typedef PVOID HANDLE;
+//  
+//  https://en.wikibooks.org/wiki/Windows_Programming/Handles_and_Data_Types
+//  LPVOID data types are defined as being a "pointer to a void object".
+//   This may seem strange to some people, but the ANSI-C standard allows
+//   for generic pointers to be defined as "void*" types. 
+//   This means that LPVOID pointers can be used to point to any type of object, 
+//   without creating a compiler error. 
+//   However, the burden is on the programmer to keep track 
+//   of what type of object is being pointed to. 
+//  
+//  What exactly is the typedef HANDLE.
+//  We don't know what a handle is but it is not a pointer that we can use.
+//   A handle is typically something we use to identify something,
+//   but it's value is not known otherwise. A handle is like a black box;
+//   we know how to use them but we don't know what is inside.
+//   So instead of asking what the data of a handle is,
+//   you need to ask how to use it to do what you need to do. 
+//
 BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
   {
+  hTextMenu = CreateDialog(GetModuleHandle(NULL), 
+                           MAKEINTRESOURCE(DLG_SCRNSAVE_TEXTMENU),
+                           hTextMenu, 
+                           TextMenuProc);
+
+  if (!hTextMenu != NULL)
+    MessageBox(hwnd, _T("ERROR"), _T("CreateTextMenu"), MB_OK | MB_ICONERROR);
+
+  // Do not show the text menu
+  // (only registration for ScreenSaverConfigureDialog(..) availability)
+  else ShowWindow(hTextMenu, SW_HIDE);
+
   return TRUE;
   } // RegisterDialogClasses
 
@@ -931,42 +1020,16 @@ BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha////ha//pszhaScrFilename = "haFaust.frt"; //TEST
-//ha////ha//pszhaScrFontType = "Times";       //TEST
-//ha////
-//ha//sprintf(DebugBuf, "Filepath=%s\nFontType=\n%s", pszhaScrFilename, pszhaScrFontType);
-//ha//MessageBoxA(NULL, DebugBuf, "ScreenSaverProc - WM_CREATE", MB_ICONINFORMATION | MB_OK);
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "Filepath=%s\nFontType=\n%s", pszhaScrFilename, pszhaScrFontType);
-//ha//MessageBoxA(NULL, DebugBuf, "ScreenSaverProc - WM_CREATE", MB_ICONINFORMATION | MB_OK);
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//OpenTxtFile("haFaust.txt");
 //ha//OpenTxtBuf();
-
-//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//sprintf(DebugBuf, "txtIndex=%X  pszTxtFilebuf=\n%s", txtIndex, pszTxtFilebuf);
 //ha//MessageBoxA(NULL, DebugBuf, "-->ScreenSaverConfigureDialog_0<--", MB_ICONINFORMATION | MB_OK);
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//GetText();
-//ha//sprintf(DebugBuf, "txtIndex=%d  pszString=\n%s", txtIndex, pszString);
-//ha//MessageBoxA(NULL, DebugBuf, "ScreenSaverConfigureDialog", MB_ICONINFORMATION | MB_OK);
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "lSpeed=%d", lSpeed);
-//ha//MessageBoxA(NULL, DebugBuf, "case WM_HSCROLL", MB_ICONINFORMATION | MB_OK);
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "h=%d", textHeight);
-//ha//MessageBoxA(NULL, DebugBuf, "WM_TIMER", MB_OK);
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//sprintf(DebugBuf, "Filepath=%s\nFontType=\n%s", pszhaScrFilename, pszhaScrFontType);
+//ha//MessageBoxA(NULL, DebugBuf, "ScreenSaverProc - WM_CREATE", MB_ICONINFORMATION | MB_OK);
+//ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//sprintf(DebugBuf, "w=%d\nh=%d", monitor_width, monitor_height);
@@ -976,16 +1039,6 @@ BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//sprintf(DebugBuf, "xR=%04d, yB=%04d, xl=%d, yT=%d\nmW=%d, mH=%d", _xRight, _yBottom, _xLeft, _yTop, monitor_width, monitor_height);  
 //ha//DrawText(hdc, DebugBuf, strlen(DebugBuf), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "_binHexNr=%X\n_cnt=%d\n_ascDecNr=%s", _binHexNr, _cnt, _ascDecNr);
-//ha//MessageBoxA(NULL, DebugBuf, "BinHex2AscDec", MB_ICONINFORMATION | MB_OK);
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-
-//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
-//ha//sprintf(DebugBuf, "ascDecNrStr=%s\npszTxtFilebuf=%s",ascDecNrStr, pszTxtFilebuf);
-//ha//MessageBoxA(NULL, DebugBuf, "GetText", MB_ICONINFORMATION | MB_OK);
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
