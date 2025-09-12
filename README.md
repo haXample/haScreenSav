@@ -9,6 +9,8 @@ Select it as the current screensaver, and, in settings choose your personal flav
 *haScreenSav* will randomly extract excerpts from the famous FAUST tragedy  
 written by the genius Johann Wolfgang Goethe (original in German).
 
+Examine any text file.FRT running `haScreenSav.EXE` and select the [Text Menu] button.  
+
 Note: 
 The Faust Breviary is the intrinsic default (no additional file required).  
 All files `*.frt` must be located *outside* the `c:\windows\system32` folder.  
