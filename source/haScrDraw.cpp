@@ -240,10 +240,10 @@ void ScrSavDrawText(HWND _hwnd, int _txtIndex)
   rcStrX = (randomX % monitor_width);             // Get random position {X,Y}
   rcStrY = (randomY % monitor_height);
 
-  if (rcStrX < 100) rcStrX = 100;                 // Upper left {100,100}
-  if (rcStrY < 100) rcStrY = 100;
+  if (rcStrX < 100) rcStrX = 100;                 // Upper left {100,50}
+  if (rcStrY < 50) rcStrY = 50;
   if (rcStrX > (monitor_width -rcStr.right-20)) rcStrX  = (monitor_width-rcStr.right-100); // -20 for _textstep
-  if (rcStrY > (monitor_height-textHeight-50))  rcStrY  = 100; // Reset to top
+  if (rcStrY > (monitor_height-textHeight-50))  rcStrY  = 50; // Reset to top
   
   OffsetRect(&rcStr, rcStrX, rcStrY);             // Move textbox randomly 
   DrawText(hdc, pszString, strlen(pszString), &rcStr, DT_LEFT | DT_EXTERNALLEADING | DT_WORDBREAK);
