@@ -1703,7 +1703,12 @@ FRIEDRICH DÜRRENMATT BEURTEILT LUDWIG HOHL
    Darum schreibe ich keine Sätze, darum schreibe ich Theaterstücke."
 
 
-244. Ludwig Hohl, Von den hereinbrechenden Rändern, Anmerkungen 141
+244. Ludwig Hohl, Von den hereinbrechenden Rändern, Anmerkungen 18
+  Um nicht Erfolg zu haben, 
+  muss man entweder sehr gut oder sehr schlecht schreiben.
+
+
+245. Ludwig Hohl, Von den hereinbrechenden Rändern, Anmerkungen 141
 VON DEN HEREINBRECHENDEN RÄNDERN
   Das großartigste aller Beispiele, im heutigen Augenblick,
   scheint mir die Elektrizität.
@@ -1721,10 +1726,6 @@ VON DEN HEREINBRECHENDEN RÄNDERN
   Das erstmals dünnste, angreifbarste und träumerischste, randmäßigste Phänomen
   wird das Allgemeinste.
 
-
-245. Ludwig Hohl, Von den hereinbrechenden Rändern, Anmerkungen 18
-  Um nicht Erfolg zu haben, 
-  muss man entweder sehr gut oder sehr schlecht schreiben.
 
 246. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 1
   Geheimnisse sind schwer zu behalten.
@@ -2477,7 +2478,8 @@ THOMAS MANN "Joseph in Ägypten"
   wenn man an die ungeheure Arbeit denkt.
   (Während ich von den Sphinxen las, hörte ich immer,
    ohne loskommen zu können, die Verse des zweiten "FAUST":
-    "Sitzen vor den Pyramiden, / zu der Völker Hochgericht; /
+
+   "Sitzen vor den Pyramiden, / zu der Völker Hochgericht; /
     Überschwemmung, Krieg und Frieden - / und verziehen kein Gesicht")
 
 354. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 385
@@ -2587,6 +2589,7 @@ VON DER LIEBE
   wer nun die Veränderung nicht durch Leistung herbeiführt, braucht äußere;
   wie wollte er den Sommer ertragen,
   seine Unbeweglichkeit, seine unbewegliche Größe?
+
     Gar manches Herz verschwebt im Allgemeinen;
     Doch widmet sich das edelste dem Einen. (Goethe)
 
@@ -2631,8 +2634,8 @@ FREIHEIT UND SICHERHEIT
    weder so noch so; es gibt nur entweder die Unordnung,
    in der beide verloren sind, oder die Ordnung, die beide vereinigt;
    AUF DER SUCHE NACH DIESER ORDNUNG ABER GÄRT UND BRODELT DIE WELT."
-   (Zitat: Herbert Lüthy, 'Schweizer Annalen', Nr.4 1945)
-   Dieser Mann ist unersetzbar.
+  (Zitat: Herbert Lüthy, 'Schweizer Annalen', Nr.4 1945)
+  Dieser Mann ist unersetzbar.
 
 375. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 467
 VOM GEIST DER PRAKTISCHEN HAUSFRAU
@@ -2803,7 +2806,7 @@ DAS MENSCHLICHE UNGLÜCK
 390. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 525
   "Ein Tag oder ein Leben ist vielleicht nicht genug, 
    um Goethe zu feiern, aber ein ganzes Jahr ist bestimmt zuviel."
-   (Erich Kästner)
+  (Erich Kästner)
 
 391. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 526
   Das Tiefste Wort aber von Goethe
@@ -2875,7 +2878,7 @@ DAS GESETZ DES PARADOXEN
    Aber wie ist es mit dem Gesetz der Serie?
    Verläuft unser Leben wirklich periodisch,
    gewissermaßen IN QUANTENSPRÜNGEN?"
-   (Zeitungs-Zitat: Nürnberger Nachrichten "Das seltsame Gesetz der Serie") 
+  (Zeitungs-Zitat: Nürnberger Nachrichten "Das seltsame Gesetz der Serie") 
 
 399. Ludwig Hohl, Von den hereinbrechenden Rändern, Nachnotizen 545
   Die Physik (die neue) ist das Entsprechenste.
