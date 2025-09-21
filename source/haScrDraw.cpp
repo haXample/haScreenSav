@@ -94,7 +94,7 @@ extern LONG timeTxtHeight;
 extern int monitor_width;     // 1680
 extern int monitor_height;    // 1050
 
-extern int timeFlag, _stepFlag;
+extern int timeFlag;
 extern int textModeFlag; 
 
 extern void GetDate();

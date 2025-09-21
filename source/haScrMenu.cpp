@@ -52,7 +52,7 @@ char textDialogBuf[MAX_PATH+1] = ""; // Temporary buffer for formatted text
 
 int textModeFlag = MODE_RANDOM;      // Mode: Stepping through text file randomly 
 int _txtIndexSav = 1;
-UINT txtOffset;
+ULONG txtOffset;
 
 // RECTANGLE structure
 // typedef struct tagRECT {
@@ -66,10 +66,10 @@ RECT rcSearchResult;
 HWND hSearchMenu;
 
 // Extern variables and functions
-extern char DebugBuf[];            // Temporary buffer for formatted text
+extern char DebugBuf[];          // Temporary buffer for formatted text
 extern int DebugbufSize;
 extern char* psz_DebugBuf;
-extern TCHAR _tDebugBuf[];         // Temp buffer for formatted UNICODE text
+extern TCHAR _tDebugBuf[];       // Temp buffer for formatted UNICODE text
 extern int _tDebugbufSize;
 extern TCHAR* psz_tDebugBuf;
 
@@ -79,25 +79,18 @@ extern HWND hTextNextButton;     // Text Next Button window
 extern HWND hTextPreviousButton; // Text Previous Button window
 extern HWND hTextCurButton;      // Current Text Button window
 extern HWND hChooseColor;
-extern HWND hwnd;             // owner window
-extern HWND hDlgSetup;        // Copy of hDlg
+extern HWND hwnd;                // owner window
+extern HWND hDlgSetup;           // Copy of hDlg
 extern HWND hTextMenu;
 
-extern HDC  hdcTextMenu;      // TextMenu-context handle  
+extern HDC  hdcTextMenu;         // TextMenu-context handle  
 
-extern HGLOBAL hMem;           // Memory handle for clipboard
+extern HGLOBAL hMem;             // Memory handle for clipboard
 
 extern RECT rc;         
 extern RECT rcTextMenu;         
 extern RECT rcTextMenuButtons;
  
-// TEXTPR structure
-// typedef struct tagTEXTPR {      // Maximum number of text-blocks
-//    int txtNr;                   // TEXTPR structure for text-blocks
-//    char* txtPtr;                // The number of the Text block.
-// } TEXTPR, *PTEXTPR, *LPTEXTPR;  // The pointer to the text block.
-extern TEXTPR txtPtrArray[];
-
 extern char* pszString;
 extern char* pszTxtFilebuf;
 extern char  szTruncPath[];
@@ -108,17 +101,7 @@ extern int _stepRandom;
 extern int txtIndex;
 extern int textMaxIndex;
 
-extern void OpenTxtBuf();
-extern void OpenTxtFile(char*);
-extern void GetText(int);
-extern void GetDate();
-extern void errchk(char*, int);
-
 extern void ScrSavDrawText(HWND, int);
-extern void ScrSavSetupDrawFont(HWND);
-extern BOOL OpenBrowserDialog();
-extern BOOL DoRootFolder(WCHAR*);
-
 extern int CustomMessageBox(HWND, char*,  char*, UINT, UINT);
 
 // Forward declaration of functions included in this code module:
@@ -247,7 +230,7 @@ int AlgoTextSearch(char* textPattern, char* textBuf, ULONG bufOffset)
   // A loop to slide pat[] one by one
   for (_i=bufOffset; _i < bytesrd; _i++)
     {
-    // For current index i, check for pattern match
+    // For current index _i, check for pattern match
     for (_j=0; _j < _m; _j++)
       {
       if (tolower(textBuf[_i+_j]) != tolower(textPattern[_j])) break;
@@ -256,7 +239,7 @@ int AlgoTextSearch(char* textPattern, char* textBuf, ULONG bufOffset)
     // If pattern matches at index _i
     if (_j == _m)
       {
-     tmpPtr = &textBuf[_i];
+      tmpPtr = &textBuf[_i];
       break;
       }
     } // end for
@@ -637,8 +620,6 @@ BOOL CALLBACK TextMenuProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam
           ShowWinMouseClick(hTextCurButton); 
           DestroyWindow(hwndTT);
           CreateToolTip(GetDlgItem(hwnd,_ID_TEXTCOPY), "    Text has been copied.    ", NULL);
-
-
           break;
 
         case _ID_TEXTCONFIG:

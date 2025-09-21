@@ -174,10 +174,10 @@ extern void ScrSavDrawText(HWND, int);
 extern void ScrSavSetupDrawFont(HWND);
 extern BOOL OpenBrowserDialog();
 extern BOOL DoRootFolder(WCHAR*);
+extern BOOL CheckFormatFRT(HWND, char*);
 
 extern void CreateToolTip(HWND, char*, const int);
 
-extern int CustomMessageBox(HWND, char*,  char*, UINT, UINT);
 extern INT_PTR CALLBACK TextMenuProc(HWND, UINT, WPARAM, LPARAM);
 extern INT_PTR CALLBACK DialogProcTextMenu(HWND, UINT, WPARAM, LPARAM);
 
@@ -863,10 +863,13 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
           break;
 
         case ID_TEXTMENU:
-          //textModeFlag = MODE_MENU;
-          ShowWindow(hDlg, SW_HIDE);        // Disable setup window
-          ShowWindow(hTextMenu, SW_SHOW);   // Enable Text Menu window   
-          break;
+          if (CheckFormatFRT(hDlg, pszhaScrFilename) == FALSE)
+            {
+            //textModeFlag = MODE_MENU;
+            ShowWindow(hDlg, SW_HIDE);        // Disable setup window
+            ShowWindow(hTextMenu, SW_SHOW);   // Enable Text Menu window   
+            }
+           break;
 
         case ID_TIMEDISPLAY:
           timeFlag ^= TRUE;                                                    // Toggle time display

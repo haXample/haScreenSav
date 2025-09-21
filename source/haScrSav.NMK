@@ -47,7 +47,7 @@ LIBS= KERNEL32.LIB USER32.LIB GDI32.LIB WINSPOOL.LIB COMDLG32.LIB ADVAPI32.LIB \
 #
 OBJECTS = $(FOLDER)$(PROJ).obj $(FOLDER)haScrFaust.obj $(FOLDER)haScrTxTFile.obj \
           $(FOLDER)haScrDraw.obj $(FOLDER)haScrBrowse.obj $(FOLDER)haScrMenu.obj \
-          $(FOLDER)$(PROJ).res
+          $(FOLDER)haScrRenumber.obj $(FOLDER)$(PROJ).res
 
 CLEAN =  $(FOLDER)*.ilk
 
@@ -88,6 +88,8 @@ $(FOLDER)haScrDraw.obj:     $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PRO
 $(FOLDER)haScrBrowse.obj:   $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
 $(FOLDER)haScrMenu.obj:     $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
+
+$(FOLDER)haScrRenumber.obj: $(FOLDER)$(@B).cpp $(FOLDER)$(PROJ).h $(FOLDER)$(PROJ).rc
 
 #------------------------------------------------------------------------------
 #       $(PROJ).EXE TARGET BUILD

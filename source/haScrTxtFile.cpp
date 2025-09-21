@@ -63,6 +63,8 @@ TEXTPR txtPtrArray[MAX_TEXTBLOCKS];
 
 int textMaxIndex = FAUST_MAXINDEX;
 int txtIndex=0;
+int badFormat=0;
+
 int fhTxt=0;                       // Filehandle read (*.TXT)
 
 ULONG bytesrd;                     // Textfile number of byte read
@@ -93,12 +95,11 @@ extern int haFaust_frt02size;
 extern int haFaust_frt03size;
 
 extern int haFaust_frtsize;
-extern int timeFlag, _stepFlag;
+extern int timeFlag;
 
 extern HDC  hdc;                    // device-context handle  
 
 // Centered Messagebox within parent window
-extern int CBTMessageBox(HWND, char*, char*, UINT);  
 extern int CBTCustomMessageBox(HWND, char*, char*, UINT, UINT);
 extern int AlgoTextSearch(char* textPattern, char* textBuf, ULONG bufOffset);
 
@@ -125,18 +126,26 @@ void errchk(char* _filename, int _lastErr)
   char szErrorPathNotFound[] = "Path not found";
   char szErrorFileIsUsed[]   = "File is being used by another process.";
   char szErrorAccessDenied[] = "Access denied";         
+  char szErrorFileExists[]   = "File already exists.";
   char szErrorFileWrite[]    = "File write failed.";
   char szErrorFileRead[]     = "File read failed.";
   char szErrorInvalidParam[] = "Invalid Parameter";
-  char szErrorBadFormat[]    = "Bad Format";
+  char szErrorInvalidBuf[]   = "Supplied buffer is not valid.";
+  char szErrorBadFormat[]    = "FRT-FORMAT ERROR.\nIncorrect index at";
   char szAbort[]             = "-- ABORT --";
 
   int exitCode = 0;                 // Initially allow retry
 
-  if (_lastErr != 0)
+  if (_lastErr != 0)                      
     {
     switch(_lastErr)
       {
+      case ERROR_INVALID_USER_BUFFER:
+        sprintf(DebugBuf, "%s\n%s", szErrorInvalidBuf, _filename);
+        break;
+      case ERROR_ALREADY_EXISTS:    // 0x02
+        sprintf(DebugBuf, "%s\n%s", szErrorFileExists, _filename);
+        break;
       case ERROR_FILE_NOT_FOUND:    // 0x02
         sprintf(DebugBuf, "%s\n%s", szErrorFileNotFound, _filename);
         break;
@@ -147,8 +156,9 @@ void errchk(char* _filename, int _lastErr)
       case ERROR_ACCESS_DENIED:     // 0x05
         sprintf(DebugBuf, "%s\n%s", szErrorAccessDenied, _filename);
         break;
-      case ERROR_BAD_FORMAT:        
-        sprintf(DebugBuf, "%s [%d.]\n%s", szErrorBadFormat, txtIndex, _filename);
+      case ERROR_BAD_FORMAT:
+        badFormat=txtIndex;        
+        sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s", szErrorBadFormat, txtIndex, _filename);
         break;
       case ERROR_SHARING_VIOLATION: // 0x20
         sprintf(DebugBuf, "%s\n%s", szErrorFileIsUsed, _filename);
@@ -201,18 +211,20 @@ int GetLastindex()
   textMaxIndex = 0;
   for (_i=bytesrd; _i>0; _i--)
     {
-    if (pszTxtFilebuf[_i] == '\x0A' && _i < bytesrd-sizeof(tmpBuf))
+    if (pszTxtFilebuf[_i] == '\x0A'  &&	 // "\n1234. "	 is an indexnr
+        pszTxtFilebuf[_i+1] != ' '   &&	 // "\n  1234. " is not an indexnr
+        _i < bytesrd-sizeof(tmpBuf))
       {
       // textMaxIndex = [\n9999. ]
       for (_j=0; _j<strlen("\n1234. "); _j++) tmpBuf[_j] = pszTxtFilebuf[_i+_j];
           
       if ((tmpPtr = strstr(tmpBuf, ". ")) != NULL     &&
           (*(tmpPtr-1) >= '0' && *(tmpPtr-1) <= '9'))
-        {
+        { 
         *tmpPtr = 0;
         textMaxIndex = atoi(&tmpBuf[1]);
         break;
-        }
+				}
       } // end if ('\x0A')
     } // end for
 

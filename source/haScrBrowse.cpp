@@ -1,3 +1,5 @@
+// --- THIS FILE IS DEPRECATED (textfile no longer used in haScreenSav) ---
+
 // haScreensav - Screensaver for windows 10, 11, ...
 // haScrBrowse.cpp - C++ Developer source file.
 // (c)2025 by helmut altmann
@@ -223,15 +225,15 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
     // Check if GetCurrentThreadId() is SHBrowseForFolder()
     // Change the text of the buttons: [YES], [NO], [CANCEL], [Make new folder], ...
     // Buttons' text should be always in English.
-    SetDlgItemText(hChildWnd, IDCANCEL, _T("Faust I+II"));  // IDCANCEL = Faust.FRT Selection
-    SetWindowText(hChildWnd, _T("Browse for files *.FRT")); // Browser and CBTMessageBox title field
+    SetDlgItemText(hChildWnd, IDCANCEL, _T("Faust I+II"));   // IDCANCEL = Faust.FRT Selection
+    SetWindowText(hChildWnd, _T(" haScreensav files *.FRT")); // Browser and CBTMessageBox title field
 
-//ha//    if (GetDlgItem(hChildWnd, IDYES) != NULL)            // IDYES = System defined
-//ha//      SetDlgItemText(hChildWnd, IDYES, _T("Yes"));
-//ha//
-//ha//    if (GetDlgItem(hChildWnd, IDNO) != NULL)             // IDNO = System defined
-//ha//      SetDlgItemText(hChildWnd, IDNO, _T("No"));
-//ha//
+    if (GetDlgItem(hChildWnd, IDYES) != NULL)            // IDYES = System defined
+      SetDlgItemText(hChildWnd, IDYES, _T("Yes"));
+
+    if (GetDlgItem(hChildWnd, IDNO) != NULL)             // IDNO = System defined
+      SetDlgItemText(hChildWnd, IDNO, _T("No"));
+
 //ha//    if (GetDlgItem(hChildWnd, IDNEWFOLDER) != NULL)      // 0x3746 = System specific
 //ha//      SetDlgItemText(hChildWnd, IDNEWFOLDER, _T("Make new folder"));
 //ha//
@@ -438,4 +440,3 @@ BOOL OpenBrowserDialog()
   } // OpenBrowserDialog
 
 //------------------------------------------------------------------------------
-
