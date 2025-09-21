@@ -30,8 +30,9 @@ Additions:
 Changes:    
 `source/haScreensav.cpp` Prolonging reading time by pressing `<SPACE>`      
 Additions:    
-`source/haScrMenu.cpp`   A menu allows to examine the text step by step           
-`source/haScreensav.exe` Run the cunfiguration and menu directly            
+`source/haScrMenu.cpp`     A menu allows to examine the text step by step           
+`source/haScrRenumber.cpp` Repair function to fix wrong FRT format  
+`source/haScreensav.exe`   Run the cunfiguration and menu directly            
 
 
 Examples:  
