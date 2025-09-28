@@ -5,9 +5,9 @@ DER DUNSTHAFTE KREISLAUF DES ERSCHAFFENEN
   (des) Regenten in JöRUSchaLa´iM.
 
   Umdunsten (der) Dünste!
-  spricht (der) Stimm(erheb)er*,                     [*STIMMerhebER = QoHä´LäT]
+  spricht (der) Stimm(erheb)er*,         [*STIMMerhebER = QoHä´LäT]
   Umdunsten (der) Dünste!
-  Das alles* (ist) Dunst.                                             [*a: All]
+  Das alles* (ist) Dunst.                [*a: All]
 
   Was (ist) Vorzug dem Menschen
   in all seinem Mühen,
@@ -29,7 +29,8 @@ DER DUNSTHAFTE KREISLAUF DES ERSCHAFFENEN
   Ist (eine) Sache, (von) der (ein)er spricht:
   Sehe dies, es (ist) neu!
   Schon wurde (den) Äonen zu, welches wurde,
-  (weg) von unserem Angesicht*.       [*e: ohne dass wir es wahrnehmen konnten]
+  (weg) von unserem Angesicht*.                [*e: ohne dass wir es
+                                                wahrnehmen konnten]
         
 
 3. Stimmerheber, ST1.17,18
@@ -49,7 +50,7 @@ DER ERTRAG VON WEISHEIT UND ERKENNTNIS
 4. Stimmerheber, ST2.3
 DIE DUNSTHAFTIGKEIT ALLES ERFREUENDEN UND ALLES BEGEHRENDEN
   Ich erkundete in meinem Herzen,
-  hinzuziehen* mit Wein ` mein Fleisch             [*e: iSv Zeitvertreib haben]
+  hinzuziehen* mit Wein ` mein Fleisch      [*e: iSv Zeitvertreib haben]
   - und mein Herz (war) (ein) mit Weisheit führendes -  
   und (den) Unsinn zu erfassen,
   bis ich sähe, wo dies gut (ist) den Söhnen des ADa´M,
@@ -90,7 +91,7 @@ DIE DUNSTHAFTIGKEIT ALLES ERFREUENDEN UND ALLES BEGEHRENDEN
 DER VORZUG DER WEISHEIT IST IM SICHTBAREN NICHT FESTZUSTELLEN
   Und ich, ich wandte mich,
   Weisheit zu sehen und Tollheiten und Unsinn.
-  Denn was (tut)* der* Mensch*,                        [*a: (ist) des Menschen]
+  Denn was (tut)* der* Mensch*,                 [*a: (ist) des Menschen]
   der nach dem Regenten kommt,
   (anderes) (als) ` (das), was sie ihm schon getan?
 
@@ -105,7 +106,7 @@ DER VORZUG DER WEISHEIT IST IM SICHTBAREN NICHT FESTZUSTELLEN
   der Narr aber wandelt in Finsternis.
   Und ich, auch noch ich, erkenne,
   dass ` ihnen allen
-  e i n (gemeinsames) Begegnis* begegnet.                        [*e: Geschick]
+  e i n (gemeinsames) Begegnis* begegnet.         [*e: Geschick]
 
   Und ich, ich sprach in meinem Herzen:
   Wie (das) Begegnis des Narren,
@@ -160,13 +161,13 @@ WAS DEM MENSCHEN ERWIRD
 
   Denn all seine Tage (sind) Umschmerzungen,
   und Gram (ist) sein Sich-Elenden;
-  auch noch in (der) Nacht liegt* sein Herz nicht.                  [*e: ruht]
+  auch noch in (der) Nacht liegt* sein Herz nicht.     [*e: ruht]
   Auch noch dies, (ja) (di)es, (ist) Dunst.     
 
 
 11. Stimmerheber, ST2.22,23
 WAS DEM MENSCHEN ERWIRD
-  Kein Gutes im Menschen (macht's)*,                   [*e: ist Ursache dafür]
+  Kein Gutes im Menschen (macht's)*,             [*e: ist Ursache dafür]
   dass er isst und trinkt       
   und ` seine Seele Gutes sehen lässt in seinem Mühen.
   Auch noch dies sah ich, (ja) ich,
@@ -188,15 +189,15 @@ WAS DEM MENSCHEN ERWIRD
 13. Stimmerheber, ST3.1
 ALLES HAT SEINE FRIST UND ZEIT
   Für alles (ist) (eine) Frist,
-  und (eine) Zeit* (ist)                  [*e: verschiedene Fristen umfassend]
-  für alles Gefallen unter den Himmeln:
+  und (eine) Zeit* (ist)                      [*e: verschiedene Fristen
+  für alles Gefallen unter den Himmeln:        umfassend]
         
 
 14. Stimmerheber, ST3.1
 VERSCHIEDENE SCHLUSSFOLGERUNGEN
   Ich sah ` das Sich-Elenden,
   welches ÄLoHI´M gegeben den Söhnen des ADa´M,
-  (um) in* ihm gedemütigt zu werden.                       [*a: in(folge von)]
+  (um) in* ihm gedemütigt zu werden.                 [*a: in(folge von)]
 
 
 15. Stimmerheber, ST3.11
@@ -207,13 +208,15 @@ VERSCHIEDENE SCHLUSSFOLGERUNGEN
   weil (das), was der Mensch nicht findet,
   ` das Gemachte (ist), welches der ÄLoHI´M gemacht
   von (der) Haupt(schaft) (an)
-  und bis (zur) Wegsammlung*.                          [*a: Zusammen(fass)ung]
+  und bis (zur) Wegsammlung*.                    [*a: Zusammen(fass)ung]
         
 
 16. Stimmerheber, ST3.12,13
 VERSCHIEDENE SCHLUSSFOLGERUNGEN
-  Ich erkenne, dass kein Gutes (ist) ihnen* gebiets,        [*e: der Menschen]
-  als nur, sich zu freuen und Gutes zu tun in seinen Lebenden,
+  Ich erkenne, dass kein Gutes (ist)
+  ihnen* gebiets,                         [*e: der Menschen]
+  als nur, sich zu freuen und
+  Gutes zu tun in seinen Lebenden,
 
   und auch noch, dass isst und trinkt all(je)der Mensch
   und Gutes sieht in all seinem Mühen:
@@ -222,8 +225,8 @@ VERSCHIEDENE SCHLUSSFOLGERUNGEN
 17. Stimmerheber, ST3.16
 DIE UNDURCHSICHTIGKEIT DER NATUR UND DES GESCHICKES DES MENSCHEN
   Und noch sah ich unter der Sonne
-  (den) Ort der Richtigung*:   [*e: Wiederherstellung des Rechts durch Gericht]
-  dort (war) das Freveln;
+  (den) Ort der Richtigung*:              [*e: Wiederherstellung
+  dort (war) das Freveln;                  des Rechts durch Gericht]
   und (den) Ort der Gerechtigkeit:
   dort (war) das Freveln.
 
@@ -231,15 +234,16 @@ DIE UNDURCHSICHTIGKEIT DER NATUR UND DES GESCHICKES DES MENSCHEN
 18. Stimmerheber, ST3.18
 DIE UNDURCHSICHTIGKEIT DER NATUR UND DES GESCHICKES DES MENSCHEN
   Ich, ich sprach in meinem Herzen:
-  Auf(grund) (des) Sach(anliegen)s (der) Söhne des ADa´M (ist's),
+  Auf(grund) (des) Sach(anliegen)s
+  (der) Söhne des ADa´M (ist's),
   dass sie der ÄLoHI´M kläre
   und dass (sie) sehen, dass sie Getier (sind),
-  sie, für* sich*.                                       [*e: ohne den ÄLoHI´M]
+  sie, für* sich*.                                [*e: ohne den ÄLoHI´M]
 
 
 19. Stimmerheber, ST3.19,20
 DIE UNDURCHSICHTIGKEIT DER NATUR UND DES GESCHICKES DES MENSCHEN
-  Denn (das) Begegnis* (der) Söhne des ADa´M                     [*e: Geschick]
+  Denn (das) Begegnis* (der) Söhne des ADa´M         [*e: Geschick]
   und (das) Begegnis des Getiers - 
   ja  e i n  (gemeinsames) Begegnis (ist) ihnen:
   wie (der) Tod dieses (einen),
@@ -274,8 +278,8 @@ DIE UNDURCHSICHTIGKEIT DER NATUR UND DES GESCHICKES DES MENSCHEN
 
 22. Stimmerheber, ST4.1-3
 DER DUNST IN ALLEM MACHEN UND TUN
-  Und ich, ich kehrte* (mich)* zurück*      [*e: einen neuen Versuch beginnend]
-  und sah ` all die Erpressereien,
+  Und ich, ich kehrte* (mich)* zurück*      [*e: einen neuen Versuch
+  und sah ` all die Erpressereien,           beginnend]
   welche gemachte unter der Sonne,
   und da!
   (Das) Geträn der Erpressten,
@@ -295,8 +299,8 @@ DER DUNST IN ALLEM MACHEN UND TUN
 
 23. Stimmerheber, ST4.7,8
 DER DUNST IN ALLEM MACHEN UND TUN
-  Und ich, ich kehrte* (mich)* zurück*      [*e: einen neuen Versuch beginnend]
-  und sah (wiederum) Dunst unter der Sonne:
+  Und ich, ich kehrte* (mich)* zurück*          [*e: einen neuen Versuch
+  und sah (wiederum) Dunst unter der Sonne:      beginnend]
 
   (Da) ist einer (allein)
   und kein zweiter (bei) (ihm),
@@ -322,7 +326,8 @@ DER VORZUG DER GEMEINSCHAFT
 
 25. Stimmerheber, ST4.13
 DAS DUNSTHAFTE DER VOLKSGUNST
-  Gut (ist) (ein) Geborener, befürsorgt*, aber weise, [*e: arm, hilfsbedürftig]
+  Gut (ist) (ein) Geborener, befürsorgt*,      [*e: arm, hilfsbedürftig]
+  aber weise,       
   mehr als (ein) Regent, alt, aber (ein) Narr,
   der nicht erkennt, noch gewarnt zu werden.
 
@@ -337,7 +342,7 @@ DIE BEDEUTUNG VON HUTSAMKEIT UND DES RECHTEN HÖRENS
 
 27. Stimmerheber, ST5.1,2
 WARNUNG VOR VORSCHNELLEM REDEN UND GELOBEN
-  Nich(t) (mach)e (dich) rastlos auf* deinem Mund,             [*a: auf(grund)]
+  Nich(t) (mach)e (dich) rastlos auf* deinem Mund,      [*a: auf(grund)]
   und dein Herz sei nich(t) schnell,
   herausgehen zu lassen (ein) Wort
   angesichts des ÄLoHI´M.
@@ -380,8 +385,10 @@ DIE VORZUZIEHENDE GABE DES ÄLoHI´M
   und sich zu freuen in seinem Mühen,
   dies, (ja) (di)es, (ist) Gegebenes (des) ÄLoHI´M.
 
-  Denn nicht gedenkt er (der) Menge ` (der) Tage seiner Lebenden,
-  denn der ÄLoHI´M macht (ihn) in (der) Freude seines Herzens demütig.
+  Denn nicht gedenkt er
+  (der) Menge ` (der) Tage seiner Lebenden,
+  denn der ÄLoHI´M
+  macht (ihn) in (der) Freude seines Herzens demütig.
 
 
 31. Stimmerheber, ST6.1,2
@@ -390,10 +397,12 @@ REICHTUM UND LEBENSKRAFT SIND FÜR SICH ALLEIN NICHT BEFRIEDIGEND
   welches ich sah unter der Sonne,
   und viel(fält)ig (ist) es auf dem Menschen:
 
-  (Ein) Mann, dem der ÄLoHI´M Reichtum und Deckwerte und Herrlichkeit gibt,
+  (Ein) Mann, dem der ÄLoHI´M Reichtum und Deckwerte
+  und Herrlichkeit gibt,
   und keines (ist) ihm ermangelnd für seine Seele
   von allem, was er verlangt;
-  aber nicht (gib)t ihm der ÄLoHI´M Schildmacht, davon zu essen,
+  aber nicht (gib)t ihm der ÄLoHI´M Schildmacht,
+  davon zu essen,
   denn (ein) auswärtiger Mann isst es.
   Dies (ist) Dunst, und böse Krankheit (ist) es.
 
@@ -414,8 +423,8 @@ REICHTUM UND LEBENSKRAFT SIND FÜR SICH ALLEIN NICHT BEFRIEDIGEND
 
   auch noch sah sie (die) Sonne nicht
   und erkannte (sie) nicht.
-  Ruhen (ist) für diese*,                                  [*e: die Fallgeburt]
-  mehr als diesem*.                                              [*e: dem Mann]
+  Ruhen (ist) für diese*,                [*e: die Fallgeburt]
+  mehr als diesem*.                            [*e: dem Mann]
 
 
 33. Stimmerheber, ST6.7
@@ -439,7 +448,7 @@ DIE UNZUREICHENDE KENNTNIS DES MENSCHEN
   Denn wer erkennt,
   was gut dem Menschen in (den) Lebenden,
   (die) Zahl (der) Tage (der) Lebenden seines Dunstes?
-  Und er macht* sie wie (einen) Schatten.              [*a: tut, e: iSv vertut]
+  Und er macht* sie wie (einen) Schatten.       [*a: tut, e: iSv vertut]
   Welches, (ja) wer berichtet dem Menschen,
   was nach ihm wird unter der Sonne?
 
@@ -461,7 +470,7 @@ WAS GUT IST
 
 38. Stimmerheber, ST7.3
 WAS GUT IST
-  Gut (ist) Gram,       mehr als Heiterkeit,
+  Gut (ist) Gram, mehr als Heiterkeit,
   denn gebiets (der) Bosheit (des) Angesichts
   geschieht (dem) Herzen wohl.
 
@@ -477,7 +486,7 @@ WAS GUT IST
   Gut (ist's), (das) Schelten (des) Weisen zu hören,
   mehr als (dass) (je)man(d) hört (das) Lied (der) Narren.
 
-  Denn wie (die) Stimme* der Dornhakigen unter dem Topf,         [*e: Prasseln]
+  Denn wie (die) Stimme* der Dornhakigen unter dem Topf,  [*e: Prasseln]
   also (ist) (die) Heiterkeit des Narren.
   Und auch noch dies (ist) Dunst.
 
@@ -494,7 +503,7 @@ WAS GUT IST
 WAS GUT IST
   Gut (ist) (das) Spätere (einer) Sache,
   mehr als ihr Anfang,
-  gut (ein) Langsamer* (des)* Geistwinds*,                    [*e: Langmütiger]
+  gut (ein) Langsamer* (des)* Geistwinds*,         [*e: Langmütiger]
   mehr als (ein) Hochmütiger (des) Geistwinds.
 
 
@@ -536,13 +545,13 @@ WAS GUT IST
 WARNUNG VOR DER MENGE UND IHREN WORTEN
   Nich(t) werde (ein) Gerechter (der) Menge,
   und nich(t) (zeig)e dich bevorzugt weise;
-  warum (willst) du dich entsetzen*?                              [*a: veröden]
+  warum (willst) du dich entsetzen*?              [*a: veröden]
 
 
 48. Stimmerheber, ST7.17,18
 WARNUNG VOR DER MENGE UND IHREN WORTEN
-  Nich(t) frevle* (der) Menge,    [*e: für und angesichts, weil sie es fordern]
-  und nich(t) werde (ein) Unsinniger;
+  Nich(t) frevle* (der) Menge,             [*e: für und angesichts,
+  und nich(t) werde (ein) Unsinniger;       weil sie es fordern]
   warum (willst) du sterben,
   in(dem) nicht deine Zeit?
         
@@ -550,8 +559,8 @@ WARNUNG VOR DER MENGE UND IHREN WORTEN
   und auch noch von diesem (weg)
   belasse nich(t) ` deine Hand;
   denn (der) ÄLoHI´M Fürchtende
-  entgeht* ihnen allen.     [*e: geht heraus (aus) Gerechter der Menge zu sein]
-        
+  entgeht* ihnen allen.                [*e: geht heraus (aus) Gerechter
+                                        der Menge zu sein]
 
 49. Stimmerheber, ST7.20
 WARNUNG VOR DER MENGE UND IHREN WORTEN
@@ -595,7 +604,7 @@ ERKENNTNISSE BEIM SUCHEN NACH WEISHEIT
 
   Und ich fand,
   (dass) bitterer als (der) Tod ` die Männin,
-  welche Jagdgeräte und Bannende*                                   [*e: Netze]
+  welche Jagdgeräte und Bannende*                    [*e: Netze]
   (in) ihrem Herzen (hat);
   Bande (sind) ihre Hände.
   (Ein) Guter angesichts des ÄLoHI´M entkommt ihr,
@@ -617,8 +626,10 @@ ERKENNTNISSE BEIM SUCHEN NACH WEISHEIT
 WEISHEIT UND WEISES VERHALTEN
   Wer (ist) wie der Weise,
   und wer erkennt (die) Auslegung (einer) Sache?
-  (Die) Weisheit (des) Menschen erlichtet sein Angesicht,
-  und (die) Stärke* seines Angesichts wird verändert.   [*e: vmtl. iSv Strenge]
+  (Die) Weisheit (des) Menschen
+  erlichtet sein Angesicht,
+  und (die) Stärke* seines Angesichts          [*e: vmtl. iSv Strenge]
+  wird verändert.  
 
 
 55. Stimmerheber, ST8.2-4
@@ -634,7 +645,7 @@ WEISHEIT UND WEISES VERHALTEN
   denn alles, worin er Gefallen (ha)t, tut er.
 
   Da (die) Sache (des) Regenten
-  (die) Beschildungsmacht* (hat),                             [*e: Schutzmacht]
+  (die) Beschildungsmacht* (hat),               [*e: Schutzmacht]
   wer spricht (dann) zu ihm:
   Was tust du?
 
@@ -651,17 +662,19 @@ WEISHEIT UND WEISES VERHALTEN
 57. Stimmerheber, ST8.8,9
 DIE OHNMÄCHTIGKEIT DES MENSCHEN
   Kein Mensch (ist) (ein) Schildmächtiger
-  gegen (den) Geistwind, zu versperren ` den Geistwind,
-  und keine Beschildungsmacht*                                [*e: Schutzmacht]
+  gegen (den) Geistwind,
+  zu versperren ` den Geistwind,
+  und keine Beschildungsmacht*                         [*e: Schutzmacht]
   (ist) gegen (den) Tag des Todes.
   Auch keine Wegsendung (ist) im Streit,
-  und nicht (mach)t Freveln*                [*e: auch Frevelgewinn und -besitz]
+  und nicht (mach)t Frevel           [*e: auch Frevelgewinn und -besitz]
   ` seinen Eigner entkommen.
 
   ` All dies sah ich
   und gab ` mein Herz zu allem Gemachten,
   welches gemacht ist unter der Sonne,
-  (zur) Zeit, (in) welcher schildmächtig ist der Mensch
+  (zur) Zeit,
+  (in) welcher schildmächtig ist der Mensch
   gegen (den) Menschen, ihm zum Bösen.
 
 
@@ -688,8 +701,8 @@ DIE UNDURCHSICHTIGKEIT DES ÄUßEREN GESCHEHENS AN GERECHTEN UND FREVLERN
 DIE UNDURCHSICHTIGKEIT DES ÄUßEREN GESCHEHENS AN GERECHTEN UND FREVLERN
   Dunst ist, was gemacht ist auf dem Erdland:
   Dass (da) Gerechte sind,
-  denen Angelangendes* (ist)        [*e: auf sie Zukommendes, das sie erreicht]
-  gemäß (dem) Gemachten der Frevler,
+  denen Angelangendes* (ist)                 [*e: auf sie Zukommendes,
+  gemäß (dem) Gemachten der Frevler,          das sie erreicht]
   und Frevler sind,
   denen Angelangendes* (ist)
   gemäß (dem) Gemachten der Gerechten.
@@ -723,7 +736,8 @@ DIE UNDURCHSICHTIGKEIT DES ÄUßEREN GESCHEHENS AN GERECHTEN UND FREVLERN
   in(folgedessen) (es) (ist),
   dass sich der Mensch müht, (es) zu suchen,
   und (es) (doch) nicht findet.
-  Und auch noch, wenn der Weise spricht, dass (er) (es) erkennt,
+  Und auch noch, wenn der Weise spricht,
+  dass (er) (es) erkennt,
   kann er('s) (doch) nicht finden.
 
 
@@ -736,13 +750,13 @@ DAS EINE BEGEGNIS, DAS ALLEM IST
   in (der) Hand des ÄLoHI´M (sind).
   Auch noch Liebe, auch noch Hass,
   nicht erkennt('s) der Mensch,
-  (ja) das alles, (was) ihm angesichts*.           [*e: auch iSv voraus da war]
+  (ja) das alles, (was) ihm angesichts*.    [*e: auch iSv voraus da war]
 
 
 65. Stimmerheber, ST9.2,3
 DAS EINE BEGEGNIS, DAS ALLEM IST
   Das alles (ist) so, wie (es) allen (zu) (eigen):
-  E i n  Begegnis*                                               [*e: Geschick]
+  E i n  Begegnis*                                   [*e: Geschick]
   (ist) dem Gerechten und dem Frevler,
   dem Guten
   und dem Reinen und dem Bemakelten
@@ -752,7 +766,8 @@ DAS EINE BEGEGNIS, DAS ALLEM IST
   der Schwörende,
   wie (der), der fürchtend (den) Schwur.
 
-  Dies (ist) böse in allem, was gemacht ist unter der Sonne,
+  Dies (ist) böse in allem,
+  was gemacht ist unter der Sonne,
   dass allen  e i n  Begegnis (ist).
   Und auch noch (das) Herz (der) Söhne des ADa´M
   ist (des) Bösen gefüllt,
@@ -804,14 +819,14 @@ DAS AUSGLEICHSTEIL IN DEN LEBENDEN
   (das) tue,
   denn kein Gemachtes und (kein) Berechnen
   und (keine) Erkenntnis und (keine) Weisheit
-  (sind) im Schö°O´L*,                                      [*e: ein Totenraum]
+  (sind) im Schö°O´L*,                            [*e: ein Totenraum]
   wohin du wandelst.
 
 
 70. Stimmerheber, ST9.11
 DIE UNBERECHENBARKEIT DES ERFOLGES UND DER RICHTIGEN ZEIT
-  Ich kehrte* (mich) zurück*,               [*e: einen neuen Versuch beginnend]
-  ja, (um) (zu) sehen unter der Sonne,
+  Ich kehrte* (mich) zurück*,                   [*e: einen neuen Versuch
+  ja, (um) (zu) sehen unter der Sonne,           beginnend]
   dass nicht den Flinken der Lauf     
   und nicht den Mächtigen der Streit
   und auch nicht den Weisen (das) Brot
@@ -845,8 +860,8 @@ VORZUG DER WEISHEIT GEGENÜBER ERMÄCHTIGUNG
   und baute wider sie große Jagdgeräte.
 
   Aber in ihr
-  fand (sich) (ein) befürsorgter*, weiser Mann,   [*e: armer, hilfsbedürftiger]
-  und er, er (mach)te entkommen ` die Stadt
+  fand (sich) (ein) befürsorgter*, weiser Mann,      [*e: armer,
+  und er, er (mach)te entkommen ` die Stadt           hilfsbedürftiger]
   in(folge) seiner Weisheit.
   Aber nicht gedachte (ein) Mensch
   ` des (jen)es befürsorgten* Mannes.
@@ -861,7 +876,8 @@ VORZUG DER WEISHEIT GEGENÜBER ERMÄCHTIGUNG
 73. Stimmerheber, ST9.17
 DIE UNBERECHENBARKEIT DES ERFOLGES UND DER RICHTIGEN ZEIT
   Im Ruhen gehörtwerdende Worte (der) Weisen
-  (sind) mehr als (das) Wehgeschrei (eines) Herrschers gebiets (der) Narren.
+  (sind) mehr als (das) Wehgeschrei
+  (eines) Herrschers gebiets (der) Narren.
 
 
 74. Stimmerheber, ST9.11
@@ -873,9 +889,10 @@ DIE UNBERECHENBARKEIT DES ERFOLGES UND DER RICHTIGEN ZEIT
 
 75. Stimmerheber, ST10.1
 WAS VERDERBEN UND SCHADEN BEWIRKT
-  Fliegen-Tod macht stinken, macht sprudeln*       [*e: vom Zersetzungsprozess]
+  Fliegen-Tod macht stinken,
+  macht sprudeln*                        [*e: vom Zersetzungsprozess]
   (das) Öl (des) Würzenden;
-  (so) (ist) teuer*,                            [*e: iSv kommt teuer zu stehen]
+  (so) (ist) teuer*,                     [*e: iSv kommt teuer zu stehen]
   mehr als Weisheit,
   mehr als Herrlichkeit,
   (ein) wenig Unsinn.
@@ -911,7 +928,8 @@ WAS VERDERBEN UND SCHADEN BEWIRKT
 79. Stimmerheber, ST10.10
 WAS VERDERBEN UND SCHADEN BEWIRKT
   Wenn das Eisen abstumpfte
-  und (ein)er nicht (die) Flächen* flink* (mach)te, [*e: die Schneide schärfte]
+  und (ein)er
+  nicht (die) Flächen* flink* (mach)te,      [*e: die Schneide schärfte]
   so (muss) er (seine) Energien mächtig (mach)en.
   Aber Vorzug (ist), Weisheit gedeihen (zu) machen.
 
@@ -919,9 +937,10 @@ WAS VERDERBEN UND SCHADEN BEWIRKT
 80. Stimmerheber, ST10.11
 WAS VERDERBEN UND SCHADEN BEWIRKT
   Wenn die Schlange beißt,
-  in(dem) (ein) Beflüstern*           [*e: bis zur beschwörenden Beeinflussung]
+  in(dem) (ein) Beflüstern*    [*e: bis zur beschwörenden Beeinflussung]
   (noch) nicht (geschah),
-  so (ist) kein Vorzug dem Eigner* der* Zunge*.    [*e: dem, der sie beschwört]
+  so (ist) kein Vorzug
+  dem Eigner* der* Zunge*.     [*e: dem, der sie beschwört]
         
 
 81. Stimmerheber, ST10.12
@@ -958,26 +977,26 @@ WAS VERDERBEN UND SCHADEN BEWIRKT
 WAS VERDERBEN UND SCHADEN BEWIRKT
   In(folge) (von) Trägheiten
   wird das Firstgebälk ausgemergelt,
-  und in(folge) (des) Nieder(sink)ens (der) Hände*   [*e: vmtl. Hände und Füße]
-  sickert das Haus.
+  und in(folge) (des) Nieder(sink)ens (der) Hände*   
+  sickert das Haus.                           [*e: vmtl. Hände und Füße]
 
 
 85. Stimmerheber, ST10.19
 WAS VERDERBEN UND SCHADEN BEWIRKT
-  Zur Heiterkeit macht (man) Brot*,                              [*e: ein Mahl]
+  Zur Heiterkeit macht (man) Brot*,            [*e: ein Mahl]
   und Wein erfreut Lebende,
   und das Silber erschließt ` das alles.
 
 
 86. Stimmerheber, ST10.20
 WAS VERDERBEN UND SCHADEN BEWIRKT
-  Auch noch in* deinem* Wissen*                  [*e: iSv bewusst; wissentlich]
+  Auch noch in* deinem* Wissen*           [*e: iSv bewusst; wissentlich]
   nich(t) verfluche (einen) Regenten,
   und in (den) Kammern deines Liegens
   nich(t) verfluche (einen) Reichen,
   denn (ein) Flatterer* der Himmel
   lässt (mit)gehen ` die Stimme,
-  und (ein) Eigner* der* Flügel*                         [*e: fliegendes Wesen]
+  und (ein) Eigner* der* Flügel*          [*e: fliegendes Wesen]
   berichtet (das) Wort.
 
 
@@ -1006,16 +1025,20 @@ VERANTWORTUNGSVOLLES HANDELN BEI MANGELNDER ERKENNTNIS
 
 90. Stimmerheber, ST11.4
 VERANTWORTUNGSVOLLES HANDELN BEI MANGELNDER ERKENNTNIS
-  (Ein) Hüter* (des) Geistwinds sät nicht,          [*e: ständig Beobachtender]
-  und (ein) (auf) (Wolken)dickichte Sehender erntet nicht.
+  (Ein) Hüter* (des) Geistwinds            [*e: ständig Beobachtender]
+  sät nicht,          
+  und (ein) (auf) (Wolken)dickichte Sehender
+  erntet nicht.
 
 
 91. Stimmerheber, ST11.5
 VERANTWORTUNGSVOLLES HANDELN BEI MANGELNDER ERKENNTNIS
   So wie du kein Erkennender (bist),
   was (der) Weg des Geistwinds (ist),
-  wie (auch) (der) (der) Gebeine im Bauch der Gefüllten*,     [*e: Schwangeren]
-  so erkennst du (auch) nicht ` (das) Gemachte des ÄLoHI´M,
+  wie (auch) (der) (der) Gebeine
+  im Bauch der Gefüllten*,                        [*e: Schwangeren]
+  so erkennst du (auch) nicht ` (das) Gemachte
+  des ÄLoHI´M,
   der ` das alles macht.
 
 
@@ -1031,10 +1054,10 @@ VERANTWORTUNGSVOLLES HANDELN BEI MANGELNDER ERKENNTNIS
 93. Stimmerheber, ST11.9
 VERANTWORTUNGSVOLLES HANDELN BEI MANGELNDER ERKENNTNIS
   Freue dich, Erwählter,
-  in deiner Geburtschaft*,                   [*e: Rechtsstellung des Geborenen]
+  in deiner Geburtschaft*,            [*e: Rechtsstellung des Geborenen]
   und Gute(s) (tu)e dir dein Herz
-  in (den) Tagen deiner Erwählungen*.  [*e: ... da man zum Dienst erwählt wird]
-  Und wandle in (den) Wegen deines Herzens
+  in (den) Tagen deiner Erwählungen*.         [*e: ... da man zum Dienst
+  Und wandle in (den) Wegen deines Herzens     erwählt wird]
   und gebiets (der) Gesehenen deiner Augen;
   erkenne aber, dass über all diesen
   dich der ÄLoHI´M bringen (wird),
@@ -1044,9 +1067,11 @@ VERANTWORTUNGSVOLLES HANDELN BEI MANGELNDER ERKENNTNIS
 94. Stimmerheber, ST12.1
 RECHTZEITIGES GEDENKEN VOR DEN BESCHWERDEN DES ALTERS
   Und gedenke ` deines Erschaffers
-  in (den) Tagen deiner Erwählungen*   [*e: ... da man zum Dienst erwählt wird]
-  solange (die) Tage des Bösen nicht kommen
-  und angelangen (die) Jahre, da du sprechen (wirst):
+  in (den) Tagen deiner Erwählungen*         [*e: ... da man zum Dienst
+  solange (die) Tage des Bösen                erwählt wird]
+  nicht kommen   
+  und angelangen (die) Jahre,
+  da du sprechen (wirst):
   Kein Gefallen (ist) mir in ihnen!
 
 
@@ -1072,8 +1097,8 @@ SCHLUSSBETRACHTUNG UND ZUSAMMENFASSUNG
   (so) lehrte er noch ` das Volk Erkenntnis
   und (lieh) Ohr und untersuchte.
   Er (mach)te geradlinig
-  Vergleichende* (die) Menge.   [*e: vergleichende Aussagen und Gleichnisreden]
-        
+  Vergleichende* (die) Menge.            [*e: vergleichende Aussagen
+                                          und Gleichnisreden]
 
 98. Stimmerheber, ST12.10
 SCHLUSSBETRACHTUNG UND ZUSAMMENFASSUNG
@@ -1091,7 +1116,8 @@ SCHLUSSBETRACHTUNG UND ZUSAMMENFASSUNG
   sie sind gegeben von  e i n e m  Hirten.
 
   Und bevorzugt durch sie, mein Sohn, sei gewarnt!
-  (Des) Machens (der) (Urkunden) (der) Zählung* (die) Menge   [*e. isv. Bücher]
+  (Des) Machens
+  (der) (Urkunden) (der) Zählung* (die) Menge        [*e. isv. Bücher]
   (ist) kein Enden,
   und Entdeckung (die) Menge (ist) Ermüdung (des) Fleisches.
 
