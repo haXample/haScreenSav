@@ -158,7 +158,7 @@ void errchk(char* _filename, int _lastErr)
         break;
       case ERROR_BAD_FORMAT:
         badFormat=txtIndex;        
-        sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s", szErrorBadFormat, txtIndex, _filename);
+        sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s\n\nSelect [Text Menu] to re-number.", szErrorBadFormat, txtIndex, _filename);
         break;
       case ERROR_SHARING_VIOLATION: // 0x20
         sprintf(DebugBuf, "%s\n%s", szErrorFileIsUsed, _filename);
@@ -211,8 +211,8 @@ int GetLastindex()
   textMaxIndex = 0;
   for (_i=bytesrd; _i>0; _i--)
     {
-    if (pszTxtFilebuf[_i] == '\x0A'  &&	 // "\n1234. "	 is an indexnr
-        pszTxtFilebuf[_i+1] != ' '   &&	 // "\n  1234. " is not an indexnr
+    if (pszTxtFilebuf[_i] == '\x0A'  &&  // "\n1234. "   is an indexnr
+        pszTxtFilebuf[_i+1] != ' '   &&  // "\n  1234. " is not an indexnr
         _i < bytesrd-sizeof(tmpBuf))
       {
       // textMaxIndex = [\n9999. ]
@@ -224,7 +224,7 @@ int GetLastindex()
         *tmpPtr = 0;
         textMaxIndex = atoi(&tmpBuf[1]);
         break;
-				}
+        }
       } // end if ('\x0A')
     } // end for
 
@@ -329,7 +329,8 @@ void BuildTxtPtrArray()
   while (_i < bytesrd)
     {
     sprintf(ascDecNrStr, "%d. ", txtIndex);
-    if ((tmpPtr=strstr(&pszTxtFilebuf[_i], ascDecNrStr)) != NULL)
+    if ((tmpPtr=strstr(&pszTxtFilebuf[_i], ascDecNrStr)) != NULL &&
+         *tmpPtr+2 > ' ')
       {
       if (txtIndex > 1) *(tmpPtr-1) = 0;       // 0-terminate previous text block
 

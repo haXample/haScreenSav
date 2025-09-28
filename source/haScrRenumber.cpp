@@ -115,8 +115,8 @@ ULONG AlgoIndexSearch(char* textBuf, ULONG bufOffset)
       {
       _j=0;
       // Find end of previous text block
-      // (=0x0D,0x00)	or
-			// (=0x0D,0X0A)
+      // (=0x0D,0x00) or
+      // (=0x0D,0X0A)
       // Allow possible spaces in "blank" lines:
       // --> 0x0D,0x0A, (0x20,0x20, ..,) 0x0D,0x00,index <--
       // Since the last 0x0A is overwritten with 0-terminator 
@@ -247,7 +247,7 @@ void WriteTxtFile(char* _filename)
 
   // Rename existing _filename to be re-formatted
   MoveFile(_filename, szhaBakFilename);
-  errchk(_filename, GetLastError());     
+//ha//  errchk(_filename, GetLastError());     
 
   // Delete existing _filename (since it's badly formatted)
   DeleteFile(_filename);
