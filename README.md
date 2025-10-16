@@ -20,9 +20,9 @@ Last Update September 11, 2025: *haScreensav.scr, haScreensav.exe*
 Additions:  
  `document/LichtenbergAphorismen.frt`  
  `document/SchopenhauerAphorismen.frt`  
- `document/LudwigHohl.frt`
- `document/Maximen&Reflexionen.frt`
- `document/Maxims&Reflections.frt`
+ `document/LudwigHohl.frt`  
+ `document/Maximen&Reflexionen.frt`  
+ `document/Maxims&Reflections.frt`  
  `document/Bibel (TORa'H).frt`  
  `document/Bibel (Die Wohlkunden).frt`  
  `document/Bibel (Die Aufstellungen des PA'ULOS).frt`  
