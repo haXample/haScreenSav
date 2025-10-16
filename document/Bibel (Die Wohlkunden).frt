@@ -1471,14 +1471,14 @@ DER AUFTRAG, DEN LERNENDEN ZU BERICHTEN
   6  Er aber sagt (zu) ihnen:                                      M28.5
   Nich(t) seid erschauern ge(mach)t;
   ihr suchet JESuU´S, den Nasarener,
-   den angepfahltwordenen;
+  den angepfahltwordenen;
   er wurde erweckt, er ist nicht hier;      M28.6  MK8.31  L18.33  L24.6
   ´gewahret!
   (Da) (ist) der Ort, wo sie ihn (bei)gesetzt.
 
   7  Jedoch gehet weg, saget seinen Lernenden                      M28.7
   und dem PÄ´TROS,
-  dass er\1/ (sich) , euch vor(ausgehend),                \1/e: JESuU´S.
+  dass er\1/ (sich), euch vor(ausgehend),                 \1/e: JESuU´S.
   in das GALILAe´A begibt;                                       MK14.28
   dort (werd)et ihr ihn eraugen,        
   so wie er (zu) euch ´gesagt (hat).
