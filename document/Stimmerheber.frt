@@ -1136,8 +1136,8 @@ SCHLUSSBETRACHTUNG UND ZUSAMMENFASSUNG
   ob gut oder böse.
 
 
-102. ZITIERTE TEXTE UND TEXTNACHWEISE
-  -----------------------------------
+102. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
+  -------------------------------------------------
   Bibelausgabe (Deutsch)
     DÜ4 - Die Geschriebene, DaBhaR-Übersetzung,
     4. Gesamtausgabe.
@@ -1146,4 +1146,4 @@ SCHLUSSBETRACHTUNG UND ZUSAMMENFASSUNG
   DabharWorks 2.1
     Copyright © 2004-2012 Stefan Mücke.
     Alle Rechte vorbehalten
-  -----------------------------------
+  -------------------------------------------------

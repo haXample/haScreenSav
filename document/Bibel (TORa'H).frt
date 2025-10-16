@@ -57,8 +57,7 @@ ERDLAND UND WACHSENDES: 3. Tag
 
   10  Und ÄLoHI´M rief* zum Trockenen
   Erdland,
-  und zum Konzentrierten der Wasser rief er
-  Meere.                                                          LB95.5
+  und zum Konzentrierten der Wasser rief er  Meere.               LB95.5
   Und ÄLoHI´M sah, dass (es) gut.
 
   11  Und ÄLoHI´M sprach:
@@ -92,7 +91,7 @@ GELICHTETE IM FIRMAMENT: 4. Tag
   und zu Tagen und Jahren,      
 
   15  und sie werden zu Gelichteten
-  im Firmament* der Himmel,                                       LB19.2
+  im Firmament der Himmel,                                        LB19.2
   (um) auf dem Erdland zu erlichten.                             IB31.26
   Und es wurde also.
 
@@ -236,7 +235,7 @@ ERSTE TRÄNKUNG; ADa´Ms BELEBUNG
   (um) ` die ADaMa´H zu bedienen.
 
   6  Nässe aber (stieg) auf aus dem Erdland
-  und tränkte ` all (das) Angesicht* der ADaMa´H.
+  und tränkte ` all (das) Angesicht der ADaMa´H.
 
   7  Und JHWH ÄLoHI´M formte ` den ADa´M,                  JJ64.7  R9.20
   Staub aus der ADaMa´H,                                 1M3.19  1K15.47
@@ -446,7 +445,7 @@ DER HERABSTIEG DER ÄLoHI´M UND SEINE FOLGEN
   Und seine Tage werden 120 Jahre.                              
 
   4  Die NöPhiLI´M\1/ wurden im Erdland
-  in  den  (jen)en Tagen,
+  in den (jen)en Tagen,
   und auch noch danach\2/ (war's),                               4M13.33
   dass (die) Söhne des ÄLoHI´M                                       JD6
   zu (den) Töchtern des ADa´M eingingen
@@ -518,7 +517,7 @@ DER AUFTRAG ZUM BAU DER TeBha´H
   aus(grund) ihres Angesichts.
   Da!  Ich mache sie verderben samt dem Erdland.                   1M7.4
 
-  14  Mache dir (eine) TeBha´H*\1/                          2M2.3  H11.7
+  14  Mache dir (eine) TeBha´H\1/                           2M2.3  H11.7
   (aus) Bäumigen (des) Schwefel(holze)s\2/.
   (Mit) Nestern\3/ machst du ` die TeBha´H
   und schirmst sie ab innerhalb* und außerhalb
@@ -883,9 +882,8 @@ ABhRa´Ms RÜCKKEHR NACH BeJT-E´L
   und LOTh mit ihm,
   zu dem Wölbland.                                                1M20.1
 
-  2  Und ABhRa´M war schwer(reich)\1/ überaus
-  an Vieh, an Silber und an Gold.
-                      \1/a: herrlich.  1M24.1  1M26.13  1M30.43  VG10.22
+  2  Und ABhRa´M war schwer(reich)\1/ überaus	         \1/a: herrlich.
+  an Vieh, an Silber und an Gold.      1M24.1  1M26.13  1M30.43  VG10.22
 
   3  Und er ging, seinen Zug(schaft)en nach,
   vom Wölbland bis BeJT-E´L,
@@ -903,7 +901,7 @@ TRENNUNG VON LOTh
   und deinen Hirten,
   denn Mannhafte, (ja) Brüder (sind) wir.                        1M14.14
 
-  9  (Ist) nicht all das Erdland  dir angesichts?
+  9  (Ist) nicht all das Erdland dir angesichts?
   Trenne dich doch von mir.
   Wenn (du) die Linke (willst),
   so will ich (nach) rechts (geh)en,
@@ -931,8 +929,7 @@ ABhRa´Ms GESEGNETWERDEN
   14  Und JHWH sprach zu ABhRa´M,
   nach(dem) LOTh sich getrennt (hatte) von ihm:
   Erhebe doch deine Augen,
-  und sehe
-  von dem Ort, wo du (bist),
+  und sehe von dem Ort, wo du (bist),
   gen Norden und gen (das) Wölbland
   und gen Osten und gen (das) Meer,
 
@@ -970,7 +967,7 @@ MaLKI-Zä´DäQ UND ABhRa´M
 
 40. IM ANFANG 1M15
 VERHEIßUNG DES SAMENS. ABhRa´Ms TREUN
-  1  Nach  den diesen Sach(gescheh)en                          1M22.1,20
+  1  Nach den diesen Sach(gescheh)en                           1M22.1,20
   wurde (das) Wort JHWHs zu ABhRa´M
   in (einer) Vision, sprechend: 
   Nich(t) fürchte, ABhRa´M,                                      1M26.24
@@ -1081,7 +1078,7 @@ DER BUND MIT ABhRa´M UND SEIN NEUER NAME
   da erschien JHWH (dem) ABhRa´M                                  1M12.7
   und sprach zu ihm:
   Ich (bin) (der) EL SchaDa´J.                            1M35.11  2M6.3
-  Wandle  mir angesichts                                         1M48.15
+  Wandle mir angesichts                                          1M48.15
   und werde (ein) Makelloser.                                1M6.9  E1.4
 
   4  Ich (bin's);
@@ -1173,7 +1170,7 @@ DIE ERSCHEINUNG DER DREI HIMMLISCHEN IN MaMRe´°
   Drei Mannhafte stellten sich auf ihm (gegen)über.
   Und er sah('s) und lief, ihnen zu begegnen,                     1M33.3
   von (der) Öffnung des Zeltes (weg),
-  und warf (huldigend) sich hin  erdlandwärts
+  und warf (huldigend) sich hin erdlandwärts
 
   9  Und sie sprachen zu ihm:
   Wo (ist) SsaRa´H, deine Männin?
@@ -1220,9 +1217,8 @@ DIE ERSCHEINUNG DER DREI HIMMLISCHEN IN MaMRe´°
 
 49. IM ANFANG 1M18
 ABhRaHa´Ms EINSTEHEN FÜR SöDo´M
-  16  Und die Mannhaften standen auf
-  von dort 
-  und lugten aus  auf (das) Angesicht SöDo´Ms;
+  16  Und die Mannhaften standen auf von dort 
+  und lugten aus auf (das) Angesicht SöDo´Ms;
   und ABhRaHa´M wandelte mit ihnen,
   sie zu entsenden.
 
@@ -1310,7 +1306,7 @@ DIE ZWEI BEAUFTRAGTEN IN SöDo´M
   Mir (sind) zwei Töchter, die keinen Mann erkannten;
   ich will doch sie herausgehen machen zu euch                RC19.23,24
   und tuet ihnen, wie (es) gut in euren Augen.
-  Nur  den diesen\1/ Mannhaften                            \1/a: des EL.
+  Nur den diesen\1/ Mannhaften                              \1/a: des EL.
   nich(t) tuet (solche) Sache,                                     E4.19
   denn darum kamen sie,
   (dass) (sie) im Schatten meiner Bälkung\2/.
@@ -1403,7 +1399,7 @@ VERTREIBUNG DER HaGa´R UND IHRES SOHNES
   Vertreibe die diese Bemutterin
   und ` ihren Sohn,                                                G4.30
   denn nicht (wird) errechten
-  (der) Sohn  der dieser Bemutterin
+  (der) Sohn der dieser Bemutterin
   mit meinem Sohn, mit JiZCha´Q.
 
   11  Und das Wort war überaus übel
@@ -1428,7 +1424,7 @@ VERTREIBUNG DER HaGa´R UND IHRES SOHNES
 57. IM ANFANG 1M22
 ABhRaHa´Ms OPFERWEG NACH MoRiJa´H
   1  Und es wurde
-  nach  den iesen Sach(gescheh)en,
+  nach den iesen Sach(gescheh)en,
   da erprobte der ÄLoHI´M
   ` (den) ABhRaHa´M                                               JK1.12
   und sprach zu ihm:  ABhRaHa´M!
@@ -1502,7 +1498,7 @@ SsaRa´Hs TOD UND KAUF DER HÖHLE MaKhPeLa´H
   2  Und SsaRa´H starb\1/ in QiRJa´T ARBa´~             \1/e: 1828 vZtr.
   - sie (ist) ChäBhRO´N - im Erdland KöNa´ÃN.                    1M13.18
   Und ABhRaHa´M kam,
-  um SsaRa´H zu klagen und sie zu beweinen.                                              1M24.67
+  um SsaRa´H zu klagen und sie zu beweinen.                      1M24.67
 
   3  Und ABhRaHa´M stand auf,
   (weg) vom Angesicht seiner Toten,
@@ -1631,7 +1627,7 @@ DIE GEBURTSLINIEN JiSchMaE´°Ls
 
 
 65. IM ANFANG 1M25
-DIE GEBURT ESsa´Ws UND JaÃQo´Bhs
+DIE GEBURT ~ESsa´Ws UND JaÃQo´Bhs
   21  Und JiZCha´Q flehte zu JHWH
   als konfrontiert seiner Männin,
   denn sie (war) unfruchtbar;                                    1M11.30
@@ -1863,7 +1859,7 @@ JaÃQo´Bh DURCH JiZCha´Q GESEGNET UND ZU LaBha´N ENTSANDT
   welches ÄLoHI´M dem ABhRaHa´M gegeben.
 
   19  Und er rief
-  ` (den) Namen  des (jen)es Ortes                               1M35.15
+  ` (den) Namen des (jen)es Ortes                                1M35.15
   BeJT-E´L\1/.                                   1M12.8  \1/ü: Haus ELs.
   Aber unwidersprochen (ist's): 
   LUS (war) (der) Name der Stadt                         1M48.3  JS18.13
@@ -1884,7 +1880,7 @@ JaÃQo´Bhs GELübde
   zum Hause meines Vaters,
   so wird JHWH mir zum ÄLoHI´M.                                   2S15.8
 
-  22  Und  der dieser Stein,
+  22  Und der dieser Stein,
   den ich (als) Stellsymbol legte,                               1M31.45
   wird (ein) Haus ÄLoHI´Ms,                                     1M35.1,7
   und alles,
@@ -1908,7 +1904,7 @@ JaÃQo´Bh KOMMT ZU LaBha´N
   11  Und JaÃQo´Bh küsste RaChe´L                                 R16.16
   und erhob ` seine Stimme und weinte.                            1M33.4
 
-  12  Und JaÃQo´Bh berichtete* der RaChe´L,
+  12  Und JaÃQo´Bh berichtete der RaChe´L,
   dass er (ein) Bruder\1/ ihres Vaters                            1M13.8
   und dass er (der) Sohn RiBhQa´Hs (ist).
   Da lief sie und berichtete (es) ihrem Vater.
@@ -1919,7 +1915,7 @@ JaÃQo´Bh KOMMT ZU LaBha´N
   da lief er, ihm zu begegnen,                                   1M24.29
   und umarmte ihn und küsste ihn
   und brachte ihn zu seinem Haus.                                1M24.31
-  Und er zählte dem LaBha´N auf ` all  die diese Sach(gescheh)en.
+  Und er zählte dem LaBha´N auf ` all die diese Sach(gescheh)en.
 
   14  Und LaBha´N sprach zu ihm:
   Jedoch mein Gebein und mein Fleisch (bist) du!  \1/              2S5.1
@@ -1958,7 +1954,7 @@ JaÃQo´Bhs DIENST UND HEIRATEN
 77. IM ANFANG 1M30
 RaChe´Ls SOHN JOSe´Ph
   22  Und ÄLoHI´M gedachte ` RaChe´Ls,
-  und ÄLoHI´M hörte  zu ihr (hin)                                1M29.31
+  und ÄLoHI´M hörte zu ihr (hin)                                 1M29.31
   und öffnete ` ihren Mutterschoß.                               LB113.9
 
   23  Und sie wurde schwanger
@@ -2085,7 +2081,7 @@ JaÃQo´Bhs NÄCHTLICHER KAMPF AM JaBo´Q
 
 82. IM ANFANG 1M33
 BEGEGNUNG VON JaÃQo´Bh UND ~ESsa´W
-  1M33.1  Und JaÃQo´Bh erhob seine Augen
+  1  Und JaÃQo´Bh erhob seine Augen
   und sah, und da!
   ~ESsa´W kam und mit ihm 400 Mann.                             1M32.7,8
   Da hälftete er ` (die) (Anzahl) der Geborenen
@@ -2094,7 +2090,7 @@ BEGEGNUNG VON JaÃQo´Bh UND ~ESsa´W
 
   12  Und (~ESsa´W) sprach:
   Wir wollen wegziehen und gehen´,
-  und ich will gehen  dir zur Gegenwart.
+  und ich will gehen dir zur Gegenwart.
 
   13  Er aber sprach zu ihm:
   Mein Herr erkennt, dass die Geborenen zarte (sind),            VG12.10
@@ -2181,7 +2177,7 @@ JaÃQo´Bh in BeJT-E´L. SEIN NEUER NAME
   Nicht wird dein Name
   noch (weiterhin) JaÃQo´Bh gerufen,
   sondern »JiSsRaE´L« wird dein Name.                            1R18.31
-  Und er rief ` seinen Namen  JiSsRaE´L.                         2R17.34
+  Und er rief ` seinen Namen JiSsRaE´L.                          2R17.34
 
   11  Und ÄLoHI´M sprach zu ihm:
   Ich (bin) (der) EL SchaDa´J,                          1M17.1  1M28.3,4
@@ -2593,7 +2589,7 @@ ERSTE REISE DER BRÜDER JOSe´Phs NACH MiZRa´JiM
 ZWEITE REISE DER BRÜDER NACH MiZRa´JiM
   15  Da nahmen die Mannhaften ` die diese Spende
   und nahmen Doppeltes (an) Silber (mit)
-  in ihrer Hand  und ` BiNJaMi´N,
+  in ihrer Hand und ` BiNJaMi´N,
   und sie standen auf
   und (stieg)en hinab (gen) MiZRa´JiM.
   Und sie (nahm)en Stand angesichts JOSe´Phs.
@@ -2678,7 +2674,7 @@ JOSe´Ph GIBT SICH SEINEN BRÜDERN ZU ERKENNEN
   denn (es) (war) der ÄLoHI´M;  
   und er legte mich (fest)
   zum Vater dem PaRÕ´H                                           JJ22.21
-  und zum Herrn  all seinem Haus                                LB105.21
+  und zum Herrn all seinem Haus                                 LB105.21
   und (zum) Herrscher
   gebiets allen Erdlands MiZRa´JiM.                              1M41.43
 
@@ -2702,9 +2698,8 @@ JOSe´Ph GIBT SICH SEINEN BRÜDERN ZU ERKENNEN
   11  Und ich bevorrate dich dort                        1M50.21  ÄT10.3
   - denn noch fünf Jahre (ist) Hunger -,                       
   dass du nicht entrechtet wirst,
-  du und dein Haus                                               1M47.12
-  und alles, was dein (ist).
-
+  du und dein Haus und alles, was dein (ist).                    1M47.12
+  
 
 106. IM ANFANG 1M45
 RÜCKKEHR DER BRÜDER UND IHR BERICHT
@@ -3416,8 +3411,7 @@ DAS ZEICHEN UND DER NAME DES ENTSENDENDEN
   So sprichst du zu (den) Söhnen JiSsRaE´Ls:
   (Der) »Ich-werde« entsandte mich zu euch.
 
-  15  Und ÄLoHI´M
-  sprach noch(mals) zu MoSchä´H:
+  15  Und ÄLoHI´M sprach noch(mals) zu MoSchä´H:
   So sprichst du zu (den) Söhnen JiSsRaE´Ls:
   JHWH, (der) ÄLoHI´M eurer Väter,                                5M1.11
   (der) ÄLoHI´M ABhRaHa´Ms,
@@ -3626,7 +3620,7 @@ DIE ANTWORT JHWHs ZU MoSchä´H
   und erlöse euch mit ausgestrecktem Arm                          A13.17
   und mittels großer Gerichte.                                   JC30.19  
 
-  7  Und ich nehme euch  mir zum Volk,                            2S7.24
+  7  Und ich nehme euch mir zum Volk,                             2S7.24
   und ich werde euch zum ÄLoHI´M,
   und ihr erkennet,
   dass ich (es) (bin), JHWH, euer ÄLoHI´M,
@@ -3667,7 +3661,7 @@ DIE ANTWORT JHWHs ZU MoSchä´H
 
   9  (So) denn (der) PaRÕ´H zu euch wortet,
   sprechend:                                                J2.18  J6.30
-  Gebt  euch betreffend (eine) Überführung!,
+  Gebt euch betreffend (eine) Überführung!,
   so sprichst du zu AHaRo´N:
   Nimm ` deinen Stab
   und wirf (ihn) (hin) angesichts (des) PaRÕ´H!
@@ -3869,14 +3863,11 @@ VII. PLAGE: HAGEL
   schlug in allem Erdland MiZRa´JiM
   ` alles, was im Gefild (war),
   vom Menschen bis (zum) Getier;
-  und ` alles Gekräut des Gefilds
-  schlug der Hagel,
-  und ` all(jed)en Bäumigen des Gefilds
-  zerbrach er.                                                  LB105.33
+  und ` alles Gekräut des Gefilds schlug der Hagel,
+  und ` all(jed)en Bäumigen des Gefilds	zerbrach er.            LB105.33
 
   26  Nur im Erdland Go´SchäN,
-  wo (die) Söhne JiSsRaE´Ls (waren),
-  wurde kein Hagel.
+  wo (die) Söhne JiSsRaE´Ls (waren), wurde kein Hagel.
 
   34  (Als) aber (der) PaRÕ´H sah,
   dass der Regen und der Hagel
@@ -3885,8 +3876,7 @@ VII. PLAGE: HAGEL
   und machte sein Herz schwer,
   er und seine Diener.
 
-  35a  Und (so)
-  (hat)te (das) Herz (des) PaRÕ´H Halt,                           LB64.6
+  35a Und (so) (hat)te (das) Herz (des) PaRÕ´H Halt,              LB64.6
   und nicht entsandte er ` (die) Söhne JiSsRaE´Ls
 
 
@@ -3897,7 +3887,7 @@ VIII. PLAGE: HEUSCHRECKEN
   da führte JHWH
   (einen) Geistwind (des) Ostens (herzu),
   (dass) (er) in (dem) Erdland                            JN4.8  LB148.8
-  all  den (jen)en Tag und all die Nacht.                        LB74.16
+  all den (jen)en Tag und all die Nacht.                         LB74.16
   (Als) der Morgen wurde,
   da trug (der) Geistwind des Ostens
   ` die Heuschrecke (herbei).                                    VG30.27
@@ -4105,8 +4095,7 @@ DER ZUG DURCH DAS MEER DES SCHILFS
 
   22  Und (die) Söhne JiSsRaE´Ls kamen (an)                     LB136.14
   in Mitte des Meeres im Trockenen,                                N9.11
-  und die Wasser                                             
-  (waren) ihnen (eine) Mauer                                      JS3.13
+  und die Wasser (waren) ihnen (eine) Mauer                       JS3.13
   orts ihrer Rechten und orts ihrer Linken.
 
   23  Aber (die) (aus) MiZRa´JiM verfolgten (sie)
@@ -4230,7 +4219,7 @@ ANKÜNDIGUNG DES MaN
 
 
 164. UND DIESE (sind) (die) NAMEN 2M17
-JiSsRaE´Ls Hadern in RöPhIDI´M
+JiSsRaE´Ls HADERN IN RöPhIDI´M
   2  Da haderte das Volk mit MoSchä´H,
   und sie sprachen:
   Gebt uns Wasser, so(dass) wir trinken!
@@ -4276,17 +4265,15 @@ EINSETZUNG VON RICHTERN
   Was (ist) die diese Sache,
   welche du dem Volk tust?
   Weshalb (ha)st du, du allein, Sitz,                            5M16.18
-  und all das Volk (ist) aufgestellt  dir (gegen)über
+  und all das Volk (ist) aufgestellt dir (gegen)über
   vom Morgen bis (zum) Abend?
 
-  17  Da sprach (der) Schwäher MoSchä´Hs
-  zu ihm:
+  17  Da sprach (der) Schwäher MoSchä´Hs zu ihm:
   Die Sache, welche du tust, (ist) nicht gut.
 
   18  Zersetzt (zu) werden wirst du zersetzt,
   auch noch du,                                                  2K12.15
-  auch noch das dieses Volk,
-  welches bei dir,
+  auch noch das dieses Volk, welches bei dir,
   denn zu schwer (ist) dir die Sache,
   nicht kannst du, du allein, sie tun.                            5M1.12
 
@@ -4306,15 +4293,13 @@ EINSETZUNG VON RICHTERN
   Fürsten (der) Fünfzig(schaft)en
   und Fürsten (der) Zehn(schaft)en.
 
-  26  Und sie richtigten ` das Volk
-  in aller Zeit;                                                  5M1.17
+  26  Und sie richtigten ` das Volk in aller Zeit;                5M1.17
   ` die harte Sache                                               5M17.8
   brachten sie zu MoSchä´H,                                      3M24.11
   aber all(jede) kleine Sache
   richtigten sie, (ja) sie.
 
-  27  Und MoSchä´H
-  entsandte ` seinen Schwäher,
+  27  Und MoSchä´H entsandte ` seinen Schwäher,
   und (dies)er ging für sich
   zu seinem Erdland.
 
@@ -4584,6 +4569,8 @@ DIE DREI FESTE UND DIE OPFERVORSCHRIFTEN
   Nicht kochst du (ein) Böckchen
   in (der) Milch seiner Mutter.                         5M14.21  VG12.10
 
+
+180. UND DIESE (sind) (die) NAMEN 2M23
 ANWEISUNGEN UND VERHEISSUNGEN FÜR DAS WOHNEN IM ZUGELOSTEN ERDLAND
   20  Da! Ich (bin) (der) Entsendende                     JJ9.5  MA3.1-3
   (einen) Beauftragten dir angesichts,                   4M20.16  JJ63.9
@@ -4599,7 +4586,7 @@ ANWEISUNGEN UND VERHEISSUNGEN FÜR DAS WOHNEN IM ZUGELOSTEN ERDLAND
   und du vertreibst sie, (weg) von deinem Angesicht.
 
 
-180. UND DIESE (sind) (die) NAMEN 2M24
+181. UND DIESE (sind) (die) NAMEN 2M24
 DAS SCHNEIDEN DES BUNDES
   3  Und MoSchä´H kam und zählte dem Volk auf
   ` alle Worte JHWHs
@@ -4628,7 +4615,7 @@ AUF DEM BERG SINa´J UND IN DER WOLKE
                      \1/e: Schutz gebenden Personen und Personengruppen.
 
 
-181. UND DIESE (sind) (die) NAMEN 2M25
+182. UND DIESE (sind) (die) NAMEN 2M25
 DIE HÖHUNG FÜR DAS HEILIGTUM
   8  Und sie (sollen) mir (ein) Heiligtum machen,                   H9.1
   so(dass) ich in ihrer Mitte wohne.          2M29.45,46  1R6.13  JC43.7
@@ -4639,16 +4626,74 @@ DIE HÖHUNG FÜR DAS HEILIGTUM
   also macht ihr('s).                                              A7.44
 
 
-182. UND DIESE (sind) (die) NAMEN 2M26
+183. UND DIESE (sind) (die) NAMEN 2M26
+DIE TEPPICHE DER WOHNUNG
+  1  Und ` die Wohnung machst du                                   H9.24
+  (aus) zehn Teppichen;                                           1W17.1
+  (aus) gezwirntem Sechs(fäd)igem
+  und Violettpurpur und Rotpurpur
+  und (aus) (in) Karmesin Doppel(getauch)tem*,
+  (mit) KöRuBhI´M,
+  (aus) Gemachtem (des) Berechners
+  machst du sie.                                                  2M36.8
+
+DIE BRETTER DER WOHNUNG
+  15  Und du machst
+  ` die Bretter zu (der) Wohnung
+  (aus) Bäumigen (der) Akazien
+  (als) stehende:                                       2M36.20  LB134.1
+
+DER SCHEIDENDE VORHANG UND DIE VERMASKUNG
+  31  Und du machst (einen) Vorhang                               H10.20
+  (aus) Violettpurpur und Rotpurpur
+  und (aus) (in) Karmesin Doppel(getauch)tem
+  und gezwirntem Sechs(fäd)igem;                                 2M35.25
+  (aus) Gemachtem (des) Berechners
+  macht er\1/ ihn,                                       \1/e: BöZaLE´L.
+  (mit) KöRuBhI´M.                                               2M36.35
 
 
-183. UND DIESE (sind) (die) NAMEN 2M38
+184. UND DIESE (sind) (die) NAMEN 2M27
+DER ALTAR IM BEGRASTEN DER WOHNUNG
+  1  Und du machst ` den Altar                                    H13.10
+  (aus) Bäumigen (der) Akazien:
+  fünf Ellen (ist) (die) Länge
+  und fünf Ellen (die) Breite
+  - (ein) Geviert wird der Altar -
+  und drei Ellen sein Hochstehen.                                 2M38.1
+
+DIE UMGRENZUNG DES BEGRASTEN DER WOHNUNG
+  9  Und du machst
+  ` (das) Begraste der Wohnung:                         LB84.11  LB92.14
+  Für (die) Ausmündung (zum) Wölbland gen rechts
+  Matten zur (Umgrenzung) (des) Begrasten                         2M38.9
+  (aus) gezwirntem Sechs(fäd)igem,
+  hundert im Elle(nmaß) (die) Länge
+  für die eine Ausmündung;
+
+DAS ÖL FÜR DAS GELICHTETE DER LEUCHTE
+  20  Und du,
+  du gebietest ` (den) Söhnen JiSsRaE´Ls,
+  so(dass) sie für dich
+  lauteres, herausgeschlagenes Öl (der) Olive
+  für (das) Gelichtete nehmen,
+  (um) (die) Leuchte hinaufzu(setz)en stets.           3M24.2  LB119.105
+        
+
+185. UND DIESE (sind) (die) NAMEN 2M28
+DIE GEWÄNDER AHARO´NS UND SEINER SÖHNE
+  1  Und du,
+  lass nahen zu dir ` deinen Bruder AHaRo´N                      1W23.13
+  und ` seine Söhne samt ihm    
+  aus Mitte (der) Söhne JiSsRaE´Ls,                               5M18.5
+  dass er mir priestert,                                          H5.1,4
+  AHaRo´N,
+  (und) (mit) (ihm) NaDa´Bh und ABhIHU´,
+  ÄLÃSa´R und °ITaMa´R,
+  (die) Söhne AHaRo´Ns.                                           2M6.23
 
 
-184. UND DIESE (sind) (die) NAMEN 2M28
-
-
-185. UND DIESE (sind) (die) NAMEN 2M29
+186. UND DIESE (sind) (die) NAMEN 2M29
 JHWHs WOHNEN IN MITTE DER SÖHNE JiSsRaE´Ls
   43  Und ich werde dorthin zitiert
   (den) Söhnen JiSsRaE´Ls zu,
@@ -4671,10 +4716,15 @@ JHWHs WOHNEN IN MITTE DER SÖHNE JiSsRaE´Ls
   ich, JHWH, ihr ÄLoHI´M.                                         JC20.5
 
 
-186. UND DIESE (sind) (die) NAMEN 2M30
+187. UND DIESE (sind) (die) NAMEN 2M30
+DER ALTAR DES RÄUCHERNDEN
+  1  Und du machst (einen) Altar                                 JC41.22
+  (zum) Räuchern (des) Räuchernden,                      2M40.5  LB141.2
+  (aus) Bäumigen (der) Akazien  
+  machst du ihn:
 
 
-187. UND DIESE (sind) (die) NAMEN 2M31
+188. UND DIESE (sind) (die) NAMEN 2M31
 BERUFUNG VON BöZaLE´L UND OHoLIA´Bh UND IHR AUFTRAG
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -4691,7 +4741,7 @@ BERUFUNG VON BöZaLE´L UND OHoLIA´Bh UND IHR AUFTRAG
   und (zwar) in all(jedem) Auftrag,                            1R7.13,14
                                              
 
-188. UND DIESE (sind) (die) NAMEN 2M31
+189. UND DIESE (sind) (die) NAMEN 2M31
 DAS HÜTEN DES SchaBa´T
   12  Und JHWH sprach zu MoSchä´H,
   sprechend:
@@ -4725,7 +4775,7 @@ DAS HÜTEN DES SchaBa´T
   beschriebene mit (dem) Finger ÄLoHI´Ms.      2M32.15,16  L11.20  2K3.3
 
 
-189. UND DIESE (sind) (die) NAMEN 2M32
+190. UND DIESE (sind) (die) NAMEN 2M32
 JHWH KÜNDET MoSchä´H DEN ABFALL DES VOLKS
   7  Und JHWH wortete zu MoSchä´H:
   Geh, (steig)e hinab,
@@ -4750,7 +4800,7 @@ JHWH KÜNDET MoSchä´H DEN ABFALL DES VOLKS
   (Ein) Volk harten Genicks (ist) es.
 
 
-190. UND DIESE (sind) (die) NAMEN 2M32
+191. UND DIESE (sind) (die) NAMEN 2M32
 MoSchä´H BESEITIGT DAS GOLDENE KALB UND FORDERT RECHENSCHAFT
   20  Und er nahm ` das Kalb,
   welches sie gemacht,
@@ -4780,7 +4830,7 @@ MoSchä´H BESEITIGT DAS GOLDENE KALB UND FORDERT RECHENSCHAFT
   nicht erkennen wir, was ihm geworden.
 
 
-191. UND DIESE (sind) (die) NAMEN 2M33
+192. UND DIESE (sind) (die) NAMEN 2M33
 DAS ZELT AUSSERHALB DES LAGERS
   11  Und JHWH wortete zu MoSchä´H
   Angesicht zu Angesicht,                               5M31.14  5M34.10
@@ -4815,7 +4865,7 @@ MoSchä´Hs GEBET UND JHWHs ANTWORT
                                    \1/e: iSv jetzt nicht; nicht ständig.
 
 
-192. UND DIESE (sind) (die) NAMEN 2M33
+193. UND DIESE (sind) (die) NAMEN 2M33
 MoSchä´Hs GEBET UND JHWHs ANTWORT
   18  Er aber sprach:
   Lass mich doch ` deine Herrlichkeit sehen!        LB63.3  J1.14  A7.55
@@ -4828,8 +4878,7 @@ MoSchä´Hs GEBET UND JHWHs ANTWORT
   21  Und JHWH sprach:
   Da!
   (Ein) Ort (ist) bei mir,
-  und du stellst dich auf
-  auf dem Felsen.                                                1R19.11
+  und du stellst dich auf auf dem Felsen.                        1R19.11
 
   22  Und es wird:
   Im Hinübergehen meiner Herrlichkeit,
@@ -4842,11 +4891,10 @@ MoSchä´Hs GEBET UND JHWHs ANTWORT
   23  Und (dann) nehme ich
   ` meine (Hand)schale weg,
   und du (wirst) ` mich (von) hinten sehen;
-  aber mein Angesicht
-  (wird) nicht gesehen werden.
+  aber mein Angesicht (wird) nicht gesehen werden.
 
 
-193. UND DIESE (sind) (die) NAMEN 2M34
+194. UND DIESE (sind) (die) NAMEN 2M34
 NEUE STEINTAFELN. ERNEUTER BUND AUF DEM BERG
   1  Und JHWH sprach zu MoSchä´H:
   Skulptiere dir zwei steine(rne) Tafeln                         2M24.12
@@ -4878,10 +4926,59 @@ DIE NÖTIGE ÜBERDECKUNG DES ANGESICHTS NACH DEM HERABSTIEG
                          \2/e: wie Salbung aus ölgefülltem Horn glänzte.
 
 
-194. UND DIESE (sind) (die) NAMEN 2M35
+195. UND DIESE (sind) (die) NAMEN 2M35
+DAS SchaBa´T-GEBOT
+  1  Und MoSchä´H stimm(verein)te
+  ` all (die) Zeuge(nschar) (der) Söhne JiSsRaE´Ls
+  und sprach zu ihnen:
+  Dies (sind) die Worte,                                         2M34.32
+  welche JHWH gebot, sie zu tun:                           R2.13  JK1.22
+
+  2  Sechs Tage wird Auftrag getätigt,                            L13.14
+  aber in dem siebten Tag wird euch Heiliges,
+  (ein) SchaBa´T (des) SchaBa´T(fei)erns                          3M23.3
+  dem JHWH;                                         2M20.8-11  5M5.12-14
+  all(je)der in ihm (einen) Auftrag Tätigende
+  wird getötet.                                      2M31.14,15  4M15.35
 
 
-195. UND DIESE (sind) (die) NAMEN 2M36
+196. UND DIESE (sind) (die) NAMEN 2M35
+DIE BERUFUNG VON BöZaLE´L UND OHoLIA´Bh
+  30  Und MoSchä´H sprach
+  zu (den) Söhnen JiSsRaE´Ls:
+  Seht,
+  JHWH rief BöZaLE´L im Namen,                                    2M31.2
+  (den) Sohn °URI´s, (des) Sohnes ChURs,
+  (der) Stab(schaft) JöHUDa´H zu(gehörig).
+
+  31  Und er erfüllte ihn
+  (mit) (dem) Geistwind ÄLoHI´Ms,
+  mit Weisheit,                                                   2M31.3
+  mit Verständnis und mit Erkenntnis,
+  und (zwar) in all(jed)em Auftrag:
+
+  34  und Ziel zu (geb)en
+  gab er, (dass) (es) in seinem Herzen, (in) ihm
+  und OHoLIA´Bh, (dem) Sohn AChISaMa´Khs,                         2M31.6
+  (der) Stab(schaft) DaN zu(gehörig).   
+
+
+197. UND DIESE (sind) (die) NAMEN 2M35
+DIE BERUFUNG VON BöZaLE´L UND OHoLIA´Bh
+  35  Er erfüllte sie (mit) Weisheit (des) Herzens,
+  zu tätigen all(erart) Auftrag                                   2M36.1
+  (eines) Durchwalkers\1/ und Berechners
+  und (eines) Bebuntenden
+  in Violettpurpur und in Rotpurpur,
+  in dem (in) Karmesin Doppel(getauch)ten
+  und in Sechs(fäd)igem,
+  und (eines) Webers -
+  (die) all(erart) Auftrag Tätigenden
+  und (die) Berechner (der) Berechnungen.
+                                  \1/e: auch iSv Bearbeitender; Schmied.
+
+
+198. UND DIESE (sind) (die) NAMEN 2M36
 ANDERE BERUFENE. BEENDIGUNG DER SAMMLUNG
   1  Und (so) (werden)
   BöZaLE´L und OHoLIA´Bh (es) machen                              2M31.6
@@ -4905,13 +5002,57 @@ ANDERE BERUFENE. BEENDIGUNG DER SAMMLUNG
   (um) ihn zu tätigen.                                           2M35.10
 
 
-196. UND DIESE (sind) (die) NAMEN 2M37
+199. UND DIESE (sind) (die) NAMEN 2M37
+DIE LADE UND IHRE SCHIRMUNG
+  1  Und BöZaLE´L machte ` die Lade                      2M31.2  2M38.22
+  (aus) Bäumigen (der) Akazien: 
+  (eine) Doppelelle und (eine) (Ellen)hälfte
+  (war) ihre Länge
+  und (eine) Elle und (eine) (Ellen)hälfte
+  ihre Breite
+  und (eine) Elle und (eine) (Ellen)hälfte
+  ihr Hochstehen.                                                2M25.10
 
 
-197. UND DIESE (sind) (die) NAMEN 2M38
+200. UND DIESE (sind) (die) NAMEN 2M38
+DER ALTAR DER HINAUFWEIHE
+  1  Und er machte
+  ` (den) Altar der Hinauf(weih)e                        2M40.10  H13.10
+  (aus) Bäumigen* (der) Akazien:
+  fünf Ellen (war) seine Länge
+  und fünf Ellen seine Breite
+  - (ein) Geviert -
+  und drei Ellen sein Hochstehen.                                 2M27.1
 
 
-198. UND DIESE (sind) (die) NAMEN 2M39
+201. UND DIESE (sind) (die) NAMEN 2M38
+DIE KOSTENBERECHNUNG
+  21  Dies (war) (das) Bestimmte
+  (für) die Wohnung,
+  (die) Wohnung des Zeugenden,
+  (das), was bestimmt wurde
+  auf (Befehl) (des) Mundes MoSchä´Hs
+  (als) Dienst der LöWiJi´M
+  in (der) Hand(schaft) °ITaMa´Rs,                             4M4.28,33
+  (des) Sohnes AHaRo´Ns, des Priesters.
+
+  22  Und BöZaLE´L,
+  (der) Sohn °URI´s, (des) Sohnes ChURs,
+  (der) Stab(schaft) JöHUDa´H zu(gehörig),                       2M35.30
+  machte ` alles,                                                 2M36.1
+  was JHWH ` (dem) MoSchä´H geboten,
+
+  23  und samt ihm OHoLIA´Bh,
+  (der) Sohn AChISaMa´Khs,
+  (der) Stab(schaft) DaN zu(gehörig),                             2M31.6
+  (ein) Durchwalker und Berechner
+  und Bebuntender
+  in Violettpurpur und in Rotpurpur
+  und in dem (in) Karmesin Doppel(getauch)ten
+  und in Sechs(fäd)igem.                                      2M35.34,35
+
+
+202. UND DIESE (sind) (die) NAMEN 2M39
 ÜBERGABE DES VERVOLLSTÄNDIGTEN AN MoSchä´H
   32  Und (so) wurde vervollständigt
   all(jeder) Dienst (der) Wohnung
@@ -4929,7 +5070,7 @@ ANDERE BERUFENE. BEENDIGUNG DER SAMMLUNG
   Und MoSchä´H segnete sie.                         2S6.17,18  3M9.22,23
 
 
-199. UND DIESE (sind) (die) NAMEN 2M40
+203. UND DIESE (sind) (die) NAMEN 2M40
 AUFTRAG ZUM ERSTEHENMACHEN UND ZUM SALBEN DER WOHNUNG
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -4961,7 +5102,7 @@ DIE HERRLICHKEITSWOLKE
   in all ihren Zug(schaft)en.
 
 
-200. UND ER RIEF 3M1
+204. UND ER RIEF 3M1
 DARNAHUNGSOPFER DES HINAUFZUWEIHENDEN
   1  Und er rief\1/ (dem) MoSchä´H       2M3.4  4M12.5  \1/e: 1459 vZtr.
   und wortete zu ihm                                             2M25.22
@@ -4976,7 +5117,7 @@ DARNAHUNGSOPFER DES HINAUFZUWEIHENDEN
   von dem Rindvieh und von dem Kleinvieh 
   ` euer Darnahung(sopf)er.                            3M22.18,19  ÄR3.5
 
-201. UND ER RIEF 3M1
+205. UND ER RIEF 3M1
 DARNAHUNGSOPFER DES HINAUFZUWEIHENDEN
   1  Und er rief\1/ (dem) MoSchä´H       2M3.4  4M12.5  \1/e: 1459 vZtr.
   und wortete zu ihm                                             2M25.22
@@ -4992,16 +5133,43 @@ DARNAHUNGSOPFER DES HINAUFZUWEIHENDEN
   ` euer Darnahung(sopf)er.                            3M22.18,19  ÄR3.5
 
 
-202. UND ER RIEF 3M2
+206. UND ER RIEF 3M2
+DARNAHUNGSOPFER DER SPENDE
+  1  Und (so) denn (ein) Seele (Habender) 
+  (ein) Darnahung(sopf)er (der) Spende
+  dem JHWH (dar)naht:                                           3M6.7,14
+  Feinmehl (sei's),                                       2M29.2  4M7.13
+  (das) sein Darnahung(sopf)er wird;
+  und er gießt Öl auf sie\1/                               4M8.8  4M15.4
+  und gibt Weihrauch auf sie.                          \1/e: die Spende.
 
 
-203. UND ER RIEF 3M3
+207. UND ER RIEF 3M3
+DARNAHUNGSOPFER DER FRIEDENSGABEN
+  1  Und wenn (ein) Opfer (der) Frieden(sgab)en
+  sein Darnahung(sopf)er (ist),                          3M7.29  3M22.21
+  wenn er (eines) von dem Rindvieh (dar)naht,
+  ob (es) (ein) makelloses Männliches                           3M1.3,10
+  oder (ein) Weibliches,                                          3M7.11
+  (so) naht er es (dar)
+  angesichts JHWHs.                                               4M6.14
 
 
-204. UND ER RIEF 3M4
+208. UND ER RIEF 3M4
+Verfehlungsgaben bei Verfehlung aus Irrtum
+  1  Und JHWH wortete zu MoSchä´H,
+  sprechend:
+
+  2  Worte (du) zu (den) Söhnen JiSsRaE´Ls,
+  sprechend:                                                      3M5.17
+  (So) denn (eine) Seele im Irrtum verfehlt
+  aus(grund) all(irgendeines),
+  was (gemäß) (den) Geboten JHWHs                       LB119.67  1T1.13
+  nicht getan werden (soll),                                  4M15.24,28  
+  und tut dessen\2/ eines\2/:                 \2/w: von einem von ihnen.
 
 
-205. UND ER RIEF 3M5
+209. UND ER RIEF 3M5
 BESONDERE ANLÄSSE FÜR EINE VERFEHLUNGSGABE
   4  Oder (so) denn (eine) Seele schwört,                 ST5.2-6  MA3.5
   als mit (den) Lippen plappernd,                          JK3.9  1P3.10
@@ -5021,7 +5189,7 @@ BESONDERE ANLÄSSE FÜR EINE VERFEHLUNGSGABE
   auf(grund) (von) was er verfehlte.                              LB32.5
 
 
-206. UND ER RIEF 3M5
+210. UND ER RIEF 3M5
 SCHULDOPFERVORSCHRIFTEN
   20  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -5066,10 +5234,24 @@ SCHULDOPFERVORSCHRIFTEN
                         \1/e: den vollen Wert des Schuldenden umfassend.
 
 
-207. UND ER RIEF 3M6
+211. UND ER RIEF 3M6
+DAS HINAUFZUWEIHENDE UND DIE SPENDE
+  1  Und JHWH wortete zu MoSchä´H,
+  sprechend:
+
+  2  Gebiete
+  ` (dem) AHaRo´N und ` seinen Söhnen,
+  sprechend:
+  Dies (ist) (die) Zielgebung
+  (betreffs) des Hinauf(zuweihend)en:                            3M1.3,8
+  (Di)es, das Hinauf(zuweihend)e,
+  (ist) auf Glutendem auf dem Altar              2M29.42  4M28.3  H10.11
+  all die Nacht bis (zu) dem Morgen,
+  und (das) Feuer des Altars    
+  wird glühend (erhalten)  ihm gebiets.
 
 
-208. UND ER RIEF 3M7
+212. UND ER RIEF 3M7
 ZIELGEBUNG BETREFFS DER FRIEDENSGABEN
 VERBOT, DAS ESSEN VON FETT UND BLUT BETREFFEND
   21  Und (so) denn (ein) Seele (Habender)
@@ -5092,11 +5274,11 @@ VERBOT, DAS ESSEN VON FETT UND BLUT BETREFFEND
 
   27  All(jede) Seele,
   welche all(irgendwelches) Blut isst:
-  abgeschnitten wird  die (jen)e Seele                         3M7.20,21
+  abgeschnitten wird die (jen)e Seele                          3M7.20,21
   von ihren Volk(schaft)en.                                      3M17.14  
 
 
-209. UND ER RIEF 3M7
+213. UND ER RIEF 3M7
 DEN PRIESTERN GEHÖRENDE OPFERTEILE
   37  Dies (ist) die Zielgebung                                 3M6.2,18
   bezüglich (des) Hinauf(zuweihend)en,
@@ -5117,7 +5299,7 @@ DEN PRIESTERN GEHÖRENDE OPFERTEILE
   in (der) Wildnis SINa´J.
 
 
-210. UND ER RIEF 3M8
+214. UND ER RIEF 3M8
 DIE AMTSEINFÜHRUNG AHaRo´Ns UND SEINER SÖHNE
   5  Und MoSchä´H sprach zu der Zeuge(nschar):
   Dies (ist) die Sache,
@@ -5141,7 +5323,7 @@ DIE AMTSEINFÜHRUNG AHaRo´Ns UND SEINER SÖHNE
   ` die °URI´M* und ` die TuMI´M*.                                ÄR2.63
 
 
-211. UND ER RIEF 3M9
+215. UND ER RIEF 3M9
 DIE ERSTEN OPFER AHaRo´Ns UND SEINER SÖHNE
   1  Und es wurde in dem achten\1/ Tag\1/,                       JC43.27
   (da) rief MoSchä´H dem AHaRo´N                                  3M8.35
@@ -5164,7 +5346,7 @@ DIE ERSTEN OPFER AHaRo´Ns UND SEINER SÖHNE
   erschien all dem Volk.                                         4M14.10
 
 
-212. UND ER RIEF 3M10
+216. UND ER RIEF 3M10
 VORSCHRIFTEN FÜR PRIESTER
   6  Und MoSchä´H sprach zu AHaRo´N
   und zu ÄLÃSa´R und zu °ITaMa´R, seinen Söhnen:           4M6.7  2M6.23
@@ -5200,7 +5382,7 @@ VORSCHRIFTEN FÜR PRIESTER
   in (der) Hand(schaft) MoSchä´Hs.
 
 
-213. UND ER RIEF 3M11
+217. UND ER RIEF 3M11
 REINE UND BEMAKELTE TIERE
   1  Und JHWH wortete
   zu MoSchä´H und zu AHaRo´N,
@@ -5222,7 +5404,7 @@ REINE UND BEMAKELTE TIERE
                                   \2/e: von allem zum Getier Gehörenden.
 
 
-214. UND ER RIEF 3M11
+218. UND ER RIEF 3M11
 REINE UND BEMAKELTE TIERE
   4  Jedoch
   ` dies esst ihr nicht
@@ -5260,7 +5442,7 @@ REINE UND BEMAKELTE TIERE
   Bemakelte (sind) sie euch.                                     3M11.24
 
 
-215. UND ER RIEF 3M11
+219. UND ER RIEF 3M11
 REINE UND BEMAKELTE TIERE
   9  ` Dies (dürft) ihr essen
   von allem, was in (den) Wassern (ist):                          5M14.9
@@ -5287,7 +5469,7 @@ REINE UND BEMAKELTE TIERE
   Verabscheuliches (ist) es euch.
 
 
-216. UND ER RIEF 3M11
+220. UND ER RIEF 3M11
 REINE UND BEMAKELTE TIERE
   18  und ` die Hauchende\1/
   und ` den Speier\1/                                    \1/e: Vogelart.
@@ -5304,7 +5486,7 @@ REINE UND BEMAKELTE TIERE
   Verabscheuliches (ist) es euch.
 
 
-217. UND ER RIEF 3M11
+221. UND ER RIEF 3M11
 REINE UND BEMAKELTE TIERE
   21  Jedoch ` dies (dürft) ihr essen
   von all dem flatternden Gewimmel,
@@ -5329,13 +5511,12 @@ REINE UND BEMAKELTE TIERE
   dem vier Füße (zu) (eigen):
   Verabscheuliches (ist) es euch,                                 5M14.3
 
-  24  und bezüglich dieser
-  bemakelt ihr euch;                                       3M5.2  3M22.6
+  24  und bezüglich dieser bemakelt ihr euch;              3M5.2  3M22.6
   all(je)der ihre Leiche Berührende                              3M17.15
   ist bemakelt bis (zu) dem Abend.                               4M19.22
 
 
-218. UND ER RIEF 3M11
+222. UND ER RIEF 3M11
 REINE UND BEMAKELTE TIERE
   41  Und all das Gewimmel,
   das wimmelnde auf dem Erdland:
@@ -5353,8 +5534,7 @@ REINE UND BEMAKELTE TIERE
   43  Nich(t) (mach)t verabscheuen ` eure Seelen
   in(folge) all des wimmelnden Gewimmels,
   und nicht bemakelt ihr euch mit ihnen,                         3M20.25
-  so(dass) ihr in(folge) (von) ihnen
-  makelig werdet.
+  so(dass) ihr in(folge) (von) ihnen makelig werdet.
 
   45  Denn ich (bin) JHWH,                                2M6.7  LB81.11
   (der) euch heraufge(brach)t                                    2M29.46
@@ -5364,7 +5544,7 @@ REINE UND BEMAKELTE TIERE
   denn heilig (bin) ich.                                  JS24.19  1S2.2
 
 
-219. UND ER RIEF 3M11
+223. UND ER RIEF 3M11
 REINE UND BEMAKELTE TIERE
   46  Dies (ist) (die) Zielgebung
   (betreffs) des Getiers und des Flatternden
@@ -5381,7 +5561,7 @@ REINE UND BEMAKELTE TIERE
   welches nicht gegessen wird.                                   JC44.23
 
 
-220. UND ER RIEF 3M12
+224. UND ER RIEF 3M12
 DIE BEMAKELUNG, REINIGUNG UND VERSCHIRMUNG EINER GEBORENHABENDEN
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -5411,7 +5591,7 @@ DIE BEMAKELUNG, REINIGUNG UND VERSCHIRMUNG EINER GEBORENHABENDEN
   (ha)t sie Sitz auf (dem) Blut (der) Reinigung.
 
 
-221. UND ER RIEF 3M13
+225. UND ER RIEF 3M13
 ZIELGEBUNG BETREFFS DER PLAGE DES AUSSATZES AN GEWEBEN UND HAUT
   59  Dies (ist) (die) Zielgebung                                3M14.57
   (betreffs) (der) Plage (des) Aussatzes                         3M13.47
@@ -5424,7 +5604,7 @@ ZIELGEBUNG BETREFFS DER PLAGE DES AUSSATZES AN GEWEBEN UND HAUT
   oder es (als) bemakel(t) zu (erkläre)n.
 
 
-222. UND ER RIEF 3M14
+226. UND ER RIEF 3M14
 ZIELGEBUNG BEZÜGLICH DES AUSSATZES AN EINEM HAUS
   33  Und JHWH wortete zu MoSchä´H
   und zu AHaRo´N, sprechend:
@@ -5442,7 +5622,7 @@ ZIELGEBUNG BEZÜGLICH DES AUSSATZES AN EINEM HAUS
   Wie (eine) Plage ist('s) mir erschienen im Haus.
 
 
-223. UND ER RIEF 3M14
+227. UND ER RIEF 3M14
 ZIELGEBUNG BEZÜGLICH DES AUSSATZES AN EINEM HAUS
   51  Und er nimmt ` (das) Bäumige der Zeder                      1R5.13
   und ` den ESo´Bh                                       4M19.18  LB51.9  
@@ -5483,7 +5663,7 @@ ZIELGEBUNG BEZÜGLICH DES AUSSATZES AN EINEM HAUS
   dies (ist) (die) Zielgebung (betreffs) des Aussatzes.  3M13.59  5M24.8
 
 
-224. UND ER RIEF 3M15
+228. UND ER RIEF 3M15
 BEMAKELUNG VON MÄNNERN
   1  Und JHWH wortete zu MoSchä´H
   und zu AHaRo´N, sprechend:
@@ -5505,7 +5685,7 @@ BEMAKELUNG VON MÄNNERN
   und sind bemakelt bis (zu) dem Abend.
 
 
-225. UND ER RIEF 3M15
+229. UND ER RIEF 3M15
 BEMAKELUNG VON MÄNNINNEN
   25  Und (eine) Männin,                                           M9.20
   (so) denn (der) Ausfluss ihres Blutes
@@ -5528,7 +5708,7 @@ BEMAKELUNG VON MÄNNINNEN
   (während) ihres Abstoßens.
 
 
-226. UND ER RIEF 3M15
+230. UND ER RIEF 3M15
 BEMAKELUNG VON MANNERN UND MÄNNINNEN
   32  Dies (ist) (die) Zielgebung                              3M15.2,16
   (betreffs) des Fluss(hab)enden
@@ -5547,7 +5727,7 @@ BEMAKELUNG VON MANNERN UND MÄNNINNEN
   der bei (einer) Bemakelten liegt.
 
 
-227. UND ER RIEF 3M16
+231. UND ER RIEF 3M16
 FESTLEGUNG DES TAGES DER VERSCHIRMUNG
   29  Und (dies) wird euch
   zur Satzung (des) Äons:                                        2M30.10
@@ -5558,7 +5738,7 @@ FESTLEGUNG DES TAGES DER VERSCHIRMUNG
   (weder) der Eingeborene noch der Gast(end)e,                   3M23.28
   der in eurer Mitte gastende,  
 
-  30  denn in  dem diesem Tag
+  30  denn in dem diesem Tag
   verschirmt er über euch,                                  R8.32  E5.26
   (um) euch zu reinigen:                                    J3.16  T2.14
   von all euren Verfehlungen                               LB51.3  1J1.7
@@ -5566,7 +5746,7 @@ FESTLEGUNG DES TAGES DER VERSCHIRMUNG
   angesichts JHWHs.                                              JC36.25
 
 
-228. UND ER RIEF 3M17
+232. UND ER RIEF 3M17
 VERBOTE, DAS ESSEN VON BLUT UND AAS BETREFFEND
   10  Und Mann (um) Mann
   vom Hause JiSsRaE´L
@@ -5603,7 +5783,7 @@ VERBOTE, DAS ESSEN VON BLUT UND AAS BETREFFEND
   wird abgeschnitten.                                2M30.38  3M17.10,11
 
 
-229. UND ER RIEF 3M18
+233. UND ER RIEF 3M18
 VERBOTENE ENTHÜLLUNGEN DER BLÖSSE
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -5643,7 +5823,7 @@ VERBOTENE ENTHÜLLUNGEN DER BLÖSSE
   die, (die) (sie) tun.
 
 
-230. UND ER RIEF 3M19
+234. UND ER RIEF 3M19
 VERSCHIEDENE VERHALTENSVORSCHRIFTEN
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -5651,8 +5831,7 @@ VERSCHIEDENE VERHALTENSVORSCHRIFTEN
   11  Nicht stehlt ihr                                    2M20.15  E4.28
   und nicht verleugnet ihr                               3M5.21  VG12.22
   und nicht fälscht ihr,                                 LB101.7  1TH4.6
-  (jeder)mann
-  gegen seinen Volksangehörigen.                          1R13.18  E4.25
+  (jeder)mann gegen seinen Volksangehörigen.              1R13.18  E4.25
 
   12  Und nicht schwört ihr                               S5.3  M5.33,37
   in meinem Namen die Falschheit,                         5M5.11  3M5.22
@@ -5669,12 +5848,11 @@ VERSCHIEDENE VERHALTENSVORSCHRIFTEN
   14  Nicht verfluchst du (einen) Tauben\1/,        \1/w: Verschweigten.
   und angesichts (eines) Blinden                                 5M27.18
   gibst du nicht (einen) Strauchelblock,                          1P2.17
-  und du fürchtest      
-  von deinem ÄLoHI´M.                                   1M42.18  3M25.17
+  und du fürchtest von deinem ÄLoHI´M.                  1M42.18  3M25.17
   Ich (bin) JHWH.                                           VG1.7  N5.15
 
 
-231. UND ER RIEF 3M19
+235. UND ER RIEF 3M19
 VERSCHIEDENE VERHALTENSVORSCHRIFTEN
   16  Nicht gehst du (mit) Klatschkram                   VG11.13  LB15.3
   in(mitten) deiner Volk(schaft)en.                      LB101.5  JK4.11
@@ -5699,7 +5877,7 @@ VERSCHIEDENE VERHALTENSVORSCHRIFTEN
                \1/e: Seele eines Verstorbenen, d.h. Ausgehauchthabenden.  
 
 
-232. UND ER RIEF 3M19
+236. UND ER RIEF 3M19
 VERSCHIEDENE VERHALTENSVORSCHRIFTEN
   29  Nich(t) entheilige ` deine Tochter,                         3M21.7
   sie zu verhuren,                                        5M23.18  H13.4
@@ -5724,7 +5902,7 @@ VERSCHIEDENE VERHALTENSVORSCHRIFTEN
   Ich (bin) JHWH, euer ÄLoHI´M.                                3M19.3,10
 
 
-233. UND ER RIEF 3M20
+237. UND ER RIEF 3M20
 STRAFVORSCHRIFTEN, DIE GÖTZENDIENST UND UNZUCHT BETREFFEN
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -5752,7 +5930,7 @@ STRAFVORSCHRIFTEN, DIE GÖTZENDIENST UND UNZUCHT BETREFFEN
   ihre Blut(schuld)en (sind) in ihnen.                     \1/w: Liegen.
 
 
-234. UND ER RIEF 3M20
+238. UND ER RIEF 3M20
 STRAFVORSCHRIFTEN, DIE GÖTZENDIENST UND UNZUCHT BETREFFEN
   14  Und (ein) Mann, der ` (eine) Männin nimmt
   und (dazu) ` ihre Mutter:                                      3M18.17
@@ -5763,7 +5941,7 @@ STRAFVORSCHRIFTEN, DIE GÖTZENDIENST UND UNZUCHT BETREFFEN
 
   15  Und (ein) Mann,
   der sein Beliegen gebiets (eines) Tieres gibt:
-  (zu) sterben  wird er getötet,                        2M22.18  5M27.21
+  (zu) sterben wird er getötet,                         2M22.18  5M27.21
   und ` das Tier bringt ihr um.
 
   16  Und (eine) Männin,
@@ -5774,7 +5952,7 @@ STRAFVORSCHRIFTEN, DIE GÖTZENDIENST UND UNZUCHT BETREFFEN
   ihre Blut(schuld)en (sind) in ihnen.
 
 
-235. UND ER RIEF 3M20
+239. UND ER RIEF 3M20
 STRAFVORSCHRIFTEN, DIE GÖTZENDIENST UND UNZUCHT BETREFFEN
   22  Und ihr hütet ` all meine Satzungen                   3M18.3,26,28
   und ` all meine Richtigungen,                              LB119.20,80
@@ -5800,7 +5978,7 @@ STRAFVORSCHRIFTEN, DIE GÖTZENDIENST UND UNZUCHT BETREFFEN
   der ich euch schied von den Völkern.                    2M19.5  5M14.2
         
 
-236. UND ER RIEF 3M21
+240. UND ER RIEF 3M21
 VORSCHRIFTEN FÜR PRIESTER
   1  Und JHWH sprach zu MoSchä´H:
   Sprich zu den Priestern,
@@ -5833,7 +6011,7 @@ VORSCHRIFTEN FÜR PRIESTER
   und zu allen Söhnen JiSsRaE´Ls.
 
 
-237. UND ER RIEF 3M22
+241. UND ER RIEF 3M22
 VORSCHRIFTEN, DIE DAS ESSEN UND NICHTESSEN DES HEILIGEN BETREFFEN
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -5859,7 +6037,7 @@ VORSCHRIFTEN, DIE DAS ESSEN UND NICHTESSEN DES HEILIGEN BETREFFEN
   Ich (bin) JHWH.
 
 
-238. UND ER RIEF 3M23
+242. UND ER RIEF 3M23
 VORSCHRIFTEN, DIE DEN SCHABA´T UND DIE BEZEUGTEN FESTZEITEN BETREFFEN
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -5897,7 +6075,7 @@ VORSCHRIFTEN, DIE DEN SCHABA´T UND DIE BEZEUGTEN FESTZEITEN BETREFFEN
   Ich (bin) JHWH, euer ÄLoHI´M.
 
 
-239. UND ER RIEF 3M24
+243. UND ER RIEF 3M24
 RICHTIGUNG BEI LÄSTERUNG, TOTSCHLAG UND KÖRPERVERLETZUNG
   14  Lass hinausgehen ` den Verfluchenden
   zu (dem), (was) außerhalb des Lagers;                          3M13.46
@@ -5924,18 +6102,18 @@ RICHTIGUNG BEI LÄSTERUNG, TOTSCHLAG UND KÖRPERVERLETZUNG
   wird er getötet.                                       4M35.31  5M5.11
 
 
-240. UND ER RIEF 3M24
+244. UND ER RIEF 3M24
 RICHTIGUNG BEI LÄSTERUNG, TOTSCHLAG UND KÖRPERVERLETZUNG
   18  Aber (der) (eine) Tierseele (Er)schlagende,
   er erstattet sie:
   Seele anstatt Seele.                                        2M21.33-36
 
   19  Und (so) denn (ein) Mann
-   seinem Volksangehörigen
+  seinem Volksangehörigen
   (ein) Gebrechen zufügt\1/,                        2M21.23  \1/w: gibt.
   so wie er getan, ebenso wird ihm getan:
 
-  20  Bruch  anstatt Bruch,
+  20  Bruch anstatt Bruch,
   Auge anstatt Auge,                                             2M21.24
   Zahn anstatt Zahn,                                      5M19.21  M5.38
   so wie er (einem) Menschen                                       RC1.7
@@ -5948,7 +6126,7 @@ RICHTIGUNG BEI LÄSTERUNG, TOTSCHLAG UND KÖRPERVERLETZUNG
   wird getötet.                          1M9.5,6  2M21.12  2M22.1  M5.21
 
 
-241. UND ER RIEF 3M25
+245. UND ER RIEF 3M25
 VORSCHRIFTEN, DIE DAS JOBhe´Ljahr BETREFFEN
   8  Und du zählst dir sieben Jahr-SchaBa´Te\1/,
   siebenmal sieben Jahre,
@@ -5982,22 +6160,22 @@ VORSCHRIFTEN, DIE DAS JOBhe´Ljahr BETREFFEN
   und nicht verwehrt ihr ` seine Geweihten\1/.        \1/s: Anm. zu V.5.
 
 
-242. UND ER RIEF 3M26
+246. UND ER RIEF 3M26
 DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   7  Und ihr verfolgt ` eure Feinde,                             LB18.38
-  und sie fallen  euch angesichts,                               1S14.13
+  und sie fallen euch angesichts,                                1S14.13
   (dem) Schwert zu(geordnet).                           RC15.15  LB81.15
 
   8  Und fünf von euch
   verfolgen hundert,                                              5M28.7
   und hundert von euch                          JS23.10  RC7.16  RC15.15
   verfolgen (eine) Myriadenschaft\1/,                            5M32.30
-  und eure Feinde fallen  euch angesichts,
+  und eure Feinde fallen euch angesichts,
   (dem) Schwert zu(geordnet).                                    1W11.20
                                                 \1/e: Zehntausendschaft.
 
 
-243. UND ER RIEF 3M26
+247. UND ER RIEF 3M26
 DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   14  Aber wenn ihr nicht hört zu mir (hin)             5M28.15  LB81.12
   und nicht tut ` all die diese Gebote,                            MA2.2                              
@@ -6024,7 +6202,7 @@ DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   gegen euch,                                                    3M17.10
   und ihr werdet zerwuchtet                              5M28.25  1S4.10
   angesichts eurer Feinde,                               2R13.3,7  N9.27
-  und (es) walten gegen euch  euch Hassende,             LB106.41  EJ2.5
+  und (es) walten gegen euch euch Hassende,              LB106.41  EJ2.5
   und ihr flieht,                                 3M26.36  VG28.1  EJ2.4
   und (doch) (ist) kein euch Verfolgender.                 RC2.14  RC3.8
 
@@ -6035,7 +6213,7 @@ DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   sieben(fach) auf(grund) eurer Verfehlungen.                    LB79.12
 
 
-244. UND ER RIEF 3M26
+248. UND ER RIEF 3M26
 DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   27  Und wenn in(folge) (von) diesem
   ihr nicht hört zu mir (hin)
@@ -6067,7 +6245,7 @@ DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   (befundenen) Vergehungen ihrer Väter vermodern sie.    2M20.5  4M14.18  
 
 
-245. UND ER RIEF 3M26
+249. UND ER RIEF 3M26
 DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   44  Aber gar auch noch (bei) diesem,
   in(dem) sie im Erdland ihrer Feinde
@@ -6095,7 +6273,7 @@ DER SEGEN DES GEHORSAMS UND DIE RICHTIGUNGEN INFOLGE VON UNGEHORSAM
   in (der) Hand(schaft) MoSchä´Hs.                                 J1.17
 
 
-246. UND ER RIEF 3M27
+250. UND ER RIEF 3M27
 ZUORDNUNGEN DEM JHWH UND LÖSUNG DES ZUGEORDNETEN
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -6117,7 +6295,7 @@ ZUORDNUNGEN DEM JHWH UND LÖSUNG DES ZUGEORDNETEN
   bezüglich (der) Söhne JiSsRaE´Ls.                       J1.17  5M1.3,5
             
 
-247. IN der WILDNIS 4M1
+251. IN der WILDNIS 4M1
 GEBOT DER HEERBESTIMMUNG UND ZUORDNUNG DER HÄUPTER
   1  Und JHWH wortete zu MoSchä´H
   in (der) Wildnis SINa´J,                                      2M19.1,3
@@ -6144,7 +6322,7 @@ GEBOT DER HEERBESTIMMUNG UND ZUORDNUNG DER HÄUPTER
   du und AHaRo´N.
 
 
-248. IN der WILDNIS 4M2
+252. IN der WILDNIS 4M2
 DIE LAGER- UND ZUGORDNUNG DER STÄMME UND IHRE WÜRDENTRÄGER
   1  Und JHWH wortete zu MoSchä´H
   und zu AHaRo´N, sprechend:
@@ -6161,8 +6339,7 @@ DIE LAGER- UND ZUGORDNUNG DER STÄMME UND IHRE WÜRDENTRÄGER
   (der) Söhne JiSsRaE´Ls,
   (dem) Hause ihrer Väter zu(geordnet);
   alle (Heer)bestimmten der Lager,
-  ihren Heeren zu(geordnet):
-  603550.                                                2M12.37  4M1.46
+  ihren Heeren zu(geordnet):  603550.                    2M12.37  4M1.46
 
   33  Aber die LöWiJi´M
   wurden nicht (heer)bestimmt                                     4M1.47
@@ -6170,7 +6347,7 @@ DIE LAGER- UND ZUGORDNUNG DER STÄMME UND IHRE WÜRDENTRÄGER
   so wie JHWH ` (dem) MoSchä´H geboten.
 
 
-249. IN der WILDNIS 4M3
+253. IN der WILDNIS 4M3
 DAS AMT DER LöWiJi´M
   5  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -6197,7 +6374,7 @@ DAS AMT DER LöWiJi´M
                         \1/e: hier iSv jeder nicht dazu Bevollmächtigte.
 
 
-250. IN der WILDNIS 4M4
+254. IN der WILDNIS 4M4
 ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   1  Und JHWH wortete zu MoSchä´H
   und zu AHaRo´N, sprechend:
@@ -6216,7 +6393,7 @@ ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   gebiets (des) Zeltes (des) Bezeugten.
 
 
-251. IN der WILDNIS 4M4
+255. IN der WILDNIS 4M4
 ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   21  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -6237,7 +6414,7 @@ ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   (den) Dienst gebiets (des) Zeltes (des) Bezeugten.
 
 
-252. IN der WILDNIS 4M4
+256. IN der WILDNIS 4M4
 ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   29  (Die) Söhne MöRaRI´s,
   ihren Sippen zu(geordnet),                                      4M3.33
@@ -6253,7 +6430,7 @@ ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   ` (den) Dienst (des) Zeltes (des) Bezeugten.
 
 
-253. IN der WILDNIS 4M4
+257. IN der WILDNIS 4M4
 ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   46  All die (Heer)bestimmten,
   welche MoSchä´H und AHaRo´N
@@ -6282,7 +6459,7 @@ ALTER UND ZAHL DER LöWiJi´M; IHR DIENST BEIM AUFBRUCH DES LAGERS
   wie JHWH ` (dem) MoSchä´H geboten (hatte).
 
 
-254. IN der WILDNIS 4M5
+258. IN der WILDNIS 4M5
 DAS VERFAHREN BEI VERDACHT AUF EHEBRUCH
   11  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -6304,7 +6481,7 @@ DAS VERFAHREN BEI VERDACHT AUF EHEBRUCH
   und sie, sie wurde nicht ergriffen;
 
   18  Und der Priester macht stehen
-  ` die Männin  angesichts JHWHs
+  ` die Männin angesichts JHWHs
   und entbändigt\1/ ` (das) Haupt(haar) der Männin
   und gibt auf ihre (Hand)schalen
   ` (die) Spende des Gedenkzeichens:
@@ -6315,7 +6492,7 @@ DAS VERFAHREN BEI VERDACHT AUF EHEBRUCH
                       \1/e: nimmt die es zusammenhaltende Bedeckung weg.
 
 
-255. IN der WILDNIS 4M5
+259. IN der WILDNIS 4M5
 DAS VERFAHREN BEI VERDACHT AUF EHEBRUCH
   29  Dies (ist) (die) Zielgebung
   (betreffs) der Eifer(ung)en,
@@ -6333,11 +6510,10 @@ DAS VERFAHREN BEI VERDACHT AUF EHEBRUCH
 
   31  Und der Mann wird entschuldet
   von (der) Vergehung,
-  aber die (jen)e Männin
-  trägt ` ihre Vergehung.                                          H13.4
+  aber die (jen)e Männin trägt ` ihre Vergehung.                   H13.4
 
 
-256. IN der WILDNIS 4M6
+260. IN der WILDNIS 4M6
 DER PRIESTERLICHE SEGEN
   22  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -6361,7 +6537,7 @@ DER PRIESTERLICHE SEGEN
   und ich, ich segne sie.                      LB5.13  LB115.12-15  E1.3
 
 
-257. IN der WILDNIS 4M7
+261. IN der WILDNIS 4M7
 DARNAHUNGSOPFER DER WÜRDENTRÄGER
   1  Und es wurde in (dem) Tag,
   (da) MoSchä´H vervollständigt\1/ (hatte),             \1/e: 1459 vZtr.
@@ -6387,7 +6563,7 @@ DARNAHUNGSOPFER DER WÜRDENTRÄGER
   und sie nahten sie angesichts der Wohnung.
 
 
-258. IN der WILDNIS 4M8
+262. IN der WILDNIS 4M8
 DIE ANORDNUNG DER LEUCHTEN DES LEUCHTERS
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -6398,7 +6574,6 @@ DIE ANORDNUNG DER LEUCHTEN DES LEUCHTERS
   zu (der) Frontansicht\1/ des Leuchters (hin),
   erlichten die sieben Leuchten.                                 2M25.37
                              \1/w: zugegen (dem) Angesicht; so auch V.3.
-
   3  Und AHaRo´N tat also:
   Er (setz)te
   zu (der) Frontansicht des Leuchters (hin)
@@ -6414,7 +6589,7 @@ DIE ANORDNUNG DER LEUCHTEN DES LEUCHTERS
   also (hatte) er ` den Leuchter gemacht.                        2M37.17
 
 
-259. IN der WILDNIS 4M9
+263. IN der WILDNIS 4M9
 DAS Pä´SaCh UND DAS NACHGEHOLTE Pä´SaCh
   1  Und JHWH wortete zu MoSchä´H
   in (der) Wildnis SINa´J,
@@ -6438,7 +6613,7 @@ DAS Pä´SaCh UND DAS NACHGEHOLTE Pä´SaCh
                       des höchsten Standes der Sonne bis zum Untergehen.
 
 
-260. IN der WILDNIS 4M10
+264. IN der WILDNIS 4M10
 DIE ZWEI SILBERNEN TROMPETEN
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -6460,7 +6635,7 @@ DIE ZWEI SILBERNEN TROMPETEN
   (die) Häupter (der) Tausend(schaft)en JiSsRaE´Ls.
 
 
-261. IN der WILDNIS 4M10
+265. IN der WILDNIS 4M10
 DER AUFBRUCH VOM SINa´J
   11  Und es wurde in dem zweiten Jahr\1/,              \1/e: 1459 vZtr.
   in der zweiten Neuung,  
@@ -6475,7 +6650,7 @@ DER AUFBRUCH VOM SINa´J
   wohnte in (der) Wildnis Pa°Ra´N.
 
 
-262. IN der WILDNIS 4M11
+266. IN der WILDNIS 4M11
 DIE WEHKLAGE UND DAS VERLANGEN DES VOLKES TROTZ DES MaNs
   1  Und das Volk wurde (befunden)
   als Wehklage (führe)ndes;
@@ -6506,7 +6681,7 @@ DIE WEHKLAGE UND DAS VERLANGEN DES VOLKES TROTZ DES MaNs
   zu (dem) unsere Augen (gerichtet) (sind).
 
 
-263. IN der WILDNIS 4M11
+267. IN der WILDNIS 4M11
 DIE WEHKLAGE UND DAS VERLANGEN DES VOLKES TROTZ DES MaNs
   7  Das MaN aber,                                      2M16.4,31  J6.31
   wie Same (des) Korianders (war) es,
@@ -6528,7 +6703,7 @@ DIE WEHKLAGE UND DAS VERLANGEN DES VOLKES TROTZ DES MaNs
   (kam) das MaN auf ihn herab.                                   LB78.24
 
 
-264. IN der WILDNIS 4M11
+268. IN der WILDNIS 4M11
 MoSchä´Hs GEBET WEGEN SEINER TRAGLAST; JHWHs ANTWORT
   11  Und MoSchä´H sprach zu JHWH:
   Warum (ta)test du deinem Diener Böse(s),
@@ -6563,7 +6738,7 @@ MoSchä´Hs GEBET WEGEN SEINER TRAGLAST; JHWHs ANTWORT
   nicht (weiterhin) allein trägst.  
                                                 
 
-265. IN der WILDNIS 4M11
+269. IN der WILDNIS 4M11
 JHWHs ANTWORT
   18  Und zu dem Volk sprichst du:
   Heiliget euch für nach(tags),                                  2M19.10
@@ -6586,11 +6761,11 @@ JHWHs ANTWORT
   und euch zur Befremdung wird!
   Weil denn ihr ` JHWH verworfen,
   der in eurem Innern (ist),
-  und ihr geweint  ihm angesichts, sprechend:
+  und ihr geweint ihm angesichts, sprechend:
   Warum dies, (dass) wir aus MiZRa´JiM herausgegangen?
 
 
-266. IN der WILDNIS 4M12
+270. IN der WILDNIS 4M12
 MiRJa´Ms UND AHaRo´Ns AUFLEHNUNG GEGEN MoSchä´H
   1  Und MiRJa´M wortete\1/                             \1/e: 1459 vZtr.
   und (auch) AHaRo´N
@@ -6612,7 +6787,7 @@ MiRJa´Ms UND AHaRo´Ns AUFLEHNUNG GEGEN MoSchä´H
   welche auf (dem) Angesicht der ADaMa´H.
 
 
-267. IN der WILDNIS 4M13
+271. IN der WILDNIS 4M13
 DIE AUSSENDUNG DER KUNDSCHAFTER
   1  Und JHWH wortete\1/ zu MoSchä´H,                   \1/e: 1459 vZtr.
   sprechend:      
@@ -6644,7 +6819,7 @@ DIE AUSSENDUNG DER KUNDSCHAFTER
   (ob) (es) in Lagern oder in Wehrfesten (wohnt);
 
 
-268. IN der WILDNIS 4M13
+272. IN der WILDNIS 4M13
 AUSFÜHRUNG DES AUFTRAGS. RÜCKKEHR UND BERICHT
   21  Und sie (stieg)en hinauf
   und erkundeten ` das Erdland
@@ -6664,13 +6839,13 @@ AUSFÜHRUNG DES AUFTRAGS. RÜCKKEHR UND BERICHT
   im Enden (von) vierzig Tagen.                                  4M14.34
 
 
-269. IN der WILDNIS 4M13
+273. IN der WILDNIS 4M13
 AUSFÜHRUNG DES AUFTRAGS. RÜCKKEHR UND BERICHT
   26  Und sie gingen
   und kamen zu MoSchä´H und zu AHaRo´N
   und zu all (der) Zeuge(nschar)
   (der) Söhne JiSsRaE´Ls
-  in (die) Wildnis Pa°Ra´N  gen QaDe´Sch;                 JS14.6  LB29.8
+  in (die) Wildnis Pa°Ra´N gen QaDe´Sch;                  JS14.6  LB29.8
   und sie brachten ihnen Wort(bericht) zurück
   und ` all der Zeuge(nschar)    
   und zeigten ihnen ` (die) Frucht des Erdlands.
@@ -6698,7 +6873,7 @@ AUSFÜHRUNG DES AUFTRAGS. RÜCKKEHR UND BERICHT
   und an (der) Hand(seite) des JaRDe´N.
 
 
-270. IN der WILDNIS 4M13
+274. IN der WILDNIS 4M13
 AUSFÜHRUNG DES AUFTRAGS. RÜCKKEHR UND BERICHT
   31  aber die Mannhaften,
   welche mit ihm hinaufge(stieg)en (waren),
@@ -6715,7 +6890,7 @@ AUSFÜHRUNG DES AUFTRAGS. RÜCKKEHR UND BERICHT
                         weil von gefallenen Engeln abstammend; s: 1M6.4.
 
 
-271. IN der WILDNIS 4M14
+275. IN der WILDNIS 4M14
 DIE AUSWIRKUNG DES BERICHTS AUF DAS VOLK
   1  Da erhob all die Zeuge(nschar),
   ja gab\1/ ` ihre Stimme;                                     5M1.26,32
@@ -6749,7 +6924,7 @@ JöHOSchu´Ãs UND KaLe´Bhs VERSUCH DER UMSTIMMUNG
   das fluss(hab)end (der) Milch und (des) Honigs.
 
 
-272. IN der WILDNIS 4M14
+276. IN der WILDNIS 4M14
 JHWHs GERICHTSANKÜNDIGUNGEN. MoSchä´Hs FÜRBITTE
   28  Sprich zu ihnen:
   (Der) Lebende (bin) ich
@@ -6780,13 +6955,13 @@ JHWHs GERICHTSANKÜNDIGUNGEN. MoSchä´Hs FÜRBITTE
 
   33  Und eure Söhne
   werden (als) Hirten (befunden)
-  in (der) Wildnis  vierzig Jahre,                       4M32.13  AM2.10
+  in (der) Wildnis vierzig Jahre,                        4M32.13  AM2.10
   und sie tragen ` eure Hurereien,
   bis eure Aase voll (zu) Ende sind                               5M2.14
   in (der) Wildnis.                                                H3.17
 
 
-273. IN der WILDNIS 4M15
+277. IN der WILDNIS 4M15
 STEINIGUNG DES DEN SchaBa´T ENTWEIHENDEN
   32  Und (die) Söhne JiSsRaE´Ls
   wurden\1/ in (der) Wildnis;     \1/e: befanden sich über längere Zeit.
@@ -6800,20 +6975,19 @@ STEINIGUNG DES DEN SchaBa´T ENTWEIHENDEN
   was ihm getan werden (sollte).  
 
   35  Und JHWH sprach zu MoSchä´H:
-  (Zu) sterben  wird der Mann getötet;                           2M31.14
+  (Zu) sterben wird der Mann getötet;                            2M31.14
   all die Zeuge(nschar)
   überschüttet ihn mit Steinen                                   3M24.14
   außerhalb des Lagers.
 
-  36  Da ließ ihn
-  all die Zeuge(nschar) hinausgehen
+  36  Da ließ ihn all die Zeuge(nschar) hinausgehen
   zu (dem), (was) außerhalb des Lagers
   und überschüttete ihn mit Steinen,
   so(dass) er starb,
   so wie JHWH ` (dem) MoSchä´H geboten.
 
 
-274. IN der WILDNIS 4M16
+278. IN der WILDNIS 4M16
 AUFRUHR UND BESTRAFUNG Qo´RaChs UND SEINER ANHÄNGER
   1  Und Qo´RaCh, (der) Sohn JiZHa´Rs,                      2M6.16,18,21
   (des) Sohnes QöHa´Ts, (des) Sohnes LeWI´s,                   4M3.17,19
@@ -6841,7 +7015,7 @@ AUFRUHR UND BESTRAFUNG Qo´RaChs UND SEINER ANHÄNGER
   über (die) Stimm(verein)te JHWHs?                                 JD11
 
 
-275. IN der WILDNIS 4M16
+279. IN der WILDNIS 4M16
 AUFRUHR UND BESTRAFUNG Qo´RaChs UND SEINER ANHÄNGER
   28  Und MoSchä´H sprach:
   In diesem erkennt ihr, dass JHWH mich entsandt,     2M3.12  5M18.17,18
@@ -6873,7 +7047,7 @@ AUFRUHR UND BESTRAFUNG Qo´RaChs UND SEINER ANHÄNGER
   und sie (ging)en verloren aus Mitte der Stimm(verein)ten.
 
 
-276. IN der WILDNIS 4M17
+280. IN der WILDNIS 4M17
 DAS KNOSPEN, BLÜHEN UND FRUCHTBRINGEN DES STABES AHaRo´Ns
   21  Und MoSchä´H wortete
   zu (den) Söhnen JiSsRaE´Ls,
@@ -6899,7 +7073,7 @@ DAS KNOSPEN, BLÜHEN UND FRUCHTBRINGEN DES STABES AHaRo´Ns
   und Mandeln entwöhnt\1/.       \1/e: zur selbständigen Frucht gemacht.
         
 
-277. IN der WILDNIS 4M18
+281. IN der WILDNIS 4M18
 AMTSPFLICHTEN UND RECHTE DER PRIESTER UND DER LöWiJi´M
   1  Und JHWH sprach zu AHaRo´N:
   Du und deine Söhne
@@ -6920,7 +7094,7 @@ AMTSPFLICHTEN UND RECHTE DER PRIESTER UND DER LöWiJi´M
   angesichts (des) Zeltes des Zeugenden (seid) (ihr).
 
 
-278. IN der WILDNIS 4M19
+282. IN der WILDNIS 4M19
 VERSCHIEDENE BEMAKELUNGEN UND DAS REINWERDEN DAVON
   11  Der  (einen) Toten Berührende,                               4M5.2
   (ja) (einen)
@@ -6931,7 +7105,7 @@ VERSCHIEDENE BEMAKELUNGEN UND DAS REINWERDEN DAVON
   (so) denn (ein) Mensch in (einem) Zelt stirbt:
   all das Kommende in das Zelt
   und alles, was im Zelt (ist),
-  (wird) bemakelt sein  sieben Tage.
+  (wird) bemakelt sein sieben Tage.
 
   15  Und all(jed)es geöffnete Gefäß,                         3M11.32,33
   auf dem (zum) (Verschluss) keine Spange
@@ -6939,7 +7113,7 @@ VERSCHIEDENE BEMAKELUNGEN UND DAS REINWERDEN DAVON
   bemakelt (ist) es.
 
 
-279. IN der WILDNIS 4M20
+283. IN der WILDNIS 4M20
 MiRJa´Ms TOD. WASSER AUS DEM FELSEN. MoSchä´Hs UND AHaRo´Ns VERGEHUNG
   8  Nimm ` den Stab
   und stimm(verein)e ` die Zeuge(nschar),
@@ -6957,8 +7131,7 @@ MiRJa´Ms TOD. WASSER AUS DEM FELSEN. MoSchä´Hs UND AHaRo´Ns VERGEHUNG
   zum Angesicht des Steilfelsen (hin);
   und (MoSchä´H) sprach zu ihnen:
   Höret doch, (ihr) Erbitterten!                                LB106.33
-  (Werden) wir (wohl)
-  aus dem diesem Steilfelsen 
+  (Werden) wir (wohl) aus dem diesem Steilfelsen 
   euch Wasser herausgehen lassen?
 
   11  Und MoSchä´H erhöhte ` seine Hand
@@ -6969,7 +7142,7 @@ MiRJa´Ms TOD. WASSER AUS DEM FELSEN. MoSchä´Hs UND AHaRo´Ns VERGEHUNG
   und ihr Lastgetier.
 
 
-280. IN der WILDNIS 4M20
+284. IN der WILDNIS 4M20
 MoSchä´Hs UND AHaRo´Ns VERGEHUNG
   12  Und JHWH sprach
   zu MoSchä´H und zu AHaRo´N:
@@ -6988,7 +7161,7 @@ MoSchä´Hs UND AHaRo´Ns VERGEHUNG
   und er in(mitten) (von) ihnen geheiligt wurde.
 
 
-281. IN der WILDNIS 4M20
+285. IN der WILDNIS 4M20
 ÄDO´M VERWEIGERT DIE ERLAUBNIS ZUM DURCHZUG
   14  Und MoSchä´H
   entsandte von QaDe´Sch (aus) Beauftragte
@@ -7015,7 +7188,7 @@ MoSchä´Hs UND AHaRo´Ns VERGEHUNG
   streckte sich von ihm (weg).                             4M21.4  5M2.8
 
 
-282. IN der WILDNIS 4M21
+286. IN der WILDNIS 4M21
 DIE SCHLANGE AUS KUPFER
   5  Und das Volk wortete
   gegen ÄLoHI´M und gegen MoSchä´H:                              LB78.19
@@ -7048,7 +7221,7 @@ DIE SCHLANGE AUS KUPFER
   so (blieb) er leben.                                             J3.15
 
 
-283. IN der WILDNIS 4M21
+287. IN der WILDNIS 4M21
 SIEG ÜBER SIChO´N UND ~OG
   21  Und JiSsRaE´L entsandte Beauftragte             5M2.26,27  RC11.19
   zu SICho´N, (dem) Regenten des ÄMoRI´,
@@ -7060,7 +7233,7 @@ SIEG ÜBER SIChO´N UND ~OG
   oder in (einem) Weinberg,
   nicht trinken wir Brunnenwasser;
   im Weg des Regenten gehen wir,
-  bis  wir über deine Grenze gegangen (sind).
+  bis wir über deine Grenze gegangen (sind).
 
   23  aber nicht gab SICho´N                             5M2.30  RC11.20
   ` JiSsRaE´L (Erlaubnis),
@@ -7076,11 +7249,10 @@ SIEG ÜBER SIChO´N UND ~OG
   und errechtete ` sein Erdland              5M2.34-36  LB135.12  4M32.4
   vom ARNo´N bis (zum) JaBo´Q,                                   RC11.13
   bis (zu) (den) Söhnen ÃMO´Ns, 
-  denn stark      
-  (war) (die) Grenze (der) Söhne ÃMO´Ns.
+  denn stark (war) (die) Grenze (der) Söhne ÃMO´Ns.
 
 
-284. IN der WILDNIS 4M21
+288. IN der WILDNIS 4M21
 SIEG ÜBER SIChO´N UND ~OG
   33  Und sie wandten sich und (stieg)en hinauf                    5M3.1
   (den) Weg (gen) das BaScha´N; AM4.1  
@@ -7106,7 +7278,7 @@ SIEG ÜBER SIChO´N UND ~OG
   ` sein Erdland.                              5M3.4-6  5M4.47  LB135.12
 
 
-285. IN der WILDNIS 4M22
+289. IN der WILDNIS 4M22
 BaLa´Qs EINLADUNG AN BiLÃ´M
   1  Und (die) Söhne JiSsRaE´Ls zogen weg
   und lagerten\1/                                       \1/e: 1421 vZtr.
@@ -7128,7 +7300,7 @@ BaLa´Qs EINLADUNG AN BiLÃ´M
   in der (jen)er Zeit.
 
 
-286. IN der WILDNIS 4M22
+290. IN der WILDNIS 4M22
 BaLa´Qs EINLADUNG AN BiLÃ´M
   7  Und (die) Alten MOA´Bhs
   und (die) Alten MiDJa´Ns gingen (hin),
@@ -7146,7 +7318,7 @@ BaLa´Qs EINLADUNG AN BiLÃ´M
   (hat)ten Sitz bei BiLÃ´M.
 
 
-287. IN der WILDNIS 4M22
+291. IN der WILDNIS 4M22
 BaLa´Qs EINLADUNG AN BiLÃ´M
   9  Und ÄLoHI´M kam zu BiLÃ´M                                   4M22.20
   und sprach:
@@ -7171,7 +7343,7 @@ BaLa´Qs EINLADUNG AN BiLÃ´M
   denn gesegnet (ist) es.        4M23.20  5M2.7  5M7.14  JJ61.9  2W31.10
 
 
-288. IN der WILDNIS 4M22
+292. IN der WILDNIS 4M22
 BaLa´Qs EINLADUNG AN BiLÃ´M
   15  Da fügte BaLa´Q noch hinzu,
   Fürsten (zu) entsenden,
@@ -7191,7 +7363,7 @@ BaLa´Qs EINLADUNG AN BiLÃ´M
   verwünsche mir ` das dieses Volk!
 
 
-289. IN der WILDNIS 4M22
+293. IN der WILDNIS 4M22
 BaLa´Qs EINLADUNG AN BiLÃ´M
   18  Und BiLÃ´M antwortete
   und sprach zu (den) Dienern BaLa´Qs:
@@ -7218,7 +7390,7 @@ BaLa´Qs EINLADUNG AN BiLÃ´M
   (dies)es (darfst) du tun.
 
 
-290. IN der WILDNIS 4M22
+294. IN der WILDNIS 4M22
 BiLÃ´Ms WEG ZU BaLa´Q
   21  Und BiLÃ´M stand auf im Morgen                              2P2.15
   und sattelte ` seine Eselin
@@ -7250,7 +7422,7 @@ BiLÃ´Ms WEG ZU BaLa´Q
   (war) dies(seits) (gegenüber).
 
 
-291. IN der WILDNIS 4M22
+295. IN der WILDNIS 4M22
 BiLÃ´Ms WEG ZU BaLa´Q
   25  Und die Eselin sah
   ` (den) Beauftragten JHWHs
@@ -7279,7 +7451,7 @@ BiLÃ´Ms WEG ZU BaLa´Q
   (und) dies dreifach\1/?                             \1/w: dreifüß(ig).
 
 
-292. IN der WILDNIS 4M22
+296. IN der WILDNIS 4M22
 BiLÃ´Ms WEG ZU BaLa´Q
   32  Und (der) Beauftragte JHWHs
   sprach zu ihm:
@@ -7300,7 +7472,7 @@ BiLÃ´Ms WEG ZU BaLa´Q
   und sie (hätte) ich leben lassen.
 
 
-293. IN der WILDNIS 4M23
+297. IN der WILDNIS 4M23
 BiLÃ´Ms ERSTER SEGENSSPRUCH
   7  Und (BiLÃ´M) erhob sein Vergleichendes
   und sprach:                                            4M23.18  4M24.3
@@ -7331,7 +7503,7 @@ BiLÃ´Ms ERSTER SEGENSSPRUCH
                                         \2/e: vmtl. der Staub JaÃQo´Bhs.
 
 
-294. IN der WILDNIS 4M23
+298. IN der WILDNIS 4M23
 BiLÃ´Ms ZWEITER SEGENSSPRUCH
   11  Da sprach BaLa´Q zu BiLÃ´M:
   Was tatest du mir?
@@ -7344,8 +7516,7 @@ BiLÃ´Ms ZWEITER SEGENSSPRUCH
   wurde dem BiLÃ´M begegnen ge(mach)t,
   und er legte Wort,                                     4M22.35  4M23.5
   (dass) (es) in seinem Mund,
-  und sprach:
-  Kehre zurück zu BaLa´Q,
+  und sprach: Kehre zurück zu BaLa´Q,
   und so wortest du.
 
   17  Und er kam zu ihm, und da!
@@ -7361,7 +7532,7 @@ BiLÃ´Ms ZWEITER SEGENSSPRUCH
   und nicht mache ich es umkehren.
 
 
-295. IN der WILDNIS 4M24
+299. IN der WILDNIS 4M24
 BiLÃ´Ms DRITTER SEGENSSPRUCH
   3  Und er erhob sein Vergleichendes                             4M23.7
   und sprach:
@@ -7397,7 +7568,7 @@ BiLÃ´Ms DRITTER SEGENSSPRUCH
   wandelte seines Wegs.
 
 
-296. IN der WILDNIS 4M25
+300. IN der WILDNIS 4M25
 JiSsRaE´Ls HUREREI, SEIN BESTRAFTWERDEN; DAS EINTRETEN DES PINöCha´S
   1  Und JiSsRaE´L (hat)te Sitz in SchiThI´M.                    4M33.49
   Und das Volk begann zu huren                                    EH2.14
@@ -7415,7 +7586,7 @@ JiSsRaE´Ls HUREREI, SEIN BESTRAFTWERDEN; DAS EINTRETEN DES PINöCha´S
   gegen JiSsRaE´L.                                                 5M4.3
 
 
-297. IN der WILDNIS 4M25
+301. IN der WILDNIS 4M25
 JiSsRaE´Ls HUREREI, SEIN BESTRAFTWERDEN; DAS EINTRETEN DES PINöCha´S
   4  Und JHWH sprach zu MoSchä´H:
   Nimm ` alle Häupter des Volks
@@ -7434,7 +7605,7 @@ JiSsRaE´Ls HUREREI, SEIN BESTRAFTWERDEN; DAS EINTRETEN DES PINöCha´S
   9  Und wurden der Toten in (dem) Desaster 24000.         5M4.3  1K10.8
 
 
-298. IN der WILDNIS 4M25
+302. IN der WILDNIS 4M25
 JiSsRaE´Ls HUREREI, SEIN BESTRAFTWERDEN; DAS EINTRETEN DES PINöCha´S
   16  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -7455,7 +7626,7 @@ JiSsRaE´Ls HUREREI, SEIN BESTRAFTWERDEN; DAS EINTRETEN DES PINöCha´S
   19  Und es wurde nach dem Desaster (also),
 
 
-299. IN der WILDNIS 4M26
+303. IN der WILDNIS 4M26
 ANWEISUNG BEZÜGLICH DER VERTEILUNG DES ERDLANDS
   52  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -7471,8 +7642,7 @@ ANWEISUNG BEZÜGLICH DER VERTEILUNG DES ERDLANDS
   in (den) Steppen MOA´Bhs,                                       4M26.3
   (gegen)über (dem) JaRDe´N (bei) JöReChO´.
 
-  64  Und in(mitten) dieser
-  wurde kein Mann                                                 5M2.14
+  64  Und in(mitten) dieser wurde kein Mann                       5M2.14
   von (den) (durch) MoSchä´H
   und AHaRo´N, den Priester,
   (Heer)bestimmten (befunden),                                     4M1.2
@@ -7482,15 +7652,14 @@ ANWEISUNG BEZÜGLICH DER VERTEILUNG DES ERDLANDS
 
   65  Denn JHWH
   (hatte) bezüglich ihnen gesprochen:
-  (Zu) sterben  sterben sie in (der) Wildnis.                      H3.17
-  Und nicht wurde übrig gelassen von ihnen
-  (ein) Mann,                                                    4M14.29
+  (Zu) sterben sterben sie in (der) Wildnis.                       H3.17
+  Und nicht wurde übrig gelassen von ihnen (ein) Mann,           4M14.29
   sondern (nur) KaLe´Bh,                                         4M14.30
   (der) Sohn JöPhuNä´Hs,                                         JS14.14
   und JöHOSchu´Ã, (der) Sohn NUNs.                               JS19.49
 
 
-300. IN der WILDNIS 4M27
+304. IN der WILDNIS 4M27
 DIE RICHTIGUNG BEZÜGLICH DES GRUNDBESITZES FÜR ERBTÖCHTER
   1  Und (es) nahten (die) Töchter ZöLoPhCha´Ds,         4M26.33  JS17.3
   (des) Sohnes Che´PhäRs,       
@@ -7514,7 +7683,7 @@ DIE RICHTIGUNG BEZÜGLICH DES GRUNDBESITZES FÜR ERBTÖCHTER
   ` (das) Losteil ihres Vaters.
 
 
-301. IN der WILDNIS 4M27
+305. IN der WILDNIS 4M27
 DIE RICHTIGUNG BEZÜGLICH DES GRUNDBESITZES FÜR ERBTÖCHTER
   8  Und zu (den) Söhnen JiSsRaE´Ls wortest du,
   sprechend:
@@ -7540,11 +7709,11 @@ DIE RICHTIGUNG BEZÜGLICH DES GRUNDBESITZES FÜR ERBTÖCHTER
   so wie JHWH ` (dem) MoSchä´H gebot.
 
 
-302. IN der WILDNIS 4M27
+306. IN der WILDNIS 4M27
 JöHOSchu´Ã ALS NACHFOLGER DES MoSchä´H EINGESETZT
   12  Und JHWH sprach zu MoSchä´H:
   (Steig)e hinauf                                         5M3.27  5M34.1
-  zu  dem diesem Berg(igen) des ÃBhaRI´M,               4M33.47  5M32.49
+  zu dem diesem Berg(igen) des ÃBhaRI´M,                4M33.47  5M32.49
   und sehe` das Erdland,        
   das ich den Söhnen JiSsRaE´Ls gab.                     1M13.15  1M17.8
         
@@ -7564,7 +7733,7 @@ JöHOSchu´Ã ALS NACHFOLGER DES MoSchä´H EINGESETZT
   (orts) (des) QaDe´Sch (in) (der) Wildnis ZiN.                    5M1.2
 
 
-303. IN der WILDNIS 4M27
+307. IN der WILDNIS 4M27
 JöHOSchu´Ã ALS NACHFOLGER DES MoSchä´H EINGESETZT
   15  Und MoSchä´H wortete zu JHWH,
   sprechend:
@@ -7593,7 +7762,7 @@ JöHOSchu´Ã ALS NACHFOLGER DES MoSchä´H EINGESETZT
   und du gebietest ihm ihnen zu Augen.                            5M31.7
 
 
-304. IN der WILDNIS 4M28
+308. IN der WILDNIS 4M28
 BESTIMMUNGEN BEZÜGLICH DER TÄGLICHEN OPFER UND DER FESTOPFER
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -7620,7 +7789,7 @@ BESTIMMUNGEN BEZÜGLICH DER TÄGLICHEN OPFER UND DER FESTOPFER
   all(irgendeinen) Auftrag (des) Dienstes tätigt ihr nicht.
 
 
-305. IN der WILDNIS 4M29
+309. IN der WILDNIS 4M29
 BESTIMMUNGEN FÜR DEN TAG DES JAUCHZENS
   1  Und in der siebten Neuung,                                  3M23.24
   im ersten (Tag) der Neuung,                                       N8.2
@@ -7630,7 +7799,7 @@ BESTIMMUNGEN FÜR DEN TAG DES JAUCHZENS
   (ein) Tag (des) Jauchzens wird er euch.
 
 
-306. IN der WILDNIS 4M29
+310. IN der WILDNIS 4M29
 BESTIMMUNGEN FÜR DEN TAG DER VERSCHIRMUNG
   7  Und im zehnten (Tag)                               3M16.29  3M23.27
   der dieser siebten Neuung
@@ -7640,7 +7809,7 @@ BESTIMMUNGEN FÜR DEN TAG DER VERSCHIRMUNG
   tätigt ihr nicht.                                           3M23.30,31
 
 
-307. IN der WILDNIS 4M29
+311. IN der WILDNIS 4M29
 BESTIMMUNGEN FÜR DAS FEST DER LAUBHÜTTEN
   12  Und im fünfzehnten Tag                                     3M23.34
   der siebten Neuung
@@ -7662,12 +7831,10 @@ BESTIMMUNGEN FÜR DAS FEST DER LAUBHÜTTEN
                                              \2/e: freiwilligen Spenden.
 
 
-308. IN der WILDNIS 4M30
+312. IN der WILDNIS 4M30
 GELÜBDE BETREFFENDE BESTIMMUNGEN
-  1  Und MoSchä´H sprach
-  zu (den) Söhnen JiSsRaE´Ls
-  gemäß allem, was JHWH
-  ` (dem) MoSchä´H geboten.                                2M4.28  5M4.5
+  1  Und MoSchä´H sprach zu (den) Söhnen JiSsRaE´Ls
+  gemäß allem, was JHWH ` (dem) MoSchä´H geboten.          2M4.28  5M4.5
 
   2  Und MoSchä´H wortete zu (den) Häuptern
   der Stab(schaft)en der Söhne JiSsRaE´Ls,                       2M18.25
@@ -7698,7 +7865,7 @@ GELÜBDE BETREFFENDE BESTIMMUNGEN
   (im) Haus ihres Vaters (ist).
 
 
-309. IN der WILDNIS 4M31
+313. IN der WILDNIS 4M31
 RACHE AN DEN MiDJaNI´M
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -7724,7 +7891,7 @@ RACHE AN DEN MiDJaNI´M
   brachten sie um mit (dem) Schwert.
 
 
-310. IN der WILDNIS 4M31
+314. IN der WILDNIS 4M31
 RACHE AN DEN MiDJaNI´M
   15  Und MoSchä´H sprach zu ihnen:
   (Habt) ihr alles Weibliche (am) Leben (erhal)ten?
@@ -7750,8 +7917,8 @@ RACHE AN DEN MiDJaNI´M
   nicht erkannten, lasst leben für euch.
 
 
-311. IN der WILDNIS 4M31
-VERTEILUNG der Beute
+315. IN der WILDNIS 4M31
+VERTEILUNG DER BEUTE
   25  Und JHWH sprach zu MoSchä´H,
   sprechend:
 
@@ -7764,7 +7931,7 @@ VERTEILUNG der Beute
   52  Und es wurde:
   Alles Gold der Höhung,
   das sie dem JHWH erhöhten,
-  (war) 16750 Schä´QäL
+  (war)  16750 Schä´QäL
   von (den) Fürsten der Tausend(schaft)en
   und von (den) Fürsten der Hundert(schaft)en.
 
@@ -7782,7 +7949,7 @@ VERTEILUNG der Beute
   angesichts JHWHs.
 
 
-312. IN der WILDNIS 4M32
+316. IN der WILDNIS 4M32
 VERTEILUNG DES ERDLANDS ÖSTLICH DES JaRDe´N
   1  Und viel Vieh
   wurde den Söhnen Rö°UBhe´Ns
@@ -7800,7 +7967,7 @@ VERTEILUNG DES ERDLANDS ÖSTLICH DES JaRDe´N
   lass uns nich(t) über ` den JaRDe´N gehen.
 
 
-313. IN der WILDNIS 4M33
+317. IN der WILDNIS 4M33
 DIE LAGERPLÄTZE JiSsRaE´Ls IN DER WILDNIS
   1  Dies (waren) (die) Zug(schaft)en\1/     \1/e: wegziehenden Gruppen.
   (der) Söhne JiSsRaE´Ls,                                   
@@ -7817,15 +7984,14 @@ DIE LAGERPLÄTZE JiSsRaE´Ls IN DER WILDNIS
   zu Heckdornen in euren Augen                          JS23.13  JC28.24
   und zu Spitzzacken in euren Seiten,                              RC2.3
   und sie werden euch bedrängen
-  auf dem Erdland,
-  in welchem ihr Sitz (hab)t.                                      5M7.4
+  auf dem Erdland, in welchem ihr Sitz (hab)t.                     5M7.4
 
   56  Und es wird:
   So wie ich gleich(erweise) (voraussag)te,
   ihnen zu tun, (werde) ich euch tun.                3M18.28  JS23.15,16
 
 
-314. IN der WILDNIS 4M34
+318. IN der WILDNIS 4M34
 FESTLEGUNG DER GRENZEN DES ZU EROBERNDEN ERDLANDS
   1  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -7848,7 +8014,7 @@ FESTLEGUNG DER GRENZEN DES ZU EROBERNDEN ERDLANDS
   vom Ende (des) Meeres des Salzes (an).
 
 
-315. IN der WILDNIS 4M35
+319. IN der WILDNIS 4M35
 STÄDTE DES ASYLS. UNTERSCHEIDUNG ZWISCHEN MORD UND TOTSCHLAG
   9  Und JHWH wortete zu MoSchä´H,
   sprechend:
@@ -7874,20 +8040,18 @@ STÄDTE DES ASYLS. UNTERSCHEIDUNG ZWISCHEN MORD UND TOTSCHLAG
   sechs Städte (des) Asyls werden (sie) euch.
 
 
-316. IN der WILDNIS 4M35
+320. IN der WILDNIS 4M35
 UNTERSCHEIDUNG ZWISCHEN MORD UND TOTSCHLAG
   16  Und wenn mit (einem) Gerät (aus) Eisen
   er ihn schlug, so(dass) er starb,                              5M19.11
   (so) (ist) er (ein) Gemordet(hab)ender:
-  (zu) sterben                                                   1M9.5,6
-  wird der Gemordet(hab)ende getötet.                            5M19.12
+  (zu) sterben wird der Gemordet(hab)ende getötet.      1M9.5,6  5M19.12
 
   17  Und wenn mit (einem) hand(habbaren) Stein,
   in(folge) dessen (man) sterben (kann),
   er ihn geschlagen, so(dass) er gestorben,
   (so) (ist) er (ein) Gemordet(hab)ender:
-  (zu) sterben
-  wird der Gemordet(hab)ende getötet.
+  (zu) sterben wird der Gemordet(hab)ende getötet.
 
   18  Oder (wenn)
   mit (einem) hand(habbaren) Gerät
@@ -7895,8 +8059,7 @@ UNTERSCHEIDUNG ZWISCHEN MORD UND TOTSCHLAG
   in(folge) dessen (man) sterben (kann),
   er ihn schlug, so(dass) er starb,
   (so) (ist) er (ein) Gemordet(hab)ender:
-  (zu) sterben
-  wird der Gemordet(hab)ende getötet.
+  (zu) sterben wird der Gemordet(hab)ende getötet.
 
   19  (Der) Löser des Blutes,
   er, (ja) er, tötet ` den Gemordet(hab)enden;
@@ -7904,7 +8067,7 @@ UNTERSCHEIDUNG ZWISCHEN MORD UND TOTSCHLAG
   tötet er, (ja) er, ihn.
 
 
-317. IN der WILDNIS 4M36
+321. IN der WILDNIS 4M36
 ZUSÄTZLICHE BESTIMMUNGEN FÜR ERBTÖCHTER
   8  Und all(jede) Tochter,
   (die) (ein) Losteil errechtet
@@ -7931,7 +8094,7 @@ ZUSÄTZLICHE BESTIMMUNGEN FÜR ERBTÖCHTER
   (gegen)über (dem) JaRDe´N (bei) JöReChO´.
 
 
-318. DIESE sind DIE WORTE 5M1
+322. DIESE sind DIE WORTE 5M1
 RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   1  Diese (sind) die Worte,                               5M5.1  5M27.1
   welche MoSchä´H gewortet zu all JiSsRaE´L
@@ -7953,7 +8116,7 @@ RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   (und) in ÄDRä´~I.     
 
 
-319. DIESE (sind) DIE WORTE 5M1
+323. DIESE (sind) DIE WORTE 5M1
 RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   5  Im Jenseitigen des JaRDe´N,
   im Erdland MOA´Bh (war's),
@@ -7978,7 +8141,7 @@ RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   (dem) Strom PöRa´T.
 
   8  Sehe,
-  ich gab  euch angesichts ` das Erdland.
+  ich gab euch angesichts ` das Erdland.
   Kommet und errechtet ` das Erdland,
   welches JHWH euren Vätern,
   dem ABhRaHa´M, dem JiZCha´Q
@@ -7987,7 +8150,7 @@ RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   und ihrem Samen nach ihnen.   
 
 
-320. DIESE (sind) DIE WORTE 5M1
+324. DIESE (sind) DIE WORTE 5M1
 RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   9  Und ich sprach zu euch
   in der (jen)er Zeit,
@@ -8012,7 +8175,7 @@ RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   und euren Hader?
 
 
-321. DIESE (sind) DIE WORTE 5M1
+325. DIESE (sind) DIE WORTE 5M1
 RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   15  Und ich nahm                                               2M18.25
   ` (die) Häupter eurer Stämme,                                  5M16.18
@@ -8025,8 +8188,7 @@ RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   und Vorsteher,
   euren Stämmen zu(geordnet).
 
-  16  Und ich gebot ` euren Richtern
-  in der (jen)er Zeit,
+  16  Und ich gebot ` euren Richtern in der (jen)er Zeit,
   sprechend:
   (Zu) hören (ist),
   (was) zwischen euren Brüdern (ist),
@@ -8044,14 +8206,13 @@ RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   denn die Richtigung,  
   sie (ist) (dem) ÄLoHI´M zu(geordnet),                           2W19.6
   aber die Sache, die euch zu hart ist,                 2M18.26  5M17.18
-  naht ihr zu mir,      
-  so(dass) ich sie höre.
+  naht ihr zu mir, so(dass) ich sie höre.
 
   18  Und ich gebot euch in der (jen)er Zeit
   ` all die Worte, welche ihr tun (solltet).
 
 
-322. DIESE (sind) DIE WORTE 5M1
+326. DIESE (sind) DIE WORTE 5M1
 RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   27  Und ihr wurdet verdrossen in euren Zelten
   und spracht:
@@ -8078,7 +8239,7 @@ RÜCKBLICK AUF DAS GESCHEHEN IM WEG VOM ChoRe´Bh NACH QaDe´Sch
   welches ich euren Vätern zu geben geschworen,
 
 
-323. DIESE (sind) DIE WORTE 5M2
+327. DIESE (sind) DIE WORTE 5M2
 DER WEG DURCH DAS GEBIET DES Sse~I´R
   2  Und JHWH sprach zu mir, sprechend:
 
@@ -8102,7 +8263,7 @@ DER WEG DURCH DAS GEBIET DES Sse~I´R
   ` (das) Berg(ige) Sse~I´Rs.                     1M32.4  1M36.8  JS24.4
 
 
-324. DIESE (sind) DIE WORTE 5M2
+328. DIESE (sind) DIE WORTE 5M2
 DAS ERDLAND MOA´Bh UND SEINE EHEMALIGEN SITZHABER
   9  Und JHWH sprach zu mir:
   Nich(t) umdränge ` MOA´Bh,
@@ -8133,7 +8294,7 @@ DAS ERDLAND MOA´Bh UND SEINE EHEMALIGEN SITZHABER
   und wirbeln aus(grund) deines Angesichts. -
 
 
-325. DIESE (sind) DIE WORTE 5M3
+329. DIESE (sind) DIE WORTE 5M3
 DER SIEG ÜBER ~OG
   1  Und wir wandten uns und (stieg)en hinauf
   (den) Weg (gen) das BaScha´N.                          4M21.33  5M29.6
@@ -8167,7 +8328,7 @@ DER SIEG ÜBER ~OG
   in BaScha´N.  
 
 
-326. DIESE (sind) DIE WORTE 5M3
+330. DIESE (sind) DIE WORTE 5M3
 DER SIEG ÜBER ~OG
   11  Denn nur ~OG, (der) Regent des BaScha´N,
   (war) verblieben vom Übrigen der RöPha°I´M.             1M14.5  JS12.4
@@ -8180,7 +8341,7 @@ DER SIEG ÜBER ~OG
   im Elle(nmaß) (eines) Mannes.
 
   21  Und ` (dem) JöHOSchU´Ã gebot ich               4M14.30  4M27.18-23
-  in  der (jen)er Zeit, sprechend:
+  in der (jen)er Zeit, sprechend:
   Deine Augen (sind) die, (die) ` alles gesehen,
   was JHWH, euer ÄLoHI´M,
   den diesen zwei Regenten getan.
@@ -8193,15 +8354,14 @@ DER SIEG ÜBER ~OG
   er (ist) der für euch Streitende.                      2M15.3  JS23.10
 
 
-327. DIESE (sind) DIE WORTE 5M3
+331. DIESE (sind) DIE WORTE 5M3
 MoSchä´H VOM BETRETEN DES ERDLANDS AUSGESCHLOSSEN
   23  Und ich gnadbe(rief) mich zu JHWH
-  in  der (jen)er Zeit, sprechend:
+  in der (jen)er Zeit, sprechend:
 
   24  JHWH, mein Herr!
   Du, du begannst,                               2M34.6  LB145.3  5M11.2
-  ` deinem Diener zu zeigen
-  ` deine Größe                                                  JR32.18
+  ` deinem Diener zu zeigen ` deine Größe                        JR32.18
   und ` deine halt(emächt)ige Hand.                      LB44.4  2M15.16
   Wer (wäre) der EL                             2M15.11  2S7.22  JR49.19
   in (den) Himmeln und im Erdland,                                1R8.23
@@ -8230,7 +8390,7 @@ MoSchä´H VOM BETRETEN DES ERDLANDS AUSGESCHLOSSEN
   welches du sehen (wirst).
 
 
-328. DIESE (sind) DIE WORTE 5M4
+332. DIESE (sind) DIE WORTE 5M4
 ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   1  Und nun, JiSsRaE´L,
   höre zu den Gesetzen                                     5M4.40  5M5.1
@@ -8250,7 +8410,7 @@ ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   die ich euch gebiete.
 
 
-329. DIESE (sind) DIE WORTE 5M4
+333. DIESE (sind) DIE WORTE 5M4
 ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   5  Sehe, ich lehrte euch                              3M10.11  4M30.17
   Gesetze und Richtigungen,                             3M25.18  3M26.46
@@ -8278,7 +8438,7 @@ ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   den (heutigen) Tag?
 
 
-330. DIESE (sind) DIE WORTE 5M4
+334. DIESE (sind) DIE WORTE 5M4
 ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   19  Und dass du nicht erhebst deine Augen
   gen die Himmel                                                  JC8.16
@@ -8301,7 +8461,7 @@ ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   wie (in) dem diesem Tag (zu) (ersehen) (ist).
 
 
-331. DIESE (sind) DIE WORTE 5M4
+335. DIESE (sind) DIE WORTE 5M4
 ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   23  Hütet euch, (ja) euch,                              2M19.5  2M24.3
   dass ihr nicht vergesst
@@ -8334,7 +8494,7 @@ ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   wohin JHWH euch führen (wird).
 
 
-332. DIESE (sind) DIE WORTE 5M4
+336. DIESE (sind) DIE WORTE 5M4
 ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   37  Und zufolge\1/ (dessen),                     \1/w: unter; anstatt.
   dass er ` deine Väter geliebt                    R11.28  JJ43.4  MA1.2
@@ -8354,15 +8514,14 @@ ERMAHNUNG ZUM GEHORSAM. WARNUNG VOR GÖTZENDIENST
   wie (in) dem diesem Tag (zu) (ersehen) (ist).
 
   39  So erkennst du (es) den (heutigen) Tag
-  und lässt (es) zurückkehren
-  zu deinem Herzgeheg,
+  und lässt (es) zurückkehren zu deinem Herzgeheg,
   dass JHWH, (ja) er, der ÄLoHI´M (ist)
   in (den) Himmeln oben                                   JS2.11  2W20.6
   und auf dem Erdland unten,                                     LB135.6
   keiner (sonst) noch.                                    5M4.35  JJ44.6
 
 
-333. DIESE (sind) DIE WORTE 5M5
+337. DIESE (sind) DIE WORTE 5M5
 RÜCKBLICK AUF DAS GESCHEHEN GEBIETS DES ChoRe´Bh
   1  Und MoSchä´H
   rief all (dem) JiSsRaE´L zu                              5M1.1  5M29.1
@@ -8385,7 +8544,7 @@ RÜCKBLICK AUF DAS GESCHEHEN GEBIETS DES ChoRe´Bh
   (mit) uns, all (den) Lebenden.        
 
 
-334. DIESE (sind) DIE WORTE 5M5
+338. DIESE (sind) DIE WORTE 5M5
 DIE ZEHN GEBOTE I
   6  Ich (bin) JHWH, dein ÄLoHI´M,                                2M20.2
   der ich dich herausgehen gemacht                         5M7.8  HO13.4
@@ -8396,14 +8555,14 @@ DIE ZEHN GEBOTE I
   zu meinem Angesicht (hinzu).                            2M20.3  JR25.6
 
 
-335. DIESE (sind) DIE WORTE 5M5
+339. DIESE (sind) DIE WORTE 5M5
 DIE ZEHN GEBOTE II
   8  Nicht machst du dir (einen) Skulp(götz)en,           2M20.4  3M26.1
   all(irgendein) Artgleiches (dessen),                         5M4.16,23
   was in (den) Himmeln oben     
   und was im Erdland unten                                        A17.29
   und was in (den) Wassern
-   unter dem Erdland (ist).
+  unter dem Erdland (ist).
 
   9  Nicht wirfst du dich                                         2M20.5
   ihnen (huldigend) hin                                   D3.18  1K10.14
@@ -8421,7 +8580,7 @@ DIE ZEHN GEBOTE II
   und den Hütern meiner\1/ Gebote.        2M20.6  5M4.40  \1/KT: seiner.
 
 
-336. DIESE (sind) DIE WORTE 5M5
+340. DIESE (sind) DIE WORTE 5M5
 DIE ZEHN GEBOTE III
   11  Nicht erhebst du                                            2M20.7
   ` (den) Namen JHWHs, deines ÄLoHI´M,
@@ -8431,7 +8590,7 @@ DIE ZEHN GEBOTE III
   zum Wahnhaften erhebt.
 
 
-337. DIESE (sind) DIE WORTE 5M5
+341. DIESE (sind) DIE WORTE 5M5
 DIE ZEHN GEBOTE IV
   12  (Zu) hüten (ist) ` (der) Tag des SchaBa´T,        2M16.23  2M31.13
   ihn zu heiligen,                                                2M20.8  
@@ -8465,7 +8624,7 @@ DIE ZEHN GEBOTE IV
   ` (den) Tag des SchaBa´T zu machen.                            2M31.17
 
 
-338. DIESE (sind) DIE WORTE 5M5
+342. DIESE (sind) DIE WORTE 5M5
 DIE ZEHN GEBOTE V
   16  Beherrliche ` deinen Vater
   und ` deine Mutter,                                    2M21.15  3M19.3
@@ -8500,7 +8659,7 @@ DIE ZEHN GEBOTE X
   und allem, was deinem Beigesellten (zu) (eigen).
 
 
-339. DIESE (sind) DIE WORTE 5M5
+343. DIESE (sind) DIE WORTE 5M5
 DIE REAKTION DES VOLKES. MoSchä´H ALS VERMITTLER
   22  ` Die diese Worte wortete JHWH
   zu all eurer Stimm(verein)ten
@@ -8531,7 +8690,7 @@ DIE REAKTION DES VOLKES. MoSchä´H ALS VERMITTLER
   für äonisch.                                                   LB19.10  
 
 
-340. DIESE (sind) DIE WORTE 5M5
+344. DIESE (sind) DIE WORTE 5M5
 DIE REAKTION DES VOLKES. MoSchä´H ALS VERMITTLER
   30  Geh, sprich zu ihnen:
   Kehret ihr\1/ um zu euren Zelten.                      \1/w: für euch.
@@ -8560,7 +8719,7 @@ DIE REAKTION DES VOLKES. MoSchä´H ALS VERMITTLER
   welches ihr errechten (werdet).                         LB37.9  1W28.8
 
 
-341. DIESE (sind) DIE WORTE 5M6
+345. DIESE (sind) DIE WORTE 5M6
 JHWH IST EINZIG, ER ALLEIN IST ZU EHREN
   4  Höre, JiSsRaE´L:                                            MK12.29
   JHWH, unser ÄLoHI´M,                              J17.3  1K11.3  1T2.5
@@ -8577,7 +8736,7 @@ JHWH IST EINZIG, ER ALLEIN IST ZU EHREN
   sie werden auf deinem Herzgeheg.                      5M11.18  LB37.31
 
 
-342. DIESE (sind) DIE WORTE 5M6
+346. DIESE (sind) DIE WORTE 5M6
 JHWH IST EINZIG, ER ALLEIN IST ZU EHREN
   12  Hüte dich, (ja) dich,                                        RC3.7
   dass du ` JHWH nicht vergisst,                                 JJ17.10
@@ -8600,7 +8759,7 @@ JHWH IST EINZIG, ER ALLEIN IST ZU EHREN
   (weg) vom Angesicht der ADaMa´H.                               2R17.18
 
 
-343. DIESE (sind) DIE WORTE 5M6
+347. DIESE (sind) DIE WORTE 5M6
 AUFFORDERUNG ZUR HÜTUNG DER GEBOTE UND GESETZE
   16  Nicht erprobt ihr
   ` JHWH, euren ÄLoHI´M,                                  2M17.2-7  M4.7
@@ -8624,7 +8783,7 @@ AUFFORDERUNG ZUR HÜTUNG DER GEBOTE UND GESETZE
   so wie JHWH gewortet. 
 
 
-344. DIESE (sind) DIE WORTE 5M6
+348. DIESE (sind) DIE WORTE 5M6
 AUFFORDERUNG ZUR HÜTUNG DER GEBOTE UND GESETZE
   24  Und JHWH gebot uns,
   ` all die diese Gesetze zu tun,                           5M5.1  1R2.3
@@ -8633,7 +8792,6 @@ AUFFORDERUNG ZUR HÜTUNG DER GEBOTE UND GESETZE
   uns (am) Leben zu (erhalt)en,                    5M4.1  VG14.27  G3.12
   wie (in) dem diesem Tag (zu) (ersehen) (ist).
         
-
   25  Und Rechtfertigung wird (es) uns,                   5M24.13  R10.5
   (so) denn wir hüten,                                            JC18.9  
   ` all dem diesem Gebot zu tun
@@ -8641,7 +8799,7 @@ AUFFORDERUNG ZUR HÜTUNG DER GEBOTE UND GESETZE
   so wie er uns gebot.                                   LB78.7  ST12.13
 
 
-345. DIESE (sind) DIE WORTE 5M7
+349. DIESE (sind) DIE WORTE 5M7
 DIE BEWOHNER DES ERDLANDS SIND VÖLLIG ZU VERBANNEN
 UND IHRE GÖTZEN ZU BESEITIGEN
   1  (SO) DENN JHWH, DEIN ÄLOHI´M,
@@ -8661,7 +8819,7 @@ UND IHRE GÖTZEN ZU BESEITIGEN
   mehr als du,  
 
   2  und (so) JHWH, dein ÄLoHI´M,
-  sie (dahin)gibt  dir angesichts                                 5M31.5
+  sie (dahin)gibt dir angesichts                                  5M31.5
   und du sie schlägst:                         3M27.29  5M9.3  JS11.8-12
   (zu) verbannen                                         4M21.2  5M20.17
   verbannst du sie.                                   JS6.17,21  JS10.28
@@ -8680,7 +8838,7 @@ UND IHRE GÖTZEN ZU BESEITIGEN
                                                        darum meist »in«.  
 
 
-346. DIESE (sind) DIE WORTE 5M7
+350. DIESE (sind) DIE WORTE 5M7
 AUFFORDERUNG ZUR HÜTUNG DER GEBOTE UND GESETZE
   7  Nicht aus(grund) eures Vielseins,                             R9.11
   (dass) (ihr) mehr (wäret) als all die Völker,                1K1.26,27
@@ -8708,7 +8866,7 @@ AUFFORDERUNG ZUR HÜTUNG DER GEBOTE UND GESETZE
   sie zu tun.                                                     JK1.22  
 
 
-347. DIESE (sind) DIE WORTE 5M7
+351. DIESE (sind) DIE WORTE 5M7
 VERHEISSUNGEN FÜR DEN KAMPF
   16  Und du (wirst) ` all die Völker (fr)essen,
   welche JHWH, dein ÄLoHI´M, dir gibt;                             5M9.5
@@ -8725,13 +8883,13 @@ VERHEISSUNGEN FÜR DEN KAMPF
   ach, wie kann ich sie errechten?
 
   18  Nicht fürchtest du von ihnen.  \1/                         4M21.34
-  (Zu) gedenken  gedenkst du,
+  (Zu) gedenken gedenkst du,
   ` was JHWH, dein ÄLoHI´M,                                      2M14.13
   dem PaRÕ´H                         \1/5M1.21  JS8.1  JJ41.10  LB27.1,3
   und all (dem) MiZRa´JiM getan;                                  5M1.30
 
 
-348. DIESE (sind) DIE WORTE 5M7
+352. DIESE (sind) DIE WORTE 5M7
 VERHEISSUNGEN FÜR DEN KAMPF
   25  (Die) Skulp(götz)en ihrer ÄLoHI´M
   verbrennt ihr im Feuer;                                2M32.20  5M12.3
@@ -8747,13 +8905,13 @@ VERHEISSUNGEN FÜR DEN KAMPF
   in dein Haus,                                                  5M13.18
   so(dass) du (dadurch) Bannendes wirst
   wie (jen)es:
-  (zu) verabscheuen  verabscheust du es,                          JS6.18
+  (zu) verabscheuen verabscheust du es,                           JS6.18
   und (es) (als) Gräuel (zu) (betracht)en
   (betracht)est du es (als) Gräuel,
   denn Bannendes (ist) es.                                       3M27.28
 
 
-349. DIESE (sind) DIE WORTE 5M8
+353. DIESE (sind) DIE WORTE 5M8
 ERINNERUNG AN GOTTES WOHLTATEN UND ERMAHNUNG, SIE NICHT ZU VERGESSEN
   1  All das Gebot,
   das ich dir den (heutigen) Tag gebiete,                        LB119.4
@@ -8782,15 +8940,14 @@ ERINNERUNG AN GOTTES WOHLTATEN UND ERMAHNUNG, SIE NICHT ZU VERGESSEN
   diese vierzig Jahre.                                             5M2.7
 
 
-350. DIESE (sind) DIE WORTE 5M8
+354. DIESE (sind) DIE WORTE 5M8
 ERINNERUNG AN GOTTES WOHLTATEN UND ERMAHNUNG, SIE NICHT ZU VERGESSEN
   12  Dass nicht,
   (wenn) du isst und ersattest                                   5M32.15
   und du gute Häuser baust                                        5M6.10
   und Sitz (ha)st                                                JR22.14
 
-  13  und dein Rindvieh und dein Kleinvieh
-  sich mehrt
+  13  und dein Rindvieh und dein Kleinvieh sich mehrt
   und Silber und Gold sich dir mehren
   und alles, was dir (zu) (eigen) (ist), sich mehrt,
 
@@ -8802,7 +8959,7 @@ ERINNERUNG AN GOTTES WOHLTATEN UND ERMAHNUNG, SIE NICHT ZU VERGESSEN
   aus (dem) Haus (der) Diener(schaft)en,
 
 
-351. DIESE (sind) DIE WORTE 5M8
+355. DIESE (sind) DIE WORTE 5M8
 ERINNERUNG AN GOTTES WOHLTATEN UND ERMAHNUNG, SIE NICHT ZU VERGESSEN
   19  Und es wird:
   Wenn du (zu) vergessen
@@ -8823,7 +8980,7 @@ ERINNERUNG AN GOTTES WOHLTATEN UND ERMAHNUNG, SIE NICHT ZU VERGESSEN
   in (der) Stimme JHWHs, eures ÄLoHI´M.
 
 
-352. DIESE (sind) DIE WORTE 5M9
+356. DIESE (sind) DIE WORTE 5M9
 WARNUNG VOR SELBSTGERECHTIGKEIT
   1  Höre, JiSsRaE´L,                                              5M4.1
   du gehst den (heutigen) Tag
@@ -8853,11 +9010,10 @@ WARNUNG VOR SELBSTGERECHTIGKEIT
   JHWH, dein ÄLoHI´M,
   dir ` das dieses gute Erdland gibt,                             5M3.18
   es zu errechten,      
-  denn (ein) Volk harten Genicks
-  (bist) du.                                      2M34.9  5M10.16  N9.16
+  denn (ein) Volk harten Genicks (bist) du.       2M34.9  5M10.16  N9.16
 
 
-353. DIESE (sind) DIE WORTE 5M9
+357. DIESE (sind) DIE WORTE 5M9
 ERINNERUNGEN AN DAS VERSAGEN DES VOLKES VOM AUSZUG AN
   7  Gedenke (du), nich(t) vergiss,
   ` welcher(weise) du                                     4M25.2  5M9.22
@@ -8886,7 +9042,7 @@ ERINNERUNGEN AN DAS VERSAGEN DES VOLKES VOM AUSZUG AN
   (da) ich euch (näher) kannte.                                   JJ48.8
 
 
-354. DIESE (sind) DIE WORTE 5M10
+358. DIESE (sind) DIE WORTE 5M10
 DIE ZWEI STEINERNEN TAFELN. AHaRo´Ns TOD
   1  In der (jen)er Zeit
   sprach JHWH zu mir:
@@ -8913,7 +9069,7 @@ DIE ZWEI STEINERNEN TAFELN. AHaRo´Ns TOD
   so, wie JHWH mir geboten.
 
 
-355. DIESE (sind) DIE WORTE 5M10
+359. DIESE (sind) DIE WORTE 5M10
 AUSSONDERUNG DER LöWiJi´M
   8  In der (jen)er Zeit schied JHWH
   ` (den) Stamm des LeWI´ (ab),                        4M8.6,14  1W15.15
@@ -8932,7 +9088,7 @@ AUSSONDERUNG DER LöWiJi´M
   ihn betreffend gewortet.
 
 
-356. DIESE (sind) DIE WORTE 5M10
+360. DIESE (sind) DIE WORTE 5M10
 ERMAHNUNGEN UND ERMUTIGUNGEN
   12  Und nun, JiSsRaE´L,
   was erfragt JHWH, dein ÄLoHI´M,
@@ -8961,7 +9117,7 @@ ERMAHNUNGEN UND ERMUTIGUNGEN
   und alles, was in ihm.                                 1M14.19  LB24.1
 
 
-357. DIESE (sind) DIE WORTE 5M10
+361. DIESE (sind) DIE WORTE 5M10
 ERMAHNUNGEN UND ERMUTIGUNGEN
   17  denn JHWH, euer ÄLoHI´M,
   er (ist) (der) ÄLoHI´M der ÄLoHI´M                    2M18.11  JS22.22
@@ -8983,7 +9139,7 @@ ERMAHNUNGEN UND ERMUTIGUNGEN
   im Erdland MiZRa´JiM.                                  2M22.20  5M23.8
 
 
-358. DIESE (sind) DIE WORTE 5M10
+362. DIESE (sind) DIE WORTE 5M10
 ERMAHNUNGEN UND ERMUTIGUNGEN
   20  ` JHWH, deinen ÄLoHI´M, fürchtest du,                      5M10.12
   ihm dienst du,                                                    L4.8  
@@ -9004,7 +9160,7 @@ ERMAHNUNGEN UND ERMUTIGUNGEN
   dass Vielsein (ist).  
 
 
-359. DIESE (sind) DIE WORTE 5M11
+363. DIESE (sind) DIE WORTE 5M11
 SEGEN UND FLUCH VORGELEGT
   8  Und (so) hütet ihr ` all das Gebot,                           M5.19
   welches ich dir den (heutigen) Tag gebiete,
@@ -9013,9 +9169,8 @@ SEGEN UND FLUCH VORGELEGT
   wohin ihr hinübergeht,                                          5M1.38
   (um) es zu errechten,                                          5M11.31
 
-  26  Sehe,
-  den (heutigen) Tag gebe ich
-  euch angesichts 
+  26  Sehe, den (heutigen) Tag
+  gebe ich euch angesichts 
   Segnung und Fluch:                             5M28.2,15  5M30.1,15,19
 
   27  ` die Segnung,                                           5M28.2-14
@@ -9032,7 +9187,7 @@ SEGEN UND FLUCH VORGELEGT
   die ihr nicht (näher) kanntet.        
 
 
-360. DIESE (sind) DIE WORTE 5M12
+364. DIESE (sind) DIE WORTE 5M12
 VORSCHRIFTEN, DIE ORT UND EINZELHEITEN DES GOTTESDIENSTES BETREFFEN
   1  Dies (sind) die Gesetze
   und die Richtigungen,                                   3M26.46  5M4.5
@@ -9062,7 +9217,7 @@ VORSCHRIFTEN, DIE ORT UND EINZELHEITEN DES GOTTESDIENSTES BETREFFEN
                                    \1/e: überlasst sie der Verlorenheit.
 
 
-361. DIESE (sind) DIE WORTE 5M12
+365. DIESE (sind) DIE WORTE 5M12
 VORSCHRIFTEN, DIE ORT UND EINZELHEITEN DES GOTTESDIENSTES BETREFFEN
   23  Nur (hab)e Halt,
   nimmer das Blut (zu) essen,                            3M3.17  5M12.16
@@ -9071,13 +9226,12 @@ VORSCHRIFTEN, DIE ORT UND EINZELHEITEN DES GOTTESDIENSTES BETREFFEN
   die Seele mit dem Fleisch.                                       1M9.4
 
   24  Nicht isst du es;
-  auf das Erdland schüttest du es                       3M17.13  5M12.16
-  wie Wasser.   
+  auf das Erdland schüttest du es wie Wasser.           3M17.13  5M12.16
 
   25  Nicht isst du es,
   damit es dir wohl sei                                           JJ3.10
   und deinen Söhnen nach dir,                                     5M4.40
-  denn du tust  5M6.18
+  denn du tust                                                    5M6.18
   das in (den) Augen JHWHs Gerade.                                5M21.9
 
   27  Und deine Hinauf(zuweihend)en,                               3M1.9
@@ -9090,7 +9244,7 @@ VORSCHRIFTEN, DIE ORT UND EINZELHEITEN DES GOTTESDIENSTES BETREFFEN
   aber das Fleisch (darfst) du essen.                             JR7.21
 
 
-362. DIESE (sind) DIE WORTE 5M12
+366. DIESE (sind) DIE WORTE 5M12
 WARNUNG VOR ÜBERNAHME DES GÖTZENDIENSTES
   29  (So) denn JHWH, dein ÄLoHI´M,                               5M19.1
   abschneidet ` die Nationen,                            LB44.3  LB78.55
@@ -9099,7 +9253,6 @@ WARNUNG VOR ÜBERNAHME DES GÖTZENDIENSTES
   und du errechtest sie                                  5M9.3  LB105.44
   und (ha)st Sitz in ihrem Erdland,                      5M6.10  JS21.43
                                          \1/e: das ihnen Entgegentreten.
-
   30  hüte dich, (ja) dich,                                      5M11.16
   dass du nicht (in) Schlingen ge(leg)t wirst           5M7.16  LB106.36
   - ihnen nach(folgend) -       
@@ -9124,7 +9277,7 @@ WARNUNG VOR ÜBERNAHME DES GÖTZENDIENSTES
   im Feuer.                                             5M18.10  JR32.35
 
 
-363. DIESE (sind) DIE WORTE 5M13
+367. DIESE (sind) DIE WORTE 5M13
 VERHALTEN GEGENÜBER VERFÜHRERN ZUM GÖTZENDIENST 
 UND FALSCHEN PROPHETEN
   2  (So) denn in deinem Innern                                    M7.15
@@ -9133,8 +9286,7 @@ UND FALSCHEN PROPHETEN
   und er gibt dir                                                MK13.22  
   (ein) Zeichen oder (eine) Überführung,                          2TH2.9
 
-  7  (So) denn dein Bruder,
-  (der) Sohn deiner Mutter,
+  7  (So) denn dein Bruder, (der) Sohn deiner Mutter,
   oder dein Sohn oder deine Tochter
   oder (die) Männin deines Bauschigen
   oder dein Beigesellter,
@@ -9146,19 +9298,17 @@ UND FALSCHEN PROPHETEN
 
   9  Nicht willigst du ihm ein,                                   VG1.10
   und nicht hörst du zu ihm (hin),                                  G1.8
-  und nicht schont dein Auge
-  auf ihn (zu),                                          5M7.16  5M25.12
+  und nicht schont dein Auge auf ihn (zu),               5M7.16  5M25.12
   und nicht verschonst du,                                         JC9.5
   und nicht bedeckst du ihn,
 
-  10 sondern um(zu)bringen
-  bringst du ihn um:                                     2M32.27  4M25.5
+  10 sondern um(zu)bringen bringst du ihn um:            2M32.27  4M25.5
   deine Hand wird anfänglich\1/ gegen ihn,
   ihn zu töten,                        5M17.5  2R11.18  \1/e: als erste.
   und später (die) Hand all des Volks.                            5M17.7
 
 
-364. DIESE (sind) DIE WORTE 5M14
+368. DIESE (sind) DIE WORTE 5M14
 VERBOT HEIDNISCHER TRAUERGEBRÄUCHE; REINE UND UNREINE TIERE
   1  Söhne (seid) ihr                                    5M32.6  JJ63.16
   dem JHWH, eurem ÄLoHI´M.                                JR31.9  R9.4,8
@@ -9179,7 +9329,7 @@ VERBOT HEIDNISCHER TRAUERGEBRÄUCHE; REINE UND UNREINE TIERE
   all(irgendeinen) Gräuel.                                JC4.14  A10.14
 
 
-365. DIESE (sind) DIE WORTE 5M14
+369. DIESE (sind) DIE WORTE 5M14
 DER ZEHNTE
   22  (Den) Zehnt(en) (zu) (geb)en                               5M12.11
   (gib)st du (den) Zehnt(en)                                     5M26.12
@@ -9200,7 +9350,7 @@ DER ZEHNTE
   und du belässt (ihn) in(nerhalb) deiner Tore.
 
 
-366. DIESE (sind) DIE WORTE 5M15
+370. DIESE (sind) DIE WORTE 5M15
 DAS JAHR DER FREIGABE
   1 Im Enden (von) (je) sieben Jahren
   machst du (eine) Freigabe\1/.                      \1/e: SchaBaT-Jahr.
@@ -9220,7 +9370,7 @@ DAS JAHR DER FREIGABE
   bei deinem Bruder (befunden) wird,                             5M23.20
   (dies) gebe deine Hand frei.
 
-  4  Nur\1/ dass nicht  dir gebiets                  \1/w: Rand(gleich).
+  4  Nur\1/ dass nicht dir gebiets                   \1/w: Rand(gleich).
   (ein) Dürftiger (befunden) wird,          VG14.21  VG28.27  JJ58.10,11
   denn (zu) segnen segnet dich JHWH                      5M14.29  5M28.8
   im Erdland, welches JHWH, dein ÄLoHI´M,       
@@ -9228,10 +9378,10 @@ DAS JAHR DER FREIGABE
   es zu errechten,                                               4M33.53
 
 
-367. DIESE (sind) DIE WORTE 5M15
+371. DIESE (sind) DIE WORTE 5M15
 DIE LEDIGUNG UND DIE STÄNDIGE BINDUNG EINES DIENERS
   12  (So) denn dir verkauft wird                       3M25.39  JR34.14
-  dein Bruder,  2M21.2
+  dein Bruder,                                                    2M21.2
   der IBhRI´ oder die IBhRiJa´H,
   so dient er dir sechs Jahre,                                3M25.40,41
   aber in dem siebten Jahr                                        5M15.1
@@ -9252,7 +9402,7 @@ DIE LEDIGUNG UND DIE STÄNDIGE BINDUNG EINES DIENERS
   in allem, was du tust.                                1M30.30  5M15.10
 
 
-368. DIESE (sind) DIE WORTE 5M16
+372. DIESE (sind) DIE WORTE 5M16
 VORSCHRIFTEN BEZÜGLICH DER DREI JÄHRLICHEN HAUPTFESTE
   1  (Zu) hüten (ist)
   ` die Neuung ABhI´Bh\1/,                                     2M12.2,14
@@ -9281,7 +9431,7 @@ VORSCHRIFTEN BEZÜGLICH DER DREI JÄHRLICHEN HAUPTFESTE
   alle Tage deiner Lebenden.                                       1K5.8
 
 
-369. DIESE (sind) DIE WORTE 5M16
+373. DIESE (sind) DIE WORTE 5M16
 VORSCHRIFTEN BEZÜGLICH DER DREI JÄHRLICHEN HAUPTFESTE
   16  Dreimal im Jahr
   erscheint all dein Männliches                      2M23.14,17  2M34.23
@@ -9302,7 +9452,7 @@ VORSCHRIFTEN BEZÜGLICH DER DREI JÄHRLICHEN HAUPTFESTE
   welche er dir gegeben.                                 1W29.14  2K8.12
 
 
-370. DIESE (sind) DIE WORTE 5M16
+374. DIESE (sind) DIE WORTE 5M16
 RECHTSPFLEGE. WARNUNG VOR GÖTZENDIENST
   18  Richter und Vorsteher gibst du dir                  1S8.1  4M11.16
   gebiets all deiner Tore,                                        2W19.5  
@@ -9329,7 +9479,7 @@ RECHTSPFLEGE. WARNUNG VOR GÖTZENDIENST
   welches JHWH, dein ÄLoHI´M, hasst.                     2M34.13  5M12.3
 
 
-371. DIESE (sind) DIE WORTE 5M17
+375. DIESE (sind) DIE WORTE 5M17
 VORSCHRIFTEN BEZÜGLICH DER BESTRAFUNG
   6  Auf (Aussage) (des) Mundes zweier Zeugen              J8.17  M18.16
   oder dreier Zeugen                                      2K13.1  1T5.19
@@ -9345,7 +9495,7 @@ VORSCHRIFTEN BEZÜGLICH DER BESTRAFUNG
   aus deinem Innern.                                     RC20.13  1K5.13  
 
 
-372. DIESE (sind) DIE WORTE 5M17
+376. DIESE (sind) DIE WORTE 5M17
 VORSCHRIFTEN BEZÜGLICH DER BESTRAFUNG
   12  Aber der Mann,
   welcher (etwas) in Vermessenheit tut,                  4M15.30  VG11.2
@@ -9364,7 +9514,7 @@ VORSCHRIFTEN BEZÜGLICH DER BESTRAFUNG
   noch (weiterhin).                                              5M13.12
 
 
-373. DIESE (sind) DIE WORTE 5M17
+377. DIESE (sind) DIE WORTE 5M17
 VORSCHRIFTEN FÜR DIE SPÄTEREN REGENTEN
   14  (So) denn du zu dem Erdland kommst,
   welches JHWH, dein ÄLoHI´M, dir gibt,                            JS1.3
@@ -9385,7 +9535,7 @@ VORSCHRIFTEN FÜR DIE SPÄTEREN REGENTEN
   der nicht dein Bruder (ist).
 
 
-374. DIESE (sind) DIE WORTE 5M17
+378. DIESE (sind) DIE WORTE 5M17
 VORSCHRIFTEN FÜR DIE SPÄTEREN REGENTEN
   16  Nur mehre er sich nicht Rosse                         2S8.4  1R5.6
   und mache nicht zurückkehren ` das Volk
@@ -9411,12 +9561,12 @@ VORSCHRIFTEN FÜR DIE SPÄTEREN REGENTEN
   damit er lernt,                                          5M4.10  5M5.1  
   ` JHWH, seinen ÄLoHI´M, zu fürchten,
   zu hüten                                         \1/e: die Zielgebung.
-  ` alle Worte  der dieser Zielgebung
+  ` alle Worte der dieser Zielgebung
   und ` die diese Gesetze,                       LB119.97  \2/w: in ihm,
   sie zu tun,                  e: dem Doppel; a: in ihr, e: der Zählung.
 
 
-375. DIESE (sind) DIE WORTE 5M18
+379. DIESE (sind) DIE WORTE 5M18
 WARNUNG VOR OKKULTEN HANDLUNGEN
   9  (So) denn du zu dem Erdland kommst,
   welches JHWH, dein ÄLoHI´M, dir gibt,
@@ -9424,7 +9574,7 @@ WARNUNG VOR OKKULTEN HANDLUNGEN
   zu tun gemäß (den) Gräueln                                     3M18.26
   der (jen)er Nationen.                                 5M12.30  2W36.14
 
-  10  Nicht werde gefunden  dir gebiets                          3M18.21
+  10  Nicht werde gefunden dir gebiets                           3M18.21
   (ein) Hinübergehenmachender\1/                                 JR32.35
   seinen Sohn oder seine Tochter                                 5M12.31
   im Feuer                                                JR7.31  2W28.3
@@ -9443,7 +9593,7 @@ WARNUNG VOR OKKULTEN HANDLUNGEN
                                                  \2/w: Handwisserischen.
 
 
-376. DIESE (sind) DIE WORTE 5M18
+380. DIESE (sind) DIE WORTE 5M18
 DER RICHTIGE UND DER FALSCHE PROPHET
   15  (Einen) Propheten wie mich,                                  J1.45
   aus deinem Innern, aus deinen Brüdern,                           J6.14
@@ -9475,7 +9625,7 @@ DER RICHTIGE UND DER FALSCHE PROPHET
   aus(grund) (von) ihm.                                         S2.13,15
 
 
-377. DIESE (sind) DIE WORTE 5M19
+381. DIESE (sind) DIE WORTE 5M19
 DREI ZUFLUCHTSSTÄDTE UND DIESBEZÜGLICHE BESTIMMUNGEN
   2  (so) scheidest du dir drei Städte (ab)           4M35.14  5M4.41,42
   in Mitte deines Erdlands,                              2M21.13  JS20.7
@@ -9499,7 +9649,7 @@ DREI ZUFLUCHTSSTÄDTE UND DIESBEZÜGLICHE BESTIMMUNGEN
   gestern (und) ehegestern,
 
 
-378. DIESE (sind) DIE WORTE 5M19
+382. DIESE (sind) DIE WORTE 5M19
 ZEUGEN BETREFFENDE VORSCHRIFTEN
   14  Nicht setzt du zurück
   (die) Grenze deines Beigesellten,
@@ -9528,7 +9678,7 @@ ZEUGEN BETREFFENDE VORSCHRIFTEN
   Fuß gegen Fuß.                              2M21.23,24  3M24.20  M5.38
 
 
-379. DIESE (sind) DIE WORTE 5M20
+383. DIESE (sind) DIE WORTE 5M20
 KRIEGSVORSCHRIFTEN
   1  (So) denn du hinausgehst zum Streit                          4M10.9
   wider deinen Feind,                                          5M1.29,30
@@ -9568,7 +9718,7 @@ KRIEGSVORSCHRIFTEN
   bis sie hinabge(stürz)t (ist).                        JJ37.33  JC17.17
 
 
-380. DIESE (sind) DIE WORTE 5M21
+384. DIESE (sind) DIE WORTE 5M21
 VORSCHRIFTEN BEZÜGLICH WEIBLICHER GEFANGENER
   9  Und (so) (mach)st du, (ja) du, hinwegzehren                 5M19.13
   das schuldlose Blut aus deinem Innern,                           H4.13
@@ -9581,8 +9731,7 @@ VORSCHRIFTEN BEZÜGLICH WEIBLICHER GEFANGENER
   und du (führ)st (von) ihm
   Gefangenes gefangen,                                           5M20.14
 
-  11  und du siehst
-  in(mitten) (der) Gefangenenschaft
+  11  und du siehst in(mitten) (der) Gefangenenschaft
   (eine) Männin, schön (des) Ansehnlichen,
   und du strebst ihr zu                                           RC14.2
   und nimmst (sie) dir zur Männin,
@@ -9597,7 +9746,7 @@ VORSCHRIFTEN BEZÜGLICH WEIBLICHER GEFANGENER
   dafür\1/, dass du sie gedemütigt.                \1/w: unter; anstatt.
 
 
-381. DIESE (sind) DIE WORTE 5M21
+385. DIESE (sind) DIE WORTE 5M21
 BESTRAFUNG WIDERSPENSTIGER SÖHNE
   18  (So) denn einem Mann                                       2M20.12
   (ein) widerspenstiger
@@ -9617,7 +9766,7 @@ BESTRAFUNG WIDERSPENSTIGER SÖHNE
   und fürchtet.                                                  5M13.12
 
 
-382. DIESE (sind) DIE WORTE 5M21
+386. DIESE (sind) DIE WORTE 5M21
 DIE BEHANDLUNG GEHÄNGTER
   22  Und (so) denn in (einem) Mann
   (ein) Verfehlen (für) Richtigung (zum) Tod wird
@@ -9635,13 +9784,13 @@ DIE BEHANDLUNG GEHÄNGTER
   dir (als) Losteil gibt.                                        5M25.19
 
 
-383. DIESE (sind) DIE WORTE 5M22
+387. DIESE (sind) DIE WORTE 5M22
 VORSCHRIFTEN ZUM SCHUTZ DES EIGENTUMS, 
 DES GESCHLECHTERUNTERSCHIEDES UND DER NATUR
   1  Nicht siehst du
   ` (den) Stier deines Bruders oder ` sein Lamm
   (als) Versprengte
-  und verheimlichst dich  von ihnen (weg):                          S7.9
+  und verheimlichst dich von ihnen (weg):                           S7.9
   zurück(zu)bringen bringst du sie zurück
   zu deinem Bruder.                                             2M23.4,5
 
@@ -9660,12 +9809,11 @@ DES GESCHLECHTERUNTERSCHIEDES UND DER NATUR
   in deinem Haus,
   (so) denn einer fallend von ihm (herab)fällt.
 
-  11  Nicht bekleidest du dich
-  (mit) Mischgewebe,                                             3M19.19
+  11  Nicht bekleidest du dich (mit) Mischgewebe,                3M19.19
   Wolle und Flachs vereint.                                       2K6.14
 
 
-384. DIESE (sind) DIE WORTE 5M22
+388. DIESE (sind) DIE WORTE 5M22
 VORSCHRIFTEN ZUM SCHUTZ DES EIGENTUMS, 
 DES GESCHLECHTERUNTERSCHIEDES UND DER NATUR
   22  (So) denn (ein) Mann gefunden wird,                         5M17.7
@@ -9683,7 +9831,7 @@ DES GESCHLECHTERUNTERSCHIEDES UND DER NATUR
   und liegt bei ihr,                                              5M5.18
 
   24  so macht ihr ` sie beide hinausgehen
-  zum Tor  der (jen)er Stadt
+  zum Tor der (jen)er Stadt
   und steinigt sie mit Steinen,
   so(dass) sie sterben:                                   3M20.10  H13.4
   ` die Maid auf(grund) (der) Sache,
@@ -9695,7 +9843,7 @@ DES GESCHLECHTERUNTERSCHIEDES UND DER NATUR
   aus deinem Innern.
 
 
-385. DIESE (sind) DIE WORTE 5M23
+389. DIESE (sind) DIE WORTE 5M23
 WER NICHT UND WER IN DIE STIMMVEREINTE JHWHs KOMMEN DARF
   4  Nicht kommt (ein) ÃMONI´
   oder (ein) MOABhI´,                                              ÄR9.1
@@ -9720,7 +9868,7 @@ WER NICHT UND WER IN DIE STIMMVEREINTE JHWHs KOMMEN DARF
   denn JHWH, dein ÄLoHI´M, liebt dich.
 
 
-386. DIESE (sind) DIE WORTE 5M23
+390. DIESE (sind) DIE WORTE 5M23
 WER NICHT UND WER IN DIE STIMMVEREINTE JHWHs KOMMEN DARF
   8  Nicht (betracht)est du (als) Gräuel
   (den) ADoMI´,
@@ -9735,7 +9883,7 @@ WER NICHT UND WER IN DIE STIMMVEREINTE JHWHs KOMMEN DARF
   (dass) (sie) in (der) Stimm(verein)ten JHWHs.                   JJ56.3
 
 
-387. DIESE (sind) DIE WORTE 5M23
+391. DIESE (sind) DIE WORTE 5M23
 REINERHALTUNG DES HEERLAGERS
   10  (So) denn du hinausgehst (ins) (Heer)lager
   wider deine Feinde,
@@ -9760,7 +9908,7 @@ REINERHALTUNG DES HEERLAGERS
   und hinter dir umkehrt.
 
 
-388. DIESE (sind) DIE WORTE 5M23
+392. DIESE (sind) DIE WORTE 5M23
 VORSCHRIFTEN ZUM SCHUTZ HILFSBEDÜRFTIGER UND GELÜBDE BETREFFEND
   18  Nicht wird
   (eine) von (den) Töchtern JiSsRaE´Ls
@@ -9780,7 +9928,7 @@ VORSCHRIFTEN ZUM SCHUTZ HILFSBEDÜRFTIGER UND GELÜBDE BETREFFEND
                        andere Bezeichnung für einen Hurereiverheiligten.
 
 
-389. DIESE (sind) DIE WORTE 5M23
+393. DIESE (sind) DIE WORTE 5M23
 VORSCHRIFTEN ZUM SCHUTZ HILFSBEDÜRFTIGER UND GELÜBDE BETREFFEND
   20  Nicht bezinswucherst\1/ du             \1/e: legst Wucherzins auf.
   deinen Bruder                                         2M22.24  3M25.36
@@ -9799,7 +9947,7 @@ VORSCHRIFTEN ZUM SCHUTZ HILFSBEDÜRFTIGER UND GELÜBDE BETREFFEND
   wohin du kommst, es zu errechten.                               5M15.4
 
 
-390. DIESE (sind) DIE WORTE 5M23
+394. DIESE (sind) DIE WORTE 5M23
 VORSCHRIFTEN ZUM SCHUTZ HILFSBEDÜRFTIGER UND GELÜBDE BETREFFEND
   22  (So) denn du (ein) Gelübde gelobst                 3M27.2  RC11.30
   dem JHWH, deinem ÄLoHI´M,                                       1S1.11
@@ -9820,7 +9968,7 @@ VORSCHRIFTEN ZUM SCHUTZ HILFSBEDÜRFTIGER UND GELÜBDE BETREFFEND
   mit deinem Mund.                                                4M30.3
 
 
-391. DIESE (sind) DIE WORTE 5M24
+395. DIESE (sind) DIE WORTE 5M24
 VORSCHRIFTEN ÜBER PFÄNDUNG, MENSCHENRAUB UND AUSSATZ
   6  Nicht pfändet (ein)er (ein) Mühlsteinpaar
   oder (ein) (Mahl)fahrzeug\1/,      
@@ -9836,7 +9984,7 @@ VORSCHRIFTEN ÜBER PFÄNDUNG, MENSCHENRAUB UND AUSSATZ
   hütet ihr, (es) zu tun.                                         MK1.44
 
 
-392. DIESE (sind) DIE WORTE 5M25
+396. DIESE (sind) DIE WORTE 5M25
 VORSCHRIFTEN BEZÜGLICH DER PRÜGELSTRAFE UND DER FÜRSORGE
   1  (So) denn Hader wird zwischen Mannhaften,
   und sie (komm)en herzu zu der Richtigung
@@ -9862,7 +10010,7 @@ VORSCHRIFTEN BEZÜGLICH DER PRÜGELSTRAFE UND DER FÜRSORGE
   (einem) Ochsen (das) Maul, in(dem) er drischt.
 
 
-393. DIESE (sind) DIE WORTE 5M25
+397. DIESE (sind) DIE WORTE 5M25
 VORSCHRIFTEN, DIE ZWISTHILFE UND KORREKTES MASS BETREFFEN
   11  (So) denn Mannhafte vereint Zwist (hab)en,
   (ein) Mann und sein Bruder,
@@ -9876,7 +10024,7 @@ VORSCHRIFTEN, DIE ZWISTHILFE UND KORREKTES MASS BETREFFEN
   nicht schone dein Auge.                                         5M13.9
 
 
-394. DIESE (sind) DIE WORTE 5M25
+398. DIESE (sind) DIE WORTE 5M25
 GEDENKE DES ÃMaLe´Q
   17  (Zu) gedenken (ist) (dessen),                      2M17.8  4M24.20
   ` was dir ÃMaLe´Q getan, im Weg,
@@ -9902,7 +10050,7 @@ GEDENKE DES ÃMaLe´Q
   nicht vergisst du('s).                                      2M17.14-16
 
 
-395. DIESE (sind) DIE WORTE 5M26
+399. DIESE (sind) DIE WORTE 5M26
 HINWEIS AUF VERPFLICHTUNGEN
   11  Und du freust dich in all dem Guten,                 P4.4  LB32.11
   welches JHWH, dein ÄLoHI´M,   
@@ -9910,8 +10058,7 @@ HINWEIS AUF VERPFLICHTUNGEN
   du und der LeWI´                                      5M12.12  5M16.14
   und der Gast(end)e, welcher in deinem Innern.
 
-  15  Luge aus
-  von (dem) Gehege deines Heiligen,
+  15  Luge aus von (dem) Gehege deines Heiligen,
   von den Himmeln,                                              LB102.20
   und segne ` dein Volk ` JiSsRaE´L                        1M26.3  H6.13
   und ` die ADaMa´H, welche du uns gegeben,
@@ -9921,13 +10068,11 @@ HINWEIS AUF VERPFLICHTUNGEN
 
   18  Und JHWH machte dich sprechen
   den (heutigen) Tag,
-  dass (du) ihm
-  zum Volk (des) Sonderguts wirst,                                2M19.5
+  dass (du) ihm	zum Volk (des) Sonderguts wirst,                  2M19.5
   so wie er zu dir gewortet,                              5M7.6  LB135.4
   und dass (du) all seine Gebote hütest,
 
-  19  und dass (er) dich
-  (als) Oberstes gibt                                           5M28.1,9
+  19  und dass (er) dich (als) Oberstes gibt                    5M28.1,9
   über all die Nationen, welche er gemacht,                        5M4.8
   zu Lobendem   
   und zum Namen und zur Zier,                                    JR13.11
@@ -9936,7 +10081,7 @@ HINWEIS AUF VERPFLICHTUNGEN
   so wie er gewortet.                                              5M7.6
 
 
-396. DIESE (sind) DIE WORTE 5M27
+400. DIESE (sind) DIE WORTE 5M27
 ZWÖLF VERDAMMUNGSSPRÜCHE I-II
   14  Und die LöWiJi´M antworten
   und sprechen zu all(jeder)mann JiSsRaE´Ls
@@ -9957,7 +10102,7 @@ ZWÖLF VERDAMMUNGSSPRÜCHE I-II
   Und all das Volk spricht:  AMe´N.     
 
 
-397. DIESE (sind) DIE WORTE 5M27
+401. DIESE (sind) DIE WORTE 5M27
 ZWÖLF VERDAMMUNGSSPRÜCHE III-V
   17  Verdammt (ist), (der) (die) Grenze
   seines Beigesellten zurücksetzt.                               5M19.14
@@ -9974,7 +10119,7 @@ ZWÖLF VERDAMMUNGSSPRÜCHE III-V
   Und all das Volk spricht:  AMe´N.
         
 
-398. DIESE (sind) DIE WORTE 5M27
+402. DIESE (sind) DIE WORTE 5M27
 ZWÖLF VERDAMMUNGSSPRÜCHE VI-X
   20  Verdammt (ist)                                      2S16.22  1K5.1
   (der) mit (der) Männin seines Vaters
@@ -10003,7 +10148,7 @@ ZWÖLF VERDAMMUNGSSPRÜCHE VI-X
   Und all das Volk spricht:  AMe´N.
 
 
-399. DIESE (sind) DIE WORTE 5M27
+403. DIESE (sind) DIE WORTE 5M27
 ZWÖLF VERDAMMUNGSSPRÜCHE XI-XII
   25  Verdammt (ist)                                      5M10.17  A1.18
   (der) Bestechendes Nehmende,                                   5M16.19
@@ -10018,7 +10163,7 @@ ZWÖLF VERDAMMUNGSSPRÜCHE XI-XII
   Und all das Volk spricht:  AMe´N.                                 N8.6
 
 
-400. DIESE (sind) DIE WORTE 5M28
+404. DIESE (sind) DIE WORTE 5M28
 DER SEGEN BEI GEHORSAM
   1  Und es wird: Wenn (zu) hören du hörst                       2M15.26
   in (der) Stimme JHWHs, deines ÄLoHI´M,
@@ -10057,7 +10202,7 @@ DER FLUCH BEI UNGEHORSAM
   gebiets (des) ChoRe´Bh.                                2M24.8  3M26.45
 
 
-401. DIESE (sind) DIE WORTE 5M29
+405. DIESE (sind) DIE WORTE 5M29
 WARNUNG VOR GÖTZENDIENST UND UNTREUE
   25  und sie (hin)gingen                              1R9.8,9  JR22.8,9
   und anderen ÄLoHI´M dienten                                     RC2.12
@@ -10084,7 +10229,7 @@ WARNUNG VOR GÖTZENDIENST UND UNTREUE
   zu tun.                                                ST12.13  1J5.13
 
 
-402. DIESE (sind) DIE WORTE 5M30
+406. DIESE (sind) DIE WORTE 5M30
 ERBARMEN IM FALLE DER UMKEHR
   1  Und es wird:
   (So) denn über dich kommen
@@ -10116,7 +10261,7 @@ ERBARMEN IM FALLE DER UMKEHR
   JHWH, dein ÄLoHI´M, zerstreute.
 
 
-403. DIESE (sind) DIE WORTE 5M30
+407. DIESE (sind) DIE WORTE 5M30
 ERBARMEN IM FALLE DER UMKEHR
   5  Und JHWH, dein ÄLoHI´M,
   bringt dich zu dem Erdland,                                       N1.9
@@ -10142,7 +10287,7 @@ ERBARMEN IM FALLE DER UMKEHR
   welche dich verfolgten.
 
 
-404. DIESE (sind) DIE WORTE 5M30
+408. DIESE (sind) DIE WORTE 5M30
 SCHLUSSERMAHNUNG. WAHL ZWISCHEN LEBEN UND TOD
   11  Denn dem diesem Gebot,
   welches ich dir den (heutigen) Tag gebiete,
@@ -10151,7 +10296,7 @@ SCHLUSSERMAHNUNG. WAHL ZWISCHEN LEBEN UND TOD
 
   12  Nicht (ist) es in (den) Himmeln,
   dass (du) sprechen (müsstest):
-  Wer (steig)t hinauf für uns  gen die Himmel                      R10.6
+  Wer (steig)t hinauf für uns gen die Himmel                       R10.6
   und nimmt es für uns  
   und lässt es uns hören, so(dass) wir es tun?
 
@@ -10161,7 +10306,7 @@ SCHLUSSERMAHNUNG. WAHL ZWISCHEN LEBEN UND TOD
   (um) es zu tun.                                          M7.21  JK1.25
 
 
-405. DIESE (sind) DIE WORTE 5M30
+409. DIESE (sind) DIE WORTE 5M30
 SCHLUSSERMAHNUNG. WAHL ZWISCHEN LEBEN UND TOD
   15  Sehe,
   ich (habe) den (heutigen) Tag                                  JR42.21
@@ -10191,7 +10336,7 @@ SCHLUSSERMAHNUNG. WAHL ZWISCHEN LEBEN UND TOD
   du und dein Same,                                              JR32.39
 
 
-406. DIESE (sind) DIE WORTE 5M31
+410. DIESE (sind) DIE WORTE 5M31
 JöHOSchu´Ãs EINSETZUNG ALS NACHFOLGER MoSchä´Hs
   1  Und MoSchä´H ging (hin)
   und wortete ` die diese Worte                                    5M1.1
@@ -10216,7 +10361,7 @@ JöHOSchu´Ãs EINSETZUNG ALS NACHFOLGER MoSchä´Hs
   so wie JHWH gewortet.                                    LB44.2  A7.45
 
 
-407. DIESE (sind) DIE WORTE 5M31
+411. DIESE (sind) DIE WORTE 5M31
 ANKÜNDIGUNG DES TODES MoSchä´Hs UND DES ABFALLS JiSsRaE´Ls
   10  Und MoSchä´H gebot ihnen, sprechend:
   Im Enden (von) sieben Jahren,
@@ -10246,16 +10391,16 @@ ANKÜNDIGUNG DES TODES MoSchä´Hs UND DES ABFALLS JiSsRaE´Ls
   in dem (jen)em Tag,                                             JR33.5
   und ich (werde) sie verlassen                          JJ2.6  LB104.29
   und mein Angesicht von ihnen (weg) verbergen;                  JC39.23
-  und (das) (Volk) (wird) zum (Fr)aß\1/ werden,                    MH3.4
+  und (das) (Volk) (wird) zum (Fr)aß\1/ werden,   H3.4	\1/w: (Fr)essen.
   und viele Bös(igkeit)en und Drängnisse
-  (werden) es finden,                   5M32.23  N9.27  \1/w: (Fr)essen.
+  (werden) es finden,                                     5M32.23  N9.27  
   und es (wird) sprechen in dem (jen)em Tag:                      RC6.13
   (Ist's) nicht auf(grund) (dessen),    
   dass mein ÄLoHI´M nicht in meinem Innern (ist),
   (dass) mich die diese Bös(igkeit)en gefunden?
 
 
-408. DIESE (sind) DIE WORTE 5M31
+412. DIESE (sind) DIE WORTE 5M31
 ÜBERGABE DER ZIELGEBUNG UND IHR AUFBEWAHRUNGSORT
   21  Und es wird:                                               5M30.17
   (So) denn es viele Bös(igkeit)en
@@ -10284,10 +10429,8 @@ ANKÜNDIGUNG DES TODES MoSchä´Hs UND DES ABFALLS JiSsRaE´Ls
   26  Zu nehmen (ist) ` (die) (Urkunde) (der) Zählung             5M31.9
   der dieser Zielgebung,                                         5M17.18  
   und ihr legt sieorts (der) Seite
-  (der) Lade (des) Bundes JHWHs,                                   1R8.9
-  eures ÄLoHI´M,
-  und sie wird dort gegen dich
-  zum Zeugen.                                                    5M31.19
+  (der) Lade (des) Bundes JHWHs, eures ÄLoHI´M,                    1R8.9
+  und sie wird dort gegen dich zum Zeugen.                       5M31.19
 
   30  Und MoSchä´H wortete gebiets (der) Ohren                   5M32.44
   all (der) Stimm(verein)ten JiSsRaE´Ls                           5M31.1
@@ -10295,7 +10438,7 @@ ANKÜNDIGUNG DES TODES MoSchä´Hs UND DES ABFALLS JiSsRaE´Ls
   bis sie voll (zu) Ende waren.
 
 
-409. DIESE (sind) DIE WORTE 5M32
+413. DIESE (sind) DIE WORTE 5M32
 DIE LIEDUNG MoSchä´Hs
   1  (Leih)et Ohr, (ihr) Himmel,                                  5M4.26
   und ich will worten,                                    5M30.19  JJ1.2
@@ -10320,7 +10463,7 @@ DIE LIEDUNG MoSchä´Hs
   der Zahl (der) Söhne JiSsRaE´Ls (entsprechend).       1M46.27  5M10.22  
 
 
-410. DIESE (sind) DIE WORTE 5M32
+414. DIESE (sind) DIE WORTE 5M32
 DIE LIEDUNG MoSchä´Hs
   18  (Den) Felsen, (der) dich geboren,
   versäumst\1/ du,                  \1/e: iSv enthebst dich von IHM weg.
@@ -10341,7 +10484,7 @@ DIE LIEDUNG MoSchä´Hs
   Söhne, in denen keine Treue (ist).                              JJ30.9
 
 
-411. DIESE (sind) DIE WORTE 5M32
+415. DIESE (sind) DIE WORTE 5M32
 DIE LIEDUNG MoSchä´Hs
   21  Sie, sie beeiferten mich                                    LB96.5
   mittels (eines) Nicht-EL,                                      1K10.20
@@ -10381,29 +10524,25 @@ DIE LIEDUNG MoSchä´Hs
   und (da) (ist) kein Überschatter, (weg) von meiner Hand.        IB10.7
 
 
-412. DIESE (sind) DIE WORTE 5M32
+416. DIESE (sind) DIE WORTE 5M32
 MoSchä´H DARF VOM BERG NöBhO´ AUS DAS ERDLAND KöNa´ÃN SEHEN
   48  Und JHWH wortete zu MoSchä´H
   in eben dem diesem Tag, sprechend:
 
   49  (Steig)e hinauf                                             5M34.1
   zu dem diesem Berg(igen) des ÃBhaRI´M,                         JR22.20
-  (dem) Berg NöBhO´,    
-  welcher im Erdland MOA´Bh,
-  der (gegen)über
-  (dem) Angesicht JöReChO´s (ist),
+  (dem) Berg NöBhO´, welcher im Erdland MOA´Bh,
+  der (gegen)über (dem) Angesicht JöReChO´s (ist),
   und sehe ` (das) Erdland KöNa´ÃN,                      1M10.19  1M17.8
   welches ich den Söhnen JiSsRaE´Ls                              1M15.18
   zum Besitz gebe.                                                 JS1.3  
 
   50  Und stirb gebiets (des) Berges,                 5M31.14,16  5M34.5
   dort, wohin du hinauf(steig)st,      
-  und werde versammelt
-  zu deinen Volk(schaft)en,
+  und werde versammelt zu deinen Volk(schaft)en,
   so wie dein Bruder AHaRo´N gestorben                        4M20.24,28
   gebiets des Berges HoR                                         4M33.38
-  und versammelt wurde  
-  zu seinen Volk(schaft)en.
+  und versammelt wurde zu seinen Volk(schaft)en.
 
   51  Auf(grund) (dessen),                                    4M20.12,13
   dass ihr gegen mich übertratet
@@ -10421,7 +10560,7 @@ MoSchä´H DARF VOM BERG NöBhO´ AUS DAS ERDLAND KöNa´ÃN SEHEN
   welches ich den Söhnen JiSsRaE´Ls gebe.
 
 
-413. DIESE (sind) DIE WORTE 5M33
+417. DIESE (sind) DIE WORTE 5M33
 DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
   1  Und dies (ist) die Segnung,                         1M49.28  L24.50
   (mit) welcher MoSchä´H,
@@ -10435,7 +10574,7 @@ DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
   und traf ein aus Myriadenschaften (des) Heiligen,          D7.10  JD14
   aus seiner Rechten (war) ihnen Feuererlass.                    2M19.18
 
-414. DIESE (sind) DIE WORTE 5M33
+418. DIESE (sind) DIE WORTE 5M33
 DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
   13  Und bezüglich (des) JOSe´Ph sprach er:                     1M49.22
   Gesegnet (von) JHWH (ist) sein Erdland,                        VG10.22
@@ -10471,7 +10610,7 @@ DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
   (die) Tausend(schaft)en MöNaSchä´Hs.                            JS17.1
 
 
-415. DIESE (sind) DIE WORTE 5M33
+419. DIESE (sind) DIE WORTE 5M33
 DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
   24  Und bezüglich (des) ASche´R sprach er:                     1M49.20
   Gesegnet\1/ von\1/ Söhnen\1/               \1/a: Gesegneter als Söhne.
@@ -10493,7 +10632,7 @@ DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
                                         \1/w: in deiner; gebiets deiner.
 
 
-416. DIESE (sind) DIE WORTE 5M33
+420. DIESE (sind) DIE WORTE 5M33
 DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
   28  Und JiSsRaE´L wohnt
   (als) Gesichertes,                              5M12.10  1R5.5  JR23.6
@@ -10514,7 +10653,7 @@ DER SEGEN MoSchä´Hs ÜBER DIE ZWÖLF STÄMME
   und du, auf ihre Kuppen trittst du.                    5M32.13  CB3.19
 
 
-417. DIESE (sind) DIE WORTE 5M34
+421. DIESE (sind) DIE WORTE 5M34
 MoSchä´Hs TOD UND TRAUER DARÜBER
   1  Und MoSchä´H\1/ (stieg) hinauf            4M27.12  \1/e: 1420 vZtr.
   von (den) Steppen MOA´Bhs     
@@ -10531,13 +10670,13 @@ MoSchä´Hs TOD UND TRAUER DARÜBER
   und ` all (das) Erdland JöHUDa´H                               2M23.31
   bis (zu) dem hinteren\1/ Meer        4M34.6 5M11.24  \1/e: westlichen.
         
-  3  und ` das Wölbland JS15.1
+  3  und ` das Wölbland                                           JS15.1
   und ` das Oval,                                                1M13.10
   (das) Tal JöReChO´s, der Palmenstadt,                  RC1.16  2W28.15
   bis Zo´ÃR.                                             1M19.22  JJ15.5  
 
 
-418. DIESE (sind) DIE WORTE 5M34
+422. DIESE (sind) DIE WORTE 5M34
 MoSchä´Hs TOD UND TRAUER DARÜBER
   4  Und JHWH sprach zu ihm:
   Dies (ist) das Erdland,                                          5M1.8
@@ -10563,7 +10702,7 @@ MoSchä´Hs TOD UND TRAUER DARÜBER
   bis (zu) dem diesem Tag.
 
 
-419. DIESE (sind) DIE WORTE 5M34
+423. DIESE (sind) DIE WORTE 5M34
 MoSchä´Hs TOD UND TRAUER DARÜBER
   7  Und MoSchä´H                                            A7.23,30,36
   (war) (ein) Sohn (von) 120 Jahren                               5M31.2
@@ -10591,7 +10730,7 @@ MoSchä´Hs TOD UND TRAUER DARÜBER
   ` (dem) MoSchä´H geboten (hatte).                        2M12.28,35,50
 
 
-420. DIESE (sind) DIE WORTE 5M34
+424. DIESE (sind) DIE WORTE 5M34
 MoSchä´Hs TOD UND TRAUER DARÜBER
   10  Und nicht erstand noch(mals)
   (ein) Prophet in JiSsRaE´L                                A3.22  A7.37
@@ -10615,8 +10754,8 @@ MoSchä´Hs TOD UND TRAUER DARÜBER
   zu Augen all JiSsRaE´Ls.
 
 
-421. ZITIERTE TEXTE UND TEXTNACHWEISE
-  -----------------------------------
+425. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
+  -------------------------------------------------
   Bibelausgabe (Deutsch)
     DÜ4 - Die Geschriebene, DaBhaR-Übersetzung,
     4. Gesamtausgabe.
@@ -10625,5 +10764,5 @@ MoSchä´Hs TOD UND TRAUER DARÜBER
   DabharWorks 2.1
     Copyright © 2004-2012 Stefan Mücke.
     Alle Rechte vorbehalten
-  -----------------------------------
+  -------------------------------------------------
          

@@ -32,7 +32,7 @@ DIE GENERATIONEN VON JÄChONI´AS BIS JESuU´S
 DAS WERDEN JESuU´; JOoSE´Phs VORHABEN UND BELEHRUNG DURCH EINEN ENGEL
   18  Das Werden aber des JESuU´S ChRISTO´S war also:               M1.1
   (Als) seine Mutter MARI´A
-  dem JOoSE´Ph angelobt° war,                                      L1.27
+  dem JOoSE´Ph angelobt war,                                       L1.27
   wurde sie, noch\1/ ehe sie ´zusammenkamen,                  \1/w: als.
   (als) aus heiligem Geist Schwangere\2/                   \2/e: 4 vZtr.
   befunden.                                                 M1.20  L1.35  
@@ -54,9 +54,1073 @@ DAS WERDEN JESuU´; JOoSE´Phs VORHABEN UND BELEHRUNG DURCH EINEN ENGEL
                        \2/e: hebr. Wiedergabe des hellen. Namens MARI´A.
 
 
-3. GEMÄSS MA´RKOS, MK1
-JESuU´S ChRISTO´S, ANFANG SEINER WOHLKUNDE, 
-SEIN KÜNDER UND WEGBEREITER
+3. GEMÄSS MAThThAe´Os, M4
+JESuU´ VERSUCHTWERDEN DURCH DEN DIA´BOLOS
+  8  Nochmals nimmt ihn der DIA´BOLOS bei(seite)
+  hinein in (ein) sehr hohes Berg(gebiet)                        EH21.10
+  und zeigt ihm                                          M16.26  EH11.15
+  all die Regentschaften des Kosmos                                 L4.5
+  und ihre Herrlichkeit,                                       1J2.16,17
+
+  9  und er ´sagte (zu) ihm:
+  Dies alles werde ich dir geben,               L4.6,7  J12.31,32  2K4.4
+  so (als) ´(nieder)gefallen    
+  du mir (anbetend) hinkriechst´.                         5M5.9  5M11.16
+
+  10  Da(raufhi)n sagt der JESuU´S (zu) ihm:
+  Gehe weg, SATANA´S,                                             M16.23
+  denn geschrieben worden ist:
+  (Dem) Herrn, deinem Gott, (zu)                                    L4.8
+  (soll)test\1/ du (anbetend) hinkriechen\1/,                     EH22.9
+  und ihm allein wirst du gottesdiensten.                  5M6.13  1S7.3
+                            \1-1/B,C,R: wirst du (anbetend) hinkriechen;
+                          gemäß C auch: (ist das anbetende) Hinkriechen.
+
+
+4. GEMÄSS MAThThAe´Os, M5
+BERGPREDIGT. DIE GLÜCKSELIGEN
+  1  ´Gewahrt(hab)end\1/ aber die Mengen,           J6.3  \1/e: 31 nZtr.
+  ´stieg er hinauf in das Berg(gebiet);                           M15.29
+  und (als) er Sitz ge(nomm)en,        
+  kamen zu ihm seine Lernenden.
+
+  2  Und öffnend seinen Mund,
+  lehrte er sie, (indem) (er) sagte:                               L6.20
+
+  3  Glückselige
+  (sind) die Armen (in)\1/ dem\1/ Geist,                  JJ57.15  JK2.5
+  da ihrer die Regentschaft der Himmel ist.
+                             \1/e: in ihm wandelnden, von ihm umgebenen;
+                    a: (bei) dem; (auf) dem; (aufgrund) des; (samt) dem.
+  4  Glückselige
+  (sind) die\1/ Trauernden,                      J16.20  \1/S*: die nun.
+  da sie, (ja) sie,                                      2K1.3-7  1P5.12
+  werden bei(seite)gerufen werden.                              JJ61.2,3
+
+
+5. GEMÄSS MAThThAe´Os, M5
+BERGPREDIGT. DIE GLÜCKSELIGEN
+  5  Glückselige
+  (sind) die Sanftmütigen,                                         1P3.4
+  da sie, (ja) sie,                                              LB37.11
+  gesetz(gemäß) das Erdland erlosen werden.
+
+  6  Glückselige
+  (sind) die Hungernden und Dürstenden                             L6.21
+  (in) (Bezug) (auf) die Gerechtigkeit,                            J6.35
+  da sie, (ja) sie,
+  werden gesättigt werden.                               LB107.9  EH7.16
+
+  7  Glückselige
+  (sind) die Bebarmenden,                                 M18.33  JK2.13
+  da sie, (ja) sie,
+  werden bebarmt werden.                                          1T1.16
+
+  8  Glückselige                                                   T1.15
+  (sind) die (in) dem Herzen Reinen,                   LB24.3,4  VG22.11
+  da sie, (ja) sie,                              LB17.15  LB73.1  EH22.4  
+  den Gott eraugen werden.                                         1J3.2
+
+
+6. GEMÄSS MAThThAe´Os, M5
+BERGPREDIGT. DIE GLÜCKSELIGEN
+  9  Glückselige                                                  H12.14
+  (sind) die Friedenmacher,                               R12.18  JK3.18
+  da sie\1/ »Söhne Gottes«                                  R8.14  G3.26
+  werden\1/ gerufen werden.                                        K3.15
+                          \1/so S,C; in B,R: sie, (ja) sie, ...  werden.
+  10  Glückselige
+  (sind) die Verfolgtseienden\1/                 \1/w: Verfolgtwordenen.
+  um (der) Gerechtigkeit willen,                          1P2.19  1P3.14
+  da ihrer die Regentschaft der Himmel ist.             M16.19  2TH1.4,5
+
+  11  Glückselige seid ihr,
+  wann gleichsam sie euch schmähen´                        L6.22  1P4.14
+  und (euch) verfolgen\1/ werden\1/        J15.20  \1/B,C,R: verfolgen´.
+  und (als) Fälschende  
+  all(jed)es Böse gegen euch ´sagen´ 
+  um meinetwillen.                                         M10.22  A5.41
+
+  12  Freuet euch und frohlocket,                          L6.23  EH19.7
+  da euer Lohn viel (ist)                                         H11.26
+  in den Himmeln;       
+  denn also verfolgten sie                      2W36.16  M23.31  1TH2.15
+  die Propheten vor euch.                                 1R18.10  A7.52
+
+
+7. GEMÄSS MAThThAe´Os, M5
+JESuU´ LEHRE IN BEZUG AUF DAS GESETZ UND DIE INNENZIELE
+  17  Nich(t) (soll)tet ihr folgern,
+  dass ich ´kam,
+  das Gesetz oder die Propheten herab(zu)lösen;            R3.31  A24.14
+  nicht ´kam ich herab(zu)lösen,                                 JJ42.21
+  sondern vollständig (zu) (erfüll)en.                      M3.15  R10.4
+
+  18  Denn AME´N (ist's), ich sage euch:
+  Bis gleichsam ´danebenkommen´                                   JJ51.6
+  der Himmel und das Erdland,                                     L21.33
+  nicht, (ja) nich(t), ´kommt´  e i n  JOo´TA
+  oder  e i n  Hörnlein von dem Gesetz daneben,           L16.17  J10.35  
+  bis gleichsam (dies) alles ´geworden´.         JJ40.8  JJ55.11  1P1.25
+
+
+8. GEMÄSS MAThThAe´Os, M5
+WARNUNG IN BEZUG AUF ZORN UND RECHTSSTREIT
+  21  Ihr hörtet,
+  dass (zu) den Anfänglichen\1/ geredet wurde:
+  Nicht wirst du morden;                                         2M20.13
+  wer aber gleichsam mordet´,                                    2M21.12
+  wird (e)inbehabt sein  dem Gericht.                              1M9.6
+                                    \1/e: vmtl. Generationen; s: A15.21.
+  22  Ich aber, ich sage euch,                                   R13.8,9
+  dass all(je)der Erzürnt(sei)ende                                 E4.26
+  (aufgrund)\1/ seines Bruders\1/,                        JK1.19  1J3.15
+  (e)inbehabt sein wird dem Gericht;
+  wer aber gleichsam »RAKA´\2/« ´sagt´
+  (zu) seinem Bruder, wird (e)inbehabt sein dem Synedrium;
+  wer aber gleichsam ´sagt´:  »(Du) Törichter«,
+  wird (e)inbehabt sein                           \1-1/a: seinem Bruder.
+  hinein in die GÄ´hÄNNA des Feuers.                             M18.8,9
+                                 \2/ü: spuckig; so S*,B,R; in S: RAChA´.
+
+
+9. GEMÄSS MAThThAe´Os, M5
+LEHRE IN BEZUG AUF EHEBRUCH, VERSTRICKUNG, SCHEIDUNG
+  27  Ihr hörtet, dass geredet wurde:                            2M20.14
+  Nicht wirst du ehebrechen.                            L18.19,20  R13.9
+
+  28  Ich aber, ich sage euch,
+  dass all(je)der (ein) Weib Erblickende,                 IB31.1  2P2.14
+  um ihrer\1/ (zu) begehren,                              5M5.21  2S11.2
+  er schon ehebricht  (auf) sie (zu)    
+  in seinem\2/ Herzen\2/.                              M15.19  MK7.21-23
+                                                  \1/so S*; in B,R: sie.
+                                         \2-2/B,R: Herzen seiner selbst.
+
+
+10. GEMÄSS MAThThAe´Os, M5
+LEHRE IN BEZUG AUF DAS SCHWÖREN
+  33  Noch (da)zu hörtet ihr,
+  dass (zu) den Anfänglichen geredet wurde:
+  Nicht wirst du (übertretend)\1/ schwören\1/,                   3M19.12
+  du wirst aber dem Herrn                                        5M23.22
+  deine Schwüre geben.                                            4M30.3
+                                              \1/e: iSv falsch schwören.  
+  34  Ich aber, ich sage euch,
+  gänzlich nich(t) (zu) beeiden,                                  JK5.12
+  weder in (Verbindung) (mit) dem Himmel,                         M23.22
+  da er Thron des Gottes ist,                              LB11.4  A7.49
+
+  35  noch in (Verbindung) (mit) dem Erdland,
+  da es Schemel seiner Füße ist,                          JJ66.1  LB99.5
+  noch in (Richtung) (auf) hIÄROSO´LYMA,
+  da sie Stadt des großen Regenten ist;                         LB48.2,3
+          
+  37  (Es) sei aber euer Wort
+  »ja, ja«, »nein, nein«;                              2K1.17-20  JK5.12
+  aber das Um-(und)-Um\1/ (von) diesen
+  ist aus dem Bösen.                                        M6.13  J8.44
+                                \1/e: außerhalb dieses Rahmens Liegende.
+
+
+11. GEMÄSS MAThThAe´Os, M6
+LEHRE VOM RICHTIGEN BETEN
+  6  Du aber, wann gleichsam du betest´,
+  ´komme hinein in deine Kammer,                                 JJ26.20
+  und deine Tür verschließend,                             2R4.33  D6.11
+  bete (zu) deinem Vater,
+  (der) in dem Verborgenen,                                       M6.1,2
+  und dein Vater,
+  der in dem Verborgenen Erblickende,
+  wird (auch) dir geben.                                           L6.12
+
+  7  Aber (als) Betende nich(t) (soll)tet ihr quaken\1/,
+  eben(so) wie die Nationischen;
+  denn sie meinen,                          \1/e: vmtl. w: froschworten.
+  dass sie in ihrem Vielworten                           JJ1.15  ST5.1,2
+  werden erhört werden.                                       1R18.26-29
+
+  8  Daher, nich(t) (soll)tet ihr
+  ihnen gleichge(mach)t werden,                                    M6.32
+  denn der\1/ Gott\1/, euer Vater,
+  gewahrt, wes\2/ ihr Bedarf habt                                 L12.30
+  vor eurem Ihn-Bitten.                        \2/w: (betreffs) welcher.
+                          \1/so S,B; nicht in R; in S wieder abgeschabt.
+
+
+12. GEMÄSS MAThThAe´Os, M6
+DAS »UNSER VATER« UND DIE NOTWENDIGKEIT, DANEBENFÄLLE ZU ERLASSEN
+  9  Daher betet ihr, (ja) ihr,
+  also:                                               M7.11  R8.15  G4.6
+  Unser Vater in den Himmeln,                             JJ63.16  M23.9
+  geheiligt werde dein Name.                              JJ29.23  L11.2
+
+  10  (Es) komme deine Regentschaft.              D2.44  M25.34  EH11.15
+  Werdenge(mach)t werde dein Wille,             J4.34  A21.13,14  EH4.11
+  wie im Himmel,                                                   EH4.1
+  (so) auch gebiets (des) Erdlands.                      1T2.3,4  EH5.10
+          
+  11  Unser Brot,                                           VG30.8  M4.4
+  das übersubstante\1/,                        J6.31-35,51  H9.4  EH2.17
+  ´gib uns heute.                               2M16.15-19  M6.34  L11.3
+                \1/w: (dar)aufseiende; e: nach dem natürlichen kommende.
+
+  12  Und ´(er)lasse uns unsere Schulden,
+  wie auch wir, (ja) wir,                                M18.21  MK11.25
+  (er)lassen unseren Schuldnern.                                   L11.4
+
+  13  Und nich(t) (mög)est du uns                         M26.41  JK1.13
+  in Versuchung ´hineinbringen,                          VG4.27  1K10.13
+  sondern birg uns, (weg) von dem Bösen. J17.15  2TH3.3  2T4.18  2P2.8,9
+                                          
+
+13. GEMÄSS MAThThAe´Os, M6
+DAS »UNSER VATER« UND DIE NOTWENDIGKEIT, DANEBENFÄLLE ZU ERLASSEN
+  9  Daher betet ihr, (ja) ihr, also:                 M7.11  R8.15  G4.6
+  Unser Vater in den Himmeln,                             JJ63.16  M23.9
+  geheiligt werde dein Name.                              JJ29.23  L11.2
+
+  10  (Es) komme deine Regentschaft.              D2.44  M25.34  EH11.15
+  Werdenge(mach)t werde dein Wille,             J4.34  A21.13,14  EH4.11
+  wie im Himmel,                                                   EH4.1
+  (so) auch gebiets (des) Erdlands.                      1T2.3,4  EH5.10
+
+  11  Unser Brot,                                           VG30.8  M4.4
+  das übersubstante\1/,                        J6.31-35,51  H9.4  EH2.17
+  ´gib uns heute.                               2M16.15-19  M6.34  L11.3
+                \1/w: (dar)aufseiende; e: nach dem natürlichen kommende.
+
+  12  Und ´(er)lasse uns unsere Schulden,
+  wie auch wir, (ja) wir,                                M18.21  MK11.25
+  (er)lassen unseren  Schuldnern.                                  L11.4
+
+  13  Und nich(t) (mög)est du uns                         M26.41  JK1.13
+  in Versuchung ´hineinbringen,                          VG4.27  1K10.13
+  sondern birg uns,                                      J17.15  2P2.8,9
+  (weg) von dem Bösen.                                    2TH3.3  2T4.18
+
+  15  so aber den Menschen ihr nich(t) ´(er)lasst\1/,             M18.35
+  wird aber der Vater\2/ euch\2/ (auch) nicht 
+  eure Danebenfälle (er)lassen.                                   JK2.13
+              \1/B,R: ´(er)lasst ihre Verfehlungen.  \2/B,R: euer Vater.
+          
+
+14. GEMÄSS MAThThAe´Os, M6
+WORUM WIR NICHT SORGEN UND WAS WIR SUCHEN SOLLEN
+  25  Deshalb sage ich euch:
+  Nich(t) sorget                                         L12.22,23  P4.6
+  (aufgrund) eurer Seele,                                 LB55.23  1P5.7
+  was ihr ´essen (soll)tet\1/,                                   LB37.25
+  aber (auch) nich(t) (aufgrund) eures Leibes,
+  in was ihr schlüpfen (soll)tet;
+  ist nicht\2/ die Seele mehr (als) die Nahrung  M10.28  \2/w: ob nicht.
+  und der Leib (mehr) (als) das schlüpfbare (Gewand)?              1T6.8
+                        \1/B: (soll)tet oder was ihr ´trinken (soll)tet;
+                                 so auch R, nur statt »oder« dort »und«.
+
+  34  Daher, nich(t) (soll)tet ihr sorgen                          1P5.7
+  in (Richtung) (auf) den anderen\1/ Tag\1/,
+  denn der andere\1/ Tag\1/                 2M16.4,19  \1/w: anderntags.
+  wird (betreffs) sich selber sorgen;
+  genügend (ist) dem Tag seine Übelhaftigkeit.                     IB7.1
+
+
+15. GEMÄSS MAThThAe´Os, M7
+WARNUNG, ANDERE ZU RICHTEN
+UND DAS HEILIGE DEN KÖTERN ODER DEN SCHWEINEN ZU GEBEN
+  1  Nich(t) richtet,                           R14.10  1K4.5  JK4.11,12  
+  auf dass ihr nich(t) gerichtet werdet´,                  R2.1,3  JK5.9
+
+  2  denn mit (dem) Urteil, (mit) dem ihr richtet,
+  werdet ihr gerichtet werden,
+  und mit (dem) Maß, (mit) dem ihr messet,         MK4.24  L6.38  G6.5,7
+  wird euch gemessen werden.                                      JK2.13
+
+  3  Aber was erblickst du das Spänlein
+  in dem Auge deines Bruders,                                      L6.41
+  aber (in) (Bezug) (auf) den Balken in deinem Auge               M23.24
+  herabbedenkst\1/ du nicht?              \1/a: (all)bezüglich bedenkst.        
+
+
+16. GEMÄSS MAThThAe´Os, M7
+BITTET, SUCHET, KLOPFET AN
+  7  Bittet,                                        M18.19,20  1J5.14,15
+  und es wird euch gegeben werden;                      MK11.24  JK1.5,6
+  suchet,                                                 5M4.29  VG8.17  
+  und ihr werdet finden;                                          JJ55.6
+  klopfet an,                                                      L11.9
+  und es wird euch geöffnet werden.
+
+  8  Denn all(je)der Bittende nimmt,            M21.22 J14.13,14  1J3.22
+  und der Suchende findet,                         JR29.13,14  M18.12,13
+  und dem Anklopfenden wird geöffnet werden.                      L11.10
+
+  9  Oder welcher Mensch ist aus euch,
+  den sein Sohn (um) Brot bitten wird -
+  ihm wird er (doch) nich(t) (einen) Stein geben?                 L11.11
+  
+
+
+17. GEMÄSS MAThThAe´Os, M7
+WORAN MAN FALSCHE PROPHETEN ERKENNT
+  15  Merket auf,                                      5M13.1-5  JR14.14
+  (weg) von den falschen Propheten,                     M24.11,24  2P2.1
+  die zu euch kommen                                               1J4.1  
+  in schlüpfbaren (Gewändern) (der) Schafe,                      EH13.11
+  innen aber sind sie räuberische Wölfe.                 JC22.27  A20.29
+          
+  16  Von ihren Früchten (ausgehend),               VG20.10,11  G5.19-23
+  werdet ihr sie (er)kennen:                              1M2.17  R16.17
+  Nich(t) etwa (doch) erwählt (man)
+  von (den) Dornigen Beeren                                1M1.12  L6.44
+  oder von (den) Dreitriebigen\1/ Feigen?         JK3.12  \1/e: Disteln.
+          
+  20  Demnach doch,
+  von ihren Früchten (ausgehend),                                  T3.14
+  werdet ihr sie (er)kennen.                                       L6.45
+
+
+18. GEMÄSS MAThThAe´Os, M7
+GESETZLOSIGKEIT WIRKENDE PROPHETEN
+  21  Nicht all(je)der (zu) mir Sagende                          JJ29.13
+  »Herr, Herr!«                                                 L6.46,47
+  wird hineinkommen in die Regentschaft der Himmel,       LB101.6  M18.3
+  sondern der Tuende                                   M12.50  JK1.22,25
+  den Willen meines Vaters in den Himmeln.       M6.9  M21.28-31  1J2.17
+
+  22  Viele werden (zu) mir reden in dem jenem Tag:
+  Herr, Herr,                                                     M25.11
+  prophezeiten wir nicht (in) deinem Namen              JR14.14  JR27.15
+  und trieben (in) deinem Namen
+  Dämonen\1/ aus                    \1/so S*,B,C,R; in S: viele Dämonen.
+  und tätigten (in) deinem Namen
+  viele Vermögen(skräft)e?
+
+  23  Und dann werde ich ihnen gleichworten:
+  Niemals ´kannte ich euch;                            M25.12  L13.25-27
+  entweichet von mir,                                             M25.41
+  (ihr), die Gesetzlosigkeit Wirkenden.                            1J3.4
+
+
+19. GEMÄSS MAThThAe´Os, M7
+WORIN SICH DER BESONNENE VOM TÖRICHTEN UNTERSCHEIDET
+  24  Daher, all(jed)er, der hört diese meine Worte
+  und tut sie,                                          L8.21  J13.15-17
+  wird gleichge(setz)t werden
+  (einem) besonnenen Mann,                                       VG10.25
+  der sein Haus wohnbaute auf den Felsen.                 VG12.7  1K10.4
+
+
+20. GEMÄSS MAThThAe´Os, M7
+DIE AUSWIRKUNG DER WORTE JESuU´
+  28  Und es ´wurde:
+  Als der JESuU´S                                                  M11.1
+  die  diese Worte vollendigte,                                     L7.1
+  wurden die Mengen aufgewühlt                     M13.54  M19.25  MK6.2
+  auf(grund) seiner Lehre,                             M22.32,33  A13.12
+
+  29  denn er war (der) sie Lehrende
+  wie (ein) Autorität Habender                          MK1.22,27  L4.32
+  und nicht wie ihre Schrift(kund)igen.                            J7.46
+
+
+21. GEMÄSS MAThThAe´Os, M11
+DIE DEN SPIELENDEN GLEICHENDE GENERATION
+  16  Wem aber werde ich                                           L7.31
+  die diese Generation gleich(set)zen?                            M12.41
+  Gleich ist sie (den) Spielenden,                                 L7.32
+  (den) sitz(hab)enden in den Markt(plätz)en,
+  die, (als) (die) Stimme zu den anderweitigen (Erhebe)nde,
+
+  17  sagen: Wir flöteten euch, und ihr tanztet nicht,
+  wir klagten, und ihr wehklagtet nicht.
+
+  18  Denn JOohA´NNES ´kam,                                        L7.33
+  (ein) weder Essender noch Trinkender,                      M3.4  M9.14
+  und sie sagen: (Einen) Dämon hat er.                     L1.15  L10.20
+
+  19  Der Sohn des Menschen ´kam,                                  L7.34
+  (ein) Essender und Trinkender,
+  und sie sagen: ´Gewahre! (Dieser) Mensch                  L15.2  L19.7
+  (ist) (ein) Esser und Weintrinker,              5M21.20  VG23.20  J2.2
+  (ein) Freund (der) Zöllner und Verfehler.                M9.10  MK2.15
+  Und die Weisheit\4/ wurde gerechtfertigt,  VG8.12  L7.35  1K1.30,21-25  
+  (weg)\5/ von ihren Gewirkten\5/.
+             \5/e: durch ihr Sterben, also ihr Unwirken, aber ihr Treun.
+
+
+22. GEMÄSS MAThThAe´Os, M11
+WER DEN VATER ERKENNT
+  27  Alles wurde mir beigegeben\1/    M28.18  \1/e: persönlich gegeben.
+  von meinem Vater,                                          J17.2  H2.8
+  und nicht  e i n e r  (er)kennt den Sohn,
+  als nur der Vater,                               L10.22  J1.18  J10.15
+  aber (auch) nicht (er)kennt jemand den Vater,
+  als nur der Sohn                                         J7.29  J17.25
+  und wem (es) der Sohn (zu) enthüllen beschließt´.               1J5.20
+  
+
+23. GEMÄSS MAThThAe´Os, M13
+WARUM JESuU´S NUR IN PARABELN ZU DEN MENGEN SPRACH
+  34  All dieses
+  sprach der JESuU´S in Parabeln                                  MK4.33
+  (zu) den Mengen,
+  und ohne Parabel                                                MK4.34
+  sprach er nicht  e i n e s  (zu) ihnen,                         M13.10
+
+  35  damit vollständig (erfüll)t werde
+  das Geredet(worden)e
+  durch den Propheten ESA´JAS\1/,
+  (den) sagenden:
+  Ich werde öffnen in Parabeln
+  meinen Mund,                                                    R16.25
+  werde erschwallen\2/ Verborgenwordenes
+  vom Herabwurf (des) Kosmos (an).                                 1K2.7
+                  \1/e: offenbar auch in LB78.2 zitiert; nicht in B,C,R.
+                               \2/e: im Redeschwall hervorkommen lassen.
+
+
+24. GEMÄSS MAThThAe´Os, M13
+DIE MERKMALE EINES SCHRIFTKENNERS
+  52  Er aber ´sagte (zu) ihnen:
+  Deshalb ist all(jed)er
+  zu (einem) Lernenden ge(mach)t(worden)e
+  Schrift(kund)ige                                       1K4.1,2  2T2.15
+  (in) der Regentschaft der Himmel
+  gleich (einem) Menschen,
+  (einem) Wohnetränk(mächt)igen,                   M20.1  M21.33  /L6.45
+  der heraustreibt aus seinem Gespeicherten
+  Neues und Altes.
+
+
+25. GEMÄSS MAThThAe´Os, M16
+DAS KOMMEN DES SOHNES DES MENSCHEN
+  27  Denn der Sohn des Menschen
+  schickt sich an                                      M24.30,31  M25.31
+  (zu) kommen in der Herrlichkeit seines Vaters           M26.64  L21.27
+  mit seinen Engeln,                                  MK8.38  MK13.26,27
+  und dann wird er geben                              VG24.12  2TH1.6-10
+  (einem) jeglichen                                 M19.28  R2.6  2K5.10
+  gemäß seinen Gewirkten.               LB62.13  IB34.11 /1P1.17  EH2.23
+
+  28  AME´N, ich sage euch:                                 MK9.1  L9.27
+  (Es) sind einige
+  der hier Standge(nomm)enhabenden,
+  die nicht, (ja) nich(t), (vom) Tod schmecken´,                   J8.52
+  bis sie gleichsam ´gewahren´  
+  den Sohn des Menschen                                         D7.13,14
+  (als) Kommenden in seiner Regentschaft.           L23.42  A1.11  2T4.1
+        
+
+26. GEMÄSS MAThThAe´Os, M18
+WIE MAN EINEN VERFEHLENDEN BRUDER BEHANDELT
+  15  So aber dein Bruder verfehlt´,                                G6.1
+  gehe weg,                                     3M19.17,18  M5.24  L17.3
+  überführe ihn zwischen dir und ihm allein;               VG25.9  2T4.2
+  so er (auf)\1/ dich\2/ hört´, 
+  (hast) du deinen Bruder gewonnen.                               JK5.20
+                                \1/e: iSv gebiets dir; a: deiner(seits).
+  16  So er aber nich(t) hört´,
+  ´nimm mit dir selber
+  noch einen oder zwei bei(seite),
+  auf dass gebiets
+  zweier oder dreier Zeugen Mund                                 5M19.15
+  all(jed)e Rede beständigt werde.      J8.17,18  2K13.1  H10.28  1T5.19
+          
+  17  So er aber (das) (von) ihnen überhört´\1/,                 2TH3.15
+  sage (es) der Herausgerufenen;        
+  so er aber auch
+  (das) (von) der Herausgerufenen überhört´\1/,      \1/w: danebenhört´.
+  sei er dir eben(so),                                    R16.17  1K5.13
+  wie der Nationische und der Zöllner.
+                           
+
+27. GEMÄSS MAThThAe´Os, M18
+WIE MAN EINEN VERFEHLENDEN BRUDER BEHANDELT
+  19  Noch (da)zu sage ich euch:
+  So zwei aus euch gebiets des Erdlands
+  übereinstimmen\1/ werden\1/  A4.29,31  A12.5  \1/B,R: übereinstimmen´.
+  betreffs all(jed)er Sache,    
+  die sie erbitten´,                                           J14.13,14
+  sie wird ihnen werden                                  M7.7,8  MK11.24
+  seitens meines Vaters in (den) Himmeln.      J16.23,24  1J3.22  1J5.14
+
+  20  Denn wo zwei oder 3\1/                               \1/B,R: drei.
+  Zusammengeführtwordene sind                                      1K5.4
+  in\2/ (Richtung) (auf)\2/ den, (ja) meinen Namen,       
+  dort bin ich in ihrer Mitte.                                    L24.15  
+                                 \2-2/e: zu ehren und Treue zu erweisen.
+        
+
+28. GEMÄSS MAThThAe´Os, M22
+DIE FRAGE NACH DER AUFERSTEHUNG
+  23  Und in  dem  jenem Tag
+  ´kamen\1/ Sadduzäer herzu,   MK12.18  L20.27  \1/B,R: ´kamen (zu) ihm.
+  (die) (doch) sagen,   
+  (dass) (eine) Auferstehung nich(t) ist;       1K15.12  A4.1,2  A23.6,8
+  und sie fragten1 ihn, 
+
+  29  Und\1/ antwortend                                    \1/B,R: Aber.
+  ´sagte der JESuU´S (zu) ihnen:                         MK12.24  L20.34
+  Ihr seid beirrt,                                               LB95.10
+  (als) nich(t) Gewahrende die Geschriebenen,
+  aber (auch) nich(t) das Vermögen des Gottes.
+
+  31  Aber betreffs der Auferstehung der Erstorbenen:    MK12.26  L20.37
+  ´Laset ihr (da) nicht das (zu) euch Geredet(worden)e
+  von dem Gott, (dem) sagenden:
+
+  32  Ich, ich bin der Gott ABRAhA´Ms                           2M3.6,15
+  und der Gott ISAA´Ks                                      A3.13  A7.32
+  und der Gott JAKOo´Bs?                                          L20.37
+  Nicht ist er (aber) der Gott (der) Erstorbenen,        MK12.27  L20.38
+  sondern (der) Lebenden.                                          R4.17
+
+  33  Und die Mengen, (als) (dies) Hörende,
+  wurden aufgewühlt auf(grund) seiner Lehre.              M7.28  MK11.18
+        
+
+29. GEMÄSS MAThThAe´Os, M22
+DIE ZWEI GROßEN INNENZIELE
+  34  Aber die Pharisäer hörten,
+  dass er den Sadduzäern (den) Mund gestopft,
+  (und) wurden zusammengeführt
+  auf\1/ dasselbe (zu)\1/.                \1-1/e: mit derselben Absicht.
+
+  35  Und einer aus ihnen, (ein) Gesetzischer,
+  fragte, ihn versuchend:                                         L10.25
+
+  36  Lehrer, was für ein großes In(nen)ziel                     MK12.28
+  (ist) in dem Gesetz?
+
+  37  Er aber erklärte ihm:                                       JS22.5
+  Du wirst lieben                                 5M6.5  5M10.12  L10.27
+  (den) Herrn, deinen Gott,                                      MK12.30
+  in deinem ganzen Herzen
+  und in deiner ganzen Seele
+  und in deinem ganzen Durchdenken.
+
+  38  Dies ist das große und vordere In(nen)ziel.                MK12.29
+
+  39  (Das) zweite (ist) ihm gleich:                             MK12.31
+  Du wirst lieben deinen Nächsten                    M5.43  K3.14  JK2.8
+  wie dich selbst.              3M19.18  M19.19  R13.9,10  G5.14  1P1.22
+
+  40  In  den  diesen zwei In(nen)zielen                          L10.28
+  hängt das\1/ Gesetz und die Propheten.                   M7.12  1J4.21         
+                                                      \1/B,R: das ganze.
+        
+
+30. GEMÄSS MAThThAe´Os, M22
+DIE FRAGE NACH DEM SOHN DAWiI´Ds
+  41  Aber (indem) die Pharisäer
+  Zusammengeführtwordene (waren),
+  fragte sie der JESuU´S,
+
+  42  (indem) (er) sagte:                                MK12.35  L20.41
+  Was meinet\1/ ihr\1/ betreffs des ChRISTO´S,
+  wessen Sohn ist er?                                        R1.3  2T2.8
+  Sie sagen (zu) ihm:                             \1/w: ist Meinen euch.
+  DAWiI´Ds\2/.                              JR23.5  \2/B,R: des DAWiI´D.
+
+  43  Er sagt (zu) ihnen:                                          J7.42
+  Wie daher ruft ihn DAWiI´D im Geist »Herr«,                    MK12.37
+  (indem) (er) sagt:                                      2S23.2  2P1.21  
+
+  44  (Der) Herr ´sagte (zu) meinem  Herrn:           MK12.36  L20.42,43
+  (Hab)e Sitz                                  LB110.1  M26.64  A2.34,35
+  (als) aus meinen Recht(sbefindlich)en,                H1.13  H10.12,13
+  bis gleichsam ich ´setze´ deine Feinde                         1K15.25
+  (weiter) unten unter deine Füße.                                  H2.8
+            
+  45  Wenn daher DAWiI´D ihn »Herr« ruft,                MK12.37  L20.44
+  wie ist er (dann) sein Sohn?                                   EH22.16
+        
+
+31. GEMÄSS MAThThAe´Os, M23
+WARNUNG BEZÜGLICH DER EITLEN SCHRIFTKENNER UND PHARISÄER
+  1  Dann sprach\1/ der JESuU´S (zu) den Mengen
+  und (zu) seinen Lernenden,                              \1/e: 32 nZtr.
+
+  8  [Ihr aber, nich(t) (soll)tet ihr »RABBiI´«
+  gerufen werden,]\1/                              J13.13  \1/so S*,B,R.
+  denn  e i n e r  ist euer  Herableiter,
+  aber ihr alle, ihr seid Brüder.
+
+  9  Und nich(t) (soll)tet ihr gebiets des Erdlands
+  (jemand) (von) euch »Vater« rufen,
+  denn  e i n e r  ist euer himmlischer Vater.              MA2.10  M6.9
+
+  10  Aber (auch) nich(t)
+  (soll)tet ihr »Herableiter« gerufen werden,
+  denn\1/  e i n e r  ist euer Herableiter:                        1P5.3
+  der ChRISTO´S.                                    \1/so S,R; in B: da.
+        
+
+32. GEMÄSS MAThThAe´Os, M23
+DAS MEHRFACHE WEHE DEN SCHRIFTKENNERN UND PHARISÄERN
+  13  Wehe aber euch,
+  (ihr) Schrift(kund)igen und Pharisäer,                        L12.1,56
+  (ihr) Heuchler,                                   M5.19,20  M6.2  M7.5
+  dass ihr die Regentschaft der Himmel
+  vorne (vor) den Menschen verschließt;
+  denn ihr, ihr kommt nicht hinein,                               L11.52
+  aber (auch) nicht die Hineinkommen(wollen)den
+  lasset ihr ´hineinkommen!
+
+  14  -\1/                                      \1/Vers 14 nicht in S,B.
+
+
+33. GEMÄSS MAThThAe´Os, M23
+DAS NICHT-WOLLEN JÄRuUSALE´Ms UND IHR ÖDEWERDEN
+  37  JÄRuUSALE´M, JÄRuUSALE´M,
+  (du)\1/ Umbringende die Propheten
+  und Steinbewerfende                               L13.34  J8.59  A7.59
+  die zu ihr Geschicktwordenen!                      \1/B,C,R: (du) die.
+  Wie oft wollte ich deine Kinder zusammenführen,
+  (gemäß) derselben Weise,                                        JJ65.2
+  (wie) (eine) Henne ihre Jungen zusammenführt                    LB91.4
+  unter die Flügel, und ihr wolltet nicht.                 L19.14  J5.40
+
+  38  ´Gewahret!                                    1R9.7  JR5.3  L21.20
+  (Als) (eine) Ödnis                            JJ64.10  JR22.5  LB69.26
+  ist (aufgrund) (von) euch                        M21.43  M24.2  L19.44
+  gelassen\1/ eure Wohn(stätt)e.                           JR12.7  A1.20
+                                           \1/e: dem Feind preisgegeben.
+
+
+34. GEMÄSS MAThThAe´Os, M24
+DER ANFANG DER WEHEN: BEIRRUNG, STREITE, MAGERUNGEN
+  3  Aber (während) seines Sitz(hab)ens
+  gebiets des Berges der Öligen,                                  MK13.3
+  ´kamen zu ihm die Lernenden für sich (allein),
+  (wobei) (sie) sagten:
+  ´Sage uns, wann wird dies sein,                                 MK13.4
+  und was (ist) das Zeichen deiner Anwesenheit              M24.27,37,39
+  und (der) Zusammenvollendigung des Äons?                 M13.39  L21.9
+          
+  4  Und antwortend                                               MK13.5
+  ´sagte der JESuU´S (zu) ihnen:        
+  Erblicket, (dass) niemand euch beirre.                    K2.8  2TH2.3
+
+  5  Denn viele werden                             M24.24  MK13.6  L21.8
+  auf(grund) meines Namens kommen,                        JR14.14  J5.43
+  (indem) (sie) sagen:  
+  Ich, ich bin der ChRISTO´S!,
+  und sie werden viele beirren.                                L17.23,24
+
+
+35. GEMÄSS MAThThAe´Os, M24
+DER ANFANG DER WEHEN: BEIRRUNG, STREITE, MAGERUNGEN
+  6  Aber ihr werdet euch anschicken,                             MK13.7
+  Streite (zu) hören und Gehörtes (der) Streite;
+  sehet (zu), nich(t) seid bestürzt,                       L21.9  2TH2.2
+  denn bindend ist, (dass) (es) (so) ´werde,                       EH1.1
+  jedoch ist es noch nicht die Vollendigung.
+
+  7  Denn (es) wird erweckt werden                        MK13.8  L21.10
+  Nation auf Nation                                CG2.22  2W15.6  EH6.4  
+  und Regentschaft auf Regentschaft (zu),                         JJ19.2
+  und orte(wei)se werden Beben\1/                                 L21.11
+  und Magerungen\1/ sein.                                         A11.28
+                                           \1-1/B: Magerungen und Beben;
+                             in C,R: Magerungen und Pestarten und Beben.
+  8  All dieses aber
+  (ist) Anfang (der) Wehen.                                       MK13.8
+
+
+36. GEMÄSS MAThThAe´Os, M24
+DIE NACH DEM ANFANG DER WEHEN KOMMENDE 
+VERFOLGUNG, BEIRRUNG, GESETZLOSIGKEIT
+  9  Dann werden sie euch danebengeben                    MK13.9  L21.12
+  hinein in Drängnis,                          M10.17,22  J15.20  EH2.10
+  und sie werden euch umbringen,                           J16.2  EH6.11
+  und ihr werdet Gehasst(werd)ende sein                     J15.21  A8.3
+  von den\1/ Nationen\1/          
+  wegen meines Namens.                                            2T3.12
+                                  \1/B,R: all den Nationen; in C: allen.
+
+  10  Und dann werden viele verstrickt werden
+  und werden einander danebengeben                                M10.21
+  hinein\1/ in Drängnis\1/.
+                               \1-1/B,R: und sie werden einander hassen.
+
+  11  Und viele falsche Propheten
+  werden erweckt werden                              M7.15  2P2.1  1J4.3
+  und werden viele beirren.                M24.4  1T4.1 A5.36,37  A20.30
+          
+
+37. GEMÄSS MAThThAe´Os, M24
+DIE NACH DEM ANFANG DER WEHEN KOMMENDE 
+VERFOLGUNG, BEIRRUNG, GESETZLOSIGKEIT
+  12  Und deswegen,                                       M7.23  2T3.1-5
+  (weil) die Gesetzlosigkeit
+  (zur) Fülle (anwächs)t,                                      2TH2.3,10
+  wird die Liebe der vielen erkalten.                              EH2.4
+
+  13  Aber der Untenbleibende                                     H10.36
+  hinein\1/ in\1/ Vollendigung,                             H3.6  EH2.10
+  dieser wird gerettet werden.                                    M10.22
+                                            \1/a: in (Richtung auf die).
+  14  Und (es) wird geheroldet werden                  JJ52.6,7  MK13.10
+  die  diese Wohlkunde der Regentschaft                     D2.44  M9.35
+  hinein\1/ in die ganze\1/ Bewohnte,                      R10.18  K1.23
+  zum Zeugnis all den Nationen,                           M10.18  M28.19
+  und dann wird die Vollendigung eintreffen.                      EH10.7
+                                                \1-1/B,R: in der ganzen.  
+
+
+38. GEMÄSS MAThThAe´Os, M24
+DER GRÄUEL DER VERÖDUNG, DIE FLUCHT UND DIE DRÄNGNIS
+  15  Wann gleichsam daher ihr ´gewahret´                          D9.27
+  den Gräuel der Verödung,                               MK13.14  L21.20
+  den geredet(worden)en
+  durch\1/ den Propheten DANIE´L\1/,                              D11.31
+  (als) standge(nomm)enhabenden
+  im heiligen Ort                                                JC42.13
+  - der Lesende bedenke (es)! -,                        bJC7.2-7  D12.11
+                            \1-1/so S*,B,R; in S schwer deutbare Lesart.
+  16  dann sollen die,                                   1M19.17  L21.21
+  (die) in dem JuUDAe´A (sind), auf die Berge fliehen,
+
+  17  (aber) der,                                        MK13.15  L17.31
+  (der) gebiets des Gebäude(söller)s (ist),
+  ´steige nich(t) hinab,
+  (etwas) (zu) entheben aus seinem Haus,
+
+  19  Wehe aber den Schwangeren                                  MK13.17
+  und den Säugenden in den jenen Tagen!                   L21.23  L23.29
+
+  20  Betet aber,                                                MK13.18
+  auf dass nich(t) eure Flucht
+  (während) (des) Winters ´werde,
+  aber (auch) nich(t) (im) Sabbat.
+
+
+39. GEMÄSS MAThThAe´Os, M24
+DER GRÄUEL DER VERÖDUNG, DIE FLUCHT UND DIE DRÄNGNIS
+  21  Denn dann wird große Drängnis sein,                         EH7.14
+  (eine) derartige,     
+  (wie) (sie) nicht ´geworden\1/          MK13.19  \1/B,R: geworden ist.
+  von Anfang (des) Kosmos (an)                              JL2.2  D12.1
+  bis (zu) dem Nun,     
+  (wie) (sie) aber (auch) nicht,
+  (ja) nicht, (ja) nich(t), (nochmals) ´wird´.
+
+  22  Und wenn die jene Tage                                     MK13.20
+  nich(t) gestutzt werden,
+  nicht gleichsam
+  würde all(irgendein) Fleisch gerettet;
+  aber wegen der Auserwählten                              JJ65.8  1P2.9
+  werden die jene Tage gestutzt\1/.             \1/B,R: gestutzt werden.
+        
+
+40. GEMÄSS MAThThAe´Os, M24
+FALSCHE CHRISTO´I UND FALSCHE PROPHETEN, ZEICHEN UND WUNDER
+  23  So dann jemand (zu) euch ´sagt´:                           MK13.21
+  ´Gewahret,                                                       M24.5
+  hier (ist) der ChRISTO´S!
+  oder: Hier (ist) (er)!,                                      L17.21,23
+  nich(t) (soll)tet ihr treun.                                     1J4.1
+
+  24  Denn (es) werden erweckt werden 
+  falsche ChRISTO´I\1/                                   MK13.22  1J2.18
+  und falsche Propheten,                            M24.11  2P2.1  1J4.1
+  und sie werden Zeichen\2/ und Wunder geben,
+  sodass,                                M7.15  2TH2.9  EH13.13  EH16.13
+  wenn Vermögens(macht) (wäre),
+  auch die Auserwählten beirrt\3/ würden\3/.       \3/B,R: (zu) beirren.
+                       \1/e: pl von »ChRISTO´S«.  \2/B,R: große Zeichen; 
+  25  ´Gewahret!                                                 MK13.23  
+  Ich habe (es) (zu) euch vorher geredet.         J13.19  J14.29  2P3.17
+        
+
+41. GEMÄSS MAThThAe´Os, M24
+DAS KOMMEN DES SOHNES DES MENSCHEN
+  27  Denn eben(so),                                              L17.24
+  wie der Blitz vom Osten herauskommt
+  und bis (zum) Westen
+  erscheinen ge(mach)t ist,                                       IB37.3
+  also wird die Anwesenheit                          1K15.23  1TH4.15,17
+  des Sohnes des Menschen sein.                                M16.27,28
+
+  29  Sofort aber                                                MK13.24
+  nach der Drängnis der jener Tage                             L21.25,26
+  wird die Sonne verfinstert werden,                   JC32.7,8  JJ13.10
+  und der Mond                          JL2.10  JL3.4  JL4.15  AM5.18,20
+  wird sein Schimmern nicht geben,      
+  und die Sterne                                                 MK13.25
+  werden aus\1/ dem Himmel fallen,                          \1/B,R: von.
+  und die Vermögen(skräft)e der Himmel                            JJ34.4
+  werden gerüttelt werden.                             H12.26  EH6.12-14
+        
+
+42. GEMÄSS MAThThAe´Os, M24
+DAS KOMMEN DES SOHNES DES MENSCHEN
+  30  Und dann wird erscheinen ge(mach)t werden
+  das Zeichen des Sohnes des Menschen                              D7.13
+  im Himmel,                                                      M24.27
+  und\1/ (es) werden wehklagen                                    S12.10
+  all die Stämme des Erdlands,                                     EH1.7
+  und sie werden eraugen                               \1/B,R: und dann.
+  den Sohn des Menschen                                  MK13.26  L21.27
+  (als) gebiets der Wolken des Himmels
+  Kommenden                                S14.5  M25.31  M26.64  MK8.38
+  mit viel Vermögen und Herrlichkeit.                             M16.27
+
+  31  Und er wird seine Engel schicken                           MK13.27
+  mit großer\1/ Posaune\1/                                       JJ27.13  
+  und wird\2/ zusammenführen              M13.30,49  \2/B,R: sie werden.
+  seine Auserwählten    
+  aus den 4\3/ Winden,                                     \3/B,R: vier.
+  von (den) Spitzen (der) Himmel
+  bis (zu) ihren\4/ Spitzen.                   5M30.4  \4/e: der Himmel.
+                                    \1/B,R: (der) Posaune großer Stimme.
+  36  Aber betreffs des jenes Tages         S14.7  M25.13  A1.7  MK13.32
+  und (der) Stunde                                              1TH5.1,2  
+  gewahrt nicht  e i n e r  (etwas),
+  aber (auch) nicht die Engel der Himmel,
+  aber (auch) nicht der Sohn,
+  als nur der Vater allein.                                        EH1.1
+
+
+43. GEMÄSS MAThThAe´Os, M24
+WIE DIE ANWESENHEIT DES SOHNES DES MENSCHEN SEIN WIRD
+  37  Aber eben(so),                                              L17.26
+  wie die Tage des NOo´Ä (waren),                              1M6.11-13
+  also wird     
+  die Anwesenheit des\1/ Menschen sein.          \1/B,R: des Sohnes des.
+
+  38  Denn wie sie waren
+  in den Tagen vor der Herabflut
+  (als) Kauende und Trinkende,                                    L17.27
+  Heiratende und Verheiratende,
+  bis zu dem Tag,                                           1M7.7  H11.7
+  (als) NOo´Ä in die Lade\1/ ´hineinkam,           1M6.14  1P3.20  2P2.5
+                                               \1/e: TeBha´H des No´aCh.  
+  39  und sie (es) nicht ´wussten,
+  bis die Herabflut ´kam                                          1M7.23
+  und (sie) alle(samt) enthob,                           JJ54.9  2P3.6,7
+  also wird auch                                               L17.28-30
+  die Anwesenheit des Sohnes des Menschen sein.                    M24.3
+        
+
+44. GEMÄSS MAThThAe´Os, M24
+DER TREUNDE UND DER UNTREUNDE SKLAVE
+  45  Wer ist demnach                                L12.42  1K4.2  H3.5
+  der treunde und besonnene Sklave,
+  den der Herr herabbeständigen\1/ wird\1/      \1/B,R: herabbeständigt.
+  gebiets (derer) seines Hauses,
+  dass (er) ihnen die Nahrung ´gebe                               M13.52
+  in (bestimmter) Frist?        
+
+  46  Glückselig (ist) der jener Sklave,                          L12.43
+  den sein Herr (als) ´Gekommener                                EH16.15
+  also tuend finden wird.
+        
+
+45. GEMÄSS MAThThAe´Os, M24
+DER TREUNDE UND DER UNTREUNDE SKLAVE
+  48  So aber der\1/ üble Sklave                          ST8.12  L12.45
+  in seinem\2/ Herzen ´sagt´:                                      H3.12
+  »Mein Herr verzeitet«,                                    M25.5  2P3.4
+                         \1/B,C,R: der jener.  \2/in S,R: seiner selbst.
+  49  und anfängt,
+  seine (Mit)sklaven (zu) schlagen,                               M18.28
+  isst´ aber und trinkt´                                          1TH5.7
+  mit den sich Berauschenden,
+
+  50  (so) wird 
+  der Herr des jenes Sklaven eintreffen                           L12.46
+  in (einem) Tag,
+  den (dies)er nicht erhofft,                                     M24.42
+  und in (einer) Stunde, die er nicht weiß,
+
+  51  und (jen)er wird                                         L12.47,48
+  (in) (Bezug) (auf) ihn entzweischneiden\1/
+  und wird (ihm) sein Teil
+  mit den Heuchlern setzen;
+  dort wird das Schluchzen sein
+  und das Knirschen der Zähne.                             M8.12  M22.13
+                        \1/e: vmtl. das Dienstverhältnis völlig trennen.
+        
+
+46. GEMÄSS MAThThAe´Os, M25
+DAS GERICHT ÜBER ALLE NATIONEN DURCH DEN SOHN DES MENSCHEN
+  31  Wann gleichsam aber                                          2T4.1
+  der Sohn des Menschen ´kommt´                     M16.27  J5.27  A1.11
+  in seiner Herrlichkeit                                 M24.30  1TH3.13
+  und all die Engel mit ihm,                                      5M33.2  
+  dann wird er Sitz (nehm)en    
+  gebiets (des) Thrones seiner Herrlichkeit,             M19.28  EH20.11
+
+  33  und er wird beständigen\1/ - (das) bleibt -   \1/a: Stand (geb)en.
+  die Schafe                                                      J10.16  
+  (als) aus (den)\2/ Recht(sbefindlich)en,                 \2/B: seinen.
+  aber die Zicklein     
+  (als) aus (den) (Links)namhaften\3/ (von) ihm.          M25.41  L23.33
+          \3/e: besonders, nämlich umschreibend als links, Bezeichneten.
+            
+  34  Dann wird der Regent (zu) denen                            EH19.16
+  aus seinen Recht(sbefindlich)en reden: (Komm)et herbei,       LB115.15
+  (ihr) Gesegnetwordenen meines Vaters,
+  erloset gesetz(gemäß)                                         R2.14-16
+  die euch vom Herabwurf (des) Kosmos (an)                M13.35  EH13.8
+  bereitetwordene Regentschaft.                           L12.32  EH5.10
+
+  41  Dann wird er auch (zu) denen
+  aus (den) (Links)namhaften\1/ reden:
+  Gehet weg von mir, (ihr) Verfluchtwordenen,      M7.23  L13.27  2TH1.9
+  in das äonische Feuer,                              L16.24  EH20.10,15
+  (in) das dem DIA´BOLOS bereitetwordene                  M13.42  EH21.8
+  und seinen Engeln.                                                 JD6  
+          \1/e: besonders, nämlich umschreibend als links, Bezeichneten.
+
+  46  Und diese werden wegkommen                                   D12.2
+  in äonische Verbüßung,                                   JK2.13  2P2.9
+  aber die Gerechten in äonisches Leben.                     J5.29  R2.7
+
+
+47. GEMÄSS MAThThAe´Os, M26
+DIE ABSICHT, JESuU´S UMZUBRINGEN
+  1  Und es ´wurde\1/:                                    \1/e: 32 nZtr.
+  Als der JESuU´S all die diese Worte vollendigte,
+  ´sagte er (zu) seinen Lernenden:
+
+  2  Ihr gewahret,                                        3M23.5  5M16.1
+  dass nach zwei Tagen das PA´S ChA wird                2M12.14  L22.1,7
+  und der Sohn des Menschen danebengegeben wird                   M16.21
+  in das Angepfahltwerden.                                         J13.1
+        
+
+48. GEMÄSS MAThThAe´Os, M25
+DIE ABSICHT, JESuU´S UMZUBRINGEN
+  3  Dann wurden die Anfangspriester zusammengeführt,     J11.47  A4.5,6
+  auch die Vorrangigen des Volks,                                  M27.1
+  in den Hof des Anfangspriesters,                                M26.57  
+  des KAJA´PhAS geheißenen,                         L3.2  J11.49  J18.13
+
+  4  und sie berieten zusammen,                           LB2.2  LB31.14
+  dass sie den JESuU´S (mit) Betrug halten´
+  und umbringen (soll)ten.                                MK14.1  L11.53
+
+  5  Sie sagten aber:                                             MK14.2
+  Nich(t) (sei's) in (der) (Zeit) des Festes,
+  auf dass nich(t) in dem Volk
+  (ein) Tumult ´werde.
+        
+
+49. GEMÄSS MAThThAe´Os, M26
+JESuU´S VOR KAJA´PhAS
+  63  Ich\1/ herausbeschwöre\2/ dich                  \2/a: exorzisiere.
+  (zu)gegen dem lebenden Gott,
+  dass du uns ´sagst´,                         LB38.14,15  M27.14  A8.32
+  ob du, (ja) du, der ChRISTO´S,                       L22.67,70  J10.24
+  der Sohn des Gottes bist.                                M16.16  MK5.7
+            \1/A,B: Aber der JESuU´S verstummte. Und der Anfangspriester
+                                                   ´sagte (zu) ihm: Ich.  
+  64  (Da) sagt der JESuU´S (zu) ihm:
+  Du, du sagst (es); indes, ich sage euch:               M27.11  MK14.62
+  Von jetzt (an) werdet ihr eraugen                               L22.69
+  den Sohn des Menschen                                  D7.13,14  J1.51
+  (als) Sitz(hab)enden                                   LB110.1  M22.44
+  aus (den) Recht(sbefindlich)en des Vermögens                     A7.55
+  und kommend gebiets der Wolken des Himmels.       M16.27  M24.30  H1.3  
+
+  65  Da(raufhi)n zerfetzte der Anfangspriester                  MK14.63 
+  durch (und) (durch) seine Gewänder                     3M21.10  A14.14
+  und\1/ sagt:                               \1-1/A,B: (indem er) sagte.
+  ´Gewahret\1/! Er lästert;          M9.3  MK2.7  MK14.64  L22.71  J5.18  
+  was haben wir noch Bedarf (an) Zeugnissen\2/?          \2/A,B: Zeugen.
+  ´Gewahret! Nun hörtet ihr die Lästerung.               MK14.64  J10.33
+
+  66  Was meinet\1/ ihr\1/?                       \1/w: ist Meinen euch.
+  Aber die Antwortenden sagten:
+  (E)inbehabt (des) Todes ist er.                         3M24.16  J19.7
+
+
+50. GEMÄSS MAThThAe´Os, M27
+VERHÖR DURCH PILA´TOS
+  11  Aber der JESuU´S wurde beständigt
+  vorne (vor) dem Leitenden;                                      MK15.1
+  und der Leitende fragte ihn,
+  (indem) (er) sagte:
+  Du, du bist der Regent der Juden?               M2.2  L23.3  J18.33,37
+  Aber der JESuU´S erklärte\1/: 
+  Du, du sagst (es).                      1T6.13  \1/A,B: ´erklärte ihm.
+
+  12  Und indem er von den Anfangspriestern
+  und Vorrangigen verklagt wurde,                                 MK15.3
+  antwortete er nicht  e i n e s.                                 L23.10
+
+  13  Da(raufhi)n sagt der PILA´TOS (zu) ihm:                     MK15.4
+  Hörst du nicht, wie vieles sie gegen dich bezeugen?
+
+  14  Und er antwortete ihm nicht,                                MK15.5
+  aber (auch) nicht
+  zu  e i n e r  Rede (hin),                   JJ53.7  LB38.14,15  L23.9
+  sodass der Leitende sehr staunte.
+
+
+51. GEMÄSS MAThThAe´Os, M27
+DIE WAHL ZWISCHEN JESuUU´S UND BARABBA´S
+  22  (Da) sagt der PILA´TOS (zu) ihnen:                         MK15.12
+  Was daher (soll) ich (dem) JESuU´S,
+  dem ChRISTO´S geheißenen, tun´?                                 M16.16
+  (Da) sagen sie alle:                                    M26.2  MK15.13
+  Er werde angepfahlt!                                    L23.21  J19.15
+
+  23  Er aber erklärte:                                          MK15.14
+  Was tat er denn Übles?                                L23.22,41  J8.46
+  Sie aber schrieen                                               L23.23
+  (mit)\1/ um (und) um(seiendem) (Geschrei)\1/,
+  (indem) (sie) sagten:                           \1-1/A,B: um (und) um.
+  Er werde angepfahlt!
+
+  24  Aber der PILA´TOS,                                          L23.24
+  ´gewahrt(hab)end, dass nicht  e i n e s  nützt,
+  sondern (nur) (noch) viel mehr Tumult wird,
+  ´nahm Wasser (und) wusch sich die Hände ab,   5M21.6,7 LB26.6  LB73.13
+  (wobei) (er) entgegen\1/ der Menge sagte:         \1/a: gegenüber von.
+  Unsträflich bin ich                              2S3.28  M27.4  A20.26
+  von(seiten) des Blutes des  dieses Gerechten;                   M27.19
+  ihr aber,                                                      5M19.10    
+  ihr werdet (die) (Folgen) eraugen.                  2M20.5  1TH2.15,16
+
+  25  Und antwortend ´sagte all das Volk:
+  Sein Blut (sei) auf uns                  JS2.19  2S1.16  M23.35  A18.6
+  und auf unsere Kinder (zu)!                                      A5.28  
+
+
+52. GEMÄSS MAThThAe´Os, M28
+JESuU´ AUTORITÄT, SEIN ZIELGEBEN UND SEINE ZUSAGE
+  18  Und (als) ´Herzugekommener
+  sprach der JESuU´S\1/,                     \1/A,B: JESuU´S (zu) ihnen.
+  (indem) (er) sagte:
+  Mir wurde gegeben                                  D7.14  J3.35  E1.21
+  all(jed)e Autorität                        M9.6  M11.27  P2.9  EH12.10
+  im Himmel und gebiets (des) Erdlands.                           1P3.22
+
+  19  (Mach)et zu Lernenden,                                      A14.21
+  (als) Gehende (in) all die Nationen,             M10.5  M24.14  M26.13
+  (als) jene\1/ Taufende                           A8.12    R11.13  A1.8
+  in den Namen\2/ des Vaters                          LB83.19  \2/e: si.
+  und des Sohnes                              P2.9  \1/e: die Lernenden.  
+  und des heiligen Geistes,                                    J14.16,23
+
+  20  (als) jene Lehrende                                  M13.52  2T2.2
+  alles, (ja) so vieles (zu) hüten,                M5.19  J14.23  1T6.14
+  wie ich euch (als) Ziel ge(geb)en.                       2P3.2  1J3.23
+  Und ´gewahret!        
+  Ich, ich bin mit euch all die Tage                      M18.20  A18.10
+  bis (zu) der Zusammenvollendigung
+  des Äons\1/.                                       M13.39,49  M24.3,14  
+                       \1/A (vmtl.) ergänzt: Wohlkunde gemäß MATThAe´OS;
+                                           B ergänzt: Gemäß MAThThAe´OS.
+
+
+53. GEMÄSS MA´RKOS, MK1
+JESuU´S ChRISTO´S, ANFANG SEINER WOHLKUNDE, SEIN KÜNDER UND WEGBEREITER
   1  Anfang der Wohlkunde JESuU´ ChRISTuU´,
   (des) Sohnes Gottes,                                             1J1.1
 
@@ -66,10 +1130,375 @@ SEIN KÜNDER UND WEGBEREITER
   Ich, ich werde schicken                                          J3.28
   meinen Künder\1/                                          \1/a: Engel.
   vor deinem Zuaugenden (her),                            2M23.20  MA3.1
-  der (mit) Gerät (bereit)en wird  deinen Weg.                     L1.76
+  der (mit) Gerät (bereit)en wird deinen Weg.                      L1.76
 
 
-4. GEMÄSS LuUKA´S, L1
+54. GEMÄSS MA´RKOS, MK12
+JESuU´S BEANTWORTET DIE FRAGE NACH DER BERECHTIGUNG DER KOPFSTEUER
+  13  Und sie schicken zu ihm                                      MK3.6
+  einige der Pharisäer und der Herodianer,
+  auf dass sie ihn (aufgrund) (eines) Wortes fangen´.     M22.15  L20.20
+
+  14  Und (als) ´Gekommene sagen sie (zu) ihm:
+  Lehrer, wir gewahren, dass du wahr bist                 M22.16  L20.21
+  und du, (ja) du, dich (darin) nicht (um) (andere) kümmerst,
+  betreffs nicht  e i n e m ; denn nicht blickst du (dieserhalb)
+  in (das) Zuaugende (der) Menschen,                              A10.34
+  sondern gebiets (der) Wahrheit lehrst du
+  den Weg des Gottes. Ist's erlaubt,                      M22.17  L20.22
+  (dem) Kaiser Kopfsteuer (zu) ´geben oder nicht?
+  (Soll)en wir (sie) ´geben, oder (soll)en wir (sie) nich(t) ´geben?
+
+  15  Er aber,  
+  ´gewahrt(hab)end\1/ ihre Heuchelei,            VG26.24  M22.18  L20.23
+  ´sagte (zu) ihnen: Was versuchet ihr mich?          \1/A,B: gewahrend.
+  Bringet mir (ein) DENA´RION hierher,                            M22.19
+  auf dass ich (es) ´gewahre´.
+
+  16  Sie aber ´brachten('s). Und er sagt (zu) ihnen:     M22.20  L20.24
+  Wessen (ist) das Bild und das (Dar)aufgeschriebene?
+  Sie aber sagten (zu) ihm: (Des) Kaisers.                        M22.21
+  
+  17  Aber der JESuU´S ´sagte (zu) ihnen:                         L20.25
+  Das (des) Kaisers ´gebt (dem) Kaiser                     R13.7  1P2.13
+  und das des Gottes dem Gott.  
+  Und sie staunten auf(grund) (von) ihm.                  M22.22  L20.26
+
+
+55. GEMÄSS MA´RKOS, MK3
+Die Lästerung betreffs des Geistes und ihre Folgen
+  28  AME´N, ich sage euch:                                       M12.31
+  Alles wird den Söhnen der Menschen (er)lassen werden,
+  (ja) (all) die Verfehlnisse\1/ und die Lästerungen,
+  so viele, wie gleichsam sie lästern\2/´;
+                     \1/e: Verfehlungstaten. \2/w: als Schaden erklären.
+
+  29  der aber, (der) gleichsam lästert´                          M12.32
+  in (Richtung) (auf) den heiligen Geist,
+  nicht hat er Erlassung                          L12.10  H6.4-6  H10.26
+  (bis) hinein in den Äon,
+  sondern er wird\1/ (e)inbehabt\2/ sein\1/                 \1/A,B: ist.
+  äonischen Verfehlnisses\3/.
+           \2/e: ein anderer wird seiner habhaft.  \3/e: Verfehlungstat.
+
+  30  (Es) (war), da sie sagten:
+  (Einen) unreinen Geist hat er.                          MK3.22  J10.20
+
+
+56. GEMÄSS MA´RKOS, MK3
+WARUM JESuU´S IN PARABELN SPRACH
+  10  Und als er jeweils
+  allein (befunden) ´wurde,
+  fragten ihn die,                                          M13.10  L8.9
+  (die) samt den 12\1/ um ihn (waren),                    \1/A,B: Zwölf.
+  (bezüglich) der Parabeln.                                        VG4.7
+
+  11  Und er sagte (zu) ihnen:                             M13.11  L8.10
+  Euch ist das Geheimnis                                           K1.26
+  der Regentschaft des Gottes
+  gegeben worden,                                               D2.27,47
+  jenen aber, (ja) denen draußen,                                 1K5.12
+  wird\1/ alles\1/ in Parabeln (gesagt),        \1/A,B: werden die alle.
+                                                
+  12  auf dass (als) Erblickende sie erblicken´                M13.13,14
+  und nich(t) ´gewahren´                                   5M29.3  R11.8  
+  und sie (als) Hörende hören´                             JJ6.9  A28.26
+  und nich(t) verstehen´,                                         JR5.21
+  (dass) nich(t) einst\1/ sie sich wenden´                M13.15  J12.40
+  und ihnen (er)lassen werde.                        \1/a: (irgend)wann.
+
+
+57. GEMÄSS MA´RKOS, MK4
+DAS MASS, MIT DEM GEMESSEN WIRD
+  24  Und er sagte (zu) ihnen:
+  Erblicket, was ihr höret!                                        L8.18
+  Mit (dem) Maß, (mit) dem ihr messet,                       M7.2  L6.38
+  wird euch gemessen werden
+  und wird euch hinzugesetzt werden.                             VG11.25
+
+  25  Denn wer hat,                                       M13.12  L19.26
+  ihm wird gegeben werden;
+  und wer nicht hat,
+  von ihm (weg)
+  wird auch (das), was er hat, enthoben werden.
+
+
+58. GEMÄSS MA´RKOS, MK7
+WAS DEN MENSCHEN GEMEIN MACHT
+  14  Und nochmals die Menge herzurufend,
+  sagte er (zu) ihnen:                                            M15.10
+  Höret\1/ und verstehet!       VG8.5  \1/A,B: Höret alle meiner(seits).
+
+  15  Nicht  e i n e s  ist (für) den Menschen,                    T1.15
+  (das) (von) außen auf\1/ ihn (zu)\1/ hineingeht,           \1/A,B: in.
+  das ihn gemein (zu) machen vermag,                              M15.11
+  sondern die aus dem Menschen Herausgehenden
+  sind die den Menschen Gemein(mach)enden.
+
+  16  -\1/                            \1/Vers 16 in A; nicht in S und B.
+
+  18  Und er sagt (zu) ihnen:
+  Also auch ihr, (ja) ihr, seid Unverständige;                    M15.16
+  noch nicht bedenket ihr,                                        M15.17  
+  dass all das (von) außen Hineingehende
+  den\1/ Menschen nicht gemein (mach)t\1/,     \1-1/A,B: in den Menschen
+                                    ihn nicht vermag gemein (zu mach)en.
+
+  19  da es nicht hineingeht in sein  Herz,                       L11.41
+  sondern in die Leibeshöhle                                      A10.15  
+  und (dann) in den Abort hinausgeworfen\1/ wird\1/,
+  (so) reinigend                                 \1/A,B: geht es hinaus.
+  all die (zurückgebliebenen) Speisen.
+
+
+59. GEMÄSS MA´RKOS, MK7
+WAS DEN MENSCHEN GEMEIN MACHT
+  20  Er sagte aber:
+  Das aus dem Menschen Herausgehende,
+  jenes (mach)t den Menschen gemein.                              M15.18
+
+  21  Denn (von) innen,                                   LB14.1  M15.19
+  (ja) aus dem Herzen der Menschen,                               JR17.9
+  gehen die üblen (Über)erwägungen heraus:                         1M6.5
+  Hurereien, Diebereien, Morde,                                    G5.19
+
+  22  Ehebrüche, Habgier(igkeit)en, Bosheiten,
+  Betrug, Ausschweifung, böses Auge,
+  Lästerung, Übererscheinen, Unbesonnenheit;                        T3.3
+
+  23  all die diese Bösen,
+  (von) innen gehen (sie) heraus,                                  R1.28
+  und jene (mach)en den Menschen gemein.                          M15.20
+
+
+60. GEMÄSS MA´RKOS, MK8
+WIE MAN JESuU´S NACHFOLGT UND DIE SEELE RETTET. 
+BESCHÄMTWERDEN UND SEINE FOLGEN
+  36  Denn was nützt (es),                                         L9.25
+  (wenn)\1/ (ein) Mensch\1/ 
+  den ganzen Kosmos gewinnt                                       M16.26
+  und (dabei) seine Seele verliert?         \1-1/A: dem Menschen, so er;
+                                      in B: (einem) Menschen, (dass er).
+
+  37  Denn was (könn)te (ein) Mensch ´geben
+  (als) Eintausch (für) seine Seele?                            LB49.8,9
+
+  38  Denn wer beschämt wird´                               L9.26  R1.16
+  (in) (Bezug) (auf) mich und die, (ja) meine Worte                2T1.8
+  in  der dieser ehebrechenden  
+  und verfehlenden Generation -                                   M12.39
+  auch der Sohn des Menschen
+  wird\1/ beschämt werden (in) (Bezug) (auf) ihn\2/,
+  wann er gleichsam ´kommt´
+  in der Herrlichkeit seines Vaters                               M16.27
+  mit den heiligen Engeln.             \1-1/e: wird ihn verhüllen müssen
+                                           und sich seiner nicht rühmen.
+
+
+61. GEMÄSS MA´RKOS, MK10
+WESSEN DIE REGENTSCHAFT DES GOTTES IST UND WIE MAN IN SIE HINEINKOMMT
+  13  Und sie brachten\1/ Spielende zu ihm,
+  auf dass er sie berühre;                        M19.13  \1/e: 32 nZtr.
+  aber die Lernenden verwarnten sie.                              L18.15
+
+  14  Aber der JESuU´S, (dies) ´gewahrt(hab)end,
+  wurde entrüstet\1/ und ´sagte (zu) ihnen:                       M19.14
+  ´Lasset die Spielenden zu mir kommen
+  und wehret ihnen nich(t),                                L18.16  A8.36
+  denn solcher                                  \1/w: übermäßig schroff.
+  ist die Regentschaft des Gottes.                                 M18.4
+
+  15  AME´N, ich sage euch:                                M18.3  L18.17
+  Wer gleichsam die Regentschaft des Gottes
+  nich(t) empfängt´, wie (dies) (ein) Spielendes (tut),
+  ´kommt´ nicht, (ja) nich(t), in sie hinein.
+
+  16  Und sie in(nig) umklammernd,                                MK9.36
+  (sich) herab(neigend) segnete er (sie),
+  die Hände auf sie setzend.                             1M48.14  M19.15
+
+
+62. GEMÄSS MA´RKOS, MK10
+HEILUNG DES BLINDEN BARTIMAe´OS VOR JÄRIChOo´
+  46  Und sie kommen hinein in JÄRIChOo´.
+  Und (während) seines Hinausgehens,                              M20.29
+  von JÄRIChOo´ (weg),                                            L18.35
+  und (des) (Hinausgehens) seiner Lernenden
+  und (einer) (hin)reichend (großen) Menge,
+  (hat)te BARTIMAe´OS,
+  der Sohn (des) TIMAe´OS,
+  (als) Blinder und Bettler Sitz neben dem Weg.
+
+  51  Und ihm antwortend
+  ´sagte der JESuU´S:
+  Was willst du, (dass) ich dir tue´?                             L18.41
+  Aber der Blinde ´sagte (zu) ihm:
+  RABBuU´NI,                                                      J20.16
+  dass ich hinaufblick(fäh)ig werde.
+
+  52  Aber der JESuU´S ´sagte (zu) ihm:                           L18.42
+  Gehe weg, dein Treun hat dich gerettet.                          M9.22  
+  Und sogleich war er hinaufblick(fäh)ig,                 JJ42.7  M20.34
+  und er folgte ihm (nach) in dem Weg.                            L18.43
+
+
+63. GEMÄSS MA´RKOS, MK13
+IRREFÜHRER, STREITE, BEBEN
+  5  Aber der JESuU´S fing an,
+  (zu) ihnen (zu) sagen:                                    M24.4  L21.8
+  Erblicket, (dass) niemand euch beirre.                            E5.6
+
+  6  Viele werden auf(grund) meines Namens kommen,                 M24.5
+  (indem) (sie) sagen: Ich, ich bin('s)!,
+  und sie werden viele beirren.                                  MK13.22
+
+  7  Wann gleichsam aber ihr höret´ Streite
+  und Gehörtes (der) Streite,                               M24.6  L21.9
+  sehet (zu), nich(t) seid bestürzt;
+  bindend ist, (dass) (es) (so) ´werde,                            EH1.1
+  jedoch (ist) (es) noch nicht die Vollendigung.
+
+  8  Denn (es) wird erweckt werden                                 M24.7
+  Nation auf Nation                                       2W15.6  L21.10
+  und\1/ Regentschaft (zu),        JJ19.2  \1/A,B: und Regentschaft auf.
+  (es) werden Beben sein\2/.                           CG2.21,22  L21.11
+  Anfang (der) Wehen (ist) dies.                                   M24.8
+                  \2/A,B: sein orte(wei)se, auch werden Magerungen sein. 
+
+
+64. GEMÄSS MA´RKOS, MK13
+DIE GRÖSSE DER DRÄNGNIS UND DAS GESTUTZTWERDEN DER TAGE
+  19  Denn (es) wird                                              M24.21
+  die jene Tage (eine) Drängnis sein,
+  (eine) derartige, (wie) sie nicht geworden ist\1/
+  von Anfang (des) Erschaffenen (an),                       JL2.2  D12.1
+  das der Gott erschaffen,                     \1/w: ist, (eine) solche.
+  bis (zu) dem Nun,
+  (wie) (sie) auch nicht, (ja) nich(t),
+  (nochmals) ´wird´.                                              EH7.14
+
+  20  Und wenn nich(t) (der) Herr
+  die Tage stutzen (würde),                                JJ1.9  M24.22
+  nicht gleichsam
+  (würde) all(irgendein) Fleisch gerettet;                         R9.27
+  jedoch wegen der Auserwählten, die er auserwählte,              JJ65.8
+  stutzt er die Tage.
+
+
+65. GEMÄSS MA´RKOS, MK13
+WAS NACH DER DRÄNGNIS GESCHIEHT. DAS KOMMEN DES SOHNES DES MENSCHEN
+  4  Jedoch in den jenen Tagen                                    EH6.12
+  nach der jener Drängnis                          JL3.4  M24.29  EH8.12
+  wird die Sonne verfinstert werden,    
+  und der Mond                                   JJ13.10  JL4.15  L21.25
+  wird sein Schimmern nicht geben,                                 A2.20
+
+  5  und die Sterne                                        EH6.13  EH9.1
+  werden aus dem Himmel Fallende sein,                            JJ34.4
+  und die Vermögen(skräft)e in den Himmeln                H12.26  EH6.14
+  werden gerüttelt werden.                                JL2.10  L21.26
+
+  6  Und dann wird (man)                                  M24.30  L21.27
+  den Sohn des Menschen eraugen                                    EH1.7
+  (als) in Wolken Kommenden                                 D7.13  A1.11
+  mit viel Vermögen und Herrlichkeit.                            MK14.62
+
+  7  Und dann schickt\1/ er seine Engel    M24.31  1/A,B: wird schicken.
+  und wird zusammenführen       
+  seine Auserwählten aus den vier Winden,               JJ43.5,6  EH9.14
+  von (der) Spitze (des) Erdlands       
+  bis (zur) Spitze (des) Himmels.                                 5M30.4
+
+
+66. GEMÄSS MA´RKOS, MK15
+DER TEMPELVORHANG. DAS ZEUGNIS DES ZENTURIO. DIE VON FERNE SCHAUENDEN
+  38  Und der Vorhang des Tempels                                 M27.51
+  wurde zerrissen zu zwei (Teilen),                      2M26.31  L23.45
+  von, (ja) von oben (an) bis herab.    
+
+  39  (Als) aber der
+  bei (ihm) standge(nomm)enhabende Zenturio               M27.54  L23.47
+  - -im Gegen(satz) (zu) ihm (steh)end -
+  ´gewahrte, dass er also ausgeistete,
+  ´sagte er: Wahrhaft, der dieser Mensch war Gottes Sohn.         M14.33
+
+  40  (Es) waren aber auch Weiber (dort),                         M27.55
+  von ferne Schauende,                                   LB38.12  L23.49
+  in(mitten) derer
+  auch MARI´A  die Magdalenerin                     M27.56  L8.2  J19.25
+  und MARI´A,                                             MK16.1  L24.10  
+  die Mutter (des) JA´KOoBOS, des kleinen,
+  und (des) JOoSE´S,                                             MK15.47
+  und SALOo´ME,
+
+
+67. GEMÄSS MA´RKOS, MK16
+DIE DREI WEIBER KOMMEN ZUR GRUFTSTÄTTE MIT DEN GEKAUFTEN AROMEN
+DER WEGGEWÄLZTWORDENE STEIN
+  1  Aber\1/ die\1/ MARI´A die Magdalenerin
+  und MARI´A, die (Mutter) des JA´KOoBOS,
+  und SALOo´ME  kauften Aromen\2/,     L23.56  \2/e: aromatische Stoffe.
+  auf dass (als) ´Gekommene                                       MK14.8
+  sie ihn einreiben´.   
+                  \1/A,B: Und (nachdem) der Sabbat ´geworden (war), die.
+
+  2  Und sehr (früh) morgens                                L24.1  J20.1
+  (in) dem einen (Tag) der Sabbat(frist)en,
+  kommen sie auf die Gruft(stätt)e\1/ (zu)                \1/A,B: Gruft.
+  (während) (des) Hinaufziel(nehm)ens der Sonne.
+
+  3  Und sie sagten zu sich selbst:
+  Wer wird uns den Stein wegwälzen aus der Tür der Gruft?          M28.2
+
+  4  Und (als) (Auf)blickende
+  schauen sie den\1/ Stein
+  (als) hinaufgewälztwordenen\1/;                                  L24.2
+  denn er war heftig groß.                                        M27.60
+                             \1-1/e: aus der Vertiefung vor der Öffnung;
+                             in A: dass der Stein weggewälzt worden ist;
+                          in B: dass der Stein hinaufgewälzt worden ist.
+
+
+68. GEMÄSS MA´RKOS, MK16
+DAS ZEUGNIS DES ENGELS IN DER GRUFT
+DER AUFTRAG, DEN LERNENDEN ZU BERICHTEN
+  5  Und (als) ´Hineingekommene in die Gruft                       L24.3
+  ´gewahrten sie (einen) Jüngling,
+  sitz(hab)end in den recht(sseitig)en (Raumteilen),
+  (einen) umworfenwordenen (mit) (einer) weißen Robe;              A1.10
+  und sie wurden erschauern ge(mach)t.                             M28.4
+
+  6  Er aber sagt (zu) ihnen:                                      M28.5
+  Nich(t) seid erschauern ge(mach)t;
+  ihr suchet JESuU´S, den Nasarener,
+   den angepfahltwordenen;
+  er wurde erweckt, er ist nicht hier;      M28.6  MK8.31  L18.33  L24.6
+  ´gewahret!
+  (Da) (ist) der Ort, wo sie ihn (bei)gesetzt.
+
+  7  Jedoch gehet weg, saget seinen Lernenden                      M28.7
+  und dem PÄ´TROS,
+  dass er\1/ (sich) , euch vor(ausgehend),                \1/e: JESuU´S.
+  in das GALILAe´A begibt;                                       MK14.28
+  dort (werd)et ihr ihn eraugen,        
+  so wie er (zu) euch ´gesagt (hat).
+
+
+69. GEMÄSS MA´RKOS, MK16
+DAS FLIEHEN IN FURCHT
+  8  Und (als) ´Herausgekommene ´flohen sie,
+  (weg) von der Gruft;                                             M28.8
+  denn (es) hatte sie
+  Zittern und Entsetzen (erfasst);
+  und nicht  e i n e m  sagten sie etwas\1/,          \1/w: nicht eines.
+  denn sie fürchteten.   
+
+  9  -\1/                              \1/Verse 9-20 in A; nicht in S,B.
+
+  Wohlkunde\1/ gemäß MA´RKOS\1/        \1-1/so S,A; in B: Gemäß MA´RKOS.
+                                
+
+70. GEMÄSS LuUKA´S, L1
 WARUM LuUKA´S SCHREIBT
   1  Weil (es) nun eben 
   viele auf (die) Hand\1/ (nahm)en,
@@ -80,8 +1509,7 @@ WARUM LuUKA´S SCHREIBT
 
   2  so wie uns die von Anfang (an)                        J15.27  1J1.1
   selber Augen(zeug)en und Unterknechte                            A1.22
-  des Wortes ´Gewordenen                                   1K4.1  2P1.16
-  (dieselben) ´beigaben,
+  des Wortes ´Gewordenen (dieselben) ´beigaben,            1K4.1  2P1.16
 
   3  (so) ist auch mir (das) Meinen
   - (da) (ich) allem genau von oben (an)
@@ -95,7 +1523,258 @@ WARUM LuUKA´S SCHREIBT
   du herabbehallt wurdest.                                  G6.6  A18.25
 
 
-5. GEMÄSS JOohA´NNES, J1
+71. GEMÄSS LuUKA´S, L11
+JESuU´S LEHRT BETEN
+  1  Und es ´wurde\1/:                                    \1/e: 31 nZtr.
+  Indem er in einem Ort (als) Betender war,
+  ´sagte, als er (zu) (beten)  (aufhörend) ruhte,           L5.16  L9.18
+  einer seiner Lernenden zu ihm:
+  Herr, lehre uns beten,
+  so wie\2/ JOohA´NNES seine Lernenden lehrte.         \2/A,B: wie auch.
+  
+  2  Er ´sagte aber (zu) ihnen:
+  Wann gleichsam ihr betet´, (so) saget:
+  Vater,                                                   JJ63.16  M6.9
+  geheiligt werde dein Name.                            3M22.32  JC36.23
+  (Es) komme deine Regentschaft.       JJ52.7  M6.10  L17.20,21  1K15.24
+  Werdenge(mach)t werde dein Wille,
+  wie im Himmel, also auch gebiets (des) Erdlands.
+
+  3  Unser Brot, das übersubstante\1/,                             M6.11
+  ´gib uns täglich\2/.                     VG30.8  \2/A,B: das tägliche.
+                \1/w: (dar)aufseiende; e: nach dem natürlichen kommende.
+                                  
+  4  Und (er)lasse uns unsere Verfehlungen,                 L5.20  R3.23
+  wie\1/ auch wir selber (er)lassen          L17.3  E4.32  \1/A,B: denn.
+  all(jed)em uns Schuldenden.                             MK11.25  K3.13
+  Und nich(t) (mög)est du uns                                   M6.12,13  
+  in Versuchung ´hineinbringen.                          J17.15  1K10.13
+        
+
+72. GEMÄSS LuUKA´S, L11
+WER GLÜCKSELIG IST
+  28  Er aber, er sagte:
+  (Das) bleibt daher:
+  Glückselige (sind)                                              L12.37
+  die Hörenden das Wort des Gottes                             LB119.1,2
+  und (die) (es) Bewahrenden\1/.                         L8.15,21  EH1.3
+
+
+73. GEMÄSS LuUKA´S, L11
+DAS ZEICHEN FÜR DIE GENERATION JESuU´ 
+UND DIE RICHTER DIESER GENERATION
+  29  Aber (indem) die Mengen geschart wurden,
+  fing er an (zu) sagen:
+  Die diese Generation                                     M12.39  M16.4
+  ist (eine) böse Generation;                                    LB95.10
+  sie sucht (ein) Zeichen,                         L11.16  L23.8  1K1.22
+  und (ein) Zeichen wird ihr nicht gegeben werden,
+  als nur das Zeichen (des) JOoNA´S.
+
+  30  So\1/, wie JOoNA´S                        M12.40  \1/A,B: Denn so.
+  den Niniviten (ein) Zeichen ´geworden,                  JN2.1 JN3.3-10
+  also wird auch der Sohn des Menschen
+  (es) der dieser Generation sein.      
+
+  31  (Die) Regentin (des) Südens                       1R10.7-9  M12.42
+  wird erweckt werden in dem Gericht                               J5.22
+  mit den Menschen\1/ der dieser Generation,            \1/A,B: Männern.
+  und sie wird sie verurteilen, 
+  da sie aus den Enden des Erdlands ´kam,
+  (um) die Weisheit SOLOMOo´Ns (zu) hören,                       2W9.1-8
+  und ´gewahre! Mehr (als) SOLOMOo´N (ist) hier.           R9.5  P2.9-11
+
+
+74. GEMÄSS LuUKA´S, L13
+DIE WAHL ZWISCHEN MITDENKEN UND WEGLÖSUNG
+  4  Oder jene, die achtzehn,
+  auf die der Turm in dem SILOoA´M ´fiel
+  und sie umbrachte,
+  meinet ihr, dass sie, (ja) sie, (allein) Schuldner ´wurden
+  neben all den Menschen,
+  den in JÄRuUSALE´M Herabwohnenden?
+
+  5  (Oder) ist's nicht (so)?
+  Ich sage euch jedoch:
+  So ihr nich(t) mitdenkt´,                                   JC18.30-32
+  werdet ihr euch alle ebenso gänzlich weglösen                    A3.19
+
+
+75. GEMÄSS LuUKA´S, L18
+WESSEN DIE REGENTSCHAFT DES GOTTES IST UND WIE MAN IN SIE HINEINKOMMT
+  15  Sie brachten ihm aber auch
+  die Babys herzu, auf dass er sie berühre;                      MK10.13
+  aber die Lernenden,                                             M19.13
+  (dies) ´gewahrt(hab)end, verwarnten sie.
+
+  16  Der JESuU´S aber                                            M19.14
+  rief sie herzu (und) sagte:
+  ´Lasset die Spielenden zu mir kommen                  MK10.14  1K14.20
+  und wehret ihnen nich(t),                                        1P2.2
+  denn solcher   
+  ist die Regentschaft des Gottes.
+
+  17  AME´N, ich sage euch:                                      MK10.15
+  Wer gleichsam 
+  die Regentschaft des Gottes nich(t) empfängt´
+  wie (ein) Spielendes,
+  ´kommt´ nicht, (ja) nich(t), in sie hinein.                      M18.3
+
+
+76. GEMÄSS LuUKA´S, L18
+WIE DEM JESuU´ NACHFOLGENDEN ERSTATTET WIRD
+  28  Aber der PÄ´TROS ´sagte:                                    M19.27
+  ´Gewahre!                                                      MK10.28
+  Wir, wir ließen alles
+  und folgten dir (nach).                                          L5.11
+
+  29  Er aber ´sagte (zu) ihnen:                                 MK10.29
+  AME´N, ich sage euch:                                           L14.26
+  Nicht  e i n e r  ist,
+  der (da) lässt Haus oder Weib oder Brüder                       M19.29
+  oder Eltern oder                                                5M33.9
+  um der Regentschaft des Gottes willen,
+
+  30  der nicht\1/, (ja) nich(t),                        \1/w: ob nicht.
+  (ein) Vielfältiges ´(da)vonnehme                       M19.29  MK10.30
+  in der dieser Frist
+  und in dem kommenden Äon äonisches Leben.                       EH2.10
+
+
+77. GEMÄSS LuUKA´S, L20
+DIE FRAGE NACH JESuU´ AUTORITÄT
+  1  Und es ´wurde\1/ in einem der Tage,                  \1/e: 32 nZtr.
+  (während) er das Volk in der Weihe(stät)te lehrte,
+  (er)\2/ und (die) wohlkündenden (Lernenden)\2/,
+  ´standen die Anfangspriester und die Schrift(kund)igen
+  samt den Vorrangigen auf                               M21.23  MK11.27
+                                \2-2/A,B: und (als) Wohlkündender (war).
+  2  und sagten zu ihm                                           MK11.28
+  (als) Sagende: Sage uns,
+  in was für einer Autorität tust du dies,                          A4.7
+  oder wer ist der, (der) dir diese Autorität ´gab?
+
+  3  Antwortend aber                                              M21.24
+  ´sagte er zu ihm\1/, (dem) (Fragenden)\1/:            \1-1/A,B: ihnen.
+  Auch ich, (ja) ich,                                    MK11.29  
+  werde euch (in) (Bezug) (auf) (ein) Wort fragen,
+  und saget (es) mir:
+
+  4  Die Taufe (des)\1/ JOohA´NNES,                        M21.25  L7.29
+  war sie aus (dem) Himmel                                       MK11.30
+  oder aus (den) Menschen?              \1/so A,B; in S: (ja) die (des).
+
+  7  Und sie antworteten,                                M21.27  MK11.33
+  (dass) (sie) nich(t) gewahrt haben, woher (sie) (sei).          1K1.19
+  
+  8  Und antwortend\1/ ´sagte er (zu) ihnen:        \1/A,B: der JESuU´S.
+  (So) aber sage (auch) ich, (ja) ich, euch nicht,
+  in was für einer Autorität ich dies tue.
+        
+
+78. GEMÄSS LuUKA´S, L21
+DURCH JESuU´S ANGEKÜNDIGTE ZEICHEN UND VERFOLGUNG
+  9  Wann gleichsam aber ihr höret´                                M24.6
+  (in) (Bezug) (auf) Streite und Aufruhre,                        MK13.7
+  nich(t) (soll)tet ihr erschreckt werden;                        VG3.25
+  denn bindend ist,
+  (dass) dies vorher ´werde,
+  jedoch (ist) nicht sofort die Vollendigung.                      EH6.4
+
+  10  Dann sagte er (zu) ihnen:
+  (Es) wird erweckt werden                                        2W15.6
+  Nation auf Nation                                        M24.7  MK13.8
+  und Regentschaft auf Regentschaft (zu);
+
+  11  außerdem große Beben
+  und orte(wei)se Magerungen                             A11.28  EH6.6,8
+  und Pestarten werden sein,
+  außerdem Furchtbar(keit)en
+  und große Zeichen vom Himmel werden sein.                JL3.3  EH6.12
+
+  19  In eurem Untenbleiben                   L8.15  R5.3  H10.36  2P1.6
+  erwerbet\1/ eure Seelen.  2W15.7  H10.39  \1/A,B: werdet ihr erwerben.
+                                         
+
+79. GEMÄSS LuUKA´S, L21
+DAS KOMMEN DES SOHNES DES MENSCHEN
+  25  Und Zeichen werden sein                            M24.29  MK13.24
+  in Sonne und Mond und Gestirnen,                     EH6.12,13  EH8.10
+  und gebiets des Erdlands                                       JL3.3,4
+  (ist) (dann) Bedrücktsein (der) Nationen,
+  auch in(folge) (der) Ganglosigkeit
+  (durch) (den) Hall (des) Meeres
+  und (die) Rüttelung,
+
+  26  (indem) (die) Menschen erkalten\1/                \1/a: entseelen.
+  von Furcht und Vermeinen\2/                    Z1.17  \2/w: Hinmeinen.
+  (durch) die (auf) der Bewohnten     
+  (zu)\3/ (werden) Anfangenden\3/;                  \3-3/A,B: Kommenden.
+  denn die Vermögen(skräft)e der Himmel                           JJ34.4
+  werden gerüttelt werden.              JL2.10  CG2.6,21  H12.26  2P3.10
+            
+  27  Und dann wird (man)                                M24.30  MK13.26
+  den Sohn des Menschen eraugen                                    D7.13
+  (als) in (einer) Wolke Kommenden                         M26.64  EH1.7
+  mit viel Vermögen und Herrlichkeit.                              L9.26
+
+  28  (Indem) aber diese (zu) werden anfangen,
+  richtet euch empor
+  und (er)hebet eure Häupter,
+  dieweil eure Entlösung naht.
+
+
+80. GEMÄSS LuUKA´S, L21
+WIE DER FEIGENDE DIE NAHENDE REGENTSCHAFT DES GOTTES ANZEIGT
+  29  Und er ´sagte ihnen (eine) Parabel.
+  ´Gewahret den Feigenden und all die Bäume;             M24.32  MK13.28
+
+  30  wann gleichsam
+  sie schon (Blätter) ´hervortreiben´,
+  (dann) wisst\1/ ihr\1/,                                         M24.33
+  (ja) wisst\1/ ihr\1/ von euch\2/ selbst\2/               \1/a: wisset.
+  (als) (dies) Erblickende,
+  dass der Sommer schon nahe ist.           \2/e: aus eigener Erfahrung.
+                                                  
+  31  Also auch ihr,
+  wann gleichsam ihr
+  dies (als) Werdendes ´gewahret´,                              MK13.29
+  (dann) wisst\1/ ihr\1/,                          L19.11  \1/a: wisset.
+  dass die Regentschaft des Gottes nahe ist.
+
+  32  AME´N, ich sage euch:                                       M24.34
+  Nicht, (ja) nich(t),                                           MK13.30
+  ´kommt´ die diese Generation daneben,
+  bis\1/ (dies) alles ´geworden´.                 \1/A,B: bis gleichsam.
+
+  33  Der Himmel und das Erdland                                 MK13.31
+  werden danebenkommen,                                            M5.18
+  aber meine Worte                                                L16.17  
+  werden nicht, (ja) nich(t), danebenkommen.                      JJ40.8
+
+
+81. GEMÄSS LuUKA´S, L24
+JESuU´S SEGNET DIE LERNENDEN IN BEThANI´A. RÜCKKEHR DER LERNENDEN
+  50  Er ´führte sie aber hinaus
+  bis zu (der) (Ortschaft) BEThANI´A,
+  und seine Hände (er)hebend segnete er sie.                      5M33.1
+
+  51  Und es ´wurde: Indem er sie segnete,
+  (blieb) er (abseits) von ihnen ´stehen\1/.                       J6.62
+                \1/A,B ergänzen: und wurde hinaufgetragen in den Himmel.
+
+  52  Und sie - (zuvor) (zu) ihm (anbetend) hingekrochen -,       M28.17
+  sie kehrten zurück hinein in JÄRuUSALE´M
+  mit großer Freude,                                      J14.28  J16.22  
+
+  53  und sie waren fortwährend
+  in der Weihe(stät)te                                A2.46  A3.1  A5.42
+  (als) den Gott Segnende\1/.                   \1/A,B: Segnende, AME´N.
+  
+  Wohlkunde\2/ gemäß LuUKA´S\2/          \2-2/so S; in B: Gemäß LuUKA´S.
+
+
+82. GEMÄSS JOohA´NNES, J1
 DAS WORT ALS GOTT, ALS WERDENMACHENDES UND LICHT
   1  Im Anfang war das\1/ Wort\1/,                  1M1.1  1J1.1  VG8.22
   und das Wort war zu dem Gott,                                    1J1.2  
@@ -117,7 +1796,7 @@ DAS WORT ALS GOTT, ALS WERDENMACHENDES UND LICHT
   und das Finstere ´nahm es nicht herab.                           J3.19
           
 
-6. GEMÄSS JOohA´NNES, J1
+83. GEMÄSS JOohA´NNES, J1
 DAS WORT ALS LICHT UND FLEISCH UND HERRLICHKEIT
   9  (Dies)es\1/ war das wahrhaftige Licht,     M4.16  J12.46  \1/a: Er.
   das all(jed)en Menschen erlichtet,                        J9.39  1J2.8
@@ -152,7 +1831,7 @@ DAS WORT ALS LICHT UND FLEISCH UND HERRLICHKEIT
   seitens (des) Vaters,                                      J6.46  H1.3
   voller Gnade und Wahrheit.                                J1.17  E4.21
 
-7. GEMÄSS JOohA´NNES, J1
+84. GEMÄSS JOohA´NNES, J1
 GNADE UND WAHRHEIT DURCH DEN ALLEINIGGEWORDENEN GOTT
   16  Da aus seiner Vervollständigung  R13.10  E1.23  E4.13  K1.19  K2.9
   wir alle ´nahmen,                                                A4.33           
@@ -171,7 +1850,7 @@ GNADE UND WAHRHEIT DURCH DEN ALLEINIGGEWORDENEN GOTT
   jener leitet (ihn) (her).                                       M11.27
 
 
-8. GEMÄSS JOohA´NNES, J1
+85. GEMÄSS JOohA´NNES, J1
 DAS LAMM DES GOTTES
   28  (All) dies ´wurde in BEThANI´A,
   jenseits des JORDA´NES-Stromes\1/,                             M3.6,13
@@ -187,7 +1866,7 @@ DAS LAMM DES GOTTES
   des Kosmos enthebende.                                    1J2.2  1J3.5
                                                         \2/e: JOohA´NNES 
 
-9. GEMÄSS JOohA´NNES, J2
+86. GEMÄSS JOohA´NNES, J2
 DIE HOCHZEIT ZU KANA´; DER ANFANG DER ZEICHEN
   1  Und (in) dem dritten Tag\1/                          \1/e: 29 nZtr.
   ´wurde (eine) Hochzeit                                   H13.4  EH19.7
@@ -206,7 +1885,7 @@ DIE HOCHZEIT ZU KANA´; DER ANFANG DER ZEICHEN
                                                         \1/A,B: Und der.
 
 
-10. GEMÄSS JOohA´NNES, J2
+87. GEMÄSS JOohA´NNES, J2
 DAS ZEICHEN DER WIEDERAUFRICHTUNG DES LEIBESTEMPELS
   18  Daher antworteten die Juden
   und ´sagten (zu) ihm:
@@ -217,7 +1896,7 @@ DAS ZEICHEN DER WIEDERAUFRICHTUNG DES LEIBESTEMPELS
   und ´sagte (zu) ihnen:        
   Löset den diesen Tempel,                                M26.61  M27.40
   und in drei Tagen
-  werde ich ihn aufrichten*.                                     MK14.58
+  werde ich ihn aufrichten.                                      MK14.58
 
   20  Daher ´sagten die Juden:
   (In) sechsundvierzig Jahren
@@ -227,33 +1906,32 @@ DAS ZEICHEN DER WIEDERAUFRICHTUNG DES LEIBESTEMPELS
 
   21  Jener aber sagte (dies)                                      L24.7
   betreffs des Tempels des\1/ Leibes.                      M12.6  1K6.19
-                                                    \1/A,B: des  seines.  
+                                                     \1/A,B: des seines.  
 
 
-11. GEMÄSS JOohA´NNES, J2
+88. GEMÄSS JOohA´NNES, J2
 ZEICHEN, ABER KEIN SICH-ANTREUN JESuU´
   23  Als er aber
   in der (Stadt) hIÄROSO´LYMA war
   in (der) (Zeit) des PA´S ChA\1/,           J2.13  \1/e: hebr. Pä´SaCh.
   in (der) (Zeit) des Festes,                                      J4.45  
-  treuten* viele in seinen Namen,                       J7.31  J11.45,47
+  treuten viele in seinen Namen,                        J7.31  J11.45,47
   (als) Schauende seine Zeichen,                            J2.11  J4.48
   die er tat;                                 J6.2,30  J20.30,31  J12.11
 
   24  er aber, der JESuU´S,
-  nicht treute* er sich selbst ihnen an,                           J6.15
-  deswegen,
-  (weil) er\1/ (sie) alle kannte,                      J6.64  \1/so A,B.
+  nicht treute er sich selbst ihnen an,                           J6.15
+  deswegen, (weil) er\1/ (sie) alle kannte,            J6.64  \1/so A,B.
 
   25  und da er nicht Bedarf hatte,                               J16.30
   dass jemand bezeuge   
   betreffs des Menschen,                                     M9.4  J1.48
   denn er, er wusste,                                            LB139.2
-  was\2/ in dem Menschen war.                                     EH2.23
-                                  \2/so A,B; in S: was war in, (ja) was.
+  was\1/ in dem Menschen war.                                     EH2.23
+                                  \1/so A,B; in S: was war in, (ja) was.
 
 
-12. GEMÄSS JOohA´NNES, J3
+89. GEMÄSS JOohA´NNES, J3
 JESuU´S UND NIKO´DEMOS. DAS ERWERDEN AUS WASSER UND GEIST
   1  (Es) war\1/ aber                                     \1/e: 29 nZtr.
   (ein) Mensch aus den Pharisäern,
@@ -262,7 +1940,7 @@ JESuU´S UND NIKO´DEMOS. DAS ERWERDEN AUS WASSER UND GEIST
 
   4  (Da) sagt der NIKO´DEMOS zu ihm:
   Wie vermag (ein) Mensch, (der) (ein) Greis ist,
-  (wieder) (zu) erwerden*?     
+  (wieder) (zu) erwerden?     
         
   5  JESuU´S antwortete:
   AME´N, AME´N, ich sage dir:
@@ -291,7 +1969,7 @@ JESuU´S UND NIKO´DEMOS. DAS ERWERDEN AUS WASSER UND GEIST
   aus dem Wasser\2/ und dem\2/ Geist.         1K2.11  \2-2/nicht in A,B.
         
 
-13. GEMÄSS JOohA´NNES, J3
+90. GEMÄSS JOohA´NNES, J3
 JESuU´S UND NIKO´DEMOS. WODURCH WIR ÄONISCHES LEBEN ERHALTEN
   9  (Da) antwortete NIKO´DEMOS
   und ´sagte (zu) ihm:
@@ -316,7 +1994,7 @@ JESuU´S UND NIKO´DEMOS. WODURCH WIR ÄONISCHES LEBEN ERHALTEN
   der Sohn des Menschen.        
 
 
-14. GEMÄSS JOohA´NNES, J3
+91. GEMÄSS JOohA´NNES, J3
 JESuU´S UND NIKO´DEMOS. WODURCH WIR ÄONISCHES LEBEN ERHALTEN
   14  Und so wie MOoUSE´S
   die Schlange in der Ödnis erhöhte,                              4M21.9
@@ -334,7 +2012,7 @@ JESuU´S UND NIKO´DEMOS. WODURCH WIR ÄONISCHES LEBEN ERHALTEN
   sondern äonisches Leben habe.                             J5.24  R6.23
 
 
-15. GEMÄSS JOohA´NNES, J3
+92. GEMÄSS JOohA´NNES, J3
 JESuU´S UND NIKO´DEMOS. WOZU DAS LICHT GESANDT IST
   17  Denn nicht schickte der Gott                                1J4.14
   den Sohn in den Kosmos,                                   J12.47  G4.4
@@ -366,7 +2044,7 @@ JESuU´S UND NIKO´DEMOS. WOZU DAS LICHT GESANDT IST
      kommt zu dem Licht, auf dass seine Gewirkten offenbart werden´, da.
 
 
-16. GEMÄSS JOohA´NNES, J3
+93. GEMÄSS JOohA´NNES, J3
 DER VON OBEN KOMMENDE, WAS IHM GEGEBEN IST, 
 UND WAS SICH AN DER STELLUNG ZU IHM ENTSCHEIDET
   31  Der von oben Kommende
@@ -390,10 +2068,10 @@ UND WAS SICH AN DER STELLUNG ZU IHM ENTSCHEIDET
   der dem Sohn Unfügsamseiende                                      R2.8
   wird Leben nicht eraugen,                                       1J5.12
   sondern der Zorn des Gottes
-  bleibt\3/ auf ihn (zu).                          L3.7  \3/A,B: bleibt.
+  bleibt\1/ auf ihn (zu).                          L3.7  \1/A,B: bleibt.
 
 
-17. GEMÄSS JOohA´NNES, J4
+94. GEMÄSS JOohA´NNES, J4
 GESPRÄCH ÜBER DAS WASSER UND DAS TRINKEN
   7  (Da) kommt ein Weib aus dem SAMARI´A,
   Wasser (zu) schöpfen.
@@ -410,7 +2088,7 @@ GESPRÄCH ÜBER DAS WASSER UND DAS TRINKEN
   [Denn nicht gebrauchen\1/ (die) Juden 
   (etwas) zusammen (mit) (den) Samaritern.]\2/     ÄR4.2,3  \2/so S*,A,B
            
-  10  JESuU´S  antwortete
+  10  JESuU´S antwortete
   und ´sagte (zu) ihr:
   Wenn du das Geschenk des Gottes                                 2K9.15
   gewahrt hättest
@@ -420,7 +2098,7 @@ GESPRÄCH ÜBER DAS WASSER UND DAS TRINKEN
   und er gäbe dir\1/ lebendes Wasser.              JR2.13  JJ12.3  J7.37
           
 
-18. GEMÄSS JOohA´NNES, J4
+95. GEMÄSS JOohA´NNES, J4
 GESPRÄCH ÜBER DAS ANBETEN
   19  Das Weib sagt (zu) ihm:
   Ich\1/ schaue,                               L7.39  \1/A,B: Herr, ich.
@@ -433,7 +2111,7 @@ GESPRÄCH ÜBER DAS ANBETEN
   (anbetend) hin(zu)kriechen.                             L24.52  H10.22
 
 
-19. GEMÄSS JOohA´NNES, J4
+96. GEMÄSS JOohA´NNES, J4
 OFFENBARUNG ALS MÄSSI´AS
   25  (Da) sagt das Weib (zu) ihm:
   Ich gewahre,
@@ -447,7 +2125,7 @@ OFFENBARUNG ALS MÄSSI´AS
   der (zu) dir Sprechende.                                         J9.37
 
 
-20. GEMÄSS JOohA´NNES, J4
+97. GEMÄSS JOohA´NNES, J4
 GESPRÄCH MIT DEN LERNENDEN ÜBER DAS ESSEN UND DIE ERNTE
   34  Der JESuU´S sagt (zu) ihnen:
   Meine Speise ist,                                         M4.4  M26.39
@@ -468,7 +2146,7 @@ GESPRÄCH MIT DEN LERNENDEN ÜBER DAS ESSEN UND DIE ERNTE
   und (ein) anderer der Erntende.                               A2.36,41
 
 
-21. GEMÄSS JOohA´NNES, J4
+98. GEMÄSS JOohA´NNES, J4
 DAS TREUN DER SAMARITER
   40  Als daher die Samariter zu ihm ´kamen,
   erfragten sie (bittend) (von) ihm,                              A10.48
@@ -489,15 +2167,15 @@ DAS TREUN DER SAMARITER
                             \1-1/A,B: außerdem (zu) dem Weib sagten sie.
         
 
-22. GEMÄSS JOohA´NNES, J5
+99. GEMÄSS JOohA´NNES, J5
 HEILUNG EINES SCHWACHSEIENDEN IN BEThSAThA´              
   1  Nach diesem\1/ war das Fest\2/ der Juden,             J6.4  J7.2,10
   und der JESuU´S ´stieg hinauf                                  5M16.16
   hinein in hIÄROSO´LYMA.                                          J2.13
                                      \1/e: 30 nZtr.  \2/e: Pä´SaCh-Fest.
           
-  2  (Es) ist° aber in der (Stadt) hIÄROSO´LYMA
-  (bei) dem Schaf(tor) (ein) Teich\2/      N3.1  N12.39  \2/w: Schwimme.
+  2  (Es) ist aber in der (Stadt) hIÄROSO´LYMA
+  (bei) dem Schaf(tor) (ein) Teich\1/      N3.1  N12.39  \1/w: Schwimme.
   - das (hierfür) gesagte (Wort) (in) Hebräisch
   (ist) »BEThSAThA´« -, (der) fünf Hallen hat.        
 
@@ -517,7 +2195,7 @@ HEILUNG EINES SCHWACHSEIENDEN IN BEThSAThA´
   enthebe deine (Liege)matte und wandle.                    M9.6  A3.7,8
 
 
-23. GEMÄSS JOohA´NNES, J5
+100. GEMÄSS JOohA´NNES, J5
 JESuU´ VERFOLGTWERDEN UND SEIN ZEUGNIS 
 BEZÜGLICH SEINER ABHÄNGIGKEIT VOM VATER
   16  Und deshalb
@@ -546,7 +2224,7 @@ BEZÜGLICH SEINER ABHÄNGIGKEIT VOM VATER
           
 
 
-24. GEMÄSS JOohA´NNES, J5
+101. GEMÄSS JOohA´NNES, J5
 DIE GERICHTSVOLLMACHT DES SOHNES
   21  Denn (so)\1/, wie der Vater                      \1/A,B: eben(so).
   die Erstorbenen erweckt und leben macht,                5M32.39  1S2.6
@@ -565,7 +2243,7 @@ DIE GERICHTSVOLLMACHT DES SOHNES
   den ihn sendenden Vater.
 
 
-25. GEMÄSS JOohA´NNES, J5
+102. GEMÄSS JOohA´NNES, J5
 DIE GERICHTSVOLLMACHT DES SOHNES
   24  AME´N, AME´N, ich sage euch:
   Der mein Wort Hörende
@@ -583,7 +2261,7 @@ DIE GERICHTSVOLLMACHT DES SOHNES
                                      \1/w: (gebiets) der; (seitens) der.
 
 
-26. GEMÄSS JOohA´NNES, J5
+103. GEMÄSS JOohA´NNES, J5
  JESuU´S IST DURCH DEN VATER UND SEIN WORT BEZEUGT
   36  Ich aber,
   ich habe größeres\1/ Bezeugen\1/                        1J5.9  EH19.10
@@ -606,7 +2284,7 @@ DIE GERICHTSVOLLMACHT DES SOHNES
   auf dass ihr Leben habet.                             M23.37  J1.11,12
 
 
-27. GEMÄSS JOohA´NNES, J5
+104. GEMÄSS JOohA´NNES, J5
 JESuU´S IST DURCH MOoUSE´S BEZEUGT
   45  Nich(t) meinet,
   dass ich, (ja) ich, euch verklagen werde
@@ -619,14 +2297,14 @@ JESuU´S IST DURCH MOoUSE´S BEZEUGT
   getreut (hättet),                                              5M18.15
   (hättet) ihr gleichsam (auch) mir getreut,
   denn mich betreff(end)                                  L24.44  LB40.8
-  hat\2/ jener geschrieben\2/.          1M49.10  J1.45  \2/A,B: schrieb.
+  hat\1/ jener geschrieben\1/.          1M49.10  J1.45  \1/A,B: schrieb.
 
   47  Wenn ihr aber jenes Schriften
   nicht treut,                                                    L16.31
   wie werdet ihr den, (ja) meinen Reden treun?
 
 
-28. GEMÄSS JOohA´NNES, J6
+105. GEMÄSS JOohA´NNES, J6
 JESuU´S SPRICHT ZU DER MENGE ÜBER DAS BROT
   27  Wirket Verspeisbares\1/,                                     J4.32
   nich(t)\1/ das gänzlich weggelöst(sei)ende,                     L12.20
@@ -654,7 +2332,7 @@ JESuU´S SPRICHT ZU DER MENGE ÜBER DAS BROT
                                       \1/A,B: Zeichen daher ... (ja) du.
 
 
-29. GEMÄSS JOohA´NNES, J6
+106. GEMÄSS JOohA´NNES, J6
 JESuU´S SPRICHT ZU DER MENGE ÜBER DAS BROT
   33  Denn das Brot des Gottes                             JR15.16  M4.4
   ist der Herabsteigende aus dem Himmel                            J6.51
@@ -677,7 +2355,7 @@ JESuU´S SPRICHT ZU DER MENGE ÜBER DAS BROT
   und (doch) nicht treut.                                          J6.64
 
 
-30. GEMÄSS JOohA´NNES, J6
+107. GEMÄSS JOohA´NNES, J6
 WER ZU JESuU´S KOMMT, WOZU ER HERABSTIEG 
 UND WAS DER WILLE DES VATERS IST
   37  Alles, was mir der Vater gibt,                              J10.29
@@ -701,9 +2379,9 @@ UND WAS DER WILLE DES VATERS IST
   in dem letzten Tag.                                D12.13  J6.39,44,54
 
 
-31. GEMÄSS JOohA´NNES, J6
+108. GEMÄSS JOohA´NNES, J6
 DAS MURREN DER JUDEN. JESuU´ BELEHREN, WIE MAN ZU IHM KOMMT
-  41  Daher murrten die Juden  ihn betreff(end),
+  41  Daher murrten die Juden ihn betreff(end),
   da er ´sagte:
   Ich, ich bin das Brot,                                     J6.33,35,51  
   das\1/ ´herabgestiegene aus dem Himmel.                     \1/a: der.
@@ -728,7 +2406,7 @@ DAS MURREN DER JUDEN. JESuU´ BELEHREN, WIE MAN ZU IHM KOMMT
   in dem letzten Tag.                                J6.39,40,54  J11.24
 
 
-32. GEMÄSS JOohA´NNES, J6
+109. GEMÄSS JOohA´NNES, J6
 DAS ESSEN DES FLEISCHES UND TRINKEN DES BLUTES DES MENSCHENSOHNES. 
 WER ÄONISCHES LEBEN HAT
   47  AME´N, AME´N, ich sage euch:
@@ -757,7 +2435,7 @@ WER ÄONISCHES LEBEN HAT
         
 
 
-33. GEMÄSS JOohA´NNES, J6
+110. GEMÄSS JOohA´NNES, J6
 DAS ESSEN DES FLEISCHES UND TRINKEN DES BLUTES DES MENSCHENSOHNES. 
 WER ÄONISCHES LEBEN HAT
   54  Der Kauende mein Fleisch
@@ -782,7 +2460,7 @@ WER ÄONISCHES LEBEN HAT
   lehrend in KAPhARNAuU´M.                                  M4.13  L4.31
 
 
-34. GEMÄSS JOohA´NNES, J6
+111. GEMÄSS JOohA´NNES, J6
 DAS MURREN DER LERNENDEN UND JESuU´ ANTWORT. 
 NUR EINIGE TREUENDE BLEIBEN BEI IHM
   60  Daher, viele Hörende aus seinen Lernenden                    L6.17
@@ -792,7 +2470,7 @@ NUR EINIGE TREUENDE BLEIBEN BEI IHM
 
   61  JESuU´S\1/ (hatte) daher
   (zur) ´Kennt(nis) ge(nommen)\1/ in sich selber,
-  dass dieserhalb seine Lernenden murren,                                          J6.41
+  dass dieserhalb seine Lernenden murren,                          J6.41
   und er ´sagte (zu) ihnen:
   Verstrickt euch dies?                                    M11.6  M13.21
                               \1-1/B,R: Aber der JESuU´S, gewahrthabend;
@@ -812,7 +2490,7 @@ NUR EINIGE TREUENDE BLEIBEN BEI IHM
   und nicht mehr wandelten sie mit ihm.
 
 
-35. GEMÄSS JOohA´NNES, J6
+112. GEMÄSS JOohA´NNES, J6
 DAS ZEUGNIS DES PÄ´TROS. JESuU´S GIBT HINWEIS AUF JuU´DAS
   67  Daher ´sagte der JESuU´S (zu) den Zwölf:
   Wollt nich(t) auch ihr, (ja) ihr, weggehen?
@@ -835,7 +2513,7 @@ DAS ZEUGNIS DES PÄ´TROS. JESuU´S GIBT HINWEIS AUF JuU´DAS
      \2-2/B,C,R: euch, die Zwölf, auserwählte ich.  \3/B,C,R: ist einer.
 
 
-36. GEMÄSS JOohA´NNES, J7
+113. GEMÄSS JOohA´NNES, J7
 JESuU´ GESPRÄCH MIT SEINEN UNTREUNDEN BRÜDERN 
 WEGEN DES GEHENS ZUM LAUBHÜTTENFEST
   1  Nach diesem wandelte\1/ der JESuU´S                  \1/e: 31 nZtr.
@@ -854,11 +2532,11 @@ WEGEN DES GEHENS ZUM LAUBHÜTTENFEST
 
   7  Der Kosmos vermag euch nicht (zu) hassen;                    J15.19
   mich aber hasst er,                                   J3.19,20  J15.18
-  da ich\2/ bezeuge\2/, dass seine Gewirkten böse sind.
-                              \2/B,R: ich, ich bezeuge ihn betreff(end).
+  da ich\1/ bezeuge\1/, dass seine Gewirkten böse sind.
+                              \1/B,R: ich, ich bezeuge ihn betreff(end).
 
 
-37. GEMÄSS JOohA´NNES, J7
+114. GEMÄSS JOohA´NNES, J7
 ANKÜNDIGUNG DES GEISTES ALS LEBENSWASSER
   37  Aber in dem letzten Tag,                                      J7.2
   dem großen (Tag) des Festes,                                   3M23.36
@@ -883,7 +2561,7 @@ ANKÜNDIGUNG DES GEISTES ALS LEBENSWASSER
                                             \2-2/B,R: beherrlicht wurde.  
 
 
-38. GEMÄSS JOohA´NNES, J7
+115. GEMÄSS JOohA´NNES, J7
 DIE ZUR FESTNAHME UNFÄHIGEN UNTERKNECHTE
   44  Einige aber aus ihnen sagten\1/,                  \1/B,R: wollten.
   (dass) (sie) ihn festnehmen (sollten),
@@ -896,15 +2574,15 @@ DIE ZUR FESTNAHME UNFÄHIGEN UNTERKNECHTE
   Weshalb ´führtet ihr ihn nicht (ab)?
 
   46  Aber die Unterknechte antworteten:
-  Niemals sprach\3/ (ein) Mensch also,                             M7.29
-  wie  der  dieser Mensch spricht.                                L20.39
+  Niemals sprach (ein) Mensch also,                                M7.29
+  wie der dieser Mensch spricht.                                  L20.39
 
   47  (Da) antworteten ihnen die Pharisäer:
   (Ob) nich(t) auch ihr, (ja) ihr,
   beirrt worden seid?                                      M27.63  J7.12
 
 
-39. GEMÄSS JOohA´NNES, J8
+116. GEMÄSS JOohA´NNES, J8
 JESuU´S, dAS LICHT, SEIN WAHRSEIN UND SEIN BEZEUGTSEIN
   1  -\1/                              \1/Verse 1-11 in R; nicht in S,B.
 
@@ -931,7 +2609,7 @@ JESuU´S, dAS LICHT, SEIN WAHRSEIN UND SEIN BEZEUGTSEIN
                  \1-1/B,R: (Da) antwortete JESuU´S und ´sagte (zu) ihnen.
 
 
-40. GEMÄSS JOohA´NNES, J8
+117. GEMÄSS JOohA´NNES, J8
 DIE VATERSCHAFT DES GOTTES UND DES DIA´BOLOS
   41  Ihr, ihr tut die Gewirkten eures Vaters.
   Sie sagten (zu) ihm:
@@ -960,9 +2638,9 @@ DIE VATERSCHAFT DES GOTTES UND DES DIA´BOLOS
                                   \1-1/a: hat er nicht Stand ge(nomm)en.
 
 
-41. GEMÄSS JOohA´NNES, J8
-Widerlegung der angeblichen Besessenheit. 
-Wer JESuU´ Wort hütet, wird den Tod nicht schauen
+118. GEMÄSS JOohA´NNES, J8
+WIDERLEGUNG DER ANGEBLICHEN BESESSENHEIT. 
+WER JESuU´ WORT HÜTET, WIRD DEN TOD NICHT SCHAUEN
   48  (Da) antworteten die Juden
   und sagten (zu) ihm:
   Sagen wir, (ja) wir, (dies) nicht ideal,
@@ -970,7 +2648,7 @@ Wer JESuU´ Wort hütet, wird den Tod nicht schauen
   und (einen) Dämon hast?                                 M12.24  J10.20
 
   49  JESuU´S antwortete und ´sagte:
-  Ich, ich habe \n/keinen Dämon,
+  Ich, ich habe keinen Dämon,
   sondern ich (halt)e meinen Vater wert,                           J5.23
   und ihr, ihr (halt)et mich unwert.                               MA1.6
 
@@ -987,8 +2665,8 @@ Wer JESuU´ Wort hütet, wird den Tod nicht schauen
   (bis) hinein in den Äon.                    J11.26  \2/B,C,R: schaut´.
 
 
-42. GEMÄSS JOohA´NNES, J8
-JESuU´S, größer als ABRAhA´M und vor dessen Werden
+119. GEMÄSS JOohA´NNES, J8
+JESuU´S, GRÖSSER ALS ABRAhA´M UND VOR DESSEN WERDEN
   52  (Da) sagten die Juden (zu) ihm:
   Nun haben wir (zur) Kennt(nis) ge(nomm)en,
   dass du (einen) Dämon hast.                                     J10.20
@@ -1018,7 +2696,7 @@ JESuU´S, größer als ABRAhA´M und vor dessen Werden
   und ´kam aus der Weihe(stät)te heraus.
 
 
-43. GEMÄSS JOohA´NNES, J9
+120. GEMÄSS JOohA´NNES, J9
 HEILUNG EINES BLIND ERWORDENEN
   1  UND (ALS) (MIT) (ANDEREN) (VOR)BEIFÜHRENDER
   ´gewahrte\1/ er (einen) Menschen,                       \1/e: 31 nZtr.
@@ -1049,7 +2727,7 @@ HEILUNG EINES BLIND ERWORDENEN
   und seine Augen öffnete.
 
 
-44. GEMÄSS JOohA´NNES, J10
+121. GEMÄSS JOohA´NNES, J10
 ERNEUTE FRAGE DER PHARISÄER UND VERANTWORTUNG DES BLIND ERWORDENEN
   28  Und sie beschimpften ihn 
   und sagten: Du, du bist (ein) Lernender (von) jenem,
@@ -1069,7 +2747,7 @@ ERNEUTE FRAGE DER PHARISÄER UND VERANTWORTUNG DES BLIND ERWORDENEN
   und er (doch) meine Augen öffnete.                              JJ42.7
 
 
-45. GEMÄSS JOohA´NNES, J9
+122. GEMÄSS JOohA´NNES, J9
 JESuU´S OFFENBART SICH DEM EINST BLINDEN
   35  Und JESuU´S hörte,
   dass sie ihn ´hinausgetrieben (hatten)
@@ -1080,14 +2758,14 @@ JESuU´S OFFENBART SICH DEM EINST BLINDEN
 
   39  Hinein\1/ in\1/ Urteil (ist's),                              J3.19
   (dass) ich, (ja) ich,
-  in  den  diesen Kosmos ´kam,                                 J12.46,47
-  auf dass die nich(t) Erblickenden  erblicken´                   M11.25
+  in den diesen Kosmos ´kam,                                   J12.46,47
+  auf dass die nich(t) Erblickenden erblicken´                    M11.25
   und die Erblickenden Blinde ´werden´.                M13.13-15  M23.16
                          \1/e: mit der Absicht des und dem Ergebnis des;
                               in A,B: Und der JESuU´S ´sagte: Hinein in.
 
 
-46. GEMÄSS JOohA´NNES, J10
+123. GEMÄSS JOohA´NNES, J10
 GEISTLICHE BLINDHEIT DER PHARISÄER
   40  Dies hörten
   (einige) aus den Pharisäern,
@@ -1103,7 +2781,7 @@ GEISTLICHE BLINDHEIT DER PHARISÄER
   (Daher) bleibt eure Verfehlung.                               R2.19,24
 
 
-47. GEMÄSS JOohA´NNES, J10
+124. GEMÄSS JOohA´NNES, J10
 DIE PARALLELE IN BEZUG AUF DEN HIRTEN UND DEN DIEB DER SCHAFE
   1  AME´N, AME´N, ich sage euch:
   Der nich(t) durch die Tür Hineinkommende                        JC34.2
@@ -1131,7 +2809,7 @@ DIE PARALLELE IN BEZUG AUF DEN HIRTEN UND DEN DIEB DER SCHAFE
   da sie nicht gewahren die Stimme der Fremden.                    EH2.2
 
 
-48. GEMÄSS JOohA´NNES, J10
+125. GEMÄSS JOohA´NNES, J10
 DIE TÜR DER SCHAFE UND IHRE BEDEUTUNG
   7  Daher ´sagte der JESuU´S nochmals (zu) ihnen:
   AME´N, AME´N, ich sage euch:
@@ -1157,7 +2835,7 @@ DIE TÜR DER SCHAFE UND IHRE BEDEUTUNG
   und (ein) Um-(und)-Um haben´.                                    J6.33  
 
 
-49. GEMÄSS JOohA´NNES, J10
+126. GEMÄSS JOohA´NNES, J10
 DER IDEALE HIRTE IM GEGENSATZ ZUM LOHNARBEITER
   11  Ich, ich bin der ideale Hirte.                             JJ40.11
   Der ideale Hirte                                            JC34.11-17
@@ -1183,15 +2861,15 @@ DER IDEALE HIRTE IM GEGENSATZ ZUM LOHNARBEITER
   sie (zu) ´setzen\1/,                                 \1/e: iSv opfern.
   und Autorität habe ich,
   sie nochmals (zu) ´nehmen;                             J2.19,21  A2.24
-  das  dieses In(nen)ziel
+  das dieses In(nen)ziel
   ´nahm ich seitens meines Vaters.                                J14.31
 
 
-50. GEMÄSS JOohA´NNES, J10
+127. GEMÄSS JOohA´NNES, J10
 DIE UNEINIGKEIT DER JUDEN IN BEZUG AUF JESuU´S; IHRE FRAGE
   19  (Ein) Riss ´wurde nochmals
   in(nerhalb) der Juden                                            J7.43
-  wegen  der  dieser Worte.
+  wegen der dieser Worte.
 
   20  Daher\1/ sagten viele aus ihnen:      J8.48,52  \1/A,B: Aber (es).
   (Einen) Dämon hat er, und er rast;                       M11.18  J7.20
@@ -1212,14 +2890,14 @@ DIE UNEINIGKEIT DER JUDEN IN BEZUG AUF JESuU´S; IHRE FRAGE
                                       \1/e: iSv hebst hinweg, hältst ab.
 
 
-51. GEMÄSS JOohA´NNES, J10
+128. GEMÄSS JOohA´NNES, J10
 DAS KENNZEICHEN UND DIE GEBORGENHEIT SEINER SCHAFE. 
 DIE GRÖSSE DES VATERS
   25  (Da) antwortete der JESuU´S:
   Ich ´sagte (es) euch, und nicht treut ihr;
   die Gewirkten,                                                   J5.36
   die ich, (ja) ich, tue im Namen meines Vaters,               J10.37,38
-  diese bezeugen  mich betreff(end);                                J3.2
+  diese bezeugen mich betreff(end);                                 J3.2
 
   26  jedoch ihr, nicht treut ihr,                          J8.47  1J4.6
   da ihr nicht aus den, (ja) meinen Schafen seid.           J5.38  J6.64
@@ -1244,7 +2922,7 @@ DIE GRÖSSE DES VATERS
   wir sind eins.                                               J17.11,21
 
 
-52. GEMÄSS JOohA´NNES, J10
+129. GEMÄSS JOohA´NNES, J10
 JESuU´S BEZEUGT SEINE GOTTESSOHNSCHAFT. 
 VERSUCH DER STEINIGUNG UND FESTNAHME
   31  Nochmals umfassten die Juden Steine,
@@ -1275,7 +2953,7 @@ VERSUCH DER STEINIGUNG UND FESTNAHME
   Sohn Gottes\1/ bin ich.             M27.43  J5.18  \1/A,B: des Gottes.
         
 
-53. GEMÄSS JOohA´NNES, J11
+130. GEMÄSS JOohA´NNES, J11
 JESuU´S OFFENBART SICH DER MA´RThA ALS DIE AUFERSTEHUNG UND DAS LEBEN
   21  Daher ´sagte die MA´RThA zu JESuU´S:
   Herr, wenn du hier (gewesen) wärest,
@@ -1295,7 +2973,7 @@ JESuU´S OFFENBART SICH DER MA´RThA ALS DIE AUFERSTEHUNG UND DAS LEBEN
   du die Herrlichkeit des Gottes eraugen wirst?                    J11.4
 
 
-54. GEMÄSS JOohA´NNES, J11
+131. GEMÄSS JOohA´NNES, J11
 JESuU´S OFFENBART SICH DER MA´RThA ALS DIE AUFERSTEHUNG UND DAS LEBEN
   20  Die MA´RThA daher,
   als sie hörte, dass JESuU´S kommt,
@@ -1323,7 +3001,7 @@ JESuU´S OFFENBART SICH DER MA´RThA ALS DIE AUFERSTEHUNG UND DAS LEBEN
                                         \1/J6.14  J12.46  J16.28  J18.37
 
 
-55. GEMÄSS JOohA´NNES, J11
+132. GEMÄSS JOohA´NNES, J11
 TREUN UND UNTREUN; BESCHLUSS, DEN JESuU´S ZU TÖTEN
   47  Daher ´führten die Anfangspriester und die Pharisäer
   (das) Synedrium zusammen und sagten:                      LB2.2  M26.3
@@ -1333,12 +3011,12 @@ TREUN UND UNTREUN; BESCHLUSS, DEN JESuU´S ZU TÖTEN
   48  So wir ihn (weiterhin) also (gewähren) ´lassen´,
   treun sie alle in ihn,                                       J12.17,19
   und die Römer werden kommen
-  und werden entheben\2/ (von) uns\1/ 
+  und werden entheben\1/ (von) uns\1/ 
   sowohl den Ort                   \1-1/e: wegnehmen, iSv uns verbieten.
   (als) auch die Nation.                                        J4.20,21
 
 
-56. GEMÄSS JOohA´NNES, J11
+133. GEMÄSS JOohA´NNES, J11
 BESCHLUSS, DEN JESuU´S ZU TÖTEN
   49  Einer aber, (ja) jemand aus ihnen,                            A4.6
   KAJA´PhAS,                                                 M26.3  L3.2
@@ -1349,7 +3027,7 @@ BESCHLUSS, DEN JESuU´S ZU TÖTEN
 
   50  aber (auch) nicht erwäget\1/ ihr,                   \1/a: rechnet.
   dass zusammenträglich ist,
-  dass (ein) ein(zig)er Mensch für das Volk ´wegertote                                    2K5.14
+  dass (ein) ein(zig)er Mensch für das Volk ´wegertote            2K5.14
   und nich(t) die ganze Nation sich gänzlich ´weglöse.            J18.14
 
   51  Dies aber ´sagte er nicht von sich selbst (aus),
@@ -1368,7 +3046,7 @@ BESCHLUSS, DEN JESuU´S ZU TÖTEN
   auf dass sie ihn umbringen.                              L19.47  J5.18
 
 
-57. GEMÄSS JOohA´NNES, J12
+134. GEMÄSS JOohA´NNES, J12
 DAS TODES- UND LEBENSGESETZ AM GETREIDEKORN ERKLÄRT
   24  AME´N, AME´N, ich sage euch:
   So nich(t) das Korn des Getreides,
@@ -1381,11 +3059,11 @@ DAS TODES- UND LEBENSGESETZ AM GETREIDEKORN ERKLÄRT
   25  Der seine Seele Befreundende
   löst sie gänzlich weg,                                  M10.39  M16.25
   und der seine Seele Hassende
-  in  dem  diesem Kosmos                                          MK8.35
+  in dem diesem Kosmos                                            MK8.35
   wird sie hinein in äonisches Leben bewahren.
 
 
-58. GEMÄSS JOohA´NNES, J12
+135. GEMÄSS JOohA´NNES, J12
 JESuU´ GEBET UND DES VATERS ANTWORT
   27  Nun ist meine Seele erregt worden,                   LB6.4  M26.38
   und was (ist's);      
@@ -1411,7 +3089,7 @@ JESuU´ GEBET UND DES VATERS ANTWORT
   sondern euretwegen.                                             J11.42
 
 
-59. GEMÄSS JOohA´NNES, J12
+136. GEMÄSS JOohA´NNES, J12
 DAS DEN KOSMOS BETREFFENDE GERICHT.
 DIE ERHÖHUNG DES MENSCHENSOHNES IM TOD. 
 AUFFORDERUNG, IM LICHT ZU WANDELN UND IHM ZU TREUN
@@ -1439,7 +3117,7 @@ AUFFORDERUNG, IM LICHT ZU WANDELN UND IHM ZU TREUN
   wurde er ´verborgen, (weg) von ihnen.                            J8.59
 
 
-60. GEMÄSS JOohA´NNES, J12
+137. GEMÄSS JOohA´NNES, J12
 DAS UNTREUN UND DAS LIEBEN DER HERRLICHKEIT DER MENSCHEN
   37  Aber (obwohl) er
   so viele Zeichen getan hatte                             J2.11  J11.47
@@ -1468,7 +3146,7 @@ DAS UNTREUN UND DAS LIEBEN DER HERRLICHKEIT DER MENSCHEN
   und er sprach ihn betreff(end).                                  JJ6.5
 
 
-61. GEMÄSS JOohA´NNES, J12
+138. GEMÄSS JOohA´NNES, J12
 DIE BEDEUTUNG DES TREUNS HINEIN IN JESuU´S 
 UND DAS INNENZIEL DES VATERS
   44  JESuU´S aber schrie (laut) und ´sagte:
@@ -1492,7 +3170,7 @@ UND DAS INNENZIEL DES VATERS
   in dem letzten Tag.                                              J6.39
 
 
-62. GEMÄSS JOohA´NNES, J12
+139. GEMÄSS JOohA´NNES, J12
 DAS INNENZIEL DES VATERS
   49  Da ich, (ja) ich,
   nicht aus mir selbst spreche,                                  5M18.18
@@ -1509,16 +3187,16 @@ DAS INNENZIEL DES VATERS
   also spreche ich.                                                J3.34
 
 
-63. GEMÄSS JOohA´NNES, J13
+140. GEMÄSS JOohA´NNES, J13
 DAS GEKOMMENSEIN DER STUNDE. DIE FUßWASCHUNG
   1  (Es) (war) aber vor dem Fest des PA´S ChA,
   (als) der JESuU´S gewahrt\1/ hatte,                       M26.2  J13.3
   dass seine Stunde ´gekommen,             J12.23  J17.1  \1/e: 32 nZtr.
   auf dass er                                                      J18.4  
-  aus  dem  diesem Kosmos ´weiterschreite
+  aus dem diesem Kosmos ´weiterschreite
   zu dem Vater,                                           J16.28  J19.28
   liebend die Juden\2/,                         1J3.16  \2/A,B: Eigenen.
-  (ja) die  in dem Kosmos:                                  J17.11  E5.2
+  (ja) die in dem Kosmos:                                   J17.11  E5.2
   hinein in Vollendigung liebte er sie.                            EH1.5
 
   2  Und (während) (des) Werdens (des) Mahles,
@@ -1536,7 +3214,7 @@ DAS GEKOMMENSEIN DER STUNDE. DIE FUßWASCHUNG
   und zu dem Gott weggeht,                                     J16.27,28
 
 
-64. GEMÄSS JOohA´NNES, J13
+141. GEMÄSS JOohA´NNES, J13
 JESuU´ REDE MIT PÄ´TROS ÜBER DAS WASCHEN DER FÜßE UND DIE REINHEIT
   6  Daher kommt er
   (auch) zu SI´MOoN PÄ´TROS,
@@ -1560,7 +3238,7 @@ JESuU´ REDE MIT PÄ´TROS ÜBER DAS WASCHEN DER FÜßE UND DIE REINHEIT
   sondern auch die Hände und das Haupt.
 
 
-65. GEMÄSS JOohA´NNES, J13
+142. GEMÄSS JOohA´NNES, J13
 DAS GEGEBENE BEISPIEL UND SEINE VERPFLICHTUNG
   14  Wenn daher ich, (ja) ich,
   eure Füße gewaschen                                             L22.27
@@ -1583,7 +3261,7 @@ DAS GEGEBENE BEISPIEL UND SEINE VERPFLICHTUNG
   so ihr es tut´.                                       M7.24  L10.28,37
 
 
-66. GEMÄSS JOohA´NNES, J13
+143. GEMÄSS JOohA´NNES, J13
 ANDEUTUNG DES VERRATS. 
 WIE MAN JESuU´S ANNIMMT UND WAS SICH DARAUS ERGIBT
   18  Nicht euch alle betreff(end) sage ich('s),
@@ -1608,7 +3286,7 @@ WIE MAN JESuU´S ANNIMMT UND WAS SICH DARAUS ERGIBT
   nimmt den mich Sendenden (an).                                  M10.40
 
 
-67. GEMÄSS JOohA´NNES, J13
+144. GEMÄSS JOohA´NNES, J13
 JESuU´S SAGT DEM PÄ´TROS DESSEN UNVERMÖGEN UND DAS VERLEUGNEN VORAUS
   36  (Da) sagt SI´MOoN PÄ´TROS (zu) ihm:
   Herr, wohin gehst du weg?
@@ -1631,7 +3309,7 @@ JESuU´S SAGT DEM PÄ´TROS DESSEN UNVERMÖGEN UND DAS VERLEUGNEN VORAUS
   bis du mich dreimal verleugnen wirst.                           J18.27
             
 
-68. GEMÄSS JOohA´NNES, J14
+145. GEMÄSS JOohA´NNES, J14
 JESuU´ VERHEIßUNG, EINEN ORT ZU BEREITEN UND WIEDERZUKOMMEN
   1  Nich(t) werde euer Herz erregt;                              J14.27
   treuet in den Gott,
@@ -1653,7 +3331,7 @@ JESuU´ VERHEIßUNG, EINEN ORT ZU BEREITEN UND WIEDERZUKOMMEN
   auch ihr, (ja) ihr, seid´.                  J12.26,32  J17.24  1TH4.17
 
 
-69. GEMÄSS JOohA´NNES, J14
+146. GEMÄSS JOohA´NNES, J14
 JESuU´S, DER WEG ZUM VATER
   4  Und wohin ich, (ja) ich, weggehe,
   den Weg (dorthin) gewahret ihr.
@@ -1672,7 +3350,7 @@ JESuU´S, DER WEG ZUM VATER
   als nur durch mich.                                              A4.12
 
 
-70. GEMÄSS JOohA´NNES, J14
+147. GEMÄSS JOohA´NNES, J14
 DAS TUN SEINER GEWIRKTEN UND DAS BITTEN IN SEINEM NAMEN
   12  AME´N, AME´N, ich sage euch:
   Der in mich Treuende,                                           M21.21
@@ -1692,7 +3370,7 @@ DAS TUN SEINER GEWIRKTEN UND DAS BITTEN IN SEINEM NAMEN
   ich\1/, (ja)\1/ ich, werde (es) tun.             M7.7,8  \1/A,B: dies.
 
 
-71. GEMÄSS JOohA´NNES, J14
+148. GEMÄSS JOohA´NNES, J14
 WIE SICH DIE LIEBE ZU JESuU´S ZEIGT UND WAS SIE ZUR FOLGE HAT
   15  So ihr\1/ liebet´,                J13.34  1J5.3  \1/A,B: ihr mich.
   hütet´ ihr                                                   J14.21,23
@@ -1718,7 +3396,7 @@ WIE SICH DIE LIEBE ZU JESuU´S ZEIGT UND WAS SIE ZUR FOLGE HAT
   ich komme zu euch.                                              M28.20
 
 
-72. GEMÄSS JOohA´NNES, J14
+149. GEMÄSS JOohA´NNES, J14
 WIE SICH DIE LIEBE ZU JESuU´S ZEIGT UND WAS SIE ZUR FOLGE HAT
   19  Noch (ein) Kleines,                                          J7.33
   und der Kosmos schaut mich nicht mehr,                          M23.39
@@ -1726,7 +3404,7 @@ WIE SICH DIE LIEBE ZU JESuU´S ZEIGT UND WAS SIE ZUR FOLGE HAT
   da ich, (ja) ich, lebe,
   und ihr, (ja) ihr, leben werdet.                        J6.57  1TH5.10
 
-  20  In  dem  jenem Tag
+  20  In dem jenem Tag
   werdet ihr, (ja) ihr, wissen,                           J14.10  1J5.20
   dass ich in meinem Vater (bin)                                  J10.38
   und ihr in mir (seid)                                           J17.23
@@ -1736,13 +3414,13 @@ WIE SICH DIE LIEBE ZU JESuU´S ZEIGT UND WAS SIE ZUR FOLGE HAT
   und sie Hütende,                                         J15.10  1J2.5
   jener ist der mich Liebende;                                     1J5.3
   aber der mich Liebende                                          J14.23
-  wird geliebt werden \unt/von meinem Vater,                      J16.27
+  wird geliebt werden von meinem Vater,                           J16.27
   und ich, ich werde ihn lieben 
   und mich selber
   ihm (persönlich) offenbar (mach)en.
 
 
-73. GEMÄSS JOohA´NNES, J15
+150. GEMÄSS JOohA´NNES, J15
 JESuU´S, DER WEINSTOCK, DAS IN-IHM-BLEIBEN UND FRUCHTTRAGEN
   1  Ich, ich bin der wahrhaftige Weinstock,               LB80.9  J6.35  
   und mein Vater ist der Landwirker.                               1K3.9
@@ -1760,7 +3438,7 @@ JESuU´S, DER WEINSTOCK, DAS IN-IHM-BLEIBEN UND FRUCHTTRAGEN
   (ja) nicht  e i n e s.                                           2K3.5
 
 
-74. GEMÄSS JOohA´NNES, J15
+151. GEMÄSS JOohA´NNES, J15
 DAS IN-IHM-BLEIBEN UND FRUCHTTRAGEN
   13  Größere Liebe (als) diese E5.2
   hat nicht  e i n e r,
@@ -1793,7 +3471,7 @@ DAS IN-IHM-BLEIBEN UND FRUCHTTRAGEN
   dass ihr einander liebet´.                                      J13.34
 
 
-75. GEMÄSS JOohA´NNES, J15
+152. GEMÄSS JOohA´NNES, J15
 DER HASS DES KOSMOS GEGEN JESuU´S UND SEINE SKLAVEN
   18  Wenn der Kosmos euch hasst,                         M10.22  J17.14
   wisset, dass er mich vorher\1/ gehasst hat.               L19.14  J7.7
@@ -1812,17 +3490,17 @@ DER HASS DES KOSMOS GEGEN JESuU´S UND SEINE SKLAVEN
   seitens des Vaters,
   der Geist der Wahrheit,                                         J14.17
   der seitens des Vaters herausgeht,
-  jener wird  mich betreff(end)  bezeugen;                         1J5.6
+  jener wird mich betreff(end) bezeugen;                           1J5.6
 
 
-76. GEMÄSS JOohA´NNES, J16
+153. GEMÄSS JOohA´NNES, J16
 WARUM JESuU´S DIE VERFOLGUNG ANKÜNDIGT
   1  Dies habe ich (zu) euch gesprochen,                   M11.6  M13.21
   dass ihr\1/ (dadurch) verstrickt werdet´.         \1/A,B: ihr nich(t).
 
   2  Denn (zu)
   von (der) Synagoge (Ausgeschlosse)nen                            J9.22
-  (werden)\2/ sie euch machen´\2/;            \2/A,B: werden ... machen.
+  (werden)\1/ sie euch machen´\1/;            \1/A,B: werden ... machen.
   jedoch (es) kommt (auch) (die) Stunde,                            A8.1
   dass all(je)der euch Umbringende meint´,                  M24.9  A12.2
   (einen) Gottesdienst dem Gott dar(zu)bringen.            G1.13  A26.11
@@ -1832,7 +3510,7 @@ WARUM JESuU´S DIE VERFOLGUNG ANKÜNDIGT
   aber (auch) mich nicht.                           J8.19  A13.27  1J3.1
 
 
-77. GEMÄSS JOohA´NNES, J16
+154. GEMÄSS JOohA´NNES, J16
 WARUM JESuU´S WEGGEHT
   5  Nun aber gehe ich, (ja) ich, weg                             J13.36
   zu dem mich Sendenden,                                   J7.33  J16.28
@@ -1851,7 +3529,7 @@ WARUM JESuU´S WEGGEHT
   werde ich ihn zu euch senden.                           J14.26  J15.26
 
 
-78. GEMÄSS JOohA´NNES, J16
+155. GEMÄSS JOohA´NNES, J16
 WELCHE AUFGABEN DER GEIST DER WAHRHEIT DURCHFÜHRT
   8  Und jener, (als) (der) ´Gekommene,
   wird den Kosmos überführen
@@ -1874,10 +3552,10 @@ WELCHE AUFGABEN DER GEIST DER WAHRHEIT DURCHFÜHRT
                                       \1/A,B: wird('s) ... hinaufkünden.
 
 
-79. GEMÄSS JOohA´NNES, J16
+156. GEMÄSS JOohA´NNES, J16
 DAS BITTEN UND DIE FREUDE IN JENEM TAG; 
 DIE BEFREUNDUNG DURCH DEN VATER
-  23  Und in  dem  jenem Tag                              J14.20  J16.26
+  23  Und in dem jenem Tag                                J14.20  J16.26
   (soll)tet\1/ ihr mich nicht,
   (ja) nicht  e i n e s,  fragen\1/.          \1/A,B: werdet ... fragen.
   AME´N, AME´N, ich sage euch:
@@ -1891,9 +3569,9 @@ DIE BEFREUNDUNG DURCH DEN VATER
   seitens (des) Gottes ´herausgekommen.                           J17.25
 
 
-80. GEMÄSS JOohA´NNES, J16
+157. GEMÄSS JOohA´NNES, J16
 JESuU´ UND DER LERNENDEN ZEUGNIS VON SEINEM HERAUSKOMMEN
-  28  Ich ´kam heraus  seitens des Vaters                          J13.3
+  28  Ich ´kam heraus seitens des Vaters                           J13.3
   und bin in den Kosmos gekommen;                                 J11.27
   nochmals lasse ich den Kosmos
   und gehe zu dem Vater.            J14.28  J16.5  J17.13  J20.17  H9.24
@@ -1911,7 +3589,7 @@ JESuU´ UND DER LERNENDEN ZEUGNIS VON SEINEM HERAUSKOMMEN
   dass du von Gott ´herausgekommen.
 
 
-81. GEMÄSS JOohA´NNES, J16
+158. GEMÄSS JOohA´NNES, J16
 VERSTREUUNG UND DRÄNGNIS VORAUSGESAGT; ERMUTIGUNG DURCH SEINEN SIEG
   31  (Da) antwortet ihnen der JESuU´S:
   Jetzt treut ihr.
@@ -1920,11 +3598,11 @@ VERSTREUUNG UND DRÄNGNIS VORAUSGESAGT; ERMUTIGUNG DURCH SEINEN SIEG
   (Es) kommt (eine) Stunde,
   und die Stunde ist gekommen,
   dass ihr verstreut werdet´,                              S13.7  M26.31
-  (ein) jeglicher  hinein in die Eigenen\2/,                      M26.56
+  (ein) jeglicher hinein in die Eigenen\1/,                       M26.56
   und mich allein ´lasset´,
   und (doch) bin ich nicht allein,                                 J8.29
   da der Vater mit mir ist.
-                 \2/e: räumlich, sachlich und personenmäßig Zugehörigen.
+                 \1/e: räumlich, sachlich und personenmäßig Zugehörigen.
 
   33  Dies habe ich (zu) euch gesprochen,
   auf dass ihr in mir Frieden habt;                               J14.27
@@ -1933,11 +3611,11 @@ VERSTREUUNG UND DRÄNGNIS VORAUSGESAGT; ERMUTIGUNG DURCH SEINEN SIEG
   Ich, ich habe den Kosmos besiegt.                         1J4.4  1J5.4
 
 
-82. GEMÄSS JOohA´NNES, J17
+159. GEMÄSS JOohA´NNES, J17
 DIE BEHERRLICHUNG DES SOHNES UND DAS ÄONISCHE LEBEN
   1  Dies hat JESuU´S gesprochen,
   und (er)hebend seine Augen
-  in (Richtung) (auf) den Himmel,´sagte\2/ er:            \2/e: 32 nZtr.
+  in (Richtung) (auf) den Himmel,´sagte\1/ er:            \1/e: 32 nZtr.
   Vater, die Stunde ist gekommen;                                MK14.41
   beherrliche deinen Sohn,                                          H5.5
   auf dass der Sohn dich beherrliche,                             J13.32
@@ -1963,9 +3641,9 @@ DIE BEHERRLICHUNG DES SOHNES UND DAS ÄONISCHE LEBEN
   vor dem Sein des Kosmos.                                          J1.1
 
 
-83. GEMÄSS JOohA´NNES, J17
+160. GEMÄSS JOohA´NNES, J17
 BITTE UM EINUNG, WODURCH SIE ERREICHT WIRD UND WIE SIE SICH DARSTELLT
-  20  Nicht allein  diese betreff(end)
+  20  Nicht allein diese betreff(end)
   aber erfrage ich (dich) (bittend),                       J10.16  J17.9
   sondern auch
   betreffs der durch ihr Wort
@@ -1983,7 +3661,7 @@ BITTE UM EINUNG, WODURCH SIE ERREICHT WIRD UND WIE SIE SICH DARSTELLT
   gegeben hast.                                                    J17.5
 
 
-84. GEMÄSS JOohA´NNES, J17
+161. GEMÄSS JOohA´NNES, J17
 WOZU DER NAME DES VATERS BEKANNT GEMACHT WIRD
   25  Gerechter Vater,                                     JR50.7  R3.26
   und der Kosmos
@@ -2002,7 +3680,7 @@ WOZU DER NAME DES VATERS BEKANNT GEMACHT WIRD
   und ich in ihnen.                                         R8.10  G2.20
 
 
-85. GEMÄSS JOohA´NNES, J18
+162. GEMÄSS JOohA´NNES, J18
 JESuU´S WIRD GEBUNDEN WEGGEFÜHRT
   12  Die Truppe daher
   und der Tausendschaftsanfängliche
@@ -2023,7 +3701,7 @@ JESuU´S WIRD GEBUNDEN WEGGEFÜHRT
   (dass) e i n Mensch ´wegertotet für das Volk.
 
 
-86. GEMÄSS JOohA´NNES, J18
+163. GEMÄSS JOohA´NNES, J18
 JESuU´S WIRD ZU PILA´TOS GEBRACHT, DER EINE VERURTEILUNG ABLEHNT
   28  Sie führen daher den JESuU´S                                 M27.2
   von dem KAJA´PhAS (weg)
@@ -2044,7 +3722,7 @@ JESuU´S WIRD ZU PILA´TOS GEBRACHT, DER EINE VERURTEILUNG ABLEHNT
   Wenn dieser                                                     MK15.3
   nich(t) (ein) Übeltuender (gewesen) wäre,
   nicht gleichsam
-  hätten°\1/ wir ihn dir danebengegeben\1/.   \1/A,B: gäben ... daneben.
+  hätten\1/ wir ihn dir danebengegeben\1/.    \1/A,B: gäben ... daneben.
         
   31  Daher ´sagte der PILA´TOS (zu) ihnen:
   ´Nehmet ihr ihn,
@@ -2052,10 +3730,10 @@ JESuU´S WIRD ZU PILA´TOS GEBRACHT, DER EINE VERURTEILUNG ABLEHNT
   (Es) ´sagten daher die Juden (zu) ihm:                           J19.6
   Uns ist nicht erlaubt um(zu)bringen,                            A18.15  
   (auch) nicht e i n e n\2/.            \2/so A,B; in S: e i n e n, (ja)
-                 nicht° e i n e n; vmtl. schon vom Schreiber gestrichen.
+                  nicht e i n e n; vmtl. schon vom Schreiber gestrichen.
 
 
-87. GEMÄSS JOohA´NNES, J18
+164. GEMÄSS JOohA´NNES, J18
 GESPRÄCH DES PILA´TOS MIT JESuU´S
   33  Nochmals
   ´kam der PILA´TOS daher hinein
@@ -2078,12 +3756,12 @@ GESPRÄCH DES PILA´TOS MIT JESuU´S
   was tatest du?        
 
 
-88. GEMÄSS JOohA´NNES, J18
+165. GEMÄSS JOohA´NNES, J18
 GESPRÄCH DES PILA´TOS MIT JESuU´S
   36  (Da) antwortete JESuU´S:
   Die, (ja) meine Regentschaft                                     D2.44
-  ist nicht aus  dem  diesem Kosmos;                 JJ9.6  D7.14  J8.23
-  wenn aus  dem  diesem Kosmos 
+  ist nicht aus dem diesem Kosmos;                   JJ9.6  D7.14  J8.23
+  wenn aus dem diesem Kosmos 
   die, (ja) meine Regentschaft wäre,                               J6.15
   auch die, (ja) meine Unterknechte
   (hätten) gleichsam gerungen,                                    M26.53
@@ -2110,7 +3788,7 @@ GESPRÄCH DES PILA´TOS MIT JESuU´S
   finde nicht  e i n e  (Schuld)ursache in ihm.    M27.24  L23.4  J15.25
 
 
-89. GEMÄSS JOohA´NNES, J18
+166. GEMÄSS JOohA´NNES, J18
 PILA´TOS BEZEUGT JESuU´ UNSCHULD UND WILL IHN FREIGEBEN, 
 DOCH BARABBA´S WIRD ERBETEN
   38  (Da) sagt (zu) ihm der PILA´TOS:
@@ -2137,7 +3815,7 @@ DOCH BARABBA´S WIRD ERBETEN
   Aber der BARABBA´S war (ein) Bandit.                             A3.14
 
 
-90. GEMÄSS JOohA´NNES, J19
+167. GEMÄSS JOohA´NNES, J19
 GEISSELUNG UND VERSPOTTUNG JESuU´.
 ER WIRD ALS »DER MENSCH« DEM VOLK GEZEIGT
   1  Daher ´nahm dann der PILA´TOS
@@ -2155,7 +3833,7 @@ ER WIRD ALS »DER MENSCH« DEM VOLK GEZEIGT
   Und sie gaben ihm Backenstreiche.                       JJ53.3  M26.67
 
 
-91. GEMÄSS JOohA´NNES, J19
+168. GEMÄSS JOohA´NNES, J19
 ER WIRD ALS »DER MENSCH« DEM VOLK GEZEIGT
   4  (Da) ´kam der PILA´TOS nochmals heraus
   (nach) draußen und sagt (zu) ihnen:
@@ -2174,7 +3852,7 @@ ER WIRD ALS »DER MENSCH« DEM VOLK GEZEIGT
   Der Mensch.
 
 
-92. GEMÄSS JOohA´NNES, J19
+169. GEMÄSS JOohA´NNES, J19
 DAS TODESURTEIL DURCH DIE JUDEN
   6  Als daher ihn die Anfangspriester
   und die Unterknechte ´gewahrten,
@@ -2194,14 +3872,12 @@ DAS TODESURTEIL DURCH DIE JUDEN
   er sich selber machte.                                    M26.63,64,66
 
 
-93. GEMÄSS JOohA´NNES, J19
+170. GEMÄSS JOohA´NNES, J19
 GESPRÄCH DES PILA´TOS MIT JESuU´S ÜBER AUTORITÄT
-  8  Als daher der PILA´TOS
-  dieses Wort hörte,
+  8  Als daher der PILA´TOS dieses Wort hörte,
   wurde er viel mehr fürchten ge(mach)t
 
-  9  und ´kam nochmals hinein
-  in das Prätorium 
+  9  und ´kam nochmals hinein in das Prätorium 
   und sagt (zu) dem JESuU´S:
   Woher bist du, (ja) du?                               J9.29  J18.35,36
   Aber der JESuU´S,                                               JJ53.7
@@ -2211,20 +3887,18 @@ GESPRÄCH DES PILA´TOS MIT JESuU´S ÜBER AUTORITÄT
   Sprichst du nicht (mit) mir?                                    MK15.5
   Gewahrst du nicht,
   dass ich Autorität habe, dich (zu) entlösen,
-  und Autorität habe,
-  dich an(zu)pfahlen?                                              R13.1
+  und Autorität habe, dich an(zu)pfahlen?                          R13.1
 
   11  (Da) antwortet ihm der JESuU´S:
   Nicht hast du Autorität gegen mich,                             L22.53
   (ja) nicht  e i n e,                                            J10.18
   wenn sie nich(t) (eine) dir
   von oben gegebenwordene wäre;                            J3.27  EH13.7
-  deshalb hat   
-  der mich dir ´Danebengegeben(hab)ende                        J18.30,35
+  deshalb hat der mich dir ´Danebengegeben(hab)ende            J18.30,35
   größere Verfehlung.                                              R13.2  
 
 
-94. GEMÄSS JOohA´NNES, J19
+171. GEMÄSS JOohA´NNES, J19
 VERSUCH DER ENTLÖSUNG. JESuU´S ALS REGENT DARGESTELLT
   12  Aus diesem (heraus)
   suchte der PILA´TOS, ihn (zu) entlösen;
@@ -2236,9 +3910,9 @@ VERSUCH DER ENTLÖSUNG. JESuU´S ALS REGENT DARGESTELLT
                    \1/A,B: (mach)ten (ein) Geschrei, (indem sie) sagten.
 
   13  Der PILA´TOS daher,
-  hörend (auf)  die  diese Worte,
+  hörend (auf) die diese Worte,
   ´führte den JESuU´S hinaus
-  und (nahm) Sitz  gebiets (des) Podiums                          M27.19
+  und (nahm) Sitz gebiets (des) Podiums                           M27.19
   in (Richtung) (auf) (den) Ort,        
   (den) Steinbestreuter geheißenen,
   (in)\1/ Hebräisch  GOLGOThA´\1/.
@@ -2251,7 +3925,7 @@ VERSUCH DER ENTLÖSUNG. JESuU´S ALS REGENT DARGESTELLT
   ´Gewahret!  Euer Regent.                                         J19.5
 
 
-95. GEMÄSS JOohA´NNES, J19
+172. GEMÄSS JOohA´NNES, J19
 NOCHMALIGE FORDERUNG DES TODES JESuU´ UND SEIN DANEBENGEGEBENWERDEN
   15  Sie aber sagten\1/:              \1/A,B: (mach)ten (ein) Geschrei.
   Enthebe, enthebe (diesen),                                      L23.18
@@ -2269,14 +3943,14 @@ NOCHMALIGE FORDERUNG DES TODES JESuU´ UND SEIN DANEBENGEGEBENWERDEN
   ´Genommen(hab)enden ´führten ihn weg;                  M27.31  MK15.20
 
 
-96. GEMÄSS JOohA´NNES, J19
+173. GEMÄSS JOohA´NNES, J19
 JESuU´ ANPFAHLUNG UND DER GESCHRIEBENE TITEL
   17  und (mittels) sich\1/ selber\1/               \1/e: vmtl. iSv ohne
   den Pfahl fassend,                            dazu genötigt zu werden.
   ´kam er heraus                                         3M16.27  H13.12
   in den »(Des) Schädels Ort«                                     L23.33
   geheißenen (Ort),     
-  der (in) Hebräisch  GOLGOThA´  heißt,                  M27.33  MK15.22
+  der (in) Hebräisch  GOLGOThA´ heißt,                   M27.33  MK15.22
 
   18  wo sie ihn anpfahlten,                       LB22.17  J3.14  G3.13
   und mit ihm zwei andere,                               M27.38  MK15.27
@@ -2284,7 +3958,7 @@ JESuU´ ANPFAHLUNG UND DER GESCHRIEBENE TITEL
   (als) Mitte aber den JESuU´S.                                   2K5.21  
 
 
-97. GEMÄSS JOohA´NNES, J19
+174. GEMÄSS JOohA´NNES, J19
 JESuU´ ANPFAHLUNG UND DER GESCHRIEBENE TITEL
   19  (Es) schrieb aber der PILA´TOS
   auch (den) Titel
@@ -2293,8 +3967,8 @@ JESuU´ ANPFAHLUNG UND DER GESCHRIEBENE TITEL
   »JESuU´S, der Nasarener,                          M27.37  J18.5  A2.22
   der Regent der Juden«.                        M2.2  MK15.26  J18.33,39
 
-  20  [Daher,den  diesen Titel ´lasen viele der Juden,
-  da nahe war  der Ort der Stadt                                  H13.12
+  20  [Daher,den diesen Titel ´lasen viele der Juden,
+  da nahe war der Ort der Stadt                                   H13.12
   (der) (Stätte), wo der JESuU´S angepfahlt wurde;                EH11.8
   und (es) war Geschriebenwordenes
   (in) Hebräisch, Römisch, Hellenisch.]\1/          L23.38  \1/so S,A,B.
@@ -2310,7 +3984,7 @@ JESuU´ ANPFAHLUNG UND DER GESCHRIEBENE TITEL
   habe ich geschrieben.
 
 
-98. GEMÄSS JOohA´NNES, J19
+175. GEMÄSS JOohA´NNES, J19
 DIE VERTEILUNG DER GEWÄNDER JESuU´
   23  Die Krieger daher,
   die\1/ den JESuU´S Anpfahlenden\1/,
@@ -2318,7 +3992,7 @@ DIE VERTEILUNG DER GEWÄNDER JESuU´
   und machten vier Teile,                                         L23.34
   (einem) jeglichen Krieger (einen) Teil\2/.
   (Es) war aber der Leibrock ungenäht,
-  aus den (Fäden)  von oben (an)          \2/A,B: Teil und den Leibrock.
+  aus den (Fäden) von oben (an)           \2/A,B: Teil und den Leibrock.
   ganz durchgewebt.               \1/A,B: als(dann) pfahlten sie ... an.        
                                   
   24  Sie sagten daher zu\1/ sich\1/:                \1/B,R: zueinander.
@@ -2336,7 +4010,7 @@ DIE VERTEILUNG DER GEWÄNDER JESuU´
   die Krieger taten dies.
 
 
-99. GEMÄSS JOohA´NNES, J19
+176. GEMÄSS JOohA´NNES, J19
 JESuU´ WORTE AM Pfahl UND SEIN TOD
   28  Nach diesem,
   (als) der JESuU´S gewahrte,                                      J18.4
@@ -2362,7 +4036,7 @@ JESuU´ WORTE AM Pfahl UND SEIN TOD
   gab er den Geist daneben.                      M27.50  MK15.37  L23.46
 
 
-100. GEMÄSS JOohA´NNES, J19
+177. GEMÄSS JOohA´NNES, J19
 DAS NICHT-ZERKNICKTWERDEN DER BEINE JESuU´. DER LANZENSTICH
   33  aber (als)
   auf den JESuU´S (zu) ´Gekommene,
@@ -2392,7 +4066,7 @@ DAS NICHT-ZERKNICKTWERDEN DER BEINE JESuU´. DER LANZENSTICH
   in den sie gestochen.                                            EH1.7
 
 
-101. GEMÄSS JOohA´NNES, J19
+178. GEMÄSS JOohA´NNES, J19
 DIE GRABLEGUNG DES LEIBES JESuU´
   38  Aber nach diesem
   fragte (der) JOoSE´Ph, der von ARIMAThAe´A,    M27.57  MK15.43  L23.50
@@ -2422,10 +4096,10 @@ DIE GRABLEGUNG DES LEIBES JESuU´
   wo er angepfahlt wurde, (ein) Garten
   und in dem Garten (eine) neue Gruft,                            A13.29
   in der (als) (Bei)gesetztwordener                               L23.53
-  nicht, (ja) aber (auch) noch nicht  e i n e r  war ;
+  nicht, (ja) aber (auch) noch nicht  e i n e r  war;
 
 
-102. GEMÄSS JOohA´NNES, J20
+179. GEMÄSS JOohA´NNES, J20
 BERICHT DER MARJA´M ÜBER DEN ENTHOBENEN GRUFTSTEIN
   1  Aber (in) dem einen (Tag) der Sabbat(frist)en
   kommt MARJA´M die Magdalenerin 
@@ -2445,7 +4119,7 @@ BERICHT DER MARJA´M ÜBER DEN ENTHOBENEN GRUFTSTEIN
   wo sie ihn (bei)gesetzt.                                        L24.11
 
 
-103. GEMÄSS JOohA´NNES, J20
+180. GEMÄSS JOohA´NNES, J20
 PÄ´TROS UND JOohA´NNES FINDEN DIE TÜCHLEIN IN DER LEEREN GRUFT
   3  Daher ´kamen der PÄ´TROS                                     L24.12
   und der andere Lernende heraus,
@@ -2476,7 +4150,7 @@ PÄ´TROS UND JOohA´NNES FINDEN DIE TÜCHLEIN IN DER LEEREN GRUFT
   aus Erstorbenen ´auf(zu)erstehen.                              JJ53.10
           
 
-104. GEMÄSS JOohA´NNES, J20
+181. GEMÄSS JOohA´NNES, J20
 MARJA´M SPRICHT MIT JESuU´S; 
 AUFTRAG, DEN BRÜDERN SEIN HINAUFSTEIGEN ZU KÜNDEN  
   14  Dies ´gesagt(hab)end
@@ -2506,10 +4180,10 @@ AUFTRAG, DEN BRÜDERN SEIN HINAUFSTEIGEN ZU KÜNDEN
           
 
 
-105. GEMÄSS JOohA´NNES, J20
+182. GEMÄSS JOohA´NNES, J20
 JESuU´S ZEIGT SICH DEN LERNENDEN UND GIBT IHNEN HEILIGEN GEIST
   19  Daher, (während) (es) Abend war
-  (in)  dem  jenem Tag,
+  (in) dem jenem Tag,
   dem einen (Tag) (der) Sabbat(frist)en,                           J20.1
   und (als) die Türen
   verschlossen worden waren,                                       J7.13
@@ -2534,18 +4208,18 @@ JESuU´S ZEIGT SICH DEN LERNENDEN UND GIBT IHNEN HEILIGEN GEIST
        \1/A,B: (Es) ... nochmals (zu) ihnen der JESuU´S.  \2/A,B: sende.
 
   22  Und dies ´gesagt(hab)end
-  haucht er (sie) (an)  und sagt (zu) ihnen:
+  haucht er (sie) (an) und sagt (zu) ihnen:
   ´Nehmet heiligen Geist;                                          L2.25
 
   23  (zugunsten) derer gleichsam
   ihr die Verfehlungen ´(er)lasset´,                              M16.19
-  ihnen wird (er)lassen werden ;
+  ihnen wird (er)lassen werden;
   so aber (von) irgend(welch)en
   ihr (sie) (fest)haltet´,                                        A13.11
   (denen) sind sie (fest)gehalten worden.                         M18.18
 
 
-106. GEMÄSS JOohA´NNES, J20
+183. GEMÄSS JOohA´NNES, J20
 DIE ANDEREN ZEICHEN UND DIE GESCHRIEBENWORDENEN
   30  (Das) bleibt daher,
   viele und andere Zeichen tat der JESuU´S
@@ -2562,7 +4236,7 @@ DIE ANDEREN ZEICHEN UND DIE GESCHRIEBENWORDENEN
   in seinem Namen.                                                1J5.13
 
 
-107. GEMÄSS JOohA´NNES, J21
+184. GEMÄSS JOohA´NNES, J21
 JESuU´S OFFENBART SICH DEN LERNENDEN
 ALS DER DEN ORT DER FISCHE KENNENDE
   1  Nach diesem offenbarte der JESuU´S sich selber
@@ -2590,7 +4264,7 @@ ALS DER DEN ORT DER FISCHE KENNENDE
   es (zu) ziehen zufolge der Fülle der Fische.
 
 
-108. GEMÄSS JOohA´NNES, J21
+185. GEMÄSS JOohA´NNES, J21
 JESuU´S GIBT DEN LERNENDEN FISCH UND BROT
   9  Als sie daher (vom) (Schiff)
   in das Erdland ´hinaufgestiegen\1/ (waren),     \1/A,B: ´weggestiegen.
@@ -2612,7 +4286,7 @@ JESuU´S GIBT DEN LERNENDEN FISCH UND BROT
   wurde das Netz nicht zerrissen.
 
 
-109. GEMÄSS JOohA´NNES, J21
+186. GEMÄSS JOohA´NNES, J21
 JESuU´S GIBT DEN LERNENDEN FISCH UND BROT
   12  (Da) sagt (zu) ihnen der JESuU´S:
   (Komm)et herbei, (halt)et (das) Frühmahl.                       A10.41
@@ -2633,10 +4307,10 @@ JESuU´S GIBT DEN LERNENDEN FISCH UND BROT
   offenbart wurde.
 
 
-110. GEMÄSS JOohA´NNES, J21
+187. GEMÄSS JOohA´NNES, J21
 JESuU´ GESPRÄCH MIT PÄ´TROS; AUFTRAG UND HINWEIS AUF DESSEN TOD
   15  Als sie daher (das) Frühmahl (hielt)en,
-  sagt der JESuU´S (zu) dem SI´MOoN PÄ´TROS :                      J1.42
+  sagt der JESuU´S (zu) dem SI´MOoN PÄ´TROS:                       J1.42
   SI´MOoN, (Sohn) (des) JOohA´NNES\1/,          \1/gemäß S,B: JOohA´NES.
   liebst du mich mehr (als) diese?                                J17.26
   Er sagt (zu) ihm:  Ja, Herr; du, (ja) du, gewahrst,             M26.33
@@ -2664,7 +4338,7 @@ JESuU´ GESPRÄCH MIT PÄ´TROS; AUFTRAG UND HINWEIS AUF DESSEN TOD
   (Gib) Gekräut meinen Schafen\2/.          J10.3,16  \2/A,B: Schäflein.
           
 
-111. GEMÄSS JOohA´NNES, J21
+188. GEMÄSS JOohA´NNES, J21
 JESuU´ GESPRÄCH MIT PÄ´TROS; AUFTRAG UND HINWEIS AUF DESSEN TOD
   18  AME´N, AME´N, ich sage dir:
   Als du jünger warst,
@@ -2686,7 +4360,7 @@ JESuU´ GESPRÄCH MIT PÄ´TROS; AUFTRAG UND HINWEIS AUF DESSEN TOD
   Folge mir (nach).                                               M19.28
 
 
-112. GEMÄSS JOohA´NNES, J21
+189. GEMÄSS JOohA´NNES, J21
 FRAGE UND ANTWORT BEZÜGLICH DES JOohA´NNES
   20  Aber der PÄ´TROS, (als) ´Gewendet(worden)er,
   erblickt (als) (Nach)folgenden den Lernenden,
@@ -2705,7 +4379,7 @@ FRAGE UND ANTWORT BEZÜGLICH DES JOohA´NNES
   Folge du mir (nach).
 
   23  Daher ´kam dieses Wort heraus in die Brüder:
-  Der  jener Lernende wegertotet nicht;
+  Der jener Lernende wegertotet nicht;
   nicht ´sagte aber (zu) ihm der JESuU´S,
   dass er nicht wegertotet, sondern:
   So ich will,                                                     EH1.9
@@ -2713,7 +4387,7 @@ FRAGE UND ANTWORT BEZÜGLICH DES JOohA´NNES
   was (bedeutet's) dir zu?
 
 
-113. GEMÄSS JOohA´NNES, J21
+190. GEMÄSS JOohA´NNES, J21
 DAS BEZEUGEN DES SCHREIBERS
   24  Dies ist der Lernende,                       J13.23  J19.26  J20.2
   der dies betreff(end) Bezeugende,
@@ -2725,15 +4399,15 @@ DAS BEZEUGEN DES SCHREIBERS
   das der JESuU´S getan,
   das, so (es) jeweils einzeln geschrieben würde,
   (so) (viel) (wäre),
-  (dass)  - (so) bilde ich mir ein -
+  (dass) - (so) bilde ich mir ein -
   aber (auch) der Kosmos selber nicht 
   den geschrieben(sei)enden Buchröllchen
   Raum (geb)en würde\1/.]\2/                   \1/w: wird.  \2/so S,A,B.
   Wohlkunde\3/ gemäß JOohA´NNES\3/   \3-3/so S,A; in B: Gemäß JOohA´NES.
         
 
-114. ZITIERTE TEXTE UND TEXTNACHWEISE
-  -----------------------------------
+191. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
+  -------------------------------------------------
   Bibelausgabe (Deutsch)
     DÜ4 - Die Geschriebene, DaBhaR-Übersetzung,
     4. Gesamtausgabe.
@@ -2742,4 +4416,4 @@ DAS BEZEUGEN DES SCHREIBERS
   DabharWorks 2.1
     Copyright © 2004-2012 Stefan Mücke.
     Alle Rechte vorbehalten
-  -----------------------------------
+  -------------------------------------------------
