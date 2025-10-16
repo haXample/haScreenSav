@@ -24,6 +24,8 @@ Additions:
  `document/Maximen&Reflexionen.frt`
  `document/Maxims&Reflections.frt`
  `document/Bibel (TORa'H).frt`  
+ `document/Bibel (Die Wohlkunden).frt`  
+ `document/Bibel (Die Aufstellungen des PA'ULOS).frt`  
  `document/Stimmerheber.frt`  
  `document/Vergleichende.frt`  
   
@@ -34,7 +36,7 @@ Additions:
 `source/haScreensav.exe` Run the cunfiguration and menu directly            
 
 
-Examples:  
+Examples in German:  
 ![screenshot1](document/image/haScrSav01.jpg)  
 
 ![screenshot1a](document/image/haScrSav02.jpg)  
@@ -59,6 +61,9 @@ Examples:
 
 [Die Wohlkunden](document/image/haScrSav14.jpg)  
 
+[Die Aufstellungen des PA'ULOS](document/image/haScrSav16.jpg)  
+
+Examples in English:  
 [Goethe - Maxims&Reflexions](document/image/haScrSav13.jpg)  
 
 [Miscellaneous](document/image/haScrSav11.jpg)  
