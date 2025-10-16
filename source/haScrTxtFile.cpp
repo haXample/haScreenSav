@@ -160,7 +160,7 @@ void errchk(char* _filename, int _lastErr)
         badFormat=txtIndex;
         if (txtIndex > 0)        
           sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s\n\nRun setup and select [Text Menu] to re-number.", szErrorBadFormat, txtIndex, _filename);
-				else
+        else
           sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s.", szErrorBadFormat, txtIndex, _filename);
         break;
       case ERROR_SHARING_VIOLATION: // 0x20
