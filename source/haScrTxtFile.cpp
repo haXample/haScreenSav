@@ -95,7 +95,7 @@ extern int haFaust_frt02size;
 extern int haFaust_frt03size;
 
 extern int haFaust_frtsize;
-extern int timeFlag;
+extern int timeFlag, runModeFlag;
 
 extern HDC  hdc;                    // device-context handle  
 
@@ -157,8 +157,11 @@ void errchk(char* _filename, int _lastErr)
         sprintf(DebugBuf, "%s\n%s", szErrorAccessDenied, _filename);
         break;
       case ERROR_BAD_FORMAT:
-        badFormat=txtIndex;        
-        sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s\n\nSelect [Text Menu] to re-number.", szErrorBadFormat, txtIndex, _filename);
+        badFormat=txtIndex;
+        if (txtIndex > 0)        
+          sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s\n\nRun setup and select [Text Menu] to re-number.", szErrorBadFormat, txtIndex, _filename);
+				else
+          sprintf(DebugBuf, "%s [%d.]\n\nFile:\n%s.", szErrorBadFormat, txtIndex, _filename);
         break;
       case ERROR_SHARING_VIOLATION: // 0x20
         sprintf(DebugBuf, "%s\n%s", szErrorFileIsUsed, _filename);
@@ -337,8 +340,12 @@ void BuildTxtPtrArray()
       // Format index check
       // Check if next index is same as previous (double indexes)
       sprintf(ascDecNrStr, "\xA%d. ", txtIndex);  
-      if (strstr(tmpPtr, ascDecNrStr) != NULL) 
-        { errchk(pszhaScrFilename, ERROR_BAD_FORMAT); break; }
+      if (strstr(tmpPtr, ascDecNrStr) != NULL)
+        { 
+        if (runModeFlag == RUN_MODE_SCR) errchk(pszhaScrFilename, ERROR_BAD_FORMAT);
+        else badFormat=txtIndex;  // RUN_MODE_EXE
+        break;
+        }
 
       // Find start of current text (skip txtIndex)
       tmpPtr = strstr(tmpPtr, ". ");
@@ -354,7 +361,12 @@ void BuildTxtPtrArray()
       // Check if next index is not increment of previous (illegal indexes)
       sprintf(ascDecNrStr, "\xA%d. ", txtIndex);  
       if (strstr(tmpPtr, ascDecNrStr) == NULL) 
-        { errchk(pszhaScrFilename, ERROR_BAD_FORMAT); break; }
+        { 
+        if (runModeFlag == RUN_MODE_SCR) errchk(pszhaScrFilename, ERROR_BAD_FORMAT);
+        else badFormat=txtIndex;  // RUN_MODE_EXE
+        break;
+        }
+
       }
     _i++;                                      // advance buffer index
     } // end while

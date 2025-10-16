@@ -329,7 +329,8 @@ BOOL CheckFormatFRT(HWND _hwnd, char* _filename)
                                 IDI_BE_SEEING_YOU);
     if (msgID == IDYES)
       {
-      UpdateTxtFile(_filename);
+      UpdateTxtFile(_filename);	// Repair the file
+      OpenTxtFile(_filename);		// Re-open the repaired file
       b_result = FALSE;
       }
     else b_result = TRUE; 

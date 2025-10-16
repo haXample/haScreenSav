@@ -38,6 +38,9 @@
 #define MODE_SEARCH   4
 #define MODE_MENU     5
 
+#define RUN_MODE_SCR  1     // Currently runinng as screen saver
+#define RUN_MODE_EXE  2     // Invoked the configuration setup
+
 #define FAUST_MAXINDEX 1343
 
 #define SYSERR_ABORT   250  //STATUS 250: Assembly aborted

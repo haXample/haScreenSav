@@ -101,7 +101,8 @@ COLORREF acrCustClr[16];       // array of custom colors
 CHOOSECOLOR cc;                // color palette dialog box structure 
                                
 int _i, _j, _k;
-  
+int runModeFlag;
+   
 UINT bufsizeF, bufsizeT;
 
 HRESULT hr;
@@ -396,6 +397,9 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
   switch(message)
     {
     case WM_CREATE:
+      // Currently runinng as screen saver
+      runModeFlag = RUN_MODE_SCR;
+            
       // Get monitor geometrics
       monitor = MonitorFromWindow(hWnd, MONITOR_DEFAULTTONEAREST);
       info.cbSize = sizeof(MONITORINFO);
@@ -578,6 +582,10 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
   switch(message)
     {
     case WM_INITDIALOG:
+      // Invoked the configuration setup
+      runModeFlag = RUN_MODE_EXE;            
+      CheckFormatFRT(hDlg, pszhaScrFilename);
+
       // Set the icon IDI_HASCRABOUT at the upper left corner of the title bar
       SendMessage(hDlg, WM_SETICON, ICON_SMALL, (LPARAM)(hIcon16x16));
       // Retrieve the application name (=section) from the .rc file. 
