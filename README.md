@@ -11,10 +11,16 @@ written by the genius Johann Wolfgang Goethe (original in German).
 
 Examine any text file.FRT running `haScreenSav.EXE` and select the [Text Menu] button.  
 
-Note: 
+Note 1: 
 The Faust Breviary is the intrinsic default (no additional file required).  
 All files `*.frt` must be located *outside* the `c:\windows\system32` folder.  
 (As an Example of the *FRT-File Format*, the file `document/haFaust.frt` is provided.)  
+
+Note 2:
+ScreenSavers sometimes may get falsely accused by cloud-based virus defenders   
+composed by artificial "intelligence". If this happens just turn off the cloud defender  
+in the Windows security configuration setup.  
+
 
 Last Update October 16, 2025: *haScreensav.scr, haScreensav.exe*   
 Additions:  
@@ -24,8 +30,10 @@ Additions:
  `document/Maximen&Reflexionen.frt`  
  `document/Maxims&Reflections.frt`  
  `document/Bibel (TORa'H).frt`  
+ `document/Bibel (DaNiJe'°L).frt`  
  `document/Bibel (Die Wohlkunden).frt`  
  `document/Bibel (Die Aufstellungen des PA'ULOS).frt`  
+ `document/Bibel (Enthüllung).frt`  
  `document/Stimmerheber.frt`  
  `document/Vergleichende.frt`  
   
@@ -59,9 +67,13 @@ Examples in German:
 
 [Stimmerheber](document/image/haScrSav15.jpg)  
 
+[DaNiJe'°L](document/image/haScrSav18.jpg)  
+
 [Die Wohlkunden](document/image/haScrSav14.jpg)  
 
 [Die Aufstellungen des PA'ULOS](document/image/haScrSav16.jpg)  
+
+[Enthüllung](document/image/haScrSav17.jpg)  
 
 Examples in English:  
 [Goethe - Maxims&Reflexions](document/image/haScrSav13.jpg)  
