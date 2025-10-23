@@ -882,7 +882,7 @@ ABhRa´Ms RÜCKKEHR NACH BeJT-E´L
   und LOTh mit ihm,
   zu dem Wölbland.                                                1M20.1
 
-  2  Und ABhRa´M war schwer(reich)\1/ überaus	         \1/a: herrlich.
+  2  Und ABhRa´M war schwer(reich)\1/ überaus            \1/a: herrlich.
   an Vieh, an Silber und an Gold.      1M24.1  1M26.13  1M30.43  VG10.22
 
   3  Und er ging, seinen Zug(schaft)en nach,
@@ -3864,7 +3864,7 @@ VII. PLAGE: HAGEL
   ` alles, was im Gefild (war),
   vom Menschen bis (zum) Getier;
   und ` alles Gekräut des Gefilds schlug der Hagel,
-  und ` all(jed)en Bäumigen des Gefilds	zerbrach er.            LB105.33
+  und ` all(jed)en Bäumigen des Gefilds zerbrach er.            LB105.33
 
   26  Nur im Erdland Go´SchäN,
   wo (die) Söhne JiSsRaE´Ls (waren), wurde kein Hagel.
@@ -10068,7 +10068,7 @@ HINWEIS AUF VERPFLICHTUNGEN
 
   18  Und JHWH machte dich sprechen
   den (heutigen) Tag,
-  dass (du) ihm	zum Volk (des) Sonderguts wirst,                  2M19.5
+  dass (du) ihm zum Volk (des) Sonderguts wirst,                  2M19.5
   so wie er zu dir gewortet,                              5M7.6  LB135.4
   und dass (du) all seine Gebote hütest,
 
@@ -10391,7 +10391,7 @@ ANKÜNDIGUNG DES TODES MoSchä´Hs UND DES ABFALLS JiSsRaE´Ls
   in dem (jen)em Tag,                                             JR33.5
   und ich (werde) sie verlassen                          JJ2.6  LB104.29
   und mein Angesicht von ihnen (weg) verbergen;                  JC39.23
-  und (das) (Volk) (wird) zum (Fr)aß\1/ werden,   H3.4	\1/w: (Fr)essen.
+  und (das) (Volk) (wird) zum (Fr)aß\1/ werden,   H3.4  \1/w: (Fr)essen.
   und viele Bös(igkeit)en und Drängnisse
   (werden) es finden,                                     5M32.23  N9.27  
   und es (wird) sprechen in dem (jen)em Tag:                      RC6.13
@@ -10766,3 +10766,26 @@ MoSchä´Hs TOD UND TRAUER DARÜBER
     Alle Rechte vorbehalten
   -------------------------------------------------
          
+  Abkürzungen zur GA:
+  Al    Codex Aleppo
+  BHS   Biblia Hebaica Stuttgatensie
+  BÜ    Buber Übersetzung
+  Sn    Snaith-Text
+
+  a     auch
+  ar    aramäisch, -e Form
+  aram. aramäisch, -e Form
+  dl    Dual
+  e     Erklärung
+  fr    frei übersetzt
+  KT    "KöTI'bh" "geschrieben" (im Gegensatz zur masoretischen Lesart) 
+  ne    Neutrum (sachlich)
+  nZtr  nach Zeitrechnung
+  pl    Plural (Wort steht in der Mehrzahl)
+  QR    "QöRe'J" "Gelesen" (im Gegensatz zum geschriebenen Text)
+  si    Singular (Wort steht in der Einzahl)
+  ü     Übersetzung
+  üu    Übersetzung unsicher
+  vZtr  vor Zeitrechnung
+  V     Vers
+  w     wörtlich

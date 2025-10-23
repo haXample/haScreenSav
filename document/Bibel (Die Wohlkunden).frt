@@ -4417,3 +4417,24 @@ DAS BEZEUGEN DES SCHREIBERS
     Copyright © 2004-2012 Stefan Mücke.
     Alle Rechte vorbehalten
   -------------------------------------------------
+
+  Abkürzungen zur GN:
+  A:    Im Codex Alexandrinus findet sich:
+  B:    Im Codex Vaticanus findet sich:
+  C:    Im Codex Ephraemi findet sich: 
+  C:    Im Textus Receptus findet sich: 
+  S':   Im Codex Sinaiticus findet sich: 
+  S*:   Lesart des ersten zeitgenössischen Korrektors des S' 
+
+  a     auch
+  e     Erklärung
+  fr    frei übersetzt
+  ne    Neutrum (sachlich)
+  nZtr  nach Zeitrechnung
+  pl    Plural (Wort steht in der Mehrzahl)
+  si    Singular (Wort steht in der Einzahl)
+  ü     Übersetzung
+  üu    Übersetzung unsicher
+  vZtr  vor Zeitrechnung
+  V     Vers
+  w     wörtlich
