@@ -22,7 +22,7 @@ composed by artificial "intelligence". If this happens just turn off the cloud d
 in the Windows security configuration setup.  
 
 
-Last Update October 16, 2025: *haScreensav.scr, haScreensav.exe*   
+Last Update October 24, 2025: *haScreensav.scr, haScreensav.exe*   
 Additions:  
  `document/LichtenbergAphorismen.frt`  
  `document/SchopenhauerAphorismen.frt`  
