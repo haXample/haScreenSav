@@ -19,23 +19,23 @@
 
 #include <sys\types.h> // For _open( , , S_IWRITE) needed for VC 2010
 #include <sys\stat.h>  // For filesize
-#include <fcntl.h>   // Console
+#include <fcntl.h>     // Console
 #include <stdlib.h>
 #include <stdio.h>                        
 #include <io.h>                                                        
 #include <iostream>
 #include <conio.h>
 
-#include <shlwapi.h>  // Library shlwapi.lib for PathFileExistsA
-#include <commctrl.h> // Library Comctl32.lib
+#include <shlwapi.h>   // Library shlwapi.lib for PathFileExistsA
+#include <commctrl.h>  // Library Comctl32.lib
 #include <commdlg.h>
 #include <winuser.h>
 #include <time.h>
 
 #include <string.h>                                                 
-#include <string>     // sprintf, etc.
+#include <string>      // sprintf, etc.
 #include <tchar.h>     
-#include <strsafe.h>  // <strsafe.h> must be included after <tchar.h>
+#include <strsafe.h>   // <strsafe.h> must be included after <tchar.h>
 
 #include <windows.h>
 #include <scrnsave.h>
@@ -84,7 +84,7 @@ extern TCHAR _tDebugBuf[];         // Temp buffer for formatted UNICODE text
 extern int _tDebugbufSize;
 extern TCHAR* psz_tDebugBuf;
 
-extern char* pszhaScrFilename;      // .FRT file
+extern char* pszhaScrFilename;     // .FRT file
 
 extern char haFaust_frt01[]; 
 extern char haFaust_frt02[]; 

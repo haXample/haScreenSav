@@ -1,5 +1,3 @@
-// --- THIS FILE IS DEPRECATED (textfile no longer used in haScreenSav) ---
-
 // haScreensav - Screensaver for windows 10, 11, ...
 // haScrBrowse.cpp - C++ Developer source file.
 // (c)2025 by helmut altmann

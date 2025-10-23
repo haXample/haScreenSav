@@ -95,7 +95,7 @@ extern char* pszString;
 extern char* pszTxtFilebuf;
 extern char  szTruncPath[];
 
-extern ULONG bytesrd;              // Textfile number of byte read
+extern ULONG bytesrd;            // Textfile number of byte read
 
 extern int _stepRandom;
 extern int txtIndex;
@@ -249,12 +249,12 @@ int AlgoTextSearch(char* textPattern, char* textBuf, ULONG bufOffset)
     {
     txtIndex = GetActindex(textBuf, txtOffset);
     sprintf(DebugBuf, "FOUND  TextIndex=%d", txtIndex);
-    SetDlgItemText(hSearchMenu, IDC_TEXTSEARCH, DebugBuf);
+    SetDlgItemText(hSearchMenu, IDC_TEXTFILE, DebugBuf);
     Sleep(100);
     }
   else
     {
-    SetDlgItemText(hSearchMenu, IDC_TEXTSEARCH, "NOT FOUND.");
+    SetDlgItemText(hSearchMenu, IDC_TEXTFILE, "NOT FOUND.");
     Sleep(100);
     }
 
@@ -291,7 +291,7 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
   {
   int  _textLen;
   char _textBuf[200] = "Text";
-  hSearchMenu = _hwnd;   // Needed globally
+  hSearchMenu = _hwnd;            // Needed globally
 
   switch(Message)
     {
@@ -299,7 +299,9 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
     // case WM_INITDIALOG:
     // Set up the modal dialog boxes
     case WM_INITDIALOG:
-      _txtIndexSav = txtIndex;  // Save
+      _txtIndexSav = txtIndex;    // Save
+      szTruncPath[25] = 0;        // Fit long filenames into dialogbox
+      StrCat(szTruncPath, "...");
       // Get DLG_.. from 'haScrSav.rc' resource and initialize the entitled IDC_..
       // Set up the modal dialog boxes, and initialize any default values
       switch(LOWORD(lParam))  
@@ -367,7 +369,6 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
             GetDlgItemText(_hwnd, IDC_EDITSEARCH, textDialogBuf, _textLen+1);
             // Search the pattern and determine the txtIndex of the Text item.  
             txtIndex = AlgoTextSearch(textDialogBuf, pszTxtFilebuf, txtOffset+1);
-
             FillRect(hdcTextMenu, &rcTextMenu, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
             ScrSavDrawText(hTextMenu, txtIndex);  
             }
