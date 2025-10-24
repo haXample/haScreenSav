@@ -20,6 +20,7 @@ Note 2:
 ScreenSavers sometimes may get falsely accused by cloud-based virus defenders   
 composed by artificial "intelligence". If this happens just turn off the cloud defender  
 in the Windows security configuration setup.  
+Alternatively try the 64bit version `haScreenSav64.SCR`    
 
 
 Last Update October 24, 2025: *haScreensav.scr, haScreensav.exe*   
