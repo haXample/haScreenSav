@@ -416,7 +416,7 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
 //                           hTextMenu, 
 //                           TextMenuProc);
 //
-BOOL CALLBACK TextMenuProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam)
+INT_PTR CALLBACK TextMenuProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam)
   {
   // Allow stepping with RETURTN and SPACE keys (SPACE=default)
   if ((GetAsyncKeyState(VK_RETURN) & 0x01) && 
@@ -643,7 +643,7 @@ BOOL CALLBACK TextMenuProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam
                            "Use [Config] to access setup the dialog on-the-fly.\n"  
                            "Pressing <ESC> exits.\n\n"
                            "Run Screensav.EXE directly to reach this [Text Menu]",  
-                           " Screensaver Text Menu - HELP", 
+                           " haScreensav V2.0 - HELP", 
                            MB_OK, 
                            IDI_BE_SEEING_YOU);
           // Free mouse cursor clip

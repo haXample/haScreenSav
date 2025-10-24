@@ -178,6 +178,8 @@ extern BOOL DoRootFolder(WCHAR*);
 extern BOOL CheckFormatFRT(HWND, char*);
 
 extern void CreateToolTip(HWND, char*, const int);
+// Centered Messagebox within parent window
+extern int CBTCustomMessageBox(HWND, char*, char*, UINT, UINT);
 
 extern INT_PTR CALLBACK TextMenuProc(HWND, UINT, WPARAM, LPARAM);
 extern INT_PTR CALLBACK DialogProcTextMenu(HWND, UINT, WPARAM, LPARAM);
@@ -446,7 +448,14 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       GetDate();
       // Provide the text resource:
       // if no external file.FRT selected take the internal buffer (haScrFaust.cpp)
-      if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0) OpenTxtBuf();       
+
+//ha//      if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0) OpenTxtBuf();       
+      if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0 ||
+          _access(pszhaScrFilename, 0) != 0)   // Check if file exists
+        {
+        pszhaScrFilename = pszhaScrDfltFilename;
+        OpenTxtBuf();
+        }       
       else OpenTxtFile(pszhaScrFilename);
       // Save current mouse position
       GetCursorPos(&csav);                           
@@ -623,10 +632,6 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
       StrCpy(szTruncPath, pszhaScrFilename);      // Transfer current file path
       PathStripPath(szTruncPath);                 // Extract current filename only
 
-      // Create a Quick-Info (ToolTip) of the current filepath in use
-      hButtonTextFile = GetDlgItem(hDlg, ID_TEXTFILE);
-      CreateToolTip(hButtonTextFile,  pszhaScrFilename,  NULL);  //, TTS_BALLOON (ugly)
-
       // If the initialization file does not contain an entry 
       // for this screen saver, use the default value. 
       if (lSpeed > _MAXVEL || lSpeed < _MINVEL) lSpeed = _DEFVEL; 
@@ -661,8 +666,24 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
 
       // Provide the text resource:
       // if no external file.FRT selected take the internal buffer (haScrFaust.cpp)
-      if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0) OpenTxtBuf();       
+      if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) == 0 ||
+          _access(pszhaScrFilename, 0) != 0)      // Check if file exists
+        {
+        // No error message if default text is already set
+        if (StrCmpI(pszhaScrFilename, pszhaScrDfltFilename) != 0) 
+          {
+          sprintf(DebugBuf, "File not found: %s\n\nUsing default text: %s.", 
+                             pszhaScrFilename,     pszhaScrDfltFilename);
+          CBTCustomMessageBox(NULL,  DebugBuf, " File not found.", MB_OK, IDI_BE_SEEING_YOU);
+          pszhaScrFilename = pszhaScrDfltFilename;  // Force internal buffered text (default)
+          }
+        OpenTxtBuf();
+        }       
       else OpenTxtFile(pszhaScrFilename);
+
+      // Create a Quick-Info (ToolTip) of the current filepath in use
+      hButtonTextFile = GetDlgItem(hDlg, ID_TEXTFILE);
+      CreateToolTip(hButtonTextFile,  pszhaScrFilename,  NULL);  //, TTS_BALLOON (ugly)
       return TRUE;
 
     case WM_SIZE:
@@ -674,7 +695,7 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
       switch (LOWORD(wParam)) 
         { 
         case SB_PAGEUP: 
-          --lSpeed; 
+          --lSpeed;                             
           break; 
 
         case SB_LINEUP: 
