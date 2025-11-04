@@ -42,7 +42,7 @@ Changes:
 `source/haScreensav.cpp` Prolonging reading time by pressing `<SPACE>`      
 Additions:    
 `source/haScrMenu.cpp` A menu allows to examine the text step by step           
-`source/haScrRenumber.cpp` Renumber Text, if new text items have been inserted            
+`source/haScrRenumber.cpp` Renumber text, if new text items have been inserted            
 `source/haScreensav.exe` Run the configuration and menu directly            
 `source/haScreensav64.scr` 64bit Version            
 `source/haScreensav64.exe` 64bit Version            
