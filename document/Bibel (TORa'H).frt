@@ -10754,7 +10754,91 @@ MoSchä´Hs TOD UND TRAUER DARÜBER
   zu Augen all JiSsRaE´Ls.
 
 
-425. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
+425. DIE GESCHRIEBENE DES ALTEN BUNDES (GA)
+Die Zielgebung        - hebräisch: TORa´H -
+  IM ANFANG                  1M        (1. Mose)
+  UND DIESE sind die NAMEN   2M        (2. Mose)
+  UND ER RIEF                3M        (3. Mose)
+  IN der WILDNIS             4M        (4. Mose)
+  DIESE sind DIE WORTE       5M        (5. Mose)
+   
+Die Propheten         - hebräisch: NöBhI°I´M -
+  JöHOSchu´Ã                 JS        (Josua)
+  RICHTER                    RC        (Richter)
+  SchöMUE´L A                1S        (1. Samuel)
+  SchöMUE´L B                2S        (2. Samuel)
+  REGENTEN A                 1R        (1. Könige)
+  REGENTEN B                 2R        (2. Könige)
+  JöScha~Ja´HU               JJ        (Jesaja)
+  JiRMöJa´HU                 JR        (Jeremia)
+  JöChä$Qe´°L                JC        (Hesekiel)
+  HOSche´Ã                   HO        (Hosea)
+  JOE´L                      JL        (Joel)
+  ÃMO´S                      AM        (Amos)
+  ÕBhaDJa´H                  OB        (Obadja)
+  JONa´H                     JN        (Jona)
+  MIKha´H                    MH        (Micha)
+  NaChU´M                    NA        (Nahum)
+  ChaBhaQU´Q                 CB        (Habakuk)
+  ZöPhaNJa´H                 Z         (Zephanja)
+  ChaGa´J                    CG        (Haggai)
+  $öKhaRJa´H                 S         (Sacharja)
+  MaLAKhI´                   MA        (Maleachi)
+   
+Die Geschriebenen     - hebräisch: KöTUBhI´M -
+  LOBENDE                    LB        (Psalmen)
+  VERGLEICHENDE              VG        (Sprüche)
+  ÌJO´Bh                     IB        (Hiob)
+  LIED DER LIEDER            LL        (Das Hohelied)
+  RUT                        RU        (Ruth)
+  EJKha´H                    EJ        (Klagelieder)
+  STMMMerhebER               ST        (Prediger)
+  ÄSTe´R                     ÄT        (Esther)
+  DaNiJe´°L                  D         (Daniel)
+  Æ$Ra´°                     ÄR        (Esra)
+  NöChäMJa´H                 N         (Nehemia)
+  WORTE DER TAGE A           1W        (1. Chronika)
+  WORTE DER TAGE B           2W        (2. Chronika)
+ 
+
+426. DIE GESCHRIEBENE DES NEUEN BUNDES (GN)
+Die Wohlkunden
+  GEMÄSS MAThThAe´Os         M         (Matthäus)
+  GEMÄSS MA´RKOS             MK        (Markus)
+  GEMÄSS LuUKA´S             L         (Lukas)
+  GEMÄSS JOohA´NNES          J         (Johannes)
+
+Die Aufstellungen des PA´ULOS
+  ZU RÖMERN                  R         (Römer)
+  ZU KORINTHERN A            1K        (1. Korinther)
+  ZU KORINTHERN B            2K        (2. Korinther)
+  ZU GALATERN                G         (Galater)
+  ZU EPHESERN                E         (Epheser)
+  ZU PHILIPPERN              P         (Philipper)
+  ZU KOLOSSERN               K         (Kolosser)
+  ZU THESSALONICHERN A       1TH       (1. Thessalonicher)
+  ZU THESSALONICHERN B       2TH       (2. Thessalonicher)
+  ZU HEBRÄERN                H         (Hebräer)
+  ZU TIMO´ThÄOS A            1T        (1. Timotheus)
+  ZU TIMO´ThÄOS B            2T        (2. Timotheus)
+  ZU TI´TOS                  T         (Titus)
+  ZU PhILE´MOoN              PM        (Philemon)
+
+  PRAKTIKEN der APOSTEL      A         (Apostelgeschichte)
+   
+Die Aufstellungen der Apostel der Umschneidung
+  des JA´KOoBOS              JK        (Jakobus)
+  des PÄ´TROS A              1P        (1. Petrus)
+  des PÄ´TROS B              2P        (2. Petrus)
+  des JOohA´NNES A           1J        (1. Johannes)
+  des JOohA´NNES B           2J        (2. Johannes)
+  des JOohA´NNES G           3J        (3. Johannes)
+  des JuU´DAS                JD        (Judas)
+                                       
+  ENTHÜLLUNG                 EH        (Offenbarung) 
+
+
+427. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
   -------------------------------------------------
   Bibelausgabe (Deutsch)
     DÜ4 - Die Geschriebene, DaBhaR-Übersetzung,
