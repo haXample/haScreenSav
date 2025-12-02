@@ -35,17 +35,18 @@ Additions:
  `document/Bibel (Die Wohlkunden).frt`  
  `document/Bibel (Die Aufstellungen des PA'ULOS).frt`  
  `document/Bibel (Enthüllung).frt`  
+ `document/Bibel (Worte aus GA-GN).frt`  
  `document/Stimmerheber.frt`  
  `document/Vergleichende.frt`  
   
 Changes:    
 `source/haScreensav.cpp` Prolonging reading time by pressing `<SPACE>`      
-Additions:    
-`source/haScrMenu.cpp` A menu allows to examine the text step by step           
-`source/haScrRenumber.cpp` Renumber text, if new text items have been inserted            
-`source/haScreensav.exe` Run the configuration and menu directly            
-`source/haScreensav64.scr` 64bit Version            
-`source/haScreensav64.exe` 64bit Version            
+Additions:  
+source/haScrMenu.cpp A menu allows to examine the text step by step  
+source/haScrRenumber.cpp Renumber text, if new text items have been inserted  
+source/haScreensav.exe Run the configuration and menu directly  
+source/haScreensav64.scr 64bit Version  
+source/haScreensav64.exe 64bit Version  
 
 
 ![screenshot1](document/image/haScrSav01.jpg)  
@@ -65,7 +66,7 @@ Examples in German:
 
 [Goethe - Maximen&Reflexionen](document/image/haScrSav10.jpg)  
 
-[Im Anfang 1M6.3-4](document/image/haScrSav07.jpg)  
+[Die TORa'H](document/image/haScrSav07.jpg)  
 
 [Vergleichende](document/image/haScrSav06.jpg)  
 
@@ -78,6 +79,8 @@ Examples in German:
 [Die Aufstellungen des PA'ULOS](document/image/haScrSav16.jpg)  
 
 [Enthüllung](document/image/haScrSav17.jpg)  
+
+[Die Geschriebene](document/image/haScrSav19.jpg)  
 
 Examples in English:  
 [Goethe - Maxims&Reflexions](document/image/haScrSav13.jpg)  
