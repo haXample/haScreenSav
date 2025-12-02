@@ -175,7 +175,7 @@ DER STEINHAGEL UND DER STILLSTAND DER SONNE
   12  Damals\1/ wortete JöHOSchu´Ã zu JHWH,                  \1/w: Dann.
   in (dem) Tag, (da) JHWH ` den ÄMoRI´ (dahin)gab                  S14.3
   angesichts (der) Söhne JiSsRaE´Ls,
-  und er sprach  zu Augen JiSsRaE´Ls:
+  und er sprach zu Augen JiSsRaE´Ls:
   »Sonne, in GiBh~O´N stehe\2/ still,                  IB9.7  \2/w: sei.
   und Mond, in (der) Tief(eben)e AJaLO´N!«              JS19.42  JS21.24
 
@@ -818,7 +818,7 @@ DaWi´D WIRD REGENT ÜBER JöHUDa´H, °ISch Bo´SchäT ÜBER JiSsRaE´L
 35. SchöMUE´L B 2S7
 DaWi´Ds DANK UND BITTE
   18  Und der Regent DaWi´D kam
-  und (hat)te Sitz  angesichts JHWHs
+  und (hat)te Sitz angesichts JHWHs
   und sprach:                                                    1S18.18
   Wer (bin) ich, JHWH, mein Herr,                        RU2.10  1W29.14
   und wer (ist) mein Haus,                                1M32.11  1S2.8  
@@ -829,7 +829,7 @@ DaWi´Ds DANK UND BITTE
   und deine Worte
   werden (als) Wahrheit (befunden),                         J17.17  T2.1
   und du wortetest zu deinem Diener                       4M23.19  1R2.4
-  ` das  dieses Gute.                                  JJ55.11  LB132.11  
+  ` das dieses Gute.                                   JJ55.11  LB132.11  
 
 
 36. SchöMUE´L B 2S14
@@ -939,7 +939,7 @@ SchöLoMo´Hs WAHL IM TRAUMGESICHT ZU GiBh~O´N
   Richtigung zu hören,                                  1W22.12  1W29.19
 
   12  da! Ich tue gemäß deinen Worten.                   LB10.17  ST1.16
-  Da!  Ich gebe dir                                      JJ65.24  1J5.14
+  Da! Ich gebe dir                                       JJ65.24  1J5.14
   (ein) weises und verständiges Herz,                           1R5.9,12
   dass nicht (einer) wie du
   vor\1/ dir wurde                                                2W1.11  
@@ -1463,7 +1463,7 @@ DER DIENER UND ERWÄHLTE JHWHs
   macht er (die) Richtigung herausgehen.
 
   9  Die Anfänglichen,                                           JJ41.22
-  da!  Sie kamen,
+  da! Sie kamen,
   und Neue berichte ich;                          JJ43.19  AM3.7  EH1.19
   noch ehe sie sprossen,
   lasse ich (sie) euch hören.
@@ -1779,7 +1779,7 @@ JHWH WIRD VON ALLEN NATIONEN BEHULDIGT
 
   22  Denn                                       JJ65.17  2P3.13  EH21.1
   so wie die neuen Himmel
-  und das  neue Erdland,
+  und das neue Erdland,
   die ich mache,                                                 JJ65.18
   stehende (sind) mir angesichts                                  H12.27
   - Treuewort JHWHs -,
@@ -2327,7 +2327,7 @@ JHWHs ANTWORT
   in seiner Kraft,                                      JJ45.18  LB146.6
   (der) (das) Wirrland Bereitende
   in seiner Weisheit,                                           LB104.24
-   in seinem Verständnis                                           IB9.8
+  in seinem Verständnis                                            IB9.8
   streckte er (die) Himmel aus.                         JJ44.24  LB104.2
 
 
@@ -2634,7 +2634,7 @@ DAS GESCHEHEN ZUR ZEIT DER REGENTSCHAFT JHWHs
   Blut und Feuer                                                EH8.7,10
   und Palm(enart)ige\1/ (des) Rauchs\1/.     EH9.2  \1-1/e: Rauchsäulen.
 
-  5  Und es wird:   A2.21
+  5  Und es wird:                                                  A2.21
   All(jed)er, der im Namen JHWHs ruft,
   (wird) entkommen,                                        R10.13  1K1.2
   denn gebiets (des) Berges                             ZiJO´N   JJ46.13
@@ -3385,7 +3385,7 @@ STRAFREDE BEZÜGLICH DER EHEN
   16  Dass er (das) Entsenden hasst,                      MK10.9  1K7.11
   (dies) spricht JHWH, (der) ÄLoHI´M JiSsRaE´Ls,
   und (dass) (ein)er (sich) auf seiner Kleidung
-  (mit) Gewalttat bedeckt ,     
+  (mit) Gewalttat bedeckt,     
   (dies) spricht JHWH (der) Heere.
   Und (so) hütet ihr euch in eurem Geistwind,
   und nicht verratet ihr (einander).                           MA2.10,14
@@ -3517,9 +3517,9 @@ JHWH UND SEIN GESALBTER SOHN; FALSCHE UND RICHTIGE EINSTELLUNG DAZU
 
   3  Wir wollen auseinander (reiß)en
   ` ihre Umzüchtigungen                                            JR5.5
-  und von uns werfen´ ihre Taue!
+  und von uns werfen ihre Taue!
 
-  7  Ich will aufzählen  (dem) Gesetz zu.
+  7  Ich will aufzählen (dem) Gesetz zu.
   JHWH sprach zu mir:
   Mein Sohn (bist) du,                               M3.17  L3.22  J1.49
   ich, ich gebar dich                                             A13.33
@@ -3606,13 +3606,13 @@ DIE HIMMEL UND WAS VON IHNEN AUSGEHT. DIE BEGEHRTEN UND ERBETENES
 195. LOBENDE LB23       
 JHWH, DER HIRTE
   1  Psalm dem DaWi´D.
-  JHWH (ist) mein Hirte,        1M48.15  1P2.25
-  nicht (hab)e ich Mangel.      LB34.10,11  P4.19
+  JHWH (ist) mein Hirte,                                 1M48.15  1P2.25
+  nicht (hab)e ich Mangel.                             LB34.10,11  P4.19
 
-  3  Meine Seele (bring)t er zurück.       LB35.17
+  3  Meine Seele (bring)t er zurück.                             LB35.17
   Er leitet mich
-  in Geleisen (der) Gerechtigkeit       VG4.11
-  um seines Namens willen.      LB31.4
+  in Geleisen (der) Gerechtigkeit                                 VG4.11
+  um seines Namens willen.                                        LB31.4
 
  
 196. LOBENDE LB24       
@@ -3793,7 +3793,7 @@ BITTE EINES STILLHALTENDEN UM DURCHBLICK UND ÜBERSCHATTUNG
   5  Dieser will ich gedenken
   und will auf\1/ mir ausschütten meine Seele,
   dass ich in Überhüttung\2/ hinüberging,         \2/e: vmtl. Baldachin.
-  (mit) ihnen wallte  bis (zum) Hause ÄLoHI´Ms
+  (mit) ihnen wallte bis (zum) Hause ÄLoHI´Ms
   in (der) Stimme (des) Lichttönenden
   und (des) Dankes,     
   (ein) Getümmel (des) Fest(feier)nden.
@@ -3817,7 +3817,7 @@ WER LOSKAUFT UND WAS IM TOD NICHT NÜTZT
   ist vergleichbar mit\1/ (den) Tieren,               ST3.19  \1/w: wie.
   (die) verstillt sind.
 
-  14  Dieser  ihr Weg
+  14  Dieser ihr Weg
   (ist) ihnen Vernarrung,
   und in (dem), (was) ihr Mund (redete),
   (hab)en Wohltracht ihre Nach(kommen).
@@ -4095,7 +4095,7 @@ DIE TAGE IN DER SICHT ÄLoHI´Ms UND DES MENSCHEN
   in(folge) (der) Gemachten deiner Hände
   lichtrufe ich.                                                  LB19.2
 
-  6  Was sind groß  deine Gemachten, JHWH,            LB104.24  LB139.14
+  6  Was sind groß deine Gemachten, JHWH,             LB104.24  LB139.14
   überaus tief sind deine Berechnungen.                           JJ55.9
 
  
@@ -4254,7 +4254,7 @@ LOB DEM NAMEN JHWHs. ER IST DER HOHE UND DER SITZGEBER
   lobet ` (den) Namen JHWHs!                                     LB135.1
 
   2  (Der) Name JHWHs werde (ein) gesegneter                       D2.20
-  von nun (an)  bis (zum) Äon.                                  LB115.18  
+  von nun (an) bis (zum) Äon.                                   LB115.18  
 
   3  Vom Aufgang (der) Sonne                                      MA1.11
   bis (zu) ihrem Eingang
@@ -4356,7 +4356,7 @@ AUFRUF ZUM LOB DES MÄCHTIGEN DER HULD UND DER WAHRHEIT
  
 253. LOBENDE LB119      
   140  Ausgeschmolzenes                                  LB12.7  LB18.31
-  (ist) dein Sprechendes  überaus,                                VG30.5
+  (ist) dein Sprechendes überaus,                                 VG30.5
   und dein Diener liebt es.                              LB119.47,97,167
 
  
@@ -4393,7 +4393,7 @@ JHWH, DER HELFER UND HÜTER
   Ich hebe meine Augen zu den Bergen.                            LB123.1 
   Woher\1/ (wird) meine Hilfe kommen?         LB146.5  \1/a: Von keinem.
          
-  2  Meine Hilfe (ist) von  JHWH,                JJ41.13  LB124.8  H13.6
+  2  Meine Hilfe (ist) von JHWH,                 JJ41.13  LB124.8  H13.6
   (dem) Macher (der) Himmel und (des) Erdlands.            LB8.4  A17.24
           
  
@@ -4425,7 +4425,7 @@ DIE DARSTELLUNGEN DER ÄONISCHEN HULD JHWHs
   3  Danket dem Herrn der Herren,                                 1T6.15
   denn für äonisch (ist) seine Huld.                             1W16.41
 
-  25  (Der) Geber (des) Brotes\1/  allem Fleisch,               LB145.15
+  25  (Der) Geber (des) Brotes\1/ allem Fleisch,                LB145.15
   denn für äonisch (ist) seine Huld.                             LB57.11
                                               \1/e: der nötigen Nahrung.  
 
@@ -4552,7 +4552,7 @@ JHWHs GESPRÄCH MIT SsaTha´N
   21  und sprach:
   Nackt ging ich heraus                                           ST5.14
   aus (dem) Bauche meiner Mutter,                                  1T6.7
-  und nackt kehre ich zurück  dorthin.                             2K5.3
+  und nackt kehre ich zurück dorthin.                              2K5.3
   JHWH gab und JHWH nahm,
   (der) Name JHWHs
   werde (ein) gesegneter!                                           E1.3
@@ -4573,7 +4573,7 @@ IJO´Bhs BEWÄHRUNG GEGENÜBER SEINER MÄNNIN
 
   9  Da sprach seine Männin zu ihm:                              IB19.17
   Du hältst (ja) noch deine Makellosigkeit;
-  segne (doch) ÄLoHI´M (ab)  und stirb!
+  segne (doch) ÄLoHI´M (ab) und stirb!
 
   10  Er aber sprach zu ihr:
   Wie eine der Verruchten wortet,                                 LB14.1
@@ -4635,10 +4635,10 @@ ERSTE REDE DES ZoPha´R
   7  (Willst) du
   (die) Untersuchung (des) ÄLO´aH finden,                         1K2.10
   ob bis (zur) Vervollständigung (des) SchaDa´J
-  du findest?   IB37.23  E3.19  K2.9
+  du findest?                                       IB37.23  E3.19  K2.9
 
   8  Hochwölbungen (der) Himmel                                    E3.18
-  was (ist's), wirkst du (sie)? IB22.12
+  was (ist's), wirkst du (sie)?                                  IB22.12
   Tief (ist) (sie)\1/, mehr als (der) Schö°O´L
   was (ist's), erkennst du (sie)\1/?
                                             \1/e: die Vervollständigung.
@@ -4791,7 +4791,7 @@ IJO´Bhs BETEUERUNG SEINER UNSTRÄFLICHKEIT
   9  Wenn zugänglich war mein Herz
   auf (eine) Männin (zu)                                           M5.28
   und auf (die) (Haus)öffnung
-  meines Beigesellten (zu)  ich lauerte,
+  meines Beigesellten (zu) ich lauerte,
 
   10  (so) zermahle für (einen) anderen
   meine Männin,
@@ -4889,7 +4889,7 @@ ERSTE REDE JHWHs AUS DEM STURM
   mit zu erfüllenden (Worten),
   ohne dass Erkenntnis?                                          IB35.16
 
-  3  Sei doch gegürtet  wie (ein) Ermächtigter
+  3  Sei doch gegürtet wie (ein) Ermächtigter
   (an) deinen Weichen,                                            L12.35
   und ich frage dich,
   und mach (du) mich erkennen!                           IB21.22  IB40.7
@@ -4939,14 +4939,14 @@ IJO´Bh ANTWORTET, SICH DEMÜTIGEND
   2  Du\1/ erkennst\1/,                              \1/QR: Ich erkenne.
   dass du alles kannst,                                  JJ43.13  M19.26
   und nicht wird Geplantes
-  \vn/ dir verwehrt.                                             LB135.6
+  dir verwehrt.                                                  LB135.6
 
   3  Wer (ist) dieser,
   (der) Verheimlicher (des) Rates,
   ohne dass Erkenntnis?                                           IB38.2
   Daher,
   ich berichtete und verstehe (doch) nicht,
-  mir \vn/zu Wunder(bare) (sind's),                               LB40.6
+  mir zu Wunder(bare) (sind's),                                   LB40.6
   und ich erkenne nicht.                                         LB139.6
 
   4  Höre doch,
@@ -4982,7 +4982,7 @@ JHWHs REDEN ZU DEN DREI BEIGESELLTEN DES IJO´Bh
   euch zugunsten.
   Und IJO´Bh, mein Diener,
   bete euretwegen\1/.                                    1M20.17  1J5.16
-  Denn \ob/nur sein Angesicht erhebe ich,
+  Denn nur sein Angesicht erhebe ich,
   dass an euch                                \1/w: auf(grund von) euch.
   (ich) nimmer Verruchtheit tue,
   denn nicht wortetet ihr
@@ -5163,8 +5163,8 @@ JHWH VERFOLGT IN ALLEM NUR GUTES
 DER DUNSTHAFTE KREISLAUF DES ERSCHAFFENEN
   1  Worte (des) Stimm(erheb)ers,        1R8.1,22  ST7.27  ST12.10 2W5.2
   (des) Sohnes DaWi´Ds,                                            1W3.5  
-  (des) Regenten\2/ in JöRUSchaLa´iM.                      1R2.12 2W9.30
-                                                   \2/e: 985 - 946 vZtr.  
+  (des) Regenten\1/ in JöRUSchaLa´iM.                      1R2.12 2W9.30
+                                                   \1/e: 985 - 946 vZtr.  
   2  Umdunsten (der) Dünste!                                     LB144.4
   spricht (der) Stimm(erheb)er,
   Umdunsten (der) Dünste!                                VG31.30  ST2.11
@@ -5201,7 +5201,7 @@ DIE VERFEHLUNG UND DER FALL WaSchTI´s. TRINKMAHL
   (wird) hinausgehen auf all die Weiber (zu),                     ÄT1.20
   verachten zu machen ihren Eigner               1M3.16  5M22.22  2S6.16
   in ihren Augen,       
-  in(dem) man\2/ spricht:                                     \2/w: sie.
+  in(dem) man\1/ spricht:                                     \1/w: sie.
   Der Regent AChaSchWeRO´Sch sprach,
   ` die Regentin WaSchTI´
   kommen zu lassen zu seinem Angesicht,
@@ -5302,12 +5302,12 @@ DEKRET DES KO´RÄSCH II., DAS HAUS JHWHs WIEDER ZU BAUEN
 DAS ÖFFENTLICHE GELESENWERDEN DER ZIELGEBUNG
   1  Und all das Volk wurde versammelt\1/                \1/e: 445 vZtr.
   wie  e i n  Mann                                          1R8.2  ÄR3.1
-  zu der Weitung  (hin),        
+  zu der Weitung (hin),        
   welche angesichts des Wassertores.                       N3.26  N12.37
   Und sie sprachen zu ÄSRa´°,   
   dem Aufzähler,                                   ÄR7.1,6  N8.9  N12.26
   ` (die) (Urkunde) (der) Zählung                  N8.18  N13.1  2W34.15
-  (der) Zielgebung  MoSchä´Hs zu bringen,           5M31.9  JS1.8  1R2.3
+  (der) Zielgebung MoSchä´Hs zu bringen,            5M31.9  JS1.8  1R2.3
   welche JHWH     
   ` (dem) JiSsRaE´L geboten (hatte).
 
@@ -5315,7 +5315,7 @@ DAS ÖFFENTLICHE GELESENWERDEN DER ZIELGEBUNG
   in (der) (Urkunde) (der) Zählung,                         2R23.2  N9.3
   in (der) Zielgebung des ÄLoHI´M,                                1T4.13
   (der) erläuterten,                                               CB2.2
-  und (so)  Klugheit (dar)legend.                              L24.27,45
+  und (so) Klugheit (dar)legend.                               L24.27,45
   Und sie verstanden
   gebiets (des) Herausgerufenen\1/.          \1/e: ausgerufenen Inhalts.
 
@@ -5410,9 +5410,9 @@ BEKENNTNIS DER VERFEHLUNGEN. GEBET DER LöWiJi´M
 
 314. NöChäMJa´H N13     
 BEHADERUNG WEGEN DER EHEN MIT AUSWÄRTIGEN WEIBERN
-  23  Auch noch  in  den  (jen)en Tagen
+  23  Auch noch in den (jen)en Tagen
   sah ich ` die JöHUDI´M,
-  (die) Sitz ge(geb)en  (auswärtigen) Weibern,           ÄR10.10  2K6.14
+  (die) Sitz ge(geb)en (auswärtigen) Weibern,            ÄR10.10  2K6.14
   (den) ASchDODiJO´T\1/, ÃMONiJO´T\2/,
   MOABhiJO´T.                                              RU1.4  N10.31  
                                  \1/QR: ASchDoDiJO´T; gB: asdoditischen.
@@ -5502,7 +5502,7 @@ DaWI´Ds GEBET
   (der) ÄLoHI´M JiSsRaE´Ls, unseres Vaters,                      1M32.29
   vom Äon (an) und bis (zum) Äon.                                  D2.20  
 
-  11   Dein, JHWH, (ist) die Ergrößung                   1W16.25  EH4.11
+  11  Dein, JHWH, (ist) die Ergrößung                    1W16.25  EH4.11
   und die Ermächtigung                                            1T1.17  
   und die Zier                                           LB71.8  1W29.13
   und die Dauer
@@ -5517,7 +5517,7 @@ DaWI´Ds GEBET
 
 320. WORTE DER TAGE B 2W36
 ZERSTÖRUNG DES TEMPELS. ZWEITE WEGFÜHRUNG NACH BaBhä´L
- 17  Und er (brach)te hinauf wider sie                           5M28.49
+  17  Und er (brach)te hinauf wider sie                          5M28.49
   ` (den) Regenten\1/ (der) KaSsDI´M\2/,       \1/e: NöBhUKhaDNäZa´R II.
   und (dies)er brachte ihre Erwählten um              \2/KT: KaSsDiJI´M.
   mit (dem) Schwert                            
@@ -5663,7 +5663,7 @@ TORHEIT UND WEISHEIT GOTTES UND DES KOSMOS
   23  wir, (ja) wir aber,
   ChRISTO´S (als) Angepfahltwordenen
   herolden,                                                        1K2.2
-  (ist's) (den) Juden  - (das) bleibt -
+  (ist's) (den) Juden - (das) bleibt -
   Verstrickung,                                  JJ8.14  R9.32,33  G5.11
   (den) Nationen aber Torheit;                            1K2.14  A17.32
 
@@ -5971,14 +5971,14 @@ DIE ANTWORT DES PÄ´TROS
   Anfängliche des Volks und Vorrangige!
 
   10  bekannt sei euch allen                                       A2.14
-  und all\1/ dem Volk ISRAE´L :
+  und all\1/ dem Volk ISRAE´L:
   In(folge) des Namens JESuU´ ChRISTuU´,
   des Nasareners,                                            M2.23  A3.6
   den ihr, (ja) ihr, angepfahlt,                                   A2.36
   den der Gott aus Erstorbenen erweckte,                           A2.24
   (ja) in(folge) (von) diesem                                      A5.30  
   hat dieser bei (euch) Stand ge(nomm)en
-  (als) (ein) im Auge (von) euch  Gesunder.                        A3.16
+  (als) (ein) im Auge (von) euch Gesunder.                         A3.16
                                      \1/so A,B; in S: all(jed)es, (das).
 
   11  Dies ist der Stein,                                        JJ28.16
@@ -6004,7 +6004,7 @@ DIE ANTWORT DES PÄ´TROS UND DES JOohA´NNES
   ´sagten (als) Antwortende zu ihnen:
   Ob es gerecht ist im Auge des Gottes,
   (auf)\1/ euch viel mehr (zu) hören           D3.18  \1/e: iSv gebiets.
-  als (auf) (das)  des Gottes?          
+  als (auf) (das) des Gottes?          
   Richtet('s) (doch)!                                              A5.29
 
   20  Denn nicht vermögen wir, (ja) wir,                          JR20.9
@@ -6029,7 +6029,7 @@ BERATUNG DES SYNEDRIUMS UND RAT DES GAMALIE´L
   und berieten\1/,                                  \1/A,B: beschlossen.
   sie (zu) ´beseitigen.
 
-  34  (Es) ´stand aber jemand
+  34  (Es) stand aber jemand
   in dem Synedrium auf,
   (ein) Pharisäer (mit) Namen GAMALIE´L,                           A22.3
   (ein) Gesetzeslehrer,
@@ -6038,10 +6038,10 @@ BERATUNG DES SYNEDRIUMS UND RAT DES GAMALIE´L
   (ein) Weilchen die Menschen hinaus(zu)tun.
 
   38  Und nun, dies sage ich euch\1/:                      \1/so S*,A,B.
-  ´Stehet ab von den diesen Menschen
+  Stehet ab von den diesen Menschen
   und ´lasset sie (los);        
   da,
-  so aus Menschen ist´  der dieser Rat
+  so aus Menschen ist der dieser Rat
   oder das dieses Gewirkte,                                      LB127.1
   wird es herabgelöst werden;                            VG21.30  M15.13
 
@@ -6049,7 +6049,7 @@ BERATUNG DES SYNEDRIUMS UND RAT DES GAMALIE´L
   werdet ihr nicht vermögen,                                       R8.31
   sie herab(zu)lösen,                                             JJ8.10
   (dass) nich(t) einst                                            A26.14
-  auch (als) Gottbezanker ihr befunden werdet´.
+  auch (als) Gottbezanker ihr befunden werdet.
   Sie wurden aber ihm gefügig (gemach)t.
           
 
@@ -6090,7 +6090,7 @@ BERATUNG DES SYNEDRIUMS UND RAT DES GAMALIE´L
   35  Aber der PhI´LIPPOS,
   öffnend seinen Mund                                             M13.52
   und anfangend                                                   L24.27
-  von  der dieser Geschriebenen,                          1K15.3  2T3.16
+  von der dieser Geschriebenen,                           1K15.3  2T3.16
   wohlkündete ihm auch den JESuU´S.                       A11.20  A18.28
           
 
@@ -6160,7 +6160,7 @@ ABLEHNUNG DER VEREHRUNG UND HINWEIS AUF GOTT
   sprangen die Apostel,
   BARNABA´S° und PA´ULOS,
   (als) durch (und) (durch) Zerfetzende
-  ihre\1/  Gewänder                        M26.65  \1/A,B: ihre eigenen.
+  ihre\1/ Gewänder                         M26.65  \1/A,B: ihre eigenen.
   hinaus in die Menge,      
   (indem) (sie) schrieen
 
@@ -6309,9 +6309,9 @@ PA´ULOS WIRD ÜBERREDET ZUR LÄUTERUNG GEMÄSS GESETZ
   Der Gott unserer Väter                                    A3.13  A5.30
   hat Zugriff\1/  (in) (Bezug) (auf) dich,                 G1.15  A26.16
   (dass) (du) seinen  Willen ´kennst                               A9.15
-  und ´gewahrst  den Gerechten                       1K9.1  1K15.8 H7.26
+  und ´gewahrst den Gerechten                        1K9.1  1K15.8 H7.26
   und hörst (die) Stimme        
-  aus seinem  Mund,                                       1K11.23  G1.12
+  aus seinem Mund,                                        1K11.23  G1.12
                                           \1/w: Zuhand; in A,B: Vorhand.
   15  dass du ihm (ein) Zeuge sein wirst
   zu allen Menschen (hin)                                         A23.11
@@ -6324,7 +6324,7 @@ PA´ULOS WIRD ÜBERREDET ZUR LÄUTERUNG GEMÄSS GESETZ
   dass gemäß dem Weg,                                       2M3.15  A9.2
   den sie (eine) Sekte heißen,                             A24.5  A28.22
   also ich gottesdienste  dem väterlichen Gott,       R1.9  2T1.3  A3.13
-  treuend all dem  gemäß dem Gesetz                                R3.21
+  treuend all dem gemäß dem Gesetz                                 R3.21
   und dem                                                5M18.18  A28.23  
   in den Propheten Geschriebenwordenen,
           
@@ -6441,7 +6441,7 @@ DAS UNSER SEIN IM HÖREN, SPRECHEN UND TUN BEEINFLUSSEN WILL
   empfanget in Sanftmütigkeit
   das (e)ingepflanzte Wort,                                M13.23  A8.14
   das vermögende,
-  eure  Seelen (zu) retten.                                  H2.3  1P1.9
+  eure Seelen (zu) retten.                                   H2.3  1P1.9
 
 
 370. des JA´KOoBOS JK1
@@ -6542,7 +6542,7 @@ WARUM WIR NICHT RICHTEN UND UNS NICHT IN HOCHMUT RÜHMEN SOLLTEN
   und werden Gewinn (mach)en«,                                    M16.26
 
   14  die ihr nicht (in) (Bezug) (auf) das,                     LB39.5-7
-  (was)  anderntags (geschieht),                                  VG27.1
+  (was) anderntags (geschieht),                                   VG27.1
   auf (Wissen) stehet
   (und) welcher\1/ Art\1/ euer Leben (ist),         \1/w: was für eines.
   das\2/ zu wenigem\3/                                            ST6.12
@@ -6558,7 +6558,7 @@ WARUM WIR NICHT RICHTEN UND UNS NICHT IN HOCHMUT RÜHMEN SOLLTEN
   und werden dieses oder jenes tun.                                 H6.3
 
   16  Nun aber rühmet ihr (dem) (ent)gegen
-  in\1/ euren  Hochmüt(igkeit)en;                       \1/a: in(folge).
+  in\1/ euren Hochmüt(igkeit)en;                        \1/a: in(folge).
   all(so)lches\2/, (ja) solches Rühmen ist böse.            \2/A,B: all.
 
 
@@ -6581,7 +6581,7 @@ UND DAS BLEIBEN DER REDE DES HERRN
                          \1-1/A,B: seine Herrlichkeit; e: in A,B »seine«
                          auf »Fleisch« bezogen, in S »seine« auf »Gras«.
 
-  25  aber die Rede (des) Herrn  bleibt                    JJ40.8  M5.18
+  25  aber die Rede (des) Herrn bleibt                     JJ40.8  M5.18
   hinein in den Äon.   
   Dies aber ist die Rede,       
   die hinein in euch wohlgekündet(worden)e.          E1.13  T1.3  2P1.19
@@ -6643,6 +6643,7 @@ UND ZUR VERANTWORTUNG BETREFFS UNSERER ERWARTUNG BEREIT SEIN
   hinein\2/ in ChRISTO´S\2/                      \2-2/A,B: in ChRISTOo´.
   behadern.                                                 T2.8  1P2.12
                           \1/a: herabsprechen, e: herabsetzend sprechen.
+
 
 381. des PÄ´TROS A 1P4
 DIE DENKRÜSTUNG ZUR EXISTENZ IM LEIDEN
@@ -6714,15 +6715,15 @@ UND WIDERSTEHEN DEM DIA´BOLOS
   7  (als) all eure Sorge
   auf ihn Schleudernde,                                LB55.23  M6.25,31
   da er, (ja) er,       
-  uns\1/ betreff(end)  sich kümmert.              LB40.18  \1/A,B: euch.
+  uns\1/ betreff(end) sich kümmert.               LB40.18  \1/A,B: euch.
 
 
 385. des PÄ´TROS A 1P5
 DAS BERUFEN, ANPASSEN UND FESTIGEN DES GOTTES ALLER GNADE, 
 DEM DIE HALTEKRAFT IST
-  10  ABER DER GOTT ALLER GNADE,                                   2K9.8
+  10  Aber der Gott aller Gnade,                                   2K9.8
   der, (der) euch berief                         1TH2.12  1TH5.24  2P1.3
-  hinein in seine  äonische Herrlichkeit
+  hinein in seine äonische Herrlichkeit
   in ChRISTOo´,                                                  2TH2.14
   er, (ja) er,
   wird (euch), (die) kurz\1/ ´Gelitten(hab)enden,          2K4.17  1P1.6
@@ -6767,14 +6768,14 @@ DIE AUFMERKSAMKEIT ERFORDERNDE BEDEUTUNG
 UND HERKUNFT DES PROPHETISCHEN WORTES
   19  Und wir haben bestätigter                     R15.8  H2.2,3  H6.19
   das prophetische Wort,                        L1.67-75  L24.44  R16.26
-  dem (zu)  ihr('s) ideal macht                                    G4.18  
-  (als) Aufmerkende    H2.1
+  dem (zu) ihr('s) ideal macht                                     G4.18  
+  (als) Aufmerkende                                                 H2.1
   wie (auf) (eine) scheinende Leuchte            LB119.105  VG6.23  J1.9
   in (einem) düsteren Ort,                                   M5.15  J1.5  
-  bis  der Tag durchstrahle                       L17.24  R13.12  H10.25
+  bis der Tag durchstrahle                        L17.24  R13.12  H10.25
   und (der) Lichtträger                                          EH21.23
   hinauf Ziel (nehm)e.                                      M4.16  L1.78  
-  In euren  Herzen                                               1J2.7,8
+  In euren Herzen                                                1J2.7,8
 
   20  dies vorher Wissende,
   dass all(jed)e Prophetie (der) Geschriebenen    R16.26  E2.20  EH19.10
@@ -6813,7 +6814,7 @@ VERBUNDENE GRÖßERE VERANTWORTUNG
   heiligen In(nen)ziel (weg).                                  M12.31,32
 
   22  Widerfahren ist ihnen
-  das  der wahren Parallele:
+  das der wahren Parallele:
   (Ein) Köter,                                             VG26.11  M7.6
   sich wendend auf den eigenen Ausfluss (zu);
   und:
@@ -6826,7 +6827,7 @@ DAS WASSERGERICHT AN DEM DAMALIGEN KOSMOS
 UND DER TAG DES FEUERGERICHTS AN DEM NUNMEHRIGEN
   5  Denn unbemerkt ist ihnen,
   (den) dies Wollenden,
-  dass aus\1/ Altem her\1/  Himmel waren         \1-1/e: aus alter Zeit.
+  dass aus\1/ Altem her\1/ Himmel waren          \1-1/e: aus alter Zeit.
   und (ein) Erdland                                                2P2.3
   aus Wasser und durch Wasser,
   (als) zusammen standge(nomm)enhabende\2/     \2/e: auf Wasser bezogen.
@@ -6854,7 +6855,7 @@ DER TAG DES HERRN UND DER KÜNFTIGE KOSMOS
   Geliebte,
   dass  e i n  Tag bei (dem) Herrn
   wie tausend Jahre,                                              LB90.4
-  (ja)\1/ (sie)\1/  wie  e i n  Tag (sind).   \1/A,B: und tausend Jahre.
+  (ja)\1/ (sie)\1/ wie  e i n  Tag (sind).    \1/A,B: und tausend Jahre.
 
   9  Nicht ist (der) Herr säumig                           CB2.3  H10.37
   (betreffs) der Verheißung,                                        A1.4
@@ -6945,7 +6946,7 @@ ZUR FREUDEVERVOLLSTÄNDIGUNG
   ist (ein) Fälscher,
   und in dem Finsteren ist er bis jetzt.                  JJ59.9  1J3.14
 
-  10  Der Liebende seinen  Bruder
+  10  Der Liebende seinen Bruder
   bleibt in dem Licht,                                       J11.9  E5.8
   und Verstrickung ist nicht in ihm;                       R14.13 2P1.10
 
@@ -6966,9 +6967,9 @@ WARUM WIR DEN KOSMOS NICHT LIEBEN SOLLEN
   sondern aus dem Kosmos ist es.                          1K7.33  E2.2,3
 
   17  Und der Kosmos wird\1/ (vor)beigeführt                      1K7.31
-  und seine  Begierde,                                            1P1.24
+  und seine Begierde,                                             1P1.24
   aber der den Willen des Gottes Tuende                     M7.21  1P4.2
-  bleibt  hinein in den Äon.                           LB37.27,29  J6.40
+  bleibt hinein in den Äon.                            LB37.27,29  J6.40
                                       \1/e: sich hinziehendes Geschehen.  
 
 
@@ -6989,10 +6990,10 @@ WIE MAN FÄLSCHUNG UND DEN FÄLSCHER GEWAHRT
 WAS IN UNS BLEIBEN SOLL UND WORIN WIR BLEIBEN SOLLEN. 
 WER AUS IHM GEWORDEN IST
   24  Ihr,
-  was ihr von Anfang (an)  gehört\1/ habt\1/,                      1J1.1
+  was ihr von Anfang (an) gehört\1/ habt\1/,                       1J1.1
   in euch bleibe es;                                              J14.23
   so in\2/ euch bleibt´,                               J15.4  \2/so A,B.
-  was ihr von Anfang (an)  gehört\1/ habt\1/,                2T1.13  2J6
+  was ihr von Anfang (an) gehört\1/ habt\1/,                 2T1.13  2J6
   auch ihr,                                              \1/A,B: gehört.    
   in dem Vater und in dem Sohn
   werdet ihr bleiben.                                      1J1.3  1J3.24
@@ -7002,7 +7003,7 @@ WER AUS IHM GEWORDEN IST
   bleibt in euch,       
   und nicht habt ihr Bedarf,                                      1TH4.9
   auf dass euch jemand lehre,                             JR31.34  H8.11
-  sondern wie  sein\1/ Geist\1/ euch lehrt                        J14.26
+  sondern wie sein\1/ Geist\1/ euch lehrt                         J14.26
   betreffs aller,                 J16.13  1K2.15  \1/A,B: seine Salbung.
   (so) ist er\2/ auch wahr                                  J17.17  R3.4
   und ist nicht Fälschung;             \2/e: der salbende Gott; A,B: es.
@@ -7013,7 +7014,7 @@ WER AUS IHM GEWORDEN IST
 398. des JOohA´NNES A 1J3
 WARUM DER KOSMOS UNS NICHT KENNT. WAS WIR SIND UND SEIN WERDEN 
 UND WAS DURCH DIESE ERWARTUNG GEWIRKT WIRD
-  1  ´Gewahret\1/,  \1/gemäß S auch: Ihr ´gewahret.
+  1  ´Gewahret\1/,                       \1/gemäß S auch: Ihr ´gewahret.
   von welcher (Art) (die) Liebe (ist),                     J3.16  J17.23
   (die) uns der Vater gegeben hat,                          E2.4  1J4.10
   auf dass wir
@@ -7084,7 +7085,7 @@ WODURCH WIR ALLFLIEßEN UND ERHÖRLICHES BITTEN ZU GOTT HABEN
 
   22  und was wir erbitten´\1/,                 LB10.17  LB34.16  J14.13
   nehmen wir von ihm,                             LB37.4  M7.7,8  1J5.15
-  da wir seine  In(nen)ziele hüten                          J9.31  1J2.3
+  da wir seine In(nen)ziele hüten                           J9.31  1J2.3
   und die in seinem Auge Gefälligen tun.           J8.29  H13.21  1P3.12
                                                       \1/A,B: erbitten´.    
 
@@ -7112,10 +7113,10 @@ WIE MAN DEN GEIST GOTTES UND DEN GEIST DES ANTI´CHRISTOS ERKENNT
   nicht gleichwortet,                                 M10.33  2P2.1  2J7
   ist nicht aus dem Gott;                                          J8.47  
   und dies ist der (Geist) des ANTI´ChRISTOS,                     1J2.22
-  (in)\4/ (Bezug) (auf) den wir gehört haben\4/,                  2TH2.7
+  (in)\3/ (Bezug) (auf) den wir gehört haben\3/,                  2TH2.7
   dass er kommt                                                   1J2.18  
   und nun schon in dem Kosmos ist.                                A20.30
-                                            \4-4/a: da wir gehört haben;
+                                            \3-3/a: da wir gehört haben;
                              in A,B: (bezüglich) dessen ihr gehört habt.
 
 
@@ -7138,7 +7139,7 @@ UND DEN GEIST DES IRRTUMS AN DENEN AUS DEM KOSMOS ERKENNT
   18  Furcht ist nicht in der Liebe,                               R8.15
   sondern die vollend(ungsgemä)ße Liebe
   treibt\1/ die Furcht hinaus,                       2T1.7  \1/a: wirft.
-  da die Furcht  Verbüßung hat\2/;         \2/e: im Sinne hat; :1M3.10:.
+  da die Furcht Verbüßung hat\2/;          \2/e: im Sinne hat; :1M3.10:.
   aber der Fürchtende   
   ist nicht in der Liebe vollendet worden.                         1J2.5
 
@@ -7190,7 +7191,7 @@ WO DAS LEBEN IST UND WER ES HAT
   und dieses Leben                                           J1.4  1J1.2  
   ist in seinem Sohn.                                       J5.26  R6.23
 
-  12  Der den Sohn Habende, 2J9
+  12  Der den Sohn Habende,                                          2J9
   hat das Leben;                                            J6.53  1J4.9
   der den Sohn des Gottes nich(t) Habende,
   hat das Leben nicht.                                             J3.36
@@ -7204,19 +7205,19 @@ WARNUNG VOR IDOLEN
   dass all(je)der aus dem Gott Erwordenseiende
   nicht verfehlt,                                        1J2.29  1J3.6,9
   sondern der aus dem Gott Erwordene                       K1.15  EH3.14
-  hütet sich selber, JD1  
+  hütet sich selber,                                                 JD1  
   und der Böse berührt ihn nicht.                 M13.19  J17.15  1J2.13
 
   20  Wir gewahren aber,
   dass der Sohn des Gottes eintraf                                1T3.16
   und uns Durchdenken gegeben hat,                           K1.9  2T2.7
-  auf dass wir das\2/ Wahrhaftige\2/ kennen.               1K2.12  EH3.7
+  auf dass wir das\1/ Wahrhaftige\1/ kennen.               1K2.12  EH3.7
   Und wir sind in dem Wahrhaftigen,                               J17.21
   in seinem  Sohn JESuU´S,                                        J14.20  
   (des) ChRISTO´S;                                                  R9.5
   dieser ist der wahrhaftige Gott                           J1.1  1TH1.9
   und äonisches Leben.               J5.29  J11.25  J17.3  1J1.2  1J5.11
-                                               \2/A,B: den Wahrhaftigen.  
+                                               \1/A,B: den Wahrhaftigen.  
   21  Kindlein,
   bewahret euch selber, (weg) von den Idolen.                    1K10.14
 
@@ -7230,7 +7231,7 @@ UND WARNUNG, MIT IHNEN GEMEINSCHAFT ZU HABEN
   nich(t) Gleichwortenden                                    L11.23  JD4
   (als) (den) im Fleisch Gekommenen;                             1J4.2,3
   dies ist der Beirrende                                M7.15,23  2TH2.7
-  und der\2/ ANTI´ChRISTOS.                        1J2.18,22  \2/so A,B.
+  und der\1/ ANTI´ChRISTOS.                        1J2.18,22  \1/so A,B.
 
 
 411. des JOohA´NNES B 2J
@@ -7257,18 +7258,18 @@ DIE BEDEUTUNG DES WANDELS IN DER WAHRHEIT
                                         \1/e: guten, geebneten Weg hast.
 
 
-413. des JOohA´NNES G 3J
+412. des JOohA´NNES G 3J
 WAS WIR NACHAHMEN UND WAS WIR NICHT NACHAHMEN SOLLEN. 
 BEZEUGUNG DEM DEME´TRIOS
   11  Geliebter,
-  nich(t) ahme das Üble nach,	                         LB34.15  1P3.11
-  sondern das Gute.	                           R12.9  R13.3  1TH5.15
-  Der Gutestuende ist aus dem Gott,   	                 1J2.29  1J3.6,9
-  der Üblestuende	
-  hat den Gott nicht gesehen.	                                  1J3.10
+  nich(t) ahme das Üble nach,                            LB34.15  1P3.11
+  sondern das Gute.                                R12.9  R13.3  1TH5.15
+  Der Gutestuende ist aus dem Gott,                      1J2.29  1J3.6,9
+  der Üblestuende       
+  hat den Gott nicht gesehen.                                     1J3.10
 
 
-414. des JuU´DAS JD     
+413. des JuU´DAS JD     
 WARNUNG VOR LÄSTERUNG
   8  GLEICHER(WEIS)E ALLERDINGS
   auch diese Träumenden,                                   5M13.4  2P2.1
@@ -7278,7 +7279,7 @@ WARNUNG VOR LÄSTERUNG
   Herrlichkeiten aber lästern sie.                           1T6.4  3J10
                                             
 
-415. des JuU´DAS JD     
+414. des JuU´DAS JD     
 WARNUNG VOR LÄSTERUNG
   10  Diese aber
   - (das) bleibt -,
@@ -7291,22 +7292,22 @@ WARNUNG VOR LÄSTERUNG
   in diesem werden sie verderbt.                      R1.24  G6.8  E4.22
           
 
-416. des JuU´DAS JD     
+415. des JuU´DAS JD     
 DER VERDERBLICHE WEG GEMÄSS KA´IN, BALAA´M UND KORÄ´. 
 DIE GERICHTSPROPHEZEIUNG DES hÄNOo´Ch
   11  Wehe ihnen,
   da (in) dem Weg des KA´IN sie gehen                 1M4.5,8,16  1J3.12
   und (in) dem Irrtum des Lohnes BALAA´Ms        4M22.32  5M23.5  EH2.14
   sie ausgegossen werden                                          2P2.15  
-  und (in) dem Widerwort(geb)en des KORÄ´        2TH2.3  1T1.20  2T2.16
+  und (in) dem Widerwort(geb)en des KORÄ´         2TH2.3  1T1.20  2T2.16
   sich gänzlich ´weggelöst (haben).                            4M16.3,32
 
 
-417. des JuU´DAS JD     
+416. des JuU´DAS JD     
 DER VERDERBLICHE WEG GEMÄSS KA´IN, BALAA´M UND KORÄ´. 
 DIE GERICHTSPROPHEZEIUNG DES hÄNOo´Ch
   16  Diese sind Murrer, (ja) Tadler,            4M14.27  1K10.10  P2.14
-  gemäß ihren  Begierden Gehende,                       2P2.10,18  JK4.3
+  gemäß ihren Begierden Gehende,                        2P2.10,18  JK4.3
   und ihr Mund                                                   LB17.10  
   spricht Übergewichtiges\1/,            LB75.5  LB140.12  D11.36  T1.10
   zugunsten (des) (eigenen) Nutzens    
@@ -7314,19 +7315,19 @@ DIE GERICHTSPROPHEZEIUNG DES hÄNOo´Ch
                              \1/e: überstiegene Gewichtigkeiten setzend.
           
 
-418. des JuU´DAS JD     
+417. des JuU´DAS JD     
 WOZU UND WORIN GOTT VERMÖGEN HAT 
 UND WAS IHM DURCH JESuU´S ChRISTO´S ZU EIGEN
   24  Aber dem Vermögenden,                                       R16.25
   euch (als) Unstrauchelnde (zu) bewahren                LB145.20  R8.33
   und (zu) beständigen\2/          1K1.8  1TH3.13  \2/e: Stand zu geben.
-  im Herabaugen seiner  Herrlichkeit                               K1.22
-  (als) Makellose  im Frohlocken,    LB45.16  E1.4  E5.27  P1.10  2P3.14
+  im Herabaugen seiner Herrlichkeit                                K1.22
+  (als) Makellose im Frohlocken,     LB45.16  E1.4  E5.27  P1.10  2P3.14
         
   25  (dem) alleinigen Gott,
   unserem Retthüter,                                 L1.47  1T1.1  1J4.9
   durch JESuU´S ChRISTO´S,                                 M20.28  J3.16
-  unseren  Herrn,
+  unseren Herrn,
   ihm (ist) Herrlichkeit,                               LB29.1-3  2P3.18
   Majestät\1/,                               EH11.17  \1/w: Gesamtgröße.
   Halte(kraft)                                                     D4.31  
@@ -7335,10 +7336,10 @@ UND WAS IHM DURCH JESuU´S ChRISTO´S ZU EIGEN
   und nun
   und hinein in\2/ die Äonen.                            \2/A,B: in all.
   AME´N.                                                          R16.27
-  (Des)\3/ JuU´DAS\4/                                       \3/so S,A,B.
+  (Des)\3/ JuU´DAS\3/                                       \3/so S,A,B.
 
                  
-419. ENTHÜLLUNG EH1       
+418. ENTHÜLLUNG EH1       
 HERKUNFT UND INHALT DES BEZEUGTEN UND VERHEISSUNG FÜR SEINE EMPFÄNGER
   1  Enthüllung JESuU´ ChRISTuU´,
   die der Gott ihm gegeben,                                        D2.28
@@ -7350,7 +7351,7 @@ HERKUNFT UND INHALT DES BEZEUGTEN UND VERHEISSUNG FÜR SEINE EMPFÄNGER
   seinem Sklaven JOohA´NNES,                                       AM3.7
 
 
-420. DIE GESCHRIEBENE DES ALTEN BUNDES (GA)
+419. DIE GESCHRIEBENE DES ALTEN BUNDES (GA)
 ----------------------------------------------
 Die Zielgebung        - hebräisch: TORa´H -
 ----------------------------------------------
@@ -7403,7 +7404,7 @@ WORTE DER TAGE A           1W        (1. Chronika)
 WORTE DER TAGE B           2W        (2. Chronika)
  
 
-421. DIE GESCHRIEBENE DES NEUEN BUNDES (GN)
+420. DIE GESCHRIEBENE DES NEUEN BUNDES (GN)
 -------------- 
 Die Wohlkunden
 -------------- 
@@ -7446,7 +7447,7 @@ des JuU´DAS                JD        (Judas)
 ENTHÜLLUNG                 EH        (Offenbarung) 
 
 
-422. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
+421. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
   -------------------------------------------------
   Bibelausgabe (Deutsch)
     DÜ4 - Die Geschriebene, DaBhaR-Übersetzung,
