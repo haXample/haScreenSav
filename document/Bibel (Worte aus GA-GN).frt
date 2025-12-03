@@ -7258,7 +7258,7 @@ DIE BEDEUTUNG DES WANDELS IN DER WAHRHEIT
                                         \1/e: guten, geebneten Weg hast.
 
 
-412. des JOohA´NNES G 3J
+413. des JOohA´NNES G 3J
 WAS WIR NACHAHMEN UND WAS WIR NICHT NACHAHMEN SOLLEN. 
 BEZEUGUNG DEM DEME´TRIOS
   11  Geliebter,
@@ -7269,7 +7269,7 @@ BEZEUGUNG DEM DEME´TRIOS
   hat den Gott nicht gesehen.                                     1J3.10
 
 
-413. des JuU´DAS JD     
+414. des JuU´DAS JD     
 WARNUNG VOR LÄSTERUNG
   8  GLEICHER(WEIS)E ALLERDINGS
   auch diese Träumenden,                                   5M13.4  2P2.1
@@ -7279,7 +7279,7 @@ WARNUNG VOR LÄSTERUNG
   Herrlichkeiten aber lästern sie.                           1T6.4  3J10
                                             
 
-414. des JuU´DAS JD     
+415. des JuU´DAS JD     
 WARNUNG VOR LÄSTERUNG
   10  Diese aber
   - (das) bleibt -,
@@ -7292,7 +7292,7 @@ WARNUNG VOR LÄSTERUNG
   in diesem werden sie verderbt.                      R1.24  G6.8  E4.22
           
 
-415. des JuU´DAS JD     
+416. des JuU´DAS JD     
 DER VERDERBLICHE WEG GEMÄSS KA´IN, BALAA´M UND KORÄ´. 
 DIE GERICHTSPROPHEZEIUNG DES hÄNOo´Ch
   11  Wehe ihnen,
@@ -7303,7 +7303,7 @@ DIE GERICHTSPROPHEZEIUNG DES hÄNOo´Ch
   sich gänzlich ´weggelöst (haben).                            4M16.3,32
 
 
-416. des JuU´DAS JD     
+417. des JuU´DAS JD     
 DER VERDERBLICHE WEG GEMÄSS KA´IN, BALAA´M UND KORÄ´. 
 DIE GERICHTSPROPHEZEIUNG DES hÄNOo´Ch
   16  Diese sind Murrer, (ja) Tadler,            4M14.27  1K10.10  P2.14
@@ -7315,7 +7315,7 @@ DIE GERICHTSPROPHEZEIUNG DES hÄNOo´Ch
                              \1/e: überstiegene Gewichtigkeiten setzend.
           
 
-417. des JuU´DAS JD     
+418. des JuU´DAS JD     
 WOZU UND WORIN GOTT VERMÖGEN HAT 
 UND WAS IHM DURCH JESuU´S ChRISTO´S ZU EIGEN
   24  Aber dem Vermögenden,                                       R16.25
@@ -7339,7 +7339,7 @@ UND WAS IHM DURCH JESuU´S ChRISTO´S ZU EIGEN
   (Des)\3/ JuU´DAS\3/                                       \3/so S,A,B.
 
                  
-418. ENTHÜLLUNG EH1       
+419. ENTHÜLLUNG EH1       
 HERKUNFT UND INHALT DES BEZEUGTEN UND VERHEISSUNG FÜR SEINE EMPFÄNGER
   1  Enthüllung JESuU´ ChRISTuU´,
   die der Gott ihm gegeben,                                        D2.28
@@ -7351,7 +7351,7 @@ HERKUNFT UND INHALT DES BEZEUGTEN UND VERHEISSUNG FÜR SEINE EMPFÄNGER
   seinem Sklaven JOohA´NNES,                                       AM3.7
 
 
-419. DIE GESCHRIEBENE DES ALTEN BUNDES (GA)
+420. DIE GESCHRIEBENE DES ALTEN BUNDES (GA)
 ----------------------------------------------
 Die Zielgebung        - hebräisch: TORa´H -
 ----------------------------------------------
@@ -7404,7 +7404,7 @@ WORTE DER TAGE A           1W        (1. Chronika)
 WORTE DER TAGE B           2W        (2. Chronika)
  
 
-420. DIE GESCHRIEBENE DES NEUEN BUNDES (GN)
+421. DIE GESCHRIEBENE DES NEUEN BUNDES (GN)
 -------------- 
 Die Wohlkunden
 -------------- 
@@ -7447,7 +7447,7 @@ des JuU´DAS                JD        (Judas)
 ENTHÜLLUNG                 EH        (Offenbarung) 
 
 
-421. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
+422. ZITIERTE TEXTE UND TEXTNACHWEISE UND COPYRIGHT
   -------------------------------------------------
   Bibelausgabe (Deutsch)
     DÜ4 - Die Geschriebene, DaBhaR-Übersetzung,
