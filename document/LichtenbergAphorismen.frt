@@ -356,7 +356,7 @@ ALLZUMENSCHLICHES
   Dieses ist eine Bemerkung, die eine tiefsinnige Untersuchung
   durch den nützlichen Erfolg belohnen würde. 
 
-58. Georg Christoph Lichtenberg, Aphorismen C348 (1772-73) 
+58. Georg Christoph Lichtenberg, Aphorismen C348 (H114) (1772-73) 
   Ein Kerl, der einmal seine 100000 Taler gestohlen hat,
   kann hernach ehrlich durch die Welt kommen. 
 
@@ -568,7 +568,7 @@ ALLZUMENSCHLICHES
   sollte freundlich auf Pension gesetzt werden. 
 
 100. Georg Christoph Lichtenberg, Aphorismen D521 (1773-75)
-  Wir werden einmal unsere Namen
+  Wie werden einmal unsere Namen
   hinter den Erfindern des Fliegens und dergleichen vergessen werden.
 
 101. Georg Christoph Lichtenberg, Aphorismen D553 (1773-75)
@@ -621,7 +621,7 @@ ALLZUMENSCHLICHES
   Es könnte nicht schaden, wenn man in jeder Periode die Worte zählte
   und sie jedes mal mit den wenigsten auszudrücken versuchte.
 
-112. Georg Christoph Lichtenberg, Aphorismen E39 (1775-76)
+112. Georg Christoph Lichtenberg, Aphorismen E40 (1775-76)
   Alles verfeinert sich.
   Musik war in der ersten Zeit Lärm, Satire war Pasquille.
   Und da, wo man heutzutage sagt "Erlauben Sie gütigst",
@@ -832,7 +832,7 @@ ALLZUMENSCHLICHES
 
 
 156. Georg Christoph Lichtenberg, Aphorismen F6 (1776-79)
-  Ein langes Glück verliert schon bloß durch seine Dauer.
+  Assoziation: Ein langes Glück verliert schon bloß durch seine Dauer.
 
 157. Georg Christoph Lichtenberg, Aphorismen F7 (1776-79)
   Lesen heißt borgen, daraus erfinden abtragen. 
@@ -1016,7 +1016,7 @@ ALLZUMENSCHLICHES
   Wie die Kinder, die die Augen zuhalten um nicht gesehen zu werden. 
 
 195. Georg Christoph Lichtenberg, Aphorismen F512 (1776-79) 
-  Dei schönste Stelle im 'Werther' ist, wo er den Hasenfuß erschießt.
+  Die schönste Stelle im 'Werther' ist, wo er den Hasenfuß erschießt.
 
 196. Georg Christoph Lichtenberg, Aphorismen F523 (1776-79)
   Liscow sagt,
@@ -1565,7 +1565,7 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   Was für mächtige Quellen von Glück für ein Volk! 
 
 
-302. Georg Christoph Lichtenberg, Aphorismen I/10(G) (1779-83)
+302. Georg Christoph Lichtenberg, Aphorismen I/10(G16) (1779-83)
   Die Augen eines Frauenzimmers sind bei mir ein so wesentliches Stück, 
   ich sehe oft danach, denke mir so vielerlei dabei,
   dass, wenn ich nur ein bloßer Kopf wäre,
@@ -1605,7 +1605,7 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   Sich selbst überlassene Vernunft führt auf nichts anderes hinaus,
   und es ist unmöglich, dass sie auf etwas anderes hinausführe.
 
-308. Georg Christoph Lichtenberg, Aphorismen I/105(G) (1779-83)
+308. Georg Christoph Lichtenberg, Aphorismen I/105(H14) (1784-88)
   Die gefährlichsten Unwahrheiten sind Wahrheiten mäßig entstellt. 
 
 309. Georg Christoph Lichtenberg, Aphorismen I/107(G) (1779-83)
@@ -1628,7 +1628,7 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   ist Ursache an manches guten Kopfes Untätigkeit,
   und das nicht ohne Grund. 
 
-312. Georg Christoph Lichtenberg, Aphorismen I/129(G) (1779-83)
+312. Georg Christoph Lichtenberg, Aphorismen I/129(H31) (1784-88)
   Wer in sich selbst verliebt ist,
   hat wenigstens bei seiner Liebe den Vorteil, 
   dass er nicht viele Nebenbuhler erhalten wird. 
@@ -1651,19 +1651,19 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   Ich kenne die Miene der affektierten Aufmerksamkeit,
   es ist der niedrigste Grad von Zerstreuung. 
 
-317. Georg Christoph Lichtenberg, Aphorismen I/169(G) (1779-83)
+317. Georg Christoph Lichtenberg, Aphorismen I/169(G73) (1779-83)
   Wenn die Menschen sagen, sie wollen nichts geschenkt haben,
   so ist es gemeiniglich ein Zeichen, dass sie etwas geschenkt haben wollen. 
 
-318. Georg Christoph Lichtenberg, Aphorismen I/169(G) (1779-83)
+318. Georg Christoph Lichtenberg, Aphorismen I/169(G73) (1779-83)
   Der Mensch liebt die Gesellschaft,
   und sollte es auch nur die von einem brennenden Rauchkerzchen sein. 
 
-319. Georg Christoph Lichtenberg, Aphorismen I/169(G) (1779-83)
+319. Georg Christoph Lichtenberg, Aphorismen I/169(G74) (1779-83)
   Man muss keinem Menschen trauen,
   der bei seinen Versicherungen die Hand auf das Herz legt. 
 
-320. Georg Christoph Lichtenberg, Aphorismen I/169(G) (1779-83)
+320. Georg Christoph Lichtenberg, Aphorismen I/169(G75) (1779-83)
   Wie glücklich würde mancher leben,
   wenn er sich um anderer Leute Sachen so wenig bekümmerte,
   als um seine eigenen. 
@@ -1689,7 +1689,7 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   Es gibt wirklich sehr viele Menschen,
   die bloß lesen, damit sie nicht denken dürfen. 
 
-325. Georg Christoph Lichtenberg, Aphorismen I/218(G) (1779-83)
+325. Georg Christoph Lichtenberg, Aphorismen I/218(G100) (1779-83)
   Ich wünschte ein Kind zu haben, das ich mir ganz eigen machen könnte; 
   ich wollte es zu allem anhalten,
   wovon ich jetzt zu spät einsehe, dass ich es versäumt habe.
@@ -1700,7 +1700,7 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   was sie selbst, wenn sie bei jetzigem Verstand jung wären, 
   vermeiden würden zu lernen. 
 
-326. Georg Christoph Lichtenberg, Aphorismen I/218(G) (1779-83)
+326. Georg Christoph Lichtenberg, Aphorismen I/218(G99) (1779-83)
   Es ist in der Tat verkehrt,
   wenn man unsern Kindern alles mit Liebe beibringen will,
   da in dem höheren Leben, wenn wir älter werden,
@@ -1751,7 +1751,7 @@ VOM BUCH K SIND NUR NOCH VIER BLÄTTER ERHALTEN.
   kaum für den Mann von Geist verderben kann,
   ist gewiss nicht für die Nachwelt geschrieben.
 
-334. Georg Christoph Lichtenberg, Aphorismen I/324(G) (1779-83)
+334. Georg Christoph Lichtenberg, Aphorismen I/324(G135) (1779-83)
   Ist es nicht sonderbar, dass eine wörtliche Übersetzung
   fast immer eine schlechte ist?
   Und doch lässt sich alles gut übersetzen.
@@ -2733,7 +2733,7 @@ LAUF DER WELT
   mit menschlicher Vernunft begabt wären, 
   so könnten sie sich vielleicht der Welt bemächtigen.
 
-497. Georg Christoph Lichtenberg, Aphorismen A..L (1765-99)
+497. Georg Christoph Lichtenberg, Aphorismen (H44) (1784-88)
 PHILOSOPHIE DES GESUNDEN MENSCHENVERSTANDES
   Es ist zum Erstaunen, wie weit ein gesunder Menschenverstand reicht.
   Es ist auch hier, wie im gemeinen Leben, der gemeine Mann geht hin,
