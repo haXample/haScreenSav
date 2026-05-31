@@ -23,6 +23,10 @@ in the Windows security configuration setup.
 Alternatively try the 64bit version `haScreenSav64.SCR`    
 
 
+Last Update May 31, 2026:   
+Additions:  
+ `document/BlaisePascal.frt`  
+
 Last Update October 24, 2025: *haScreensav.scr, haScreensav.exe*   
 Additions:  
  `document/LichtenbergAphorismen.frt`  
@@ -65,6 +69,8 @@ Examples in German:
 [Ludwig Hohl](document/image/haScrSav09.jpg)  
 
 [Goethe - Maximen&Reflexionen](document/image/haScrSav10.jpg)  
+
+[Blaise Pascal - Pensées](document/image/haScrSav20.jpg)  
 
 [Die TORa'H](document/image/haScrSav07.jpg)  
 
