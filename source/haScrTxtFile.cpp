@@ -86,6 +86,10 @@ extern TCHAR* psz_tDebugBuf;
 
 extern char* pszhaScrFilename;     // .FRT file
 
+#ifdef x64
+extern char* szhaIniFile;					 // .INI file (for 64bit version only)
+#endif
+
 extern char haFaust_frt01[]; 
 extern char haFaust_frt02[]; 
 extern char haFaust_frt03[]; 
@@ -107,6 +111,34 @@ extern int AlgoTextSearch(char* textPattern, char* textBuf, ULONG bufOffset);
 void GetDate();
 int GetLastindex();
 void BuildTxtPtrArray();
+
+
+#ifdef x64
+//-----------------------------------------------------------------------------
+//
+//                      MakeScreenSaverIniPath64                    
+//
+// WINPATHCCHAPI HRESULT PathCchStripToRoot(
+//  [in, out] PWSTR pszPath,
+//  [in] size_t cchPath
+//  );
+//
+void MakeScreenSaverIniPath64()
+  {
+  char szIniFilePath[MAX_PATH];   // The path hosting the 'haScrSav64.ini' file
+
+	if (!PathFileExists(szhaIniFile))
+	  {
+//ha//MessageBoxA(NULL, szhaIniFile, "File not exists.", MB_ICONINFORMATION | MB_OK);
+		// Create a new Directory (folder) if szhaIniFile not exists
+	  StrCpy(szIniFilePath, szhaIniFile);					
+	  PathRemoveFileSpec(szIniFilePath);
+	  CreateDirectory(szIniFilePath, NULL);
+//ha//MessageBoxA(NULL, szIniFilePath, "Directory created.", MB_ICONINFORMATION | MB_OK);
+		}
+	} // MakeScreenSaverIniPath64
+#endif
+
 
 //-----------------------------------------------------------------------------
 //
@@ -131,6 +163,7 @@ void errchk(char* _filename, int _lastErr)
   char szErrorFileRead[]     = "File read failed.";
   char szErrorInvalidParam[] = "Invalid Parameter";
   char szErrorInvalidBuf[]   = "Supplied buffer is not valid.";
+	char szErrorInvalidName[]  = "Invalid name";
   char szErrorBadFormat[]    = "FRT-FORMAT ERROR.\nIncorrect index at";
   char szAbort[]             = "-- ABORT --";
 
@@ -172,12 +205,15 @@ void errchk(char* _filename, int _lastErr)
       case ERROR_INVALID_PARAMETER: 
         sprintf(DebugBuf, "%s\n%s", szErrorInvalidParam, _filename);
         break;
+			case ERROR_INVALID_NAME:
+        sprintf(DebugBuf, "%s\n%s", szErrorInvalidName, _filename);
+			  break;
       case ERROR_WRITE_PROTECT:     // 0x13
       case ERROR_WRITE_FAULT:       // 0x1D
       case ERROR_NET_WRITE_FAULT:   // 0x58
         sprintf(DebugBuf, "%s\n%s\n\n%s", szErrorFileWrite, _filename, szAbort);
         exitCode = SYSERR_ABORT;
-        break;
+        break;																															
       case ERROR_NOT_READY:         // 0x15
         sprintf(DebugBuf, "%s\n%s\n\n%s", szErrorNotReady, _filename, szAbort);
         exitCode = SYSERR_ABORT;

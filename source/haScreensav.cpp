@@ -61,12 +61,27 @@ TCHAR* psz_tDebugBuf = _tDebugBuf;
 // Example: Some private location that would work:
 //          char* pszhaScrDfltFilename = "C:\\@ArcDrv\\Windows\\System32\\anyFile.frt";
 //
-// To ease installation "hascreenSav.SCR" has the necessary file contents integrated.  
+// To ease installation "hascreenSav.SCR" has the necessary file contents integrated.  										
 // ..see haFaust.cpp
 //
-char* pszhaScrDfltFilename =        ".\\haFaust.frt";
-char* pszhaScrBibelFilename =       "Bibel";
+char* pszhaScrDfltFilename        = ".\\haFaust.frt";
+char* pszhaScrBibelFilename       = "Bibel";
 char  szhaScrFilename[MAX_PATH+1] = "";
+
+#ifdef x64 // 64 bit Version (Visual Studio 2019)
+// 64bit Version needs extra ini-file. The internal 'szIniFile.ini' mechanism
+//  of 'scrnsave.lib' is not available.
+char* szhaIniFile = "C:\\_TEMP.INI\\haScrSav64.ini";                         // .ini file name (OK)
+//ha//char* szhaIniFile = "c:\\temp600\\__\\haScrSav64.ini";           // .ini file name (OK)
+//ha//char* szhaIniFile = "C:\\Windows\\System32\\haScrSav64.ini";     // access denied
+//ha//char* szhaIniFile = "C:\\Windows\\SysWOW64\\haScrSav64.ini";     // access denied
+//ha//char* szhaIniFile = ".\\haScrSav64.ini";                         // access denied
+
+#else	    // 32bit Version
+// 32bit Version uses internal 'szIniFile.ini' mechanism
+//  of 'scrnsave.lib' - no extra ini-file needed.
+char* szhaIniFile = szIniFile; 										 // Internal mechanism
+#endif												 
 
 HWND hButtonTextFile;
 HWND hwndTT;
@@ -165,6 +180,10 @@ extern int txtIndex;
 extern int textMaxIndex;
 extern int textModeFlag; 
 
+#ifdef x64
+extern void MakeScreenSaverIniPath64();
+#endif
+
 extern void OpenTxtBuf();
 extern void OpenTxtFile(char*);
 extern void GetText(int);
@@ -185,16 +204,16 @@ extern INT_PTR CALLBACK TextMenuProc(HWND, UINT, WPARAM, LPARAM);
 extern INT_PTR CALLBACK DialogProcTextMenu(HWND, UINT, WPARAM, LPARAM);
 
 // The following globals are already defined in scrnsave.lib
-// extern HINSTANCE hMainInstance;             // screen saver instance handle
-// extern HWND   hMainWindow;
-// extern BOOL   fChildPreview;
-// extern TCHAR  szName[TITLEBARNAMELEN];
-// extern TCHAR  szAppName[APPNAMEBUFFERLEN];  // .ini file section string
-// extern TCHAR  szIniFile[MAXFILELEN];        // .ini file name
-// extern TCHAR  szScreenSaver[22];
-// extern TCHAR  szHelpFile[MAXFILELEN];
-// extern TCHAR  szNoHelpMemory[BUFFLEN];
-// extern UINT   MyHelpMessage;
+// extern HINSTANCE hMainInstance;           // screen saver instance handle
+// extern HWND hMainWindow;
+// extern BOOL fChildPreview;
+// extern char szName[TITLEBARNAMELEN];
+// extern char szAppName[APPNAMEBUFFERLEN];  // .ini file section string
+// extern char szIniFile[MAXFILELEN];        // .ini file name
+// extern char szScreenSaver[22];
+// extern char szHelpFile[MAXFILELEN];
+// extern char szNoHelpMemory[BUFFLEN];
+// extern UINT MyHelpMessage;
 
 // Forward declaration of functions included in this code module:
 
@@ -414,30 +433,36 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd, UINT message,
       if (LoadString(hMainInstance, IDS_APPNAME, szAppName, 80 * sizeof(TCHAR)) == 0)
         errchk("szAppName", ERROR_INVALID_PARAMETER);     
  
-      // Retrieve the .ini (or registry) file name. 
+#ifdef x64
+			// Provide a path where the	ini-file 'szhaIniFile64.ini' will reside.
+			MakeScreenSaverIniPath64();
+ 
+#else	// 32bit Version uses 'scrnsave.lib' internal 'szIniFile.ini' file
+      // Retrieve the .ini (or registry) font size. 
       if (LoadString(hMainInstance, IDS_INIFILE, szIniFile, MAXFILELEN * sizeof(TCHAR)) == 0)
-        errchk("szIniFile", ERROR_INVALID_PARAMETER);     
+        errchk("  IDS_INIFILE, szIniFile", ERROR_INVALID_PARAMETER);     
+#endif
       
       // Retrieve any redraw speed data from the registry.  
-      lSpeed    = GetPrivateProfileInt(szAppName, pszIniFileKeySpeed,  _DEFVEL, szIniFile); 
-      rgbColor  = GetPrivateProfileInt(szAppName, pszIniFileKeyColor,  _CYAN,   szIniFile); 
-      fontSize  = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize,  22,      szIniFile); 
-      fontStyle = GetPrivateProfileInt(szAppName, pszIniFileKeyFStyle, 0,       szIniFile);
-      timeFlag  = GetPrivateProfileInt(szAppName, pszIniFileKeyTime,   FALSE,   szIniFile); 
+      lSpeed    = GetPrivateProfileInt(szAppName, pszIniFileKeySpeed,  _DEFVEL, szhaIniFile); 
+      rgbColor  = GetPrivateProfileInt(szAppName, pszIniFileKeyColor,  _CYAN,   szhaIniFile); 
+      fontSize  = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize,  22,      szhaIniFile); 
+      fontStyle = GetPrivateProfileInt(szAppName, pszIniFileKeyFStyle, 0,       szhaIniFile);
+      timeFlag  = GetPrivateProfileInt(szAppName, pszIniFileKeyTime,   FALSE,   szhaIniFile); 
 
       bufsizeF  = GetPrivateProfileString(szAppName, 
                                           pszIniFileKeyName, 
                                           pszhaScrDfltFilename, 
                                           pszhaScrFilename, 
                                           MAX_PATH, 
-                                          szIniFile);
+                                          szhaIniFile);
 
       bufsizeT  = GetPrivateProfileString(szAppName, 
                                           pszIniFileKeyFType, 
                                           pszhaScrDfltFontType, 
                                           pszhaScrFontType, 
                                           MAX_PATH, 
-                                          szIniFile);
+                                          szhaIniFile);
 
       // The timer interval is 1ms.
       // Set a timer for the screen saver window using the 
@@ -602,32 +627,38 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
       if (LoadString(hMainInstance, IDS_APPNAME, szAppName, 80 * sizeof(TCHAR)) == 0)
         errchk("  IDS_APPNAME, szAppName", ERROR_INVALID_PARAMETER);     
  
+#ifdef x64
+			// Provide a path where the	ini-file 'szhaIniFile64.ini' will reside.
+			MakeScreenSaverIniPath64();
+ 
+#else	// 32bit Version uses 'scrnsave.lib' internal 'szIniFile.ini' file
       // Retrieve the .ini (or registry) font size. 
       if (LoadString(hMainInstance, IDS_INIFILE, szIniFile, MAXFILELEN * sizeof(TCHAR)) == 0)
         errchk("  IDS_INIFILE, szIniFile", ERROR_INVALID_PARAMETER);     
-      
+#endif
+
       // Retrieve any redraw speed data.
       // Retrieve an integer associated with a key
       // in the specified section of an initialization file. 
-      lSpeed    = GetPrivateProfileInt(szAppName, pszIniFileKeySpeed,  _DEFVEL, szIniFile); 
-      rgbColor  = GetPrivateProfileInt(szAppName, pszIniFileKeyColor,  _CYAN,   szIniFile); 
-      fontSize  = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize,  22,      szIniFile); 
-      fontStyle = GetPrivateProfileInt(szAppName, pszIniFileKeyFStyle, 0,       szIniFile); 
-      timeFlag  = GetPrivateProfileInt(szAppName, pszIniFileKeyTime,   FALSE,   szIniFile);
+      lSpeed    = GetPrivateProfileInt(szAppName, pszIniFileKeySpeed,  _DEFVEL, szhaIniFile); 
+      rgbColor  = GetPrivateProfileInt(szAppName, pszIniFileKeyColor,  _CYAN,   szhaIniFile); 
+      fontSize  = GetPrivateProfileInt(szAppName, pszIniFileKeyFSize,  22,      szhaIniFile); 
+      fontStyle = GetPrivateProfileInt(szAppName, pszIniFileKeyFStyle, 0,       szhaIniFile); 
+      timeFlag  = GetPrivateProfileInt(szAppName, pszIniFileKeyTime,   FALSE,   szhaIniFile);
 
       bufsizeT  = GetPrivateProfileString(szAppName, 
                                           pszIniFileKeyName, 
                                           pszhaScrDfltFilename, 
                                           pszhaScrFilename, 
                                           MAX_PATH, 
-                                          szIniFile);
+                                          szhaIniFile);
 
       bufsizeF  = GetPrivateProfileString(szAppName, 
                                           pszIniFileKeyFType, 
                                           pszhaScrDfltFontType, 
                                           pszhaScrFontType, 
                                           MAX_PATH, 
-                                          szIniFile);
+                                          szhaIniFile);
 
       StrCpy(szTruncPath, pszhaScrFilename);      // Transfer current file path
       PathStripPath(szTruncPath);                 // Extract current filename only
@@ -908,30 +939,30 @@ BOOL WINAPI ScreenSaverConfigureDialog(HWND hDlg, UINT message,
         case ID_OK:
           // Write the current redraw speed variable to the .ini file. 
           hr = StringCchPrintf(szTemp, 20, "%ld", lSpeed);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeySpeed, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
+          if (WritePrivateProfileString(szAppName, pszIniFileKeySpeed, szTemp, szhaIniFile) == 0)
+            errchk(szhaIniFile, GetLastError());     
           hr = StringCchPrintf(szTemp, 20, "%ld", rgbColor);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyColor, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
+          if (WritePrivateProfileString(szAppName, pszIniFileKeyColor, szTemp, szhaIniFile) == 0)
+            errchk(szhaIniFile, GetLastError());     
           hr = StringCchPrintf(szTemp, 20, "%ld", fontSize);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyFSize, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
+          if (WritePrivateProfileString(szAppName, pszIniFileKeyFSize, szTemp, szhaIniFile) == 0)
+            errchk(szhaIniFile, GetLastError());     
           hr = StringCchPrintf(szTemp, 20, "%ld", fontStyle);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyFStyle, szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
+          if (WritePrivateProfileString(szAppName, pszIniFileKeyFStyle, szTemp, szhaIniFile) == 0)
+            errchk(szhaIniFile, GetLastError());     
           hr = StringCchPrintf(szTemp, 20, "%ld", timeFlag);
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyTime,  szTemp, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
+          if (WritePrivateProfileString(szAppName, pszIniFileKeyTime,  szTemp, szhaIniFile) == 0)
+            errchk(szhaIniFile, GetLastError());     
 
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyName,  pszhaScrFilename, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
-          if (WritePrivateProfileString(szAppName, pszIniFileKeyFType, pszhaScrFontType, szIniFile) == 0)
-            errchk("  szIniFile", GetLastError());     
+          if (WritePrivateProfileString(szAppName, pszIniFileKeyName,  pszhaScrFilename, szhaIniFile) == 0)
+            errchk(szhaIniFile, GetLastError());     
+          if (WritePrivateProfileString(szAppName, pszIniFileKeyFType, pszhaScrFontType, szhaIniFile) == 0)
+            errchk(szhaIniFile, GetLastError());     
           // No break - Fall thru into case ID_CANCEL ..
          
         case ID_CANCEL:
           // Free mouse cursor clip
-          ClipCursor(FALSE);  
+          ClipCursor(FALSE);  														 
           EndDialog(hDlg, LOWORD(wParam) == ID_OK);
           // Close any possibly open ChooseColor Dialog
           hChooseColor = FindWindowA(NULL, "Farbe");    // Language=German
@@ -1040,6 +1071,24 @@ BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
 //  while a screen saver linked with Scrnsave.lib will run on any Windows platform.
 // 
 //-----------------------------------------------------------------------------
+
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//sprintf(DebugBuf, "%s = %d\n"
+//ha//                  "%s = %d\n"
+//ha//                  "%s = %d\n"
+//ha//                  "%s = %d\n"
+//ha//                  "%s = %d\n"
+//ha//                  "%s = %s (%d)\n"
+//ha//                  "%s = %s (%d)\n", 																							
+//ha//                   pszIniFileKeySpeed,  lSpeed,
+//ha//                   pszIniFileKeyColor,  rgbColor,    
+//ha//                   pszIniFileKeyFSize,  fontSize,    
+//ha//                   pszIniFileKeyFStyle, fontStyle,   
+//ha//                   pszIniFileKeyTime,   timeFlag,    
+//ha//                   pszIniFileKeyName,   pszhaScrFilename,bufsizeT,   
+//ha//                   pszIniFileKeyFType,  pszhaScrFontType,bufsizeF);
+//ha//MessageBoxA(NULL, DebugBuf, "WM_ERASEBKGND", MB_OK);
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//MessageBoxA(NULL, "OpenTxtFile", "ScreenSaverConfigureDialog", MB_ICONINFORMATION | MB_OK);

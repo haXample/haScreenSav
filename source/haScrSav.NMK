@@ -24,32 +24,36 @@ PROJ = haScreensav              # C++ module
 FOLDER = C:\Temp600\__\         # Folder prefix to the project,
                                 #  using 2019 MS Build-tools.
 
-# -----------------------------------------------------------------------------
-#                       GLOBAL TOOL OPTIONS
-#
-RFLAGS=
-
-AFLAGS=/nologo /c /Sn /Sg /Sp84 /Fl
-
-CFLAGS=/c /nologo /Od /EHsc
-
-## To tell Microsoft's linker which entry point to use,
-## namely "LFLAGS=/ENTRY:mainCRTStartup", which calls standard main.
-
-LFLAGS=/nologo /INCREMENTAL /SUBSYSTEM:windows
-
-LIBS= KERNEL32.LIB USER32.LIB GDI32.LIB WINSPOOL.LIB COMDLG32.LIB ADVAPI32.LIB \
-      SHELL32.LIB OLE32.LIB OLEAUT32.LIB UUID.LIB ODBC32.LIB ODBCCP32.LIB \
-      Comctl32.lib shlwapi.lib uxtheme.lib Propsys.lib scrnsave.lib
-
-# -----------------------------------------------------------------------------
-#       MACRO DEFINITIONS OF THE PROJEC OBJECT MODULE DEPEDENCIES
-#
-OBJECTS = $(FOLDER)$(PROJ).obj $(FOLDER)haScrFaust.obj $(FOLDER)haScrTxTFile.obj \
-          $(FOLDER)haScrDraw.obj $(FOLDER)haScrBrowse.obj $(FOLDER)haScrMenu.obj \
-          $(FOLDER)haScrRenumber.obj $(FOLDER)$(PROJ).res
-
-CLEAN =  $(FOLDER)*.ilk
+##ha''# -----------------------------------------------------------------------------
+##ha''#                       GLOBAL TOOL OPTIONS
+##ha''#
+##ha''RFLAGS=
+##ha''
+##ha''AFLAGS=/nologo /c /Sn /Sg /Sp84 /Fl
+##ha''
+##ha''! IF ($(FLAG) == "64bit Version")       # For Win10
+##ha''CFLAGS=/c /nologo /Od /Dx64 /EHsc
+##ha''! ELSE                                  # For Windows XP and Win10
+##ha''CFLAGS=/c /nologo /Od /EHsc
+##ha''! ENDIF
+##ha''
+##ha''## To tell Microsoft's linker which entry point to use,
+##ha''## namely "LFLAGS=/ENTRY:mainCRTStartup", which calls standard main.
+##ha''
+##ha''LFLAGS=/nologo /INCREMENTAL /SUBSYSTEM:windows
+##ha''
+##ha''LIBS= KERNEL32.LIB USER32.LIB GDI32.LIB WINSPOOL.LIB COMDLG32.LIB ADVAPI32.LIB \
+##ha''      SHELL32.LIB OLE32.LIB OLEAUT32.LIB UUID.LIB ODBC32.LIB ODBCCP32.LIB \
+##ha''      Comctl32.lib shlwapi.lib uxtheme.lib Propsys.lib scrnsave.lib
+##ha''
+##ha''# -----------------------------------------------------------------------------
+##ha''#       MACRO DEFINITIONS OF THE PROJEC OBJECT MODULE DEPEDENCIES
+##ha''#
+##ha''OBJECTS = $(FOLDER)$(PROJ).obj $(FOLDER)haScrFaust.obj $(FOLDER)haScrTxTFile.obj \
+##ha''          $(FOLDER)haScrDraw.obj $(FOLDER)haScrBrowse.obj $(FOLDER)haScrMenu.obj \
+##ha''          $(FOLDER)haScrRenumber.obj $(FOLDER)$(PROJ).res
+##ha''
+##ha''CLEAN =  $(FOLDER)*.ilk
 
 #------------------------------------------------------------------------------
 #                           INFERENCE RULE
@@ -71,6 +75,73 @@ CLEAN =  $(FOLDER)*.ilk
 #       PSEUDO TARGET POINTING TO THE REAL TARGET
 #
 _all:   $(FOLDER)$(PROJ).exe
+
+#
+# Set a flag in an NMAKE Makefile if the cl compiler version is 16.
+# Note that cl /? prints the version information to the standard error stream
+#  and the help text to the standard output.
+#  To be able to check the version with the findstr command one must first
+#  redirect stderr to stdout using 2>&1.
+# 
+# -------------------------------------------------
+# Determine the assembler/compiler version in use: |
+#  Microsoft Visual Studio 2019 (Windows 10 64bit) |
+#   ML64 Version 14.28.29336.0 for x64             |
+#   CL Version 19.28.29336 for x64                 |
+#  Microsoft Visual Studio 2019 (Windows 10 32bit) |
+#   ML Version 14.28.29910.0 for x86               |
+#   CL Version 19.28.29910 for x86                     |
+#  Microsoft Visual Studio 2010 (WindowsXP 32bit)  |
+#   ML Version 14.28.29910.0 for x86 (=VS 2019)    |
+#   CL Version 16.00.30319.01 for 80x86            |
+# -------------------------------------------------
+!IF ([ml64 2>&1 | findstr /C:"x64" > nul] == 0) 
+FLAG = "64bit Version"         # 64bit for Windows 10, ..
+!ELSEIF ([cl 2>&1 | findstr /C:"Version 16" > nul] == 0)
+FLAG = "32bit XP Version"      # 32bit for XP and Win10, ..
+OS = "_XP"
+!ELSE 
+FLAG = "32bit Version"         # 32bit for Windows 10, ..
+OS = "W10"
+!ENDIF
+# Nice trick to display the current Version $(FLAG)
+# Since Nmake does not recognize any console commands
+# at this point within the script.
+!IF ([ECHO 2>&1 ---BUILD---$(FLAG)])
+!ENDIF
+!IF ([ECHO. 2>&1])
+!ENDIF
+
+# -----------------------------------------------------------------------------
+#                       GLOBAL TOOL OPTIONS
+#
+RFLAGS=
+
+AFLAGS=/nologo /c /Sn /Sg /Sp84 /Fl
+
+! IF ($(FLAG) == "64bit Version")       # For Win10
+CFLAGS=/c /nologo /Od /Dx64 /EHsc
+! ELSE                                  # For Windows XP and Win10
+CFLAGS=/c /nologo /Od /EHsc
+! ENDIF
+
+## To tell Microsoft's linker which entry point to use,
+## namely "LFLAGS=/ENTRY:mainCRTStartup", which calls standard main.
+
+LFLAGS=/nologo /INCREMENTAL /SUBSYSTEM:windows
+
+LIBS= KERNEL32.LIB USER32.LIB GDI32.LIB WINSPOOL.LIB COMDLG32.LIB ADVAPI32.LIB \
+      SHELL32.LIB OLE32.LIB OLEAUT32.LIB UUID.LIB ODBC32.LIB ODBCCP32.LIB \
+      Comctl32.lib shlwapi.lib uxtheme.lib Propsys.lib scrnsave.lib
+
+# -----------------------------------------------------------------------------
+#       MACRO DEFINITIONS OF THE PROJEC OBJECT MODULE DEPEDENCIES
+#
+OBJECTS = $(FOLDER)$(PROJ).obj $(FOLDER)haScrFaust.obj $(FOLDER)haScrTxTFile.obj \
+          $(FOLDER)haScrDraw.obj $(FOLDER)haScrBrowse.obj $(FOLDER)haScrMenu.obj \
+          $(FOLDER)haScrRenumber.obj $(FOLDER)$(PROJ).res
+
+CLEAN =  $(FOLDER)*.ilk
 
 # -----------------------------------------------------------------------------
 #        $(PROJ).EXE: LIST OF DEPENDENCIES FOR EVERY OBJECT FILE
@@ -106,7 +177,22 @@ $(FOLDER)$(PROJ).exe:   $(OBJECTS)
         LINK $(LFLAGS)  /OUT:$(FOLDER)$(@F) $** $(LIBS) >$(FOLDER)$(@B).link
         DEL $(CLEAN)
         @ECHO.
+        @COPY $(FOLDER)$(@F) $(FOLDER)$(@B).scr >nul
+!IF ($(FLAG) == "64bit Version")            # For Win10, ..
+        @COPY $(FOLDER)$(@F) $(FOLDER)$(@B)64.exe >nul 
+        @ECHO Build Complete (64bit): $(@F)
+        @COPY $(FOLDER)$(@F) $(FOLDER)$(@B)64.scr >nul
+        @ECHO Build Complete (64bit): $(@B)64.scr
+!ELSEIF	($(FLAG) == "32bit XP Version")     # 32bit for XP and Win10, ..
+        @COPY $(FOLDER)$(@F) $(FOLDER)$(@B)_XP.exe >nul 
+        @ECHO Build Complete (XP): $(@F)
+        @COPY $(FOLDER)$(@F) $(FOLDER)$(@B)_XP.scr >nul
+        @ECHO Build Complete (XP): $(@B)_XP.scr
+!ELSE				            # 32bit for Win10, ..
+        @COPY $(FOLDER)$(@F) $(FOLDER)$(@B)32.exe >nul 
         @ECHO Build Complete (32bit): $(@F)
-        COPY $(FOLDER)$(@F) $(FOLDER)$(@B).scr 
+        @COPY $(FOLDER)$(@F) $(FOLDER)$(@B)32.scr >nul
+        @ECHO Build Complete (32bit): $(@B)32.scr
+!ENDIF
 
 # -----------------------------  END OF MAKEFILE 32 BIT ----------------------------
