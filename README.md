@@ -23,11 +23,15 @@ in the Windows security configuration setup.
 Alternatively try the 64bit version `haScreenSav64.SCR`    
 
 
-Last Update May 31, 2026:   
+Update September 11, 2026:   
+Added:  
+ `document/OswaldSpengler.frt`  
+
+Update May 31, 2026:   
 Additions:  
  `document/BlaisePascal.frt`  
 
-Last Update October 24, 2025: *haScreensav.scr, haScreensav.exe*   
+Update October 24, 2025: *haScreensav.scr, haScreensav.exe*   
 Additions:  
  `document/LichtenbergAphorismen.frt`  
  `document/SchopenhauerAphorismen.frt`  
@@ -62,6 +66,8 @@ source/haScreensav64.exe 64bit Version
 ![screenshot2a](document/image/haScrSav04.jpg)  
 
 Examples in German:  
+[Oswald Spengler](document/image/haScrSav21.jpg)  
+
 [Lichtenberg](document/image/haScrSav05.jpg)  
 
 [Schopenhauer](document/image/haScrSav08.jpg)  
