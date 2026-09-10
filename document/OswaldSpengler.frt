@@ -1333,9 +1333,11 @@ I. DAS KOSMISCHE UND DER MIKROKOSMOS
   Damit hat sich in voller Deutlichkeit ein Unterschied offenbart, 
   den wieder ein unklares Wort, "Bewusstsein", zu trüben pflegt. 
   Ich unterscheide Dasein und Wachsein. Das
-  Dasein hat Takt und Richtung, das Wachsein ist Spannung und Ausdehnung. Im Dasein
-  waltet ein Schicksal, das Wachsein unterscheidet Ursachen und Wirkungen. Dem einen
-  gilt die Urfrage nach dem Wann und Warum, dem andern die nach dem Wo und Wie
+  Dasein hat Takt und Richtung, das Wachsein ist Spannung und Ausdehnung. 
+  Im Dasein waltet ein Schicksal, 
+  das Wachsein unterscheidet Ursachen und Wirkungen. 
+  Dem einen gilt die Urfrage nach dem Wann und Warum, 
+  dem andern die nach dem Wo und Wie.
 
 127. Oswald Spengler, Der Untergang des Abendlandes - Band 2
 URSPRUNG UND LANDSCHAFT (S.564,565)
