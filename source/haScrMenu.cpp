@@ -208,7 +208,7 @@ int GetActindex(char* txtBuf, ULONG posBuf)
   {
   char tmpBuf[10];      
   ULONG _i;
-  int _j;												
+  int _j;                       
 
   _i = posBuf;
   while (txtBuf[_i] != 0) _i--;  // Determine start of text item
@@ -352,15 +352,15 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
 #ifdef x64 // 64bit
         case IDC_EDITSEARCH:
           SetDlgItemText(hSearchMenu, IDC_TEXTSEARCH, "");
-					txtOffset = 0; txtIndex = 1;	 // From the beginning
-					_txtIndexSearch = 0;
-          break;			 
+          txtOffset = 0; txtIndex = 1;   // From the beginning
+          _txtIndexSearch = 0;
+          break;       
 
         case IDC_OKSEARCH:
           // When somebody clicks the SEARCH button:
           // We get the string(s) entered
           _textLen = GetWindowTextLength(GetDlgItem(_hwnd, IDC_EDITSEARCH));
-					textDialogStat = textDialogBuf[0]; // Initial contents empty?
+          textDialogStat = textDialogBuf[0]; // Initial contents empty?
 
           if (_textLen > 0 && txtIndex == 1)
             {
@@ -369,22 +369,22 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
             // Search the pattern and determine the txtIndex of the Text item.  
             txtIndex = AlgoTextSearch(textDialogBuf, pszTxtFilebuf, txtOffset+1);
             if (txtIndex != _txtIndexSav)
-						  {
-							if (textDialogStat == 0)
-							  {
+              {
+              if (textDialogStat == 0)
+                {
                 FillRect(hdcTextMenu, &rcTextMenu, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
                 ScrSavDrawText(hTextMenu, txtIndex);  
-							  }
+                }
               else EndDialog(_hwnd, 0);
-							}	// endif (txtIndex)
+              } // endif (txtIndex)
             } // endif (_tetLen)
 
- 					else if (txtIndex == _txtIndexSav ||
- 					        _txtIndexSearch == txtIndex)
- 					  {       
- 					  EndDialog(_hwnd, 0);
-						}
-					_txtIndexSearch = txtIndex;
+          else if (txtIndex == _txtIndexSav ||
+                  _txtIndexSearch == txtIndex)
+            {       
+            EndDialog(_hwnd, 0);
+            }
+          _txtIndexSearch = txtIndex;
           break;
 
         case IDC_CONTINUESEARCH:
@@ -399,11 +399,11 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
             txtIndex = AlgoTextSearch(textDialogBuf, pszTxtFilebuf, txtOffset+1);
             FillRect(hdcTextMenu, &rcTextMenu, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
             ScrSavDrawText(hTextMenu, txtIndex);  
-					  _txtIndexSearch = txtIndex;
+            _txtIndexSearch = txtIndex;
             }
           break;
 
-#else	// 32bit
+#else // 32bit
         case IDC_EDITSEARCH:
           SetDlgItemText(hSearchMenu, IDC_TEXTSEARCH, "");
           // When somebody clicks the SEARCH button:
@@ -442,8 +442,8 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
           break;
 
 #ifdef x64 // 64bit
-//ha//        case IDOK:			 // Disable VK_RETURN key, only OK-Button allowed 
-#else	 //32bit
+//ha//        case IDOK:       // Disable VK_RETURN key, only OK-Button allowed 
+#else  //32bit
         case IDOK:
         // ATTENTION: "case IDOK:" is needed to capture VK_RETURN        
         //  while the textbox has focus.       
