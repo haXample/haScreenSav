@@ -20,16 +20,17 @@
 // You must define the constant used to identify the dialog box template
 //  by using the decimal value 2003, as in the following example:
 //
-#define IDC_STATIC       -1
-#define IDC_TEXTFILE   4009
-#define IDC_TEXTINDEX  4010
-#define IDC_MAXINDEX   4011
-#define IDC_EDITINDEX  4012
-#define IDC_TEXTSEARCH 4013
-#define IDC_EDITSEARCH 4014
-#define IDC_CONTINUE   4015
-#define IDC_CANCEL     4016
-#define IDC_OK         4017
+#define IDC_STATIC         -1
+#define IDC_TEXTFILE       4009
+#define IDC_TEXTINDEX      4010
+#define IDC_MAXINDEX       4011
+#define IDC_EDITINDEX      4012
+#define IDC_TEXTSEARCH     4013
+#define IDC_EDITSEARCH     4014
+#define IDC_CONTINUESEARCH 4015
+#define IDC_CANCELSEARCH   4016
+#define IDC_OKSEARCH       4017
+#define IDC_OKINDEX        4018
 
 #define MODE_RANDOM   0
 #define MODE_NEXT     1

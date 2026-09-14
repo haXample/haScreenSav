@@ -50,6 +50,11 @@ using namespace std;
 // Global variables
 char textDialogBuf[MAX_PATH+1] = ""; // Temporary buffer for formatted text
 
+#ifdef x64 // 64bit
+char textDialogStat;
+int _txtIndexSearch = 1;
+#endif
+
 int textModeFlag = MODE_RANDOM;      // Mode: Stepping through text file randomly 
 int _txtIndexSav = 1;
 ULONG txtOffset;
@@ -203,7 +208,7 @@ int GetActindex(char* txtBuf, ULONG posBuf)
   {
   char tmpBuf[10];      
   ULONG _i;
-  int _j;
+  int _j;												
 
   _i = posBuf;
   while (txtBuf[_i] != 0) _i--;  // Determine start of text item
@@ -213,7 +218,7 @@ int GetActindex(char* txtBuf, ULONG posBuf)
     if (txtBuf[_i+1+_j] == '.') { tmpBuf[_j]=0; break; }
     tmpBuf[_j] = txtBuf[_i+1+_j];
     }
-          
+
   return(atoi(tmpBuf));
   } // GetActindex
 
@@ -344,6 +349,61 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
           if (txtIndex == 0) txtIndex = 1; 
           break;
 
+#ifdef x64 // 64bit
+        case IDC_EDITSEARCH:
+          SetDlgItemText(hSearchMenu, IDC_TEXTSEARCH, "");
+					txtOffset = 0; txtIndex = 1;	 // From the beginning
+					_txtIndexSearch = 0;
+          break;			 
+
+        case IDC_OKSEARCH:
+          // When somebody clicks the SEARCH button:
+          // We get the string(s) entered
+          _textLen = GetWindowTextLength(GetDlgItem(_hwnd, IDC_EDITSEARCH));
+					textDialogStat = textDialogBuf[0]; // Initial contents empty?
+
+          if (_textLen > 0 && txtIndex == 1)
+            {
+            // Get the edited search pattern string into textDialogBuf
+            GetDlgItemText(_hwnd, IDC_EDITSEARCH, textDialogBuf, _textLen+1);
+            // Search the pattern and determine the txtIndex of the Text item.  
+            txtIndex = AlgoTextSearch(textDialogBuf, pszTxtFilebuf, txtOffset+1);
+            if (txtIndex != _txtIndexSav)
+						  {
+							if (textDialogStat == 0)
+							  {
+                FillRect(hdcTextMenu, &rcTextMenu, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+                ScrSavDrawText(hTextMenu, txtIndex);  
+							  }
+              else EndDialog(_hwnd, 0);
+							}	// endif (txtIndex)
+            } // endif (_tetLen)
+
+ 					else if (txtIndex == _txtIndexSav ||
+ 					        _txtIndexSearch == txtIndex)
+ 					  {       
+ 					  EndDialog(_hwnd, 0);
+						}
+					_txtIndexSearch = txtIndex;
+          break;
+
+        case IDC_CONTINUESEARCH:
+          // When somebody clicks the SEARCH button:
+          // We get the string(s) entered
+          _textLen = GetWindowTextLength(GetDlgItem(_hwnd, IDC_EDITSEARCH));
+          if (_textLen > 0)
+            {
+            // Get the edited search pattern string into textDialogBuf
+            GetDlgItemText(_hwnd, IDC_EDITSEARCH, textDialogBuf, _textLen+1);
+            // Search the pattern and determine the txtIndex of the Text item.  
+            txtIndex = AlgoTextSearch(textDialogBuf, pszTxtFilebuf, txtOffset+1);
+            FillRect(hdcTextMenu, &rcTextMenu, (HBRUSH)GetStockObject(BLACK_BRUSH)); 
+            ScrSavDrawText(hTextMenu, txtIndex);  
+					  _txtIndexSearch = txtIndex;
+            }
+          break;
+
+#else	// 32bit
         case IDC_EDITSEARCH:
           SetDlgItemText(hSearchMenu, IDC_TEXTSEARCH, "");
           // When somebody clicks the SEARCH button:
@@ -359,7 +419,7 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
             }
           break;
 
-        case IDC_CONTINUE:
+        case IDC_CONTINUESEARCH:
           // When somebody clicks the SEARCH button:
           // We get the string(s) entered
           _textLen = GetWindowTextLength(GetDlgItem(_hwnd, IDC_EDITSEARCH));
@@ -373,21 +433,27 @@ INT_PTR CALLBACK DialogProcTextMenu(HWND _hwnd, UINT Message, WPARAM wParam, LPA
             ScrSavDrawText(hTextMenu, txtIndex);  
             }
           break;
+#endif //x64, 32bit 
 
         case IDCANCEL:              // ATTENTION: "case IDCANCEL:" captures ESC key
-        case IDC_CANCEL:
+        case IDC_CANCELSEARCH:
           txtIndex = _txtIndexSav;  // Restore from haSreensav.cpp
           EndDialog(_hwnd, 0);
           break;
 
+#ifdef x64 // 64bit
+//ha//        case IDOK:			 // Disable VK_RETURN key, only OK-Button allowed 
+#else	 //32bit
+        case IDOK:
         // ATTENTION: "case IDOK:" is needed to capture VK_RETURN        
         //  while the textbox has focus.       
         // Note: It is NOT necessary to define IDOK in the resource.rc.  
         // IDOK is always pre-defined and ready to be used appropriately.
         // IDOK can only appear here once. It will act on ALL    
         // dialog text boxes.                  
-        case IDOK:
-        case IDC_OK:
+        case IDC_OKSEARCH:
+#endif //x64, 32bit
+        case IDC_OKINDEX:
           EndDialog(_hwnd, 0);
           break; // end case IDC_OK:
 
@@ -636,14 +702,13 @@ INT_PTR CALLBACK TextMenuProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lPa
                            "To read text items, mouse-click one of the buttons:\n"
                            "[Random], [Next] or [Previous].\n\n"
                            "NOTE:\n" 
-                           "Windows 10 only, not supported on Windows 11:\n"
                            "  Instead of repetitively clicking a chosen button\n"
                            "      you may continue reading other text items\n"
                            "                      by pressing <SPACE>.\n\n"
                            "Use [Config] to access setup the dialog on-the-fly.\n"  
                            "Pressing <ESC> exits.\n\n"
                            "Run Screensav.EXE directly to reach this [Text Menu]",  
-                           " haScreensav V2.0 - HELP", 
+                           " haScreensav V2.1 - HELP", 
                            MB_OK, 
                            IDI_BE_SEEING_YOU);
           // Free mouse cursor clip
@@ -683,6 +748,12 @@ INT_PTR CALLBACK TextMenuProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lPa
   } // TextMenuProc
 
 //-----------------------------------------------------------------------------
+
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
+//ha//sprintf(DebugBuf, "_txtIndexSearch= %d  txtIndex=%d  _txtIndexSav=%d\ntextDialogBuf=%s  textDialogStat=%d  _textLen=%d",
+//ha//                   _txtIndexSearch, txtIndex, _txtIndexSav, textDialogBuf, textDialogStat, _textLen);
+//ha//MessageBoxA(NULL, DebugBuf, "IDC_OKSEARCH", MB_ICONINFORMATION | MB_OK);
+//ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 
 //ha////---DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG------DEBUG---
 //ha//sprintf(DebugBuf, "FOUND\nTextIndex=%d  (TextOffset=%d)\ntextPattern=\x22%s\x22",

@@ -192,7 +192,7 @@ BEGIN                                   // X,  Y, wdth,hght
     EDITTEXT        IDC_EDITINDEX,        41, 44,  25, 12, 0 // X, Y, wdth, hght, style=0 
 
     PUSHBUTTON      "&OK", 
-                    IDC_OK,               71, 60,  50, 13    // Centered 71=(41+101)/2
+                    IDC_OKINDEX           71, 60,  50, 13    // Centered 71=(41+101)/2
 END
 
 /////////////////////////////////////////////////////////////////////////////
@@ -217,13 +217,13 @@ BEGIN                                   // X,  Y, wdth,hght
     EDITTEXT        IDC_EDITSEARCH,       41, 30, 122, 12, 0  // X, Y, wdth, hght, style=0 
 
     PUSHBUTTON      "&OK", 
-                    IDC_OK,               10, 55,  50, 13     // No default 
+                    IDC_OKSEARCH,         10, 55,  50, 13     // No default 
 
     PUSHBUTTON      "Continue", 
-                    IDC_CONTINUE,         70, 55,  50, 13     // no default
+                    IDC_CONTINUESEARCH,   70, 55,  50, 13     // no default
 
     PUSHBUTTON      "&Cancel", 
-                    IDC_CANCEL,          130, 55,  50, 13     // no default
+                    IDC_CANCELSEARCH,     130, 55,  50, 13     // no default
 END
 
 //------------------------------------------------------------------------------
