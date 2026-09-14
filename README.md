@@ -23,6 +23,10 @@ in the Windows security configuration setup.
 Alternatively try the 64bit version `haScreenSav64.SCR`    
 
 
+Update September 14, 2026:   
+Fixed:  
+`source/haScrMenu.cpp` Search function in [Text Menu] for `haScreenSav64.EXE`       
+
 Update September 11, 2026:   
 Added:  
  `document/OswaldSpengler.frt`  
