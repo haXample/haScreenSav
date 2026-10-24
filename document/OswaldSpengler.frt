@@ -2655,7 +2655,61 @@ II. DIE MASCHINE (S.1195)
 
 245. Oswald Spengler, Jahre der Entscheidung - Teil 1
 DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
-III. DER POLITISCHE HORIZONT (S.5)
+I. DER POLITISCHE HORIZONT (S.1)
+  Wir leben in einer verhängnisschweren Zeit. 
+  Die großartigste Geschichtsepoche nicht nur der faustischen Kultur 
+  Westeuropas mit ihrer ungeheuren Dynamik, 
+  sondern eben um dieser willen der gesamten Weltgeschichte ist angebrochen, 
+  größer und weit furchtbarer als die Zeiten Cäsars und Napoleons. 
+  Aber wie blind sind die Menschen, 
+  über die dieses gewaltige Schicksal hinwegbraust, 
+  sie durcheinander wirbelnd, erhebend oder vernichtend. 
+  Wer von ihnen sieht und begreift, was mit ihnen und um sie her geschieht? 
+  Vielleicht ein alter weiser Chinese oder Inder, 
+  der schweigend, mit einer tausendjährigen Vergangenheit des Denkens 
+  im Geiste um sich blickt - 
+  aber wie flach, wie eng, wie klein gedacht ist alles, 
+  was an Urteilen, an Maßnahmen in Westeuropa und Amerika hervortritt! 
+
+246. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+I. DER POLITISCHE HORIZONT (S.2)
+  Man lasse die alten Herren von der Industrie oder Verwaltung 
+  wieder im Stile von 1900 arbeiten oder endlich, man mache eine Revolution, 
+  proklamiere die Diktatur, zu der sich dann ein Diktator schon finden wird 
+  - vier Dutzend Leute fühlen sich dem schon längst gewachsen - 
+  und alles ist schön und gut. 
+
+247. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+I. DER POLITISCHE HORIZONT (S.3)
+  Die Föderalisten möchten das ohnehin kleine Land 
+  wieder in ein Bündel von Zwergstaaten ehemaligen Gepräges verwandeln 
+  und damit fremden Mächten Gelegenheit geben, 
+  den einen gegen den andern auszuspielen. 
+  Und die Nationalsozialisten glauben ohne und gegen die Welt fertig zu werden 
+  und ihre Luftschlösser bauen zu können, 
+  ohne eine mindestens schweigende aber sehr fühlbare Gegenwirkung von außen her. 
+
+248. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+II. DER POLITISCHE HORIZONT (S.3,4)
+  Es ist die seelische Schwäche des späten Menschen hoher Kulturen, 
+  der in seinen Städten vom Bauerntum der mütterlichen Erde 
+  und damit vom natürlichen Erleben 
+  von Schicksal, Zeit und Tod abgeschnitten ist. 
+  Er ist allzu wach geworden, 
+  an das ewige Nachdenken über das Gestern und Morgen gewohnt 
+  und erträgt das nicht, was er sieht und sehen muss: 
+  den unerbittlichen Gang der Dinge, 
+  den sinnlosen Zufall, die wirkliche Geschichte 
+  mit ihrem mitleidlosen Schritt durch die Jahrhunderte, 
+  in die der einzelne mit seinem winzigen Privatleben 
+  an bestimmter Stelle unwiderruflich hineingeboren ist. 
+
+249. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+III. DER POLITISCHE HORIZONT (S.4,5)
   Die echten Staatsmänner werden immer seltener.
   Das meiste, was in der Geschichte dieser Jahrhunderte
   gemacht und nicht geschehen ist,
@@ -2670,7 +2724,117 @@ III. DER POLITISCHE HORIZONT (S.5)
   sondern durch den Widerstand aller Besserwisser gehindert
   das zu tun, was getan werden muss.
 
-246. Oswald Spengler, Jahre der Entscheidung - Teil 1
+250. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+II. DER POLITISCHE HORIZONT (S.5)
+  Das Volk der Dichter und Denker, 
+  das im Begriff ist, ein Volk der Schwätzer und Hetzer zu werden! 
+
+251. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+II. DER POLITISCHE HORIZONT (S.6)
+  Nichts ist dümmer als die wurzellose städtische Intelligenz.
+
+252. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+II. DER POLITISCHE HORIZONT (S.6)
+  in der Wut des Organisierens, die zum abstrakten Selbstzweck wird 
+  und Bürokratien zur Folge hat, die an ihrem eigenen Leerlauf zugrunde gehen 
+  oder lebendige Ordnungen zugrunde richten.
+
+253. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+II. DER POLITISCHE HORIZONT (S.6)
+  Der Rationalismus ist im Grunde nichts als Kritik, 
+  und der Kritiker ist das Gegenteil des Schöpfers: 
+  er zerlegt und fügt zusammen: 
+  Empfängnis und Geburt sind ihm fremd. 
+  Deshalb ist sein Werk künstlich und leblos und tötet, 
+  wenn es mit wirklichem Leben zusammentrifft.
+
+254. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+II. DER POLITISCHE HORIZONT (S.8)
+  Es gibt eine Sozialromantik des schwärmerischen Kommunismus, 
+  eine politische Romantik, 
+  die Wahlziffern und den Rausch von Massenreden für Taten hält, 
+  und eine Wirtschaftsromantik, 
+  die ohne alle Kenntnis der inneren Formen realer Wirtschaft 
+  hinter den Geldtheorien kranker Gehirne herläuft. 
+  Sie fühlen sich nur in Masse, 
+  weil sie da das dunkle Gefühl ihrer Schwäche betäuben können, 
+  indem sie sich multiplizieren. 
+  Und das nennen sie Überwindung des Individualismus.
+
+255. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+III. DER POLITISCHE HORIZONT (S.11)
+  ... vor allem die erreichte »Verständigung« der Völker, 
+  sobald der Völkerbund, dieser Schwärm von Sommerfrischlern, 
+  die am Genfer See schmarotzen, irgendeinen Entschluss fasst. 
+  Und in allen Versammlungen und Zeitungen hallt das Wort Krise wider 
+  als der Ausdruck für eine vorübergehende Störung des Behagens, 
+  mit dem man sich über die Tatsache belügt, 
+  dass es sich um eine Katastrophe von unabsehbaren Ausmaßen handelt, 
+  die normale Form, in der sich die großen Wendungen der Geschichte vollziehen. 
+
+256. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+V. DIE WELTKRIEGE UND WELTMÄCHTE (S.27)
+  So entsteht die »Demokratie« des Jahrhunderts, 
+  keine Form, sondern die Formlosigkeit in jedem Sinne als Prinzip, 
+  der Parlamentarismus als verfassungsmäßige Anarchie, 
+  die Republik als Verneinung jeder Art von Autorität. 
+  So gerieten die europäischen Staaten außer Form, 
+  je »fortschrittlicher« sie regiert wurden. 
+
+257. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+VI. DIE WELTKRIEGE UND WELTMÄCHTE (S.29)
+  Ohne eine starke Politik 
+  hat es niemals und nirgends eine gesunde Wirtschaft gegeben, 
+  obwohl die materialistische Theorie das Gegenteil lehrt. 
+  Adam Smith, ihr Begründer, hatte das wirtschaftliche Leben 
+  als das eigentliche menschliche Leben behandelt, 
+  das Geldmachen als den Sinn der Geschichte, 
+  und er pflegte die Staatsmänner als schädliche Tiere zu bezeichnen. 
+
+258. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+VIII. DIE WELTKRIEGE UND WELTMÄCHTE (S.41)
+  In diesem Zeitalter des Übergangs, der Formlosigkeit »zwischen den Zeiten«, 
+  das wahrscheinlich noch lange nicht auf der Höhe der Verwirrung 
+  und der flüchtigen Gestaltungen angelangt ist, 
+  zeichnen sich ganz leise neue Tendenzen ab, 
+  die darüber hinaus in die fernere Zukunft deuten. 
+  Die Mächte beginnen sich zu bilden, der Form und der Lage nach, 
+  welche bestimmt sind, den Endkampf um die Herrschaft 
+  auf diesem Planeten zu führen. 
+
+259. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+VIII. DIE WELTKRIEGE UND WELTMÄCHTE (S.43)
+  Da ist vor allem »Moskau«, geheimnisvoll 
+  und für abendländisches Denken und Fühlen völlig unberechenbar, 
+  der entscheidende Faktor für Europa seit 1812, 
+  als es staatlich noch zu diesem gehörte, seit 1917 für die ganze Welt.
+  ...
+  Der Begriff Europa 
+  verschwindet damit wieder aus dem praktischen Denken der Politiker 
+  oder sollte es tun, wenn wir Politiker von Rang hätten.
+  ...
+  Das ganze Gebiet westlich Moskaus, Weißrussland, die Ukraine, 
+  einst von Riga bis Odessa das lebenswichtigste des Zarenreiches, 
+  bildet heute ein phantastisches Glacis gegen »Europa« 
+  und könnte preisgegeben werden, ohne dass das System zusammenbricht.
+
+260. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+IX. DIE WELTKRIEGE UND WELTMÄCHTE (S.48)
+  Das Gesetz ist nur für den da, 
+  der nicht schlau oder mächtig genug ist, es zu verachten. 
+
+261. Oswald Spengler, Jahre der Entscheidung - Teil 1
 DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
 IX. DIE WELTKRIEGE UND WELTMÄCHTE (S.53)
   Damit siegt das Rentnerideal über den kapitalistischen Imperialismus.
@@ -2684,7 +2848,307 @@ IX. DIE WELTKRIEGE UND WELTMÄCHTE (S.53)
   und in ihrer Weltanschauung einen Absturz von der Höhe ...
   der erschreckend und in der ganzen Welt ohne Beispiel ist.
 
-247. Oswald Spengler, Jahre der Entscheidung - Teil 1
+262. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+IX. DIE WELTKRIEGE UND WELTMÄCHTE (S.56)
+  Aber der Glaube, dass Blut dicker sei als Wasser, 
+  hat für England und Deutschland seine Probe schlecht bestanden. 
+  Der Bruderhass ist unter Menschen immer stärker gewesen 
+  als der Hass gegen Fremde, und gerade er kann aus kleinen Anlässen 
+  plötzlich zu einer Leidenschaft wachsen, die kein Zurück mehr gestattet. 
+
+
+263. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+X. DIE WEISSE WELTREVOLUTION (S.58)
+  Die Weltrevolution. Was will sie? Worin besteht sie?
+  Was hat das Wort im tiefsten Grunde zu bedeuten? 
+  ...
+  Sie durchkreuzt den »horizontalen« Kampf zwischen den Staaten und Nationen 
+  durch den vertikalen 
+  zwischen den führenden Schichten der weißen Völker und den andern, 
+  und im Hintergrund 
+  hat schon der weit gefährlichere zweite Teil dieser Revolution begonnen: 
+  der Angriff auf die Weißen überhaupt 
+  von Seiten der gesamten Masse der farbigen Erdbevölkerung, 
+  die sich ihrer Gemeinschaft langsam bewusst wird.
+
+264. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+X. DIE WEISSE WELTREVOLUTION (S.59,60)
+  Aber diese großstädtische, 
+  von allen Seiten her zusammengelaufene Masse wurde - wie heute - 
+  nicht von innen heraus mobilisiert und organisiert, 
+  um ihr »Recht« auf Selbstregierung, 
+  ihre »Freiheit« vom Druck der herrschenden Schichten zu erkämpfen.
+  ...
+  Aus diesen Kreisen hat sich die »Diktatur von unten« 
+  als die notwendige letzte Folge 
+  der radikalen demokratischen Anarchie entwickelt.
+
+265. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XI. DIE WEISSE WELTREVOLUTION (S.60)
+  Damit geht die Demokratie zu Ende, 
+  und es tritt die Gewalt und das Recht der Fäuste an ihre Stelle. 
+  Denn sobald die Menge, die von fremdem Eigentum zu leben 
+  und die Hoffnung für ihren Unterhalt auf den Besitz anderer 
+  zu gründen sich gewöhnt hat, 
+  einen ehrgeizigen und entschlossenen Führer findet, 
+  geht sie zur Anwendung der Macht ihrer Fäuste über. 
+  Und jetzt, sich zusammenrottend, wütet sie mit Mord und Vertreibung 
+  und eignet sich den Besitz der anderen an, 
+  bis sie völlig verwildert in die Gewalt eines unumschränkten Diktators gerät. 
+
+266. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XI. DIE WEISSE WELTREVOLUTION (S.64)
+  Es ist der Standpunkt von Proleten und Parvenüs, 
+  die im tiefsten Grunde derselbe Typus sind, 
+  dieselbe Pflanze des großstädtischen Pflasters, 
+  vom Dieb und Agitator der Gasse bis zum Spekulanten der Börse 
+  und der Parteipolitik. 
+
+267. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XI. DIE WEISSE WELTREVOLUTION (S.66)
+  Es ist intellektuelle Dummheit, 
+  den durch Jahrhunderte herangewachsenen 
+  und durch Tradition gefestigten Bau der Gesellschaft 
+  durch etwas anderes ersetzen zu wollen. 
+  Man ersetzt das Leben nicht durch etwas anderes. 
+  Auf das Leben folgt nur der Tod.
+
+268. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XI. DIE WEISSE WELTREVOLUTION (S.67)
+  Es ist die Hefe der großen Städte, der eigentliche Pöbel, 
+  die Unterwelt in jedem Sinne, die sich überall im bewussten Gegensatz 
+  zur großen und vornehmen Welt bildet und im Hass gegen sie vereinigt: 
+  politische und literarische Boheme,
+  verkommener Adel wie Catilina und Philipp Egalite, 
+  der Herzog von Orleans, 
+  gescheiterte Akademiker, Abenteurer und Spekulanten, 
+  Verbrecher und Dirnen, Tagediebe, Schwachsinnige, 
+  untermischt mit ein paar traurigen Schwärmern 
+  für irgendwelche abstrakten Ideale.
+  Ein verschwommenes Rachegefühl für irgendein Pech, 
+  das ihnen das Leben verdarb, 
+  die Abwesenheit aller Instinkte für Ehre und Pflicht 
+  und ein hemmungsloser Durst nach Geld ohne Arbeit 
+  und Rechten ohne Pflichten führen sie zusammen.
+
+269. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XI. DIE WEISSE WELTREVOLUTION (S.68,69)
+  So entsteht der Nihilismus, 
+  der abgründige Hass des Proleten gegen die überlegene Form jeder Art, 
+  gegen die Kultur als deren Inbegriff, 
+  gegen die Gesellschaft als deren Träger und geschichtliches Ergebnis. 
+  ...
+  Nicht nur Tradition und Sitte, sondern jede Art von verfeinerter Kultur, 
+  Schönheit, Grazie, der Geschmack sich zu kleiden, 
+  die Sicherheit der Umgangsformen, 
+  die gewählte Sprache, 
+  die beherrschte Haltung des Körpers, die Erziehung und Selbstzucht verrät, 
+  reizen das gemeine Empfinden bis aufs Blut.
+
+270. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XII. DIE WEISSE WELTREVOLUTION (S.71)
+  Ich spreche vom Besitzen, insofern es die Tradition einer Kultur in sich hat. 
+  Es bedeutet innere Überlegenheit; 
+  es zeichnet vor ganzen Klassen von Menschen aus. 
+  Es gehört nicht viel dazu: 
+  Ein kleiner gut gehaltener Bauernhof, 
+  ein tüchtiges Handwerk von gutem Ruf, 
+  ein winziger Garten, dem man die Liebe ansieht, mit der er gepflegt wird, 
+  das saubere Haus eines Bergmannes, 
+  ein paar Bücher oder Nachbildungen alter Kunst. 
+  Worauf es ankommt ist, 
+  dass man diese Dinge in eine persönliche Welt verwandelt, 
+  mit seiner Persönlichkeit durchdringt. 
+  Echter Besitz ist Seele und erst insofern echte Kultur. 
+  Ihn auf seinen Geldwert hin abzuschätzen ist irgendwie ein Missverständnis 
+  oder eine Entweihung. 
+  Ihn nach dem Tode des Besitzers zu teilen ist eine Art Mord.
+
+271. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XI. DIE WEISSE WELTREVOLUTION (S.74)
+  Es werden Gegensätze zwischen reich und arm geschaffen, 
+  um zwischen ihnen den Kampf zu eröffnen. 
+  Man will »alles« haben, was da ist, was sich zu Geld machen lässt, 
+  durch Verteilung oder Gemeinbesitz, 
+  und zerstören, was man nicht haben kann, 
+  damit es die anderen nicht weiter besitzen.
+
+272. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIII. DIE WEISSE WELTREVOLUTION (S.78)
+  Deshalb werden diese Freiheiten
+  - auch das allgemeine Wahlrecht gehört dazu - 
+  in dem Augenblick wieder bekämpft, 
+  beseitigt und in ihr Gegenteil verkehrt, 
+  wo sie ihren Zweck erfüllt 
+  und ihren Nutznießern die Gewalt in die Hände gegeben haben,
+
+273. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIII. DIE WEISSE WELTREVOLUTION (S.82)
+  Deshalb haben in Deutschland 
+  von 1918 bis in die Jahre der großen Arbeitslosigkeit hinein 
+  die regierenden Gewerkschaftsparteien sich wohl gehütet, 
+  zwischen Arbeitslosen und Arbeitsscheuen 
+  einen gesetzlichen Unterschied entstehen zu lassen. 
+  Damals hat neben der Unterstützung angeblicher Arbeitslosigkeit 
+  ein Mangel an Arbeitern bestanden, vor allem auf dem Lande, 
+  und niemand wollte das ernstlich verhindern. 
+  Die Krankenkassen wurden von Tausenden missbraucht, 
+  um der Arbeit aus dem Wege zu gehen. 
+  Die Arbeitslosigkeit 
+  ist in ihren Anfängen vom Marxismus geradezu gezüchtet worden. 
+  Der Begriff des Proletariers schließt die Freude an der Arbeit aus. 
+  Ein Arbeiter, der etwas kann und stolz auf seine Leistung ist, 
+  empfindet sich nicht als Proletarier. 
+  Er hindert die revolutionäre Bewegung. 
+  Er muss proletarisiert, demoralisiert werden, 
+  um für sie brauchbar zu sein.
+
+274. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIII. DIE WEISSE WELTREVOLUTION (S.85)
+  Hier wird der Journalismus zum herrschenden Ausdruck der Zeit erhoben. 
+  Es ist der kritische esprit des 18. Jahrhunderts, 
+  zum Gebrauch für geistig Mittelmäßige verdünnt und verflacht, 
+  und man vergesse nicht, 
+  dass das griechische krinein scheiden, zerlegen, zersetzen bedeutet. 
+  Drama, Lyrik, Philosophie, sogar Naturwissenschaft und Geschichtsschreibung
+  werden Leitartikel und Feuilleton, 
+  mit einer maßlosen Tendenz gegen alles, 
+  was konservativ ist und einmal Ehrfurcht eingeflößt hat.
+
+275. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIII. DIE WEISSE WELTREVOLUTION (S.87)
+  Niemand denkt mehr an den Bauern wenig fruchtbarer Landstriche, 
+  seine Missernten, die Gefahren von Hagel und Frost, 
+  die Sorge um den Verkauf seiner Erzeugnisse, 
+  an das elende Leben armer Handwerker in Gebieten mit starker Industrie, 
+  an die Tragödien kleiner Kaufleute, Hochseefischer, Erfinder, Ärzte, 
+  die in Angst und Gefahr um jeden Bissen täglichen Brotes ringen müssen 
+  und die zu Tausenden unbeachtet zugrunde gehen. 
+
+276. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIV. DIE WEISSE WELTREVOLUTION (S.93)
+  Der andere, »weltliche«, realpolitische 
+  aber will durch seine Anhänger entweder aus Neid und Rache 
+  die Gesellschaft zertrümmern, 
+  weil sie ihnen auf Grund ihrer Persönlichkeit und ihrer Talente 
+  einen niedrigen Platz anweist, 
+  oder durch irgendein Programm die Massen hinter sich bringen, 
+  um seinen Willen zur Macht zu befriedigen. 
+  Aber auch das verbirgt sich gern hinter dem Mantel einer Religion.
+
+277. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIV. DIE WEISSE WELTREVOLUTION (S.99)
+  Jedes Ideal stammt von einem, der es nötig hat. 
+  Das Ideal des liberalen wie des bolschewistischen Klassenkampfes 
+  ist die Schöpfung von Leuten, 
+  die entweder ohne Erfolg in eine höhere Gesellschaftsschicht strebten 
+  oder die sich in einer befanden, 
+  deren ethischen Ansprüchen sie nicht gewachsen waren. 
+  Marx ist ein gescheiterter Bürger - daher sein Hass gegen das Bürgertum. 
+  Und dasselbe gilt von all den anderen 
+  Juristen, Literaten, Professoren und Priestern: 
+  sie hatten einen Beruf gewählt, zu dem sie nicht berufen waren. 
+  Das ist die seelische Voraussetzung des Berufsrevolutionärs.
+
+278. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIV. DIE WEISSE WELTREVOLUTION (S.99,100)
+  Der Neid ist der schiefe Blick von unten hinauf zu etwas Höherem, 
+  das unverstanden und unerreichbar bleibt 
+  und das man deshalb herabziehen, zu seinesgleichen machen, 
+  beschmutzen und verachten möchte. 
+  Zum Wunschbild der proletarischen Zukunft 
+  gehört deshalb nicht nur das Glück der meisten, 
+  das im vergnüglichen Nichtstun besteht 
+  - noch einmal: panem et circenses! -, 
+  und der ewige Friede, 
+  um es frei von aller Sorge und Verantwortung zu genießen, 
+  sondern mit echt revolutionärem Geschmack 
+  vor allem das Unglück der »wenigen«, 
+  der ehemals Mächtigen, Klugen, Vornehmen und Reichen, 
+  an dessen Anblick man sich weidet.
+
+279. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIV. DIE WEISSE WELTREVOLUTION (S.100,101)
+  Der Händler ist aber nur Vermittler. 
+  Er setzt das Wirtschaftsleben selbst voraus, 
+  indem er seine Tätigkeit zu dessen Schwerpunkt zu machen sucht, 
+  von dem alle anderen Menschen in der Rolle von Erzeugern 
+  und Verbrauchern abhängig sind. 
+  Diese Machtstellung hat Adam Smith beschrieben. 
+  Das ist seine »Wissenschaft«. 
+  Deshalb geht die Nationalökonomie 
+  bis zum heutigen Tage vom Begriff des Preises aus 
+  und sieht statt des wirtschaftlichen Lebens und tätiger Menschen 
+  nur Waren und Märkte.
+  ...
+  Es dauert nicht lange und man hat den Bauern und Handwerker ganz vergessen 
+  und denkt wie Marx bei der Zerlegung der Menschen in Klassen 
+  nur noch an den Lohnarbeiter und - die andern, die »Ausbeuter«.
+
+280. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIV. DIE WEISSE WELTREVOLUTION (S.101)
+  So entsteht die künstliche Zweiteilung der »Menschheit« 
+  in Erzeuger und Abnehmer, 
+  die sich unter den Händen der Klassenkampftheoretiker 
+  in den perfiden Gegensatz von Kapitalisten und Proletariern, 
+  von Bourgeoisie und Arbeiterschaft, 
+  von Ausbeutern und Ausgebeuteten verwandelt hat. 
+  Den Händler aber, den eigentlichen »Kapitalisten«, hat man verschwiegen. 
+  Der Fabrikbesitzer und der Landwirt ist der sichtbare Feind, 
+  weil er die Lohnarbeit entgegennimmt und den Lohn zahlt. 
+  Das ist sinnlos, aber wirksam. 
+  Die Dummheit einer Theorie war nie ein Hindernis für ihre Wirkung.
+
+281. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XIV. DIE WEISSE WELTREVOLUTION (S.101)
+  Der »Kapitalismus von unten« 
+  bezeichnet den erarbeiteten Besitz der Begabten und Überlegenen 
+  als Diebstahl, 
+  um ihn sich durch die größere Zahl der Fäuste ohne Arbeit aneignen zu können. 
+
+282. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XV. DIE WEISSE WELTREVOLUTION (S.108)
+  Die geistige Arbeit ist überhaupt nicht nach der Stundenzahl zu begrenzen. 
+  Sie verfolgt und tyrannisiert ihre Opfer während der Erholung, 
+  auf Reisen und in schlaflosen Nächten; 
+  sie macht ein wirkliches Freisein vom Nachdenken, 
+  ein Ab- und Ausspannen unmöglich 
+  und verbraucht gerade die überlegenen Exemplare vor der Zeit.
+
+283. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XV. DIE WEISSE WELTREVOLUTION (S.113)
+  Die Sucht des Versichertseinwollens 
+  - gegen Alter, Unfall, Krankheit, Erwerbslosigkeit, 
+  also gegen das Schicksal in jeder denkbaren Erscheinungsform, 
+  ein Zeichen sinkender Lebenskraft - 
+  hat sich von Deutschland ausgehend 
+  im Denken aller weißen Völker irgendwie eingenistet. 
+  Wer ins Unglück gerät, schreit nach den andern, 
+  ohne sich selbst helfen zu wollen. 
+
+284. Oswald Spengler, Jahre der Entscheidung - Teil 1
 DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
 XVI. DIE WEISSE WELTREVOLUTION (S.115)
   In einer sozialistischen Zeitung las ich einmal,
@@ -2693,7 +3157,227 @@ XVI. DIE WEISSE WELTREVOLUTION (S.115)
   Man ärgert sich über die wirklich schöpferische Arbeit,
   man hasst ihre Erfolge, ob sie nun in Macht oder Reichtum bestehen.
 
-248. Oswald Spengler, Jahre der Entscheidung - Teil 1
+285. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVI. DIE WEISSE WELTREVOLUTION (S.116,117)
+  Den Luxuslöhnen entspricht nun einmal kein verfeinertes Luxusbedürfnis. 
+  Es ist allein die Kaufkraft der höheren Gesellschaft, 
+  welche eine Qualitätsindustrie möglich macht. 
+  Die niederen Schichten ernähren nur eine Vergnügungsindustrie, 
+  »circenses«, heute wie im alten Rom. 
+
+286. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVI. DIE WEISSE WELTREVOLUTION (S.118)
+  Deshalb wurden um 1850 in England die Kornzölle aufgehoben 
+  - eine verschleierte Lohnerhöhung also - 
+  und damit der Bauer dem Arbeiter geopfert, 
+  was seitdem überall versucht oder durchgeführt worden ist, 
+  zum Teil mit der absurden nationalökonomischen Begründung von Bankiers 
+  und ähnlichen »Sachverständigen«, 
+  dass man die Welt in Agrar- und Industrieländer aufteilen müsse, 
+  um eine zweckmäßige Organisation der »Weltwirtschaft« zu erreichen. 
+
+
+287. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVI. DIE WEISSE WELTREVOLUTION (S.119)
+  Eine Folge dieser Wirkungen des Klassenkampfes 
+  war der steigende Bedarf der produktiven Wirtschaft an »Kredit«, 
+  an »Kapital«, also an eingebildeten Geldwerten, 
+  die nur so lange vorhanden sind, als man an ihre Existenz glaubt, 
+  und die sich bei dem geringsten Zweifel in Form eines Börsenkrachs 
+  in nichts auflösen. 
+  Es war der verzweifelte Versuch, 
+  zerstörte echte Werte durch Wertphantome zu ersetzen. 
+  Die Blütezeit einer neuen, hinterlistigen Art von Banken begann, 
+  welche die Unternehmungen finanzierten und damit ihre Herren wurden. 
+  Sie gaben nicht nur Kredit, sondern sie erzeugten ihn auf dem Papier 
+  als gespenstisches, heimatlos schweifendes Finanzkapital.
+
+288. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVI. DIE WEISSE WELTREVOLUTION (S.121)
+  In immer rascherem Tempo 
+  wird alter Familienbesitz in Aktiengesellschaften umgewandelt, 
+  beweglich gemacht, um mit dem so erlangten Geld 
+  die Lücken im Kreislauf von Ausgabe und Einnahme zu füllen. 
+  Die Verschuldung der erzeugenden Wirtschaft 
+  - denn zuletzt sind Aktien nichts als eine Schuld - 
+  wuchs ins Ungeheure,
+
+289. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVI. DIE WEISSE WELTREVOLUTION (S.122)
+  Die Zerstreuung der abendländischen Industrie ist seit 1900 in vollem Gang. 
+  Die Spinnereien Indiens 
+  sind als Filialen der englischen Fabriken gegründet worden, 
+  um »dem Verbraucher näher zu sein«. 
+  So war es ursprünglich gemeint, 
+  aber die Luxuslöhne Westeuropas haben eine ganz andere Wirkung hervorgebracht. 
+  ...
+  Die Flucht der hoch entwickelten Verfahren zu den Farbigen schreitet fort 
+  und die weißen Luxuslöhne beginnen Theorie zu werden, 
+  da die dafür angebotene Arbeit nicht mehr gebraucht wird.
+
+290. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVII. DIE WEISSE WELTREVOLUTION (S.123)
+  Ein verhängnisvoller, flacher, fast verbrecherischer Optimismus 
+  - der Glaube an den unentwegten Fortschritt, der sich in Ziffern aussprach - 
+  beherrschte Arbeiterführer und Wirtschaftsführer, 
+  um von Politikern ganz zu schweigen, 
+  unterstützt von der krankhaften Aufblähung des fiktiven Finanzkapitals, 
+  das alle Welt für wirklichen Besitz, wirkliche, unzerstörbare Geldwerte hielt. 
+  Aber schon um 1910 erhoben sich einzelne Stimmen, die daran erinnerten, 
+  dass die Welt im Begriff sei, mit Erzeugnissen der Industrie 
+  einschließlich der industrialisierten Großlandwirtschaft 
+  übersättigt zu werden.
+
+291. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVII. DIE WEISSE WELTREVOLUTION (S.125)
+  Die Industrie flüchtet sich zu den Farbigen, und in den weißen Ländern
+  machen sich nur noch die Handarbeit sparenden Erfindungen
+  und Methoden bezahlt, weil sie den Druck der Löhne mindern.
+  ...
+  Und dazu kommt die Einebnung der vornehmen Gesellschaft 
+  der weißen Völker mit ihrem ererbten Reichtum, 
+  ihrem langsam herangebildeten Geschmack, 
+  ihrem als Vorbild wirkenden Bedürfnis nach echtem Luxus.
+
+292. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVII. DIE WEISSE WELTREVOLUTION (S.126,127)
+  Wenn der in führenden Schichten sich sammelnde Reichtum 
+  durch Pöbeleingriffe vernichtet, 
+  wenn er verdächtig, geächtet und den Besitzern gefährlich wird, 
+  hört der nordische Wille zum Erwerb von Besitz, 
+  zur Macht durch Besitz auf, welchen zu schaffen. 
+  Der wirtschaftliche - seelische - Ehrgeiz stirbt ab. 
+  Der Wettkampf lohnt sich nicht mehr. 
+  Man sitzt im Winkel, verzichtet und spart 
+  - und am »Sparen«, das immer ein Sparen der Arbeit anderer ist, 
+  geht jede hoch entwickelte Wirtschaft notwendig zugrunde. 
+  Das alles wirkt zusammen.
+  ...
+  Aber inzwischen arbeiten die »Farbigen« billig und lange, 
+  bis an die Grenze ihrer Arbeitskraft, 
+  in Russland unter der Knute, 
+  anderswo aber schon mit dem stillen Bewusstsein der Macht, 
+  die sie damit über die verhassten Weißen, die Herren von heute 
+  - oder von gestern? - in der Hand haben. 
+
+293. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVII. DIE WEISSE WELTREVOLUTION (S.127)
+  Da ist das Schlagwort der »Abschaffung« der Arbeitslosigkeit, 
+  der »Arbeitsbeschaffung« - von überflüssiger und zweckloser Arbeit nämlich, 
+  da es notwendige, ertragreiche und zweckvolle 
+  unter diesen Bedingungen nicht mehr gibt
+
+294. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVII. DIE WEISSE WELTREVOLUTION (S.128)
+  Die Wirtschaft ist kein Reich für sich; 
+  sie ist mit der großen Politik unauflöslich verbunden; 
+  sie ist ohne starke Außenpolitik nicht denkbar 
+  und damit letzten Endes abhängig von der militärischen Macht des Landes, 
+  in dem sie lebt oder stirbt. 
+
+295. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVII. DIE WEISSE WELTREVOLUTION (S.129)
+  Die großen Fragen sind dazu da, 
+  dass bedeutende Köpfe an ihnen zerbrechen. 
+  Wenn man sieht, wie sie überall in der Welt 
+  auf kleine Scheinprobleme herabgezogen, herab gelogen werden, 
+  damit kleine Menschen sich mit kleinen Gedanken 
+  und kleinen Mitteln wichtig tun können.
+
+296. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVII. DIE WEISSE WELTREVOLUTION (S.129)
+  Wir leben in einem der gewaltigsten Zeitalter aller Geschichte 
+  und niemand sieht, niemand begreift das. 
+  Wir erleben einen Vulkanausbruch ohnegleichen. 
+  Es ist Nacht geworden, die Erde zittert 
+  und Lavaströme wälzen sich über ganze Völker hin 
+  - und man ruft nach der Feuerwehr! 
+  Aber daran erkennt man den Pöbel, der Herr geworden ist,
+  ...
+  Die großen Einzelnen sind es, die Geschichte machen.
+
+297. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVIII. DIE WEISSE WELTREVOLUTION (S.133)
+  Was heißt denn »links«? 
+  Schlagworte des vorigen Jahrhunderts wie Sozialismus, Marxismus, Kommunismus 
+  sind veraltet; sie sagen nichts mehr. 
+  Man gebraucht sie, um sich nicht Rechenschaft darüber ablegen zu müssen, 
+  wo man wirklich steht. 
+  ..
+  Links ist die Schwärmerei für Massen überhaupt 
+  als Grundlage der eigenen Macht, der Wille, das Ausgezeichnete einzuebnen, 
+  den Handarbeiter mit dem Volk gleichzusetzen 
+  unter verächtlichen Seitenblicken auf Bauern- und Bürgertum.
+  ..
+  »Links« ist zuletzt und vor allem der Mangel an Achtung vor dem Eigentum.
+
+298. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVIII. DIE WEISSE WELTREVOLUTION (S.137)
+  Die verheerende, enteignende Eigenschaft der Aktienpakete und Beteiligungen, 
+  die Trennung des bloßen »Habens« von der verantwortlichen Führerarbeit 
+  des Unternehmers, der gar nicht mehr weiß, wem eigentlich sein Werk gehört, 
+  ist noch lange nicht genug beachtet worden. 
+  Die produktive Wirtschaft ist zuletzt nichts 
+  als das willenlose Objekt für Börsenmanöver. 
+  Erst mit der Herrschaft der Aktie hat die Börse, 
+  bis dahin ein bloßes Hilfsmittel der Wirtschaft, 
+  die Entscheidung über das Wirtschaftsleben an sich genommen.
+
+299. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVIII. DIE WEISSE WELTREVOLUTION (S.139,140)
+  Die preußische Idee richtet sich gegen den Finanzliberalismus 
+  wie gegen den Arbeitersozialismus. 
+  Jede Art von Masse und Mehrheit, alles was »links« ist, ist ihr verdächtig. 
+  Vor allem richtet sie sich gegen die Schwächung des Staates 
+  und seinen herabwürdigenden Missbrauch für Wirtschaftsinteressen. 
+  Sie ist konservativ und »rechts« 
+  und wächst aus den Urmächten des Lebens hervor. 
+
+300. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVIII. DIE WEISSE WELTREVOLUTION (S.143)
+  Alle Revolutionäre sind humorlos  
+  - daran scheitern sie alle. Kleiner Eigensinn und Mangel an Humor - 
+  das ist die Definition des Fanatismus.
+
+301. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVIII. DIE WEISSE WELTREVOLUTION (S.144)
+  Das eigene Ich macht ihnen keine Beschwerde. 
+  Die Einebnung der Gehirne hat sich vollzogen: 
+  Man versammelt sich »in Masse«, man will »in Masse«, man denkt »in Masse«. 
+  Wer nicht mitdenkt, wer selbst denkt, wird als Gegner empfunden. 
+  Die Masse statt der Gottheit ist nun das, worin sich das träge, dumme, 
+  an allerlei Hemmungen kranke Ich »versenkt«: 
+  Auch das ist »Erlösung«. Es ist beinahe mystisch. 
+  Das wusste man schon 1792. 
+  Es ist das Bedürfnis des Pöbels, mitzulaufen und mitzutun.
+
+302. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XVIII. DIE WEISSE WELTREVOLUTION (S.146)
+  Deutschland vor allem ist keine Insel, 
+  wie die politischen Ideologen meinen, 
+  die an ihm als Objekt ihre Programme verwirklichen möchten. 
+  Es ist nur ein kleiner Fleck in einer großen und gärenden Welt, 
+  allerdings in entscheidender Lage. 
+
+303. Oswald Spengler, Jahre der Entscheidung - Teil 1
 DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
 IXX. DIE FARBIGE WELTREVOLUTION (S.150)
   Es war also möglich, den weißen Völkern, die Leiden und Demütigungen
@@ -2701,7 +3385,158 @@ IXX. DIE FARBIGE WELTREVOLUTION (S.150)
   Seitdem sinnt die tiefe Schlauheit asiatischer Menschen über Mittel nach,
   die dem westeuropäischen Denken unzugänglich und überlegen sind.
 
-249. ZITIERTE TEXTE UND TEXTNACHWEISE
+304. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+IXX. DIE FARBIGE WELTREVOLUTION (S.150)
+  Die weiße Menschheit hat sich in ihrem unbändigen Drang 
+  zur unendlichen Ferne überallhin zerstreut, 
+  über Nord- und Südamerika, Südafrika, Australien 
+  und über zahllose Stützpunkte dazwischen. 
+  Die gelbe, braune, schwarze und rote Gefahr 
+  lauert innerhalb des weißen Machtbereiches, 
+  dringt in die kriegerischen und revolutionären Auseinandersetzungen 
+  zwischen den weißen Mächten ein, beteiligt sich an ihnen 
+  und droht die Entscheidung zuletzt selbst in die Hand zu bekommen.
+
+305. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+IXX. DIE FARBIGE WELTREVOLUTION (S.151)
+  Aber dass die Farbigen der ganzen Welt 
+  in Masse auf europäischem Böden von Weißen gegen Weiße geführt wurden, 
+  die Geheimnisse der modernsten Kriegsmittel 
+  und die Grenzen ihrer Wirkung kennen lernten 
+  und in dem Glauben nach Hause geschickt wurden, 
+  weiße Mächte besiegt zu haben, 
+  das hat ihre Anschauung über die Machtverhältnisse der Erde 
+  von Grund auf verändert. 
+  Sie fühlten ihre gemeinsame Stärke und die Schwäche der andern; 
+  sie begannen die Weißen zu verachten 
+  wie einst Jugurtha das mächtige Rom. 
+  Nicht Deutschland, 
+  das Abendland hat den Weltkrieg verloren, 
+  als es die Achtung der Farbigen verlor.
+
+306. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+IXX. DIE FARBIGE WELTREVOLUTION (S.152)
+  Eine neue, asiatischere Schicht von Regierenden 
+  hat die halbwestliche abgelöst. 
+  Sie wohnt wieder in den Villen und Schlössern rings um Moskau, 
+  hält sich Dienerschaft und wagt es bereits, 
+  einen barbarischen Luxus zu entfalten 
+  im Geschmack der beutereichen Mongolenkhane des 14. Jahrhunderts. 
+  Es gibt einen »Reichtum« in neuer Form, 
+  der sich mit proletarischen Begriffen umschreiben lässt. 
+
+307. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+IXX. DIE FARBIGE WELTREVOLUTION (S.153)
+  Der Soldat ist das einzige Wesen, das in Russland nicht hungert, 
+  und er weiß warum und wie lange. 
+  Diese Macht ist von außen unangreifbar 
+  infolge der geographischen Weite des Reiches, 
+  aber sie greift selbst an. 
+  Sie hat Söldner und Verbündete überall in der Welt, 
+  verkleidet wie sie selbst. 
+  Ihre stärkste Waffe ist die neue, revolutionäre, echt asiatische Diplomatie, 
+  die handelt statt zu verhandeln, 
+  von unten und hinten, durch Propaganda, Mord und Aufstand, 
+  und die damit der großen Diplomatie der weißen Länder weit überlegen ist.
+
+308. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+IXX. DIE FARBIGE WELTREVOLUTION (S.156)
+  Außerdem folgt von Norden und Osten her der islamische Missionar 
+  seinen Spuren mit weit größerem Erfolg. 
+  Wo gestern eine christliche Schule stand, steht morgen eine Moscheehütte. 
+  Der kriegerische, männliche Geist dieser Religion 
+  ist dem Neger verständlicher als die Lehre vom Mitleid, 
+  die ihm nur die Achtung vor den Weißen nimmt; 
+  und vor allem ist der christliche Priester verdächtig, 
+  weil er ein weißes Herrenvolk vertritt, 
+  gegen das sich die islamische Propaganda, 
+  mehr politisch als dogmatisch, mit kluger Entschiedenheit richtet.
+
+309. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XX. DIE FARBIGE WELTREVOLUTION (S.157)
+  Aber wenn hier von Rasse die Rede ist, 
+  so ist das nicht in dem Sinne gemeint, 
+  wie er heute unter Antisemiten in Europa und Amerika Mode ist, 
+  darwinistisch, materialistisch nämlich. 
+
+310. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XX. DIE FARBIGE WELTREVOLUTION (S.157)
+  Rassereinheit ist ein groteskes Wort 
+  angesichts der Tatsache, dass seit Jahrtausenden 
+  alle Stämme und Arten sich gemischt haben, 
+  und dass gerade kriegerische, also gesunde, zukunftsreiche Geschlechter 
+  von jeher gern einen Fremden sich eingegliedert haben, 
+  wenn er »von Rasse« war, gleichviel zu welcher Rasse er gehörte. 
+  Wer zuviel von Rasse spricht, der hat keine mehr. 
+  Es kommt nicht auf die reine,
+  sondern auf die starke Rasse an, die ein Volk in sich hat.
+
+311. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XX. DIE FARBIGE WELTREVOLUTION (S.159)
+  Der Sinn von Mann und Weib geht verloren, der Wille zur Dauer. 
+  Man lebt nur noch für sich selbst, nicht für die Zukunft von Geschlechtern. 
+  Die Nation als Gesellschaft, 
+  ursprünglich das organische Geflecht von Familien, 
+  droht sich von der Stadt her in eine Summe privater Atome aufzulösen, 
+  deren jedes aus seinem und dem fremden Leben 
+  die größtmögliche Menge von Vergnügen - panem et circenses - ziehen will. 
+  Die Frauenemanzipation der Ibsenzeit will nicht die Freiheit vom Mann, 
+  sondern vom Kinde, von der Kinderlast, 
+  und die gleichzeitige Männeremanzipation 
+  die von den Pflichten für Familie, Volk und Staat. 
+  Die gesamte liberal-sozialistische Problemliteratur 
+  bewegt sich um diesen Selbstmord der weißen Rasse. 
+  Es war in allen anderen Zivilisationen ebenso. 
+
+312. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XX. DIE FARBIGE WELTREVOLUTION (S.159)
+  In Afrika werden die Neger bei ihrer ungeheuren Fruchtbarkeit 
+  sich noch gewaltiger vermehren, 
+  seitdem die europäische Medizin dort »eingebrochen« ist 
+  und die starke Auslese durch Krankheiten verhindert. 
+
+313. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XX. DIE FARBIGE WELTREVOLUTION (S.161)
+  Aber dazu kommt die ungeheure Menge 
+  der geistig, seelisch und leiblich Unnormalen jeder Art, 
+  der Hysterischen, Seelen- und Nervenkranken, 
+  die gesunde Kinder weder zeugen noch gebären können. 
+  Ihre Zahl lässt sich nicht erfassen, 
+  aber sie geht aus der Zahl der Ärzte hervor, die davon leben, 
+  und der Masse von Büchern, die darüber geschrieben werden. 
+  Aus solchem Nachwuchs entwickeln sich das revolutionäre Proletariat 
+  mit dem Hass der Schlechtweggekommenen, 
+  und der Salonbolschewismus der Ästheten und Literaten, 
+  die den Reiz solcher Seelenverfassungen genießen und verkünden.
+
+314. Oswald Spengler, Jahre der Entscheidung - Teil 1
+DEUTSCHLAND UND DIE WELTGESCHICHTLICHE ENTWICKLUNG 
+XX. DIE FARBIGE WELTREVOLUTION (S.164)
+  Wir können uns nicht erlauben, müde zu sein. 
+  Die Gefahr pocht an die Tür. Die Farbigen sind nicht Pazifisten. 
+  Sie hängen nicht an einem Leben, dessen Länge sein einziger Wert ist. 
+  Sie nehmen das Schwert auf, wenn wir es niederlegen. 
+  Sie haben den Weißen einst gefürchtet, sie verachten ihn nun. 
+  In ihren Augen steht das Urteil geschrieben, 
+  wenn weiße Männer und Frauen sich vor ihnen so aufführen, 
+  wie sie es tun, zu Hause oder in den farbigen Ländern selbst. 
+  Einst packte sie Entsetzen vor unserer Macht 
+  - wie die Germanen vor den ersten römischen Legionen. 
+  Heute, wo sie selbst eine Macht sind, 
+  reckt sich ihre geheimnisvolle Seele auf, die wir nie verstehen werden, 
+  und sieht auf den Weißen herab wie auf etwas Gestriges.
+
+315. ZITIERTE TEXTE UND TEXTNACHWEISE
   -----------------------------------
   1) Oswald Spengler
    Der Untergang des Abendlandes
