@@ -686,7 +686,7 @@ II. AKT UND PORTRÄT
   Ich sagte, dass die Ölmalerei am Ende des 17. Jahrhunderts, 
   wo alle großen Meister kurz nacheinander starben, erlosch. 
   Aber der Impressionismus im engeren Sinne 
-  ist ja eine   Schöpfung des 19. Jahrhunderts? 
+  ist ja eine Schöpfung des 19. Jahrhunderts? 
   Die Malerei hat also 200 Jahre länger geblüht oder dauert heute noch fort? 
   Man täusche sich nicht. 
   Zwischen Rembrandt und Delacroix oder Constable liegt eine tote Strecke.
@@ -804,7 +804,7 @@ I. ZUR FORM DER SEELE
 77. Oswald Spengler, Der Untergang des Abendlandes - Band 1
 SEELENBILD UND LEBENSGEFÜHL (S.402)
 I. ZUR FORM DER SEELE
-  Daß der Mensch Charakter habe, 
+  Dass der Mensch Charakter habe, 
   ist der Grundanspruch all unsrer ethischen Systeme, 
   so verschieden ihre metaphysischen oder praktischen Formeln sonst lauten mögen. 
   Der Charakter 
@@ -1098,7 +1098,7 @@ II. BUDDHISMUS, STOIZISMUS, SOZIALISMUS
   Erst mit Anbruch der Spätzeit wird die Philosophie städtisch und weltlich.
   ...
   Der städtische Geist wendet sich seinem eigenen Bilde zu, um festzustellen, 
-  daß es für das Wissen keine höhere Instanz gebe als ihn. 
+  dass es für das Wissen keine höhere Instanz gebe als ihn. 
   Deshalb tritt das Denken nunmehr in die Nachbarschaft der höheren Mathematik, 
   und statt der Priester finden wir Leute von Welt,
   Staatsmänner, Kaufherren, Entdecker, 
@@ -1122,7 +1122,7 @@ II. BUDDHISMUS, STOIZISMUS, SOZIALISMUS
 106. Oswald Spengler, Der Untergang des Abendlandes - Band 1
 SEELENBILD UND LEBENSGEFÜHL (S.470)
 II. BUDDHISMUS, STOIZISMUS, SOZIALISMUS
-  Bekanntlich ist Schopenhauer67 nicht von seiner Metaphysik zum Pessimismus,
+  Bekanntlich ist Schopenhauer nicht von seiner Metaphysik zum Pessimismus,
   sondern vom Pessimismus, der ihn in seinem 17. Jahre überfiel, 
   zur Entwicklung seines Systems gekommen.
 
@@ -1373,7 +1373,7 @@ I. DAS KOSMISCHE UND DER MIKROKOSMOS
 130. Oswald Spengler, Der Untergang des Abendlandes - Band 2
 URSPRUNG UND LANDSCHAFT (S.574)
 I. DAS KOSMISCHE UND DER MIKROKOSMOS
-  Daß wir nicht nur leben, sondern um das »Leben« wissen, 
+  Dass wir nicht nur leben, sondern um das »Leben« wissen, 
   ist das Ergebnis jener Betrachtung unseres leibhaften Wesens im Licht. 
   Aber das Tier kennt nur das Leben, nicht den Tod.
   ...
@@ -2147,7 +2147,7 @@ III. PHILOSOPHIE DER POLITIK
 202. Oswald Spengler, Der Untergang des Abendlandes - Band 2
 DER STAAT (S.1120)
 III. PHILOSOPHIE DER POLITIK
-  Daß ein Volk in Verfassung bleibt: 
+  Dass ein Volk in Verfassung bleibt: 
   Vertrauen, Achtung vor der Führung, Machtbewusstsein, Zufriedenheit und, 
   wenn es notwendig wird, Begeisterung. 
   Aber das alles erhält seinen Wert erst im Hinblick auf die Grundtatsache 
@@ -2163,7 +2163,7 @@ III. PHILOSOPHIE DER POLITIK
 203. Oswald Spengler, Der Untergang des Abendlandes - Band 2
 DER STAAT (S.1131)
 III. PHILOSOPHIE DER POLITIK
-  Daß ein Wahlrecht annähernd leistet, was der Idealist sich dabei denkt, 
+  Dass ein Wahlrecht annähernd leistet, was der Idealist sich dabei denkt, 
   setzt voraus, dass es keine organisierte Führerschaft gibt, 
   die in ihrem Interesse und im Maßstabe des verfügbaren Geldes 
   auf die Wähler einwirkt. 
